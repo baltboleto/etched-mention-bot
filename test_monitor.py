@@ -108,16 +108,11 @@ def run():
     print("SLACK PAYLOAD PREVIEW (built, not sent)")
     print("="*74)
     sample = tw("The Sohu chip does 500k tokens/sec on Llama 70B", handle="chipwatcher",
-                name="Chip Watcher", likes=340, rts=88, views=42000, tid="2072...")
+                name="Chip Watcher", likes=340, rts=88, views=42000, tid="2074249196140437865")
     dec, reasons = m.structural(sample)
-    captured = {}
-    orig = m._post_json
-    m._post_json = lambda url, payload, **k: captured.update(payload) or "ok"
-    try:
-        m.post_slack("https://hooks.slack.test/preview", sample, reasons)
-    finally:
-        m._post_json = orig
-    print(json.dumps(captured, indent=2))
+    fb, blocks = m.build_msg(sample, reasons, None, "main")
+    print("fallback:", fb)
+    print(json.dumps({"text": fb, "blocks": blocks}, indent=2))
 
 if __name__ == "__main__":
     run()

@@ -279,7 +279,8 @@ def build_msg(t, reasons, verdict, kind):
     context = f"❤️ {likes}  🔁 {rts}  👁 {views}  |  {name} (@{handle}, {followers} followers)"
     if tag: context += f"  |  _{tag}_"
     blocks = [
-        {"type": "section", "text": {"type": "mrkdwn", "text": f"*<{url}|{header}>*  by *@{handle}*\n>{txt}"}},
+        {"type": "section", "text": {"type": "mrkdwn",
+            "text": f"*{header}* by *<{url}|@{handle}>*\n>{txt}\n<{url}|View tweet on X →>"}},
         {"type": "context", "elements": [{"type": "mrkdwn", "text": context}]},
     ]
     return f"{header} by @{handle}: {url}", blocks
