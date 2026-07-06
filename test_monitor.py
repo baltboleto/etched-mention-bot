@@ -14,7 +14,7 @@ import monitor as m
 
 def tw(text="", handle="someuser", name=None, mentions=None, reply_to=None,
        quoted_by=None, quoted_text="", retweeted_by=None, is_reply=False,
-       likes=12, rts=3, views=900, tid="1"):
+       urls=None, likes=12, rts=3, views=900, tid="1"):
     t = {
         "id": tid, "text": text,
         "author": {"userName": handle, "name": name or handle, "followers": 5000},
@@ -23,8 +23,10 @@ def tw(text="", handle="someuser", name=None, mentions=None, reply_to=None,
         "createdAt": "Sat Jul 05 12:00:00 +0000 2026",
         "isReply": is_reply,
     }
-    if mentions:
-        t["entities"] = {"user_mentions": [{"screen_name": h} for h in mentions]}
+    if mentions or urls:
+        t["entities"] = {}
+        if mentions: t["entities"]["user_mentions"] = [{"screen_name": h} for h in mentions]
+        if urls: t["entities"]["urls"] = [{"expanded_url": u} for u in urls]
     if reply_to:
         t["inReplyToUsername"] = reply_to
     if quoted_by is not None:
@@ -60,6 +62,12 @@ CASES = [
     ("Sohu.com (Chinese co)",        tw("Sohu reports Q2 earnings, stock up 3%"),                           "maybe"),
     ("Sohu bare, no context",        tw("just watched something on Sohu lol"),                             "maybe"),
     ("etched, vague tech-ish",       tw("etched really changing the game huh"),                            "maybe"),
+
+    # ---- NEW: bare-link handling (the Ronaldo class) ----
+    ("bare link -> X-native article", tw("https://t.co/abc", urls=["http://x.com/i/article/2069149931655307264"]), "unresolved"),
+    ("bare link -> external article", tw("https://t.co/xyz", urls=["https://espn.com/soccer/ronaldo-world-cup"]),   "fetch"),
+    ("bare link -> etched.com",       tw("big news https://t.co/qq", urls=["https://etched.com/blog/sohu"]),        "accept"),
+    ("bare link -> etched in slug",   tw("https://t.co/rr", urls=["https://techcrunch.com/2026/07/06/etched-raises-800m/"]), "accept"),
 ]
 
 def run():
