@@ -1,0 +1,39 @@
+name: Etched mention monitor
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"   # every 15 min (GitHub may delay under load; that's fine)
+  workflow_dispatch: {}        # lets you run it manually from the Actions tab
+
+concurrency:
+  group: etched-monitor        # never let two runs overlap
+  cancel-in-progress: false
+
+permissions:
+  contents: write              # so the run can commit updated state.json
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run monitor
+        env:
+          TWAPI_KEY: ${{ secrets.TWAPI_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          SLACK_REVIEW_WEBHOOK_URL: ${{ secrets.SLACK_REVIEW_WEBHOOK_URL }}
+        run: python monitor.py
+
+      - name: Commit updated state
+        run: |
+          git config user.name  "etched-mention-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add state.json
+          git diff --staged --quiet || git commit -m "state: $(date -u +%FT%TZ)"
+          git push
