@@ -82,9 +82,13 @@ FIGURATIVE_RE = re.compile(
     r"memor(?:y|ies)|mind|minds|heart|hearts|soul|souls|brain|bones?|"
     r"histor(?:y|ies)|legacy|folklore|record|records|time|stone|eternity|"
     r"psyche|walls?|skin|layers|writing)\b", re.I)
-STRONG_TEXT_RE = re.compile(r"etched\.(com|ai)|@etched\b", re.I)
-ETCHED_WORD_RE = re.compile(r"\betched\b", re.I)
-SOHU_WORD_RE   = re.compile(r"\bsohu\b", re.I)
+# Match the brand tokens even when wedged against non-Latin scripts (e.g. Chinese/
+# Japanese/Korean have no spaces: "公司Etched宣布"). Lookarounds treat only ASCII
+# letters as "part of a word" — so "sketched"/"wretched" still won't match, but
+# CJK/space/punctuation neighbors do.
+STRONG_TEXT_RE = re.compile(r"etched\.(com|ai)|@etched(?![a-z0-9_])", re.I)
+ETCHED_WORD_RE = re.compile(r"(?<![a-z])etched(?![a-z])", re.I)
+SOHU_WORD_RE   = re.compile(r"(?<![a-z])sohu(?![a-z])", re.I)
 URL_SIGNAL_RE  = re.compile(r"etched\.(com|ai)|/[^ ]*\betched\b|\bsohu[-_]?chip\b", re.I)
 
 # ------------------------------------------------------------------ http helpers

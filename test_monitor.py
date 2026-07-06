@@ -68,6 +68,10 @@ CASES = [
     ("bare link -> external article", tw("https://t.co/xyz", urls=["https://espn.com/soccer/ronaldo-world-cup"]),   "fetch"),
     ("bare link -> etched.com",       tw("big news https://t.co/qq", urls=["https://etched.com/blog/sohu"]),        "accept"),
     ("bare link -> etched in slug",   tw("https://t.co/rr", urls=["https://techcrunch.com/2026/07/06/etched-raises-800m/"]), "accept"),
+
+    # ---- NEW: non-Latin scripts (no spaces around brand tokens) ----
+    ("Chinese Etched+Sohu",          tw("AI芯片初创公司Etched宣布Sohu芯片首次流片成功，累计融资8亿美元"),         "maybe"),
+    ("sketched is NOT etched",       tw("I sketched a wretched little drawing today"),                     "unresolved"),
 ]
 
 def run():
