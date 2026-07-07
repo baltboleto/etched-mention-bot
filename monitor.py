@@ -89,7 +89,11 @@ FIGURATIVE_RE = re.compile(
 STRONG_TEXT_RE = re.compile(r"etched\.(com|ai)|@etched(?![a-z0-9_])", re.I)
 ETCHED_WORD_RE = re.compile(r"(?<![a-z])etched(?![a-z])", re.I)
 SOHU_WORD_RE   = re.compile(r"(?<![a-z])sohu(?![a-z])", re.I)
-URL_SIGNAL_RE  = re.compile(r"etched\.(com|ai)|/[^ ]*\betched\b|\bsohu[-_]?chip\b", re.I)
+# ONLY the real company domain is an auto-accept signal from a URL. A link whose
+# path merely contains the word "etched" (e.g. a news slug like
+# ".../legacy-etched-forever-...") is NOT — that word is common in headlines, so
+# those go to the judge (via fetch+judge), never a blind accept.
+URL_SIGNAL_RE  = re.compile(r"\betched\.(com|ai)\b", re.I)
 
 # ------------------------------------------------------------------ http helpers
 def _get_json(url, headers, retries=4):

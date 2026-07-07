@@ -67,7 +67,11 @@ CASES = [
     ("bare link -> X-native article", tw("https://t.co/abc", urls=["http://x.com/i/article/2069149931655307264"]), "unresolved"),
     ("bare link -> external article", tw("https://t.co/xyz", urls=["https://espn.com/soccer/ronaldo-world-cup"]),   "fetch"),
     ("bare link -> etched.com",       tw("big news https://t.co/qq", urls=["https://etched.com/blog/sohu"]),        "accept"),
-    ("bare link -> etched in slug",   tw("https://t.co/rr", urls=["https://techcrunch.com/2026/07/06/etched-raises-800m/"]), "accept"),
+    # a real Etched article link no longer BLIND-accepts on the slug — it goes to
+    # fetch+judge (which will confirm & post it). Recall preserved, precision up.
+    ("etched-slug -> fetch+judge",    tw("https://t.co/rr", urls=["https://techcrunch.com/2026/07/06/etched-raises-800m/"]), "fetch"),
+    # regression: the lion false positive. "etched" in a news slug, zero company link.
+    ("lion slug (was false pos)",     tw("Gir's lions: legacy etched forever", urls=["https://navjeevanexpress.com/girs-immortal-kings-jay-veerus-legacy-etched-forever-asias-lion-habitat/"]), "reject"),
 
     # ---- NEW: non-Latin scripts (no spaces around brand tokens) ----
     ("Chinese Etched+Sohu",          tw("AI芯片初创公司Etched宣布Sohu芯片首次流片成功，累计融资8亿美元"),         "maybe"),
