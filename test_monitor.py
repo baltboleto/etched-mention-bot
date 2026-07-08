@@ -64,7 +64,9 @@ CASES = [
     ("etched, vague tech-ish",       tw("etched really changing the game huh"),                            "maybe"),
 
     # ---- NEW: bare-link handling (the Ronaldo class) ----
-    ("bare link -> X-native article", tw("https://t.co/abc", urls=["http://x.com/i/article/2069149931655307264"]), "unresolved"),
+    # X-native links (X Articles, linked tweets) now resolve via FxTwitter
+    ("bare link -> X-native article", tw("https://t.co/abc", urls=["http://x.com/i/article/2069149931655307264"]), "fetch_x"),
+    ("bare link -> another tweet",    tw("https://t.co/def", urls=["https://x.com/somebody/status/123456789"]),     "fetch_x"),
     ("bare link -> external article", tw("https://t.co/xyz", urls=["https://espn.com/soccer/ronaldo-world-cup"]),   "fetch"),
     ("bare link -> etched.com",       tw("big news https://t.co/qq", urls=["https://etched.com/blog/sohu"]),        "accept"),
     # a real Etched article link no longer BLIND-accepts on the slug — it goes to
@@ -75,7 +77,7 @@ CASES = [
 
     # ---- NEW: non-Latin scripts (no spaces around brand tokens) ----
     ("Chinese Etched+Sohu",          tw("AI芯片初创公司Etched宣布Sohu芯片首次流片成功，累计融资8亿美元"),         "maybe"),
-    ("sketched is NOT etched",       tw("I sketched a wretched little drawing today"),                     "unresolved"),
+    ("sketched is NOT etched",       tw("I sketched a wretched little drawing today"),                     "fetch_x"),
 ]
 
 def run():
@@ -92,6 +94,45 @@ def run():
         print(f"[{flag}] {label:28s} -> {decision:7s} (want {expected}){rsn}")
     print("-"*74)
     print(f"{passed}/{len(CASES)} cases correct\n")
+
+    # ---- X-native resolution (mocked FxTwitter, no network) ----
+    print("="*74)
+    print("X-ARTICLE RESOLUTION TEST (mocked FxTwitter)")
+    print("="*74)
+    def fake_get(url, headers, retries=4):
+        if url.endswith("/status/111"):          # own tweet carries an X Article
+            return {"tweet": {"text": "https://t.co/abc", "article": {
+                "title": "AI Engineer World's Fair 2026 Wrapped",
+                "preview_text": "short preview",
+                "content": {"blocks": [
+                    {"text": "Latent Space Live Podcast with Etched"},
+                    {"text": "Etched is building frontier inference clusters."}]}}}}
+        if url.endswith("/status/999"):          # linked tweet, plain text, no article
+            return {"tweet": {"text": "Sohu chip racks ship this summer", "article": None}}
+        raise RuntimeError("unexpected url " + url)
+    orig = m._get_json
+    m._get_json = fake_get
+    try:
+        art_txt = m.fetch_x_native_text({"id": "111"}, "http://x.com/i/article/222")
+        link_txt = m.fetch_x_native_text({"id": "333"}, "https://x.com/somebody/status/999")
+    finally:
+        m._get_json = orig
+    # deep-mention excerpt: brand name 10k chars in must survive for the judge
+    long_page = "blah word " * 1000 + " The startup Etched makes the Sohu inference chip. " + "more filler " * 800
+    ex = m.relevant_excerpt(long_page, 3500)
+    checks = [
+        ("article title + body extracted", art_txt is not None and "World's Fair" in art_txt
+                                           and "frontier inference clusters" in art_txt),
+        ("article text triggers keyword",  art_txt is not None and bool(m.ETCHED_WORD_RE.search(art_txt))),
+        ("linked tweet text extracted",    link_txt is not None and "Sohu chip racks" in link_txt),
+        ("deep mention survives excerpt",  len(ex) <= 3600 and "startup Etched" in ex and "Sohu inference" in ex),
+    ]
+    xr_passed = 0
+    for label, ok in checks:
+        xr_passed += ok
+        print(f"[{'PASS' if ok else 'FAIL'}] {label}")
+    print("-"*74)
+    print(f"{xr_passed}/{len(checks)} resolution checks correct\n")
 
     # ---- Tier B routing simulation (thresholds live in main()) ----
     print("="*74)

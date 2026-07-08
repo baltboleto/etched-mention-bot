@@ -11,7 +11,8 @@ Detection is TIERED for high precision (only the chip company) AND high recall:
   clear non-tech "etched"     -> drop cheaply                (regex, no LLM)
   bare link, no visible signal -> RESOLVE it:
         external page  -> fetch the article, judge its real content
-        X-native page  -> can't read it -> send to review (never guess)
+        X-native page  -> read it via FxTwitter (X Articles + linked tweets), judge that;
+                          only if unreadable -> review (never guess)
   ambiguous everything else   -> Claude Haiku judges         (relevant? confidence?)
 
 Routing:
@@ -147,7 +148,7 @@ def fetch_url_text(url):
         t = re.sub(r"(?is)<(script|style|noscript|template).*?</\1>", " ", t)
         t = re.sub(r"(?s)<[^>]+>", " ", t)
         t = re.sub(r"\s+", " ", html.unescape(t)).strip()
-        return (final, t[:4000])
+        return (final, t[:40_000])   # keep enough that a deep mention isn't cut off
     except Exception:
         return (None, None)
 
@@ -195,10 +196,64 @@ def _is_x_native(url):
     host = urllib.parse.urlparse(url).netloc.lower()
     return any(h == host or host.endswith("." + h) for h in ("x.com", "twitter.com"))
 
+X_STATUS_ID_RE = re.compile(r"(?:x\.com|twitter\.com)/[^/?#]+/status/(\d+)", re.I)
+
+def fetch_x_native_text(t, url=""):
+    """Read X-native content that x.com won't serve anonymously (article pages
+    return a JS shell). The public FxTwitter mirror serves the full text of a
+    tweet AND any long-form X Article attached to it. Try the tweet's own id
+    first (covers the common 'author published an X Article' case — the article
+    rides on the tweet), then the id of a linked tweet. Returns text or None;
+    the caller falls back to review, so a FxTwitter outage = old behavior."""
+    ids = [str(t.get("id") or "")]
+    m = X_STATUS_ID_RE.search(url or "")
+    if m and m.group(1) not in ids:
+        ids.append(m.group(1))
+    for tid in ids:
+        if not tid:
+            continue
+        try:
+            d = _get_json(f"https://api.fxtwitter.com/status/{tid}",
+                          {"User-Agent": "EtchedMentionBot/1.0 (+https://etched.com)"}, retries=2)
+        except Exception:
+            continue
+        tw = (d or {}).get("tweet") or {}
+        parts = []
+        art = tw.get("article") or {}
+        if art:
+            blocks = ((art.get("content") or {}).get("blocks")) or []
+            body = " ".join(b.get("text", "") for b in blocks if isinstance(b, dict)).strip()
+            parts += [art.get("title") or "", body or art.get("preview_text") or ""]
+        if tid != str(t.get("id") or ""):
+            parts.append(tw.get("text") or "")   # a linked tweet's text is new info; our own isn't
+        text = " ".join(p for p in parts if p).strip()
+        if text:
+            return text[:40_000]   # X articles run 10-40k chars; don't cut the mention off
+    return None
+
+def relevant_excerpt(text, limit=3500):
+    """What the judge reads for resolved pages. Long articles bury the brand
+    mention (often 10k+ chars in), so a blind head-truncation can cut it out
+    entirely. Return the lede plus a window around every etched/sohu hit."""
+    if not text or len(text) <= limit:
+        return text
+    hits = sorted(mt.start() for rx in (ETCHED_WORD_RE, SOHU_WORD_RE)
+                  for mt in rx.finditer(text))
+    parts, prev_end = [text[:800]], 800
+    used = 800
+    for pos in hits:
+        s, e = max(pos - 300, prev_end), min(pos + 400, len(text))
+        if s >= e:
+            continue
+        if used + (e - s) > limit:
+            break
+        parts.append(text[s:e]); used += e - s; prev_end = e
+    return " … ".join(parts)
+
 # ------------------------------------------------------------------ tiered classifier
 def structural(t):
     """Return (decision, extra) where decision is
-    accept | reject | maybe | fetch | unresolved.  For 'fetch', extra=[url]."""
+    accept | reject | maybe | fetch | fetch_x.  For 'fetch'/'fetch_x', extra=[url]."""
     reasons, txt = [], t.get("text") or ""
     ms = mentions(t)
     urls = expanded_urls(t)
@@ -227,7 +282,10 @@ def structural(t):
     ext = [u for u in urls if not _is_x_native(u)]
     if ext:
         return "fetch", [ext[0]]
-    return "unresolved", []          # X-native/unreadable link -> review, never guess
+    # X-native (or no) link: x.com can't be fetched directly, but X Articles
+    # and linked tweets can be read via FxTwitter -> fetch_x. If that fails,
+    # main() sends it to review — never guess.
+    return "fetch_x", urls[:1]
 
 def judge(t, content=None):
     """Ask Claude Haiku with structured outputs (guaranteed JSON).
@@ -236,7 +294,9 @@ def judge(t, content=None):
         return None
     author = ((t.get("author") or {}).get("userName")) or "unknown"
     if content:
-        user = f"Author: @{author}\nThe tweet is just a link. Content of the linked page:\n{content[:3500]}"
+        user = (f"Author: @{author}\nThe tweet is just a link. "
+                f"Content of the linked page / X article (may be excerpted around "
+                f"brand-keyword hits):\n{relevant_excerpt(content, 3500)}")
     else:
         txt = (t.get("text") or "").strip()
         quoted = t.get("quoted_tweet") or {}
@@ -364,15 +424,16 @@ def main():
             continue
         if d == "accept":
             to_main.append((t, extra, None)); continue
-        if d == "unresolved":
-            to_review.append((t, ["unresolved_link"], None)); continue
         if d == "maybe":
             judge_queue.append((t, None, "judge")); continue
-        if d == "fetch":
+        if d in ("fetch", "fetch_x"):
             if fetches >= MAX_FETCH:
                 to_review.append((t, ["fetch_cap"], None)); continue
             fetches += 1
-            _, content = fetch_url_text(extra[0] if extra else "")
+            if d == "fetch":
+                _, content = fetch_url_text(extra[0] if extra else "")
+            else:
+                content = fetch_x_native_text(t, extra[0] if extra else "")
             if content and (ETCHED_WORD_RE.search(content) or SOHU_WORD_RE.search(content)):
                 judge_queue.append((t, content, "link"))
             else:
