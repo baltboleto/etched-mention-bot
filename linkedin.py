@@ -36,11 +36,65 @@ QUERIES = ["etched", "Gavin Uberti", "Robert Wachen"]
 MAX_POSTS_PER_QUERY = 100      # cost ceiling per query per run
 MAX_JUDGE_CALLS = 200
 WIDE_WINDOW_AFTER = 2 * 3600   # widen 1h -> 24h when the last run is older than this
+LOW_CREDIT_USD  = 1.00         # below this, stamp a warning on every Slack message
+DEAD_CREDIT_USD = 0.10         # below this, don't scrape; alert once a day instead
 
 # posts BY our own page aren't mentions (Baltazar writes those)
 OWN_PAGES = {"etched", "etchedai", "etched-ai"}
 
 # ------------------------------------------------------------------ apify
+def pick_window(gap_seconds):
+    """Search window per gap since the last successful run. Widens so cron lag
+    and credit-exhaustion pauses self-heal without losing mentions."""
+    if gap_seconds > 7 * 24 * 3600:
+        return "month"
+    if gap_seconds > 24 * 3600:
+        return "week"
+    if gap_seconds > WIDE_WINDOW_AFTER:
+        return "24h"
+    return "1h"
+
+def apify_credit():
+    """Return {plan, max, used, remaining, resets} or None if the check fails.
+    Only the FREE plan can hard-stop mid-month (paid plans bill overage), so
+    the caller skips all warnings on paid plans."""
+    try:
+        me = mon._get_json(f"https://api.apify.com/v2/users/me?token={APIFY_TOKEN}", {}, 2)["data"]
+        lim = mon._get_json(f"https://api.apify.com/v2/users/me/limits?token={APIFY_TOKEN}", {}, 2)["data"]
+        mx = float(lim["limits"]["maxMonthlyUsageUsd"])
+        used = float(lim["current"]["monthlyUsageUsd"])
+        return {"plan": (me.get("plan") or {}).get("id", ""), "max": mx, "used": used,
+                "remaining": max(0.0, mx - used),
+                "resets": (lim.get("monthlyUsageCycle") or {}).get("endAt", "")[:10]}
+    except Exception as e:
+        print(f"  [credit check error] {e}", flush=True)
+        return None
+
+def credit_warning(credit):
+    """Warning line for Slack messages when the free credit is running low."""
+    if not credit or credit["plan"] != "FREE" or credit["remaining"] >= LOW_CREDIT_USD:
+        return None
+    return (f":warning: *Apify credit low: ${credit['remaining']:.2f} of ${credit['max']:.0f} left* — "
+            f"LinkedIn monitoring stops when it hits $0 (credit resets {credit['resets']}). "
+            f"Upgrade: https://console.apify.com/billing")
+
+def paused_alert(state, credit, dry=False):
+    """Once per UTC day while out of credit: tell the channel monitoring is off."""
+    date = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%d")
+    if state.get("paused_alert_date") == date:
+        return
+    text = (f":rotating_light: *LinkedIn mention monitoring is PAUSED — Apify credit exhausted* "
+            f"(${credit['used']:.2f} of ${credit['max']:.0f} used; resets {credit['resets']}).\n"
+            f"LinkedIn mentions are NOT being collected right now. To resume, upgrade the Apify plan: "
+            f"https://console.apify.com/billing — when it's back, I'll catch up on missed posts "
+            f"(up to a week). X/Twitter monitoring is unaffected. This reminder repeats daily until fixed.")
+    if dry:
+        print(f"[paused alert would post] {text}", flush=True)
+    else:
+        mon.slack_webhook(mon.SLACK_MAIN, "LinkedIn monitoring paused — Apify credit exhausted",
+                          [{"type": "section", "text": {"type": "mrkdwn", "text": text}}])
+    state["paused_alert_date"] = date
+
 def li_search(posted_limit):
     payload = {"searchQueries": QUERIES, "maxPosts": MAX_POSTS_PER_QUERY,
                "sortBy": "date", "postedLimit": posted_limit,
@@ -118,7 +172,7 @@ def judge_li(item):
         return None
 
 # ------------------------------------------------------------------ slack
-def build_msg_li(item, reasons, verdict, kind):
+def build_msg_li(item, reasons, verdict, kind, warn=None):
     txt = text_of(item)
     if len(txt) > 700: txt = txt[:697] + "..."
     a = item.get("author") or {}
@@ -140,6 +194,8 @@ def build_msg_li(item, reasons, verdict, kind):
             "text": f"*{header}* by *<{url}|{name}>*\n>{txt}\n<{url}|View post on LinkedIn →>"}},
         {"type": "context", "elements": [{"type": "mrkdwn", "text": context}]},
     ]
+    if warn:
+        blocks.append({"type": "context", "elements": [{"type": "mrkdwn", "text": warn}]})
     return f"{header} by {name}: {url}", blocks
 
 def review_anchor_ts_li(state):
@@ -177,7 +233,20 @@ def main():
     seen = set(state.get("seen_ids", []))
     now = int(time.time())
     gap = now - (state.get("last_run_epoch") or 0)
-    posted_limit = "24h" if gap > WIDE_WINDOW_AFTER else "1h"
+    posted_limit = pick_window(gap)
+
+    # 0) credit guard: on the FREE plan the scrape hard-fails at $0, so don't
+    #    burn the last cents — pause loudly (daily Slack alert) instead.
+    #    last_run_epoch is NOT advanced while paused, so the window keeps
+    #    widening and the catch-up scrape on revival misses nothing (<=1 week).
+    credit = apify_credit()
+    if credit and credit["plan"] == "FREE" and credit["remaining"] < DEAD_CREDIT_USD:
+        print(f"[paused] Apify credit exhausted (${credit['used']:.2f}/${credit['max']:.0f})", flush=True)
+        paused_alert(state, credit, dry=dry)
+        if not dry: save_state(state)
+        return
+    warn = credit_warning(credit)
+    if warn: print(f"[credit] {warn}", flush=True)
 
     # 1) gather (dedup by post id)
     try:
@@ -239,19 +308,19 @@ def main():
     else:
         for it, reasons, v in sorted(to_main, key=keyf):
             try:
-                fb, bl = build_msg_li(it, reasons, v, "main"); mon.slack_webhook(mon.SLACK_MAIN, fb, bl)
+                fb, bl = build_msg_li(it, reasons, v, "main", warn); mon.slack_webhook(mon.SLACK_MAIN, fb, bl)
             except Exception as e: print(f"  [slack main error] {e}", flush=True)
         if to_review and mon.SLACK_BOT_TOKEN and mon.SLACK_REVIEW_CHANNEL:
             ts = review_anchor_ts_li(state)
             for it, reasons, v in sorted(to_review, key=keyf):
                 try:
-                    fb, bl = build_msg_li(it, reasons, v, "review")
+                    fb, bl = build_msg_li(it, reasons, v, "review", warn)
                     mon.slack_api(mon.SLACK_BOT_TOKEN, mon.SLACK_REVIEW_CHANNEL, fb, bl, thread_ts=ts)
                 except Exception as e: print(f"  [slack review error] {e}", flush=True)
         elif to_review and mon.SLACK_REVIEW_WEBHOOK:
             for it, reasons, v in sorted(to_review, key=keyf):
                 try:
-                    fb, bl = build_msg_li(it, reasons, v, "review"); mon.slack_webhook(mon.SLACK_REVIEW_WEBHOOK, fb, bl)
+                    fb, bl = build_msg_li(it, reasons, v, "review", warn); mon.slack_webhook(mon.SLACK_REVIEW_WEBHOOK, fb, bl)
                 except Exception as e: print(f"  [slack review error] {e}", flush=True)
         elif to_review:
             print(f"[review] {len(to_review)} item(s) held (no review destination; NOT sent to main)", flush=True)

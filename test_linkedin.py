@@ -50,6 +50,28 @@ def run():
     print("-"*74)
     print(f"{passed}/{len(CASES)} cases correct\n")
 
+    # credit-guard logic (pure functions, no network)
+    print("="*74)
+    print("CREDIT GUARD TEST")
+    print("="*74)
+    checks = [
+        ("1h window when on schedule",   li.pick_window(3600) == "1h"),
+        ("24h window after cron lag",    li.pick_window(3 * 3600) == "24h"),
+        ("week window after long pause", li.pick_window(2 * 24 * 3600) == "week"),
+        ("month window after >1 week",   li.pick_window(9 * 24 * 3600) == "month"),
+        ("no warning when credit ok",    li.credit_warning({"plan": "FREE", "remaining": 3.2, "max": 5, "resets": "2026-08-07"}) is None),
+        ("warning when credit low",      "0.72" in (li.credit_warning({"plan": "FREE", "remaining": 0.72, "max": 5, "resets": "2026-08-07"}) or "")),
+        ("no warning on paid plan",      li.credit_warning({"plan": "STARTER", "remaining": 0.10, "max": 29, "resets": "2026-08-07"}) is None),
+        ("no warning if check failed",   li.credit_warning(None) is None),
+        ("warn block added to message",  len(li.build_msg_li(post("Sohu chip"), ["sohu+tech"], None, "main", "WARN")[1]) == 3),
+    ]
+    cg = 0
+    for label, ok in checks:
+        cg += ok
+        print(f"[{'PASS' if ok else 'FAIL'}] {label}")
+    print("-"*74)
+    print(f"{cg}/{len(checks)} credit-guard checks correct\n")
+
     # Slack payload preview (built, not sent)
     sample = post("Etched came out of stealth with $1B in contracts. The Sohu chip is real.",
                   name="Chip Watcher", info="Semiconductor analyst", pid="7480000000000000000")
