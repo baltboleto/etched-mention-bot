@@ -1,0 +1,49 @@
+name: Etched LinkedIn mention monitor
+
+on:
+  schedule:
+    - cron: "12 * * * *"       # hourly; the bot widens its window if runs lag
+  workflow_dispatch: {}
+
+concurrency:
+  group: etched-linkedin       # never let two runs overlap
+  cancel-in-progress: false
+
+permissions:
+  contents: write              # so the run can commit updated linkedin_state.json
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run LinkedIn monitor
+        env:
+          APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          SLACK_REVIEW_WEBHOOK_URL: ${{ secrets.SLACK_REVIEW_WEBHOOK_URL }}
+          SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
+          SLACK_REVIEW_CHANNEL: ${{ secrets.SLACK_REVIEW_CHANNEL }}
+        run: python linkedin.py
+
+      - name: Commit updated state
+        run: |
+          git config user.name  "etched-mention-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add linkedin_state.json
+          git diff --staged --quiet && { echo "no state change"; exit 0; }
+          git commit -m "linkedin state: $(date -u +%FT%TZ)"
+          # push is race-safe: on rejection, rebase onto the latest and retry
+          for i in 1 2 3 4 5; do
+            if git push; then echo "pushed"; exit 0; fi
+            echo "push rejected; rebasing (attempt $i)"
+            git pull --rebase --autostash -X theirs origin main || git rebase --abort
+            sleep 3
+          done
+          echo "state push failed after 5 attempts"; exit 1
