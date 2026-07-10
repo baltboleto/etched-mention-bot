@@ -11,6 +11,7 @@ concurrency:
 
 permissions:
   contents: write              # so the run can commit updated state.json
+  actions: write               # so the run can re-dispatch the LinkedIn workflow when it lags
 
 jobs:
   monitor:
@@ -31,6 +32,37 @@ jobs:
           SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
           SLACK_REVIEW_CHANNEL: ${{ secrets.SLACK_REVIEW_CHANNEL }}
         run: python monitor.py
+
+      # GitHub delays hourly cron by hours; this job runs reliably every 15 min
+      # (cron-job.org), so it doubles as the LinkedIn workflow's watchdog.
+      - name: Keep LinkedIn monitor on schedule
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+        run: |
+          python3 - <<'EOF'
+          import json, os, urllib.request, datetime
+          repo, tok = os.environ["REPO"], os.environ["GH_TOKEN"]
+          def api(path, method="GET", payload=None):
+              req = urllib.request.Request(f"https://api.github.com/repos/{repo}{path}", method=method,
+                  data=json.dumps(payload).encode() if payload else None,
+                  headers={"Authorization": f"Bearer {tok}", "Accept": "application/vnd.github+json"})
+              with urllib.request.urlopen(req, timeout=30) as r:
+                  body = r.read().decode()
+                  return json.loads(body) if body else {}
+          runs = api("/actions/workflows/linkedin.yml/runs?per_page=1").get("workflow_runs") or []
+          age = 1e9
+          if runs:
+              t = datetime.datetime.strptime(runs[0]["run_started_at"], "%Y-%m-%dT%H:%M:%SZ") \
+                      .replace(tzinfo=datetime.timezone.utc)
+              age = (datetime.datetime.now(datetime.timezone.utc) - t).total_seconds()
+          if age > 55 * 60:
+              api("/actions/workflows/linkedin.yml/dispatches", "POST", {"ref": "main"})
+              print(f"linkedin last ran {age/60:.0f} min ago -> dispatched")
+          else:
+              print(f"linkedin fresh ({age/60:.0f} min ago), nothing to do")
+          EOF
 
       - name: Commit updated state
         run: |
