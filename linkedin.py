@@ -24,7 +24,7 @@ Optional env (same as monitor.py):
   ANTHROPIC_API_KEY, SLACK_BOT_TOKEN, SLACK_REVIEW_CHANNEL, SLACK_REVIEW_WEBHOOK_URL
 """
 
-import json, os, sys, time, datetime
+import json, os, re, sys, time, datetime
 
 import monitor as mon   # shared regexes, http helpers, slack senders, thresholds
 
@@ -172,31 +172,62 @@ def judge_li(item):
         return None
 
 # ------------------------------------------------------------------ slack
+# LinkedIn items carry no language code (tweets do), so gate the translation
+# call with a cheap heuristic that errs toward calling — the translator
+# returns is_english and we leave the text alone.
+ENGLISH_STOPWORDS = {"the", "and", "is", "are", "of", "to", "in", "for", "with", "that",
+                     "this", "from", "have", "has", "will", "we", "our", "on", "at", "as",
+                     "it", "its", "be", "by", "was", "were", "but", "or", "not", "you", "they"}
+
+def looks_english(text):
+    if not text:
+        return True
+    letters = [ch for ch in text if ch.isalpha()]
+    if not letters:
+        return True
+    foreign = sum(1 for ch in letters if ord(ch) > 0x24F)   # beyond Latin incl. accents
+    if foreign > len(letters) * 0.10:
+        return False
+    words = re.findall(r"[a-zà-ÿ']+", text.lower())
+    if len(words) < 6:
+        return True          # too short to tell; don't bother translating
+    hits = sum(1 for w in words if w in ENGLISH_STOPWORDS)
+    return hits >= max(2, len(words) * 0.05)
+
 def build_msg_li(item, reasons, verdict, kind, warn=None):
     txt = text_of(item)
-    if len(txt) > 700: txt = txt[:697] + "..."
     a = item.get("author") or {}
     name = a.get("name") or "unknown"
     info = (a.get("info") or "").strip()
+    if len(info) > 80: info = info[:77] + "..."
     url = item.get("linkedinUrl") or item.get("shareLinkedinUrl") or (a.get("linkedinUrl") or "")
     eng = item.get("engagement") or {}
     likes, comments, shares = eng.get("likes", 0), eng.get("comments", 0), eng.get("shares", 0)
-    tag = " · ".join(reasons) if reasons else ""
-    if verdict:
-        tag = (tag + " · " if tag else "") + f"judge:{verdict.get('confidence')} {verdict.get('reason','')}"
-    header = ("New Etched mention (LinkedIn)" if kind == "main"
-              else "Possible LinkedIn mention — needs a look")
+
+    tlabel = None
+    if txt and not looks_english(txt):
+        tr = mon.translate(txt)
+        if tr:
+            txt = tr["translation"]
+            tlabel = f":globe_with_meridians: Translated from {tr['language']}"
+    if len(txt) > 700: txt = txt[:697] + "..."
     if not txt: txt = "_(no text — media-only post)_"
-    context = f"👍 {likes}  💬 {comments}  🔁 {shares}  |  {name}" + (f" — {info}" if info else "")
-    if tag: context += f"  |  _{tag}_"
+
+    header = f"*<{url}|LinkedIn Post by {name}>*"
+    if kind != "main":
+        header += f"\n_needs a look: {mon.review_note(reasons, verdict)}_"
+    stats = f"👍 {mon.fmt_count(likes)} · 💬 {mon.fmt_count(comments)} · 🔁 {mon.fmt_count(shares)}"
+    if info: stats += f" · {info}"
+    ctx = ([{"type": "mrkdwn", "text": tlabel}] if tlabel else []) + [{"type": "mrkdwn", "text": stats}]
     blocks = [
-        {"type": "section", "text": {"type": "mrkdwn",
-            "text": f"*{header}* by *<{url}|{name}>*\n>{txt}\n<{url}|View post on LinkedIn →>"}},
-        {"type": "context", "elements": [{"type": "mrkdwn", "text": context}]},
+        {"type": "section", "text": {"type": "mrkdwn", "text": f"{header}\n>{mon.quote(txt)}"}},
+        {"type": "context", "elements": ctx},
     ]
     if warn:
         blocks.append({"type": "context", "elements": [{"type": "mrkdwn", "text": warn}]})
-    return f"{header} by {name}: {url}", blocks
+    fb = (f"LinkedIn Post by {name}: {url}" if kind == "main"
+          else f"Needs a look — LinkedIn post by {name}: {url}")
+    return fb, blocks
 
 def review_anchor_ts_li(state):
     """One LinkedIn review-queue anchor per UTC day (separate from the X one)."""

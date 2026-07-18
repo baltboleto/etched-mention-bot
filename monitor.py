@@ -329,29 +329,102 @@ def judge(t, content=None):
         print(f"  [judge error] {e}", flush=True)
         return None
 
+# ------------------------------------------------------------------ translation
+# Twitter lang codes that mean "no real language" (media-only, undetermined, art)
+NO_LANG = {"", "en", "und", "zxx", "qme", "qam", "qst", "qht", "art"}
+
+def tweet_needs_translation(t):
+    return (t.get("lang") or "").lower() not in NO_LANG
+
+def translate(text):
+    """Translate a non-English post to English via Haiku (same model as the
+    judge). Returns {"language": "Spanish", "translation": "..."} or None —
+    None means leave the original untouched (already English / call failed)."""
+    if not ANTHROPIC_KEY or not text:
+        return None
+    schema = {"type": "object", "additionalProperties": False,
+              "properties": {"is_english": {"type": "boolean"},
+                             "language": {"type": "string"},
+                             "translation": {"type": "string"}},
+              "required": ["is_english", "language", "translation"]}
+    system = ("You translate social-media posts to English for a media-monitoring bot. "
+              "Report the source language by its English name (e.g. 'Spanish', 'Japanese') and "
+              "translate the post faithfully and naturally, keeping @handles, #hashtags, URLs, "
+              "ticker symbols and emoji as they are. If the post is already English or has no "
+              "real text, set is_english=true and translation to an empty string.")
+    payload = {"model": JUDGE_MODEL, "max_tokens": 1200, "system": system,
+               "messages": [{"role": "user", "content": text[:2500]}],
+               "output_config": {"format": {"type": "json_schema", "schema": schema}}}
+    try:
+        raw = _post_json("https://api.anthropic.com/v1/messages", payload,
+                         headers={"x-api-key": ANTHROPIC_KEY, "anthropic-version": "2023-06-01"})
+        data = json.loads(raw)
+        out = "".join(b.get("text", "") for b in data.get("content", []) if b.get("type") == "text")
+        v = json.loads(out)
+        if v.get("is_english") or not (v.get("translation") or "").strip():
+            return None
+        return {"language": (v.get("language") or "another language").strip(),
+                "translation": v["translation"].strip()}
+    except Exception as e:
+        print(f"  [translate error] {e}", flush=True)
+        return None
+
 # ------------------------------------------------------------------ slack
+def fmt_count(n):
+    try: n = int(n or 0)
+    except (TypeError, ValueError): return str(n)
+    if n >= 1_000_000: return (f"{n/1_000_000:.1f}".rstrip("0").rstrip(".")) + "M"
+    if n >= 1_000:     return (f"{n/1_000:.1f}".rstrip("0").rstrip(".")) + "k"
+    return str(n)
+
+REASON_LABELS = {
+    "unresolved_link":      "couldn't read the link",
+    "uncertain":            "judge unsure",
+    "judge_unavailable":    "judge unavailable",
+    "cap_reached_unjudged": "volume spike, not judged",
+    "fetch_cap":            "volume spike, link not checked",
+}
+
+def review_note(reasons, verdict):
+    why = "; ".join(REASON_LABELS.get(r, r) for r in (reasons or [])) or "unsure"
+    if verdict and "uncertain" in (reasons or []):
+        why = f"judge unsure ({verdict.get('confidence')})"
+    return why
+
+def quote(text):
+    """Slack-quote every line, not just the first."""
+    return "\n>".join(text.splitlines())
+
 def build_msg(t, reasons, verdict, kind):
     txt = (t.get("text") or "").strip()
-    if len(txt) > 700: txt = txt[:697] + "..."
     author = (t.get("author") or {})
     handle = author.get("userName") or "unknown"
-    name   = author.get("name") or handle
     followers = author.get("followers") or author.get("followersCount") or 0
     url = t.get("url") or t.get("twitterUrl") or f"https://x.com/{handle}/status/{t.get('id')}"
     likes = t.get("likeCount", 0); rts = t.get("retweetCount", 0); views = t.get("viewCount", 0)
-    tag = " · ".join(reasons) if reasons else ""
-    if verdict:
-        tag = (tag + " · " if tag else "") + f"judge:{verdict.get('confidence')} {verdict.get('reason','')}"
-    header = "New Etched mention" if kind == "main" else "Possible mention — needs a look"
+
+    tlabel = None
+    if txt and tweet_needs_translation(t):
+        tr = translate(txt)
+        if tr:
+            txt = tr["translation"]
+            tlabel = f":globe_with_meridians: Translated from {tr['language']}"
+    if len(txt) > 700: txt = txt[:697] + "..."
     if not txt: txt = "_(no text — shared a link)_"
-    context = f"❤️ {likes}  🔁 {rts}  👁 {views}  |  {name} (@{handle}, {followers} followers)"
-    if tag: context += f"  |  _{tag}_"
+
+    header = f"*<{url}|X Post by @{handle}>*"
+    if kind != "main":
+        header += f"\n_needs a look: {review_note(reasons, verdict)}_"
+    stats = (f"❤️ {fmt_count(likes)} · 🔁 {fmt_count(rts)} · 👁 {fmt_count(views)}"
+             f" · {fmt_count(followers)} followers")
+    ctx = ([{"type": "mrkdwn", "text": tlabel}] if tlabel else []) + [{"type": "mrkdwn", "text": stats}]
     blocks = [
-        {"type": "section", "text": {"type": "mrkdwn",
-            "text": f"*{header}* by *<{url}|@{handle}>*\n>{txt}\n<{url}|View tweet on X →>"}},
-        {"type": "context", "elements": [{"type": "mrkdwn", "text": context}]},
+        {"type": "section", "text": {"type": "mrkdwn", "text": f"{header}\n>{quote(txt)}"}},
+        {"type": "context", "elements": ctx},
     ]
-    return f"{header} by @{handle}: {url}", blocks
+    fb = (f"X Post by @{handle}: {url}" if kind == "main"
+          else f"Needs a look — X post by @{handle}: {url}")
+    return fb, blocks
 
 def slack_webhook(webhook, fallback, blocks):
     _post_json(webhook, {"text": fallback, "blocks": blocks})
