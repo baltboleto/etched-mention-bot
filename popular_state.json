@@ -1,18 +1,5 @@
 {
  "watch": {
-  "2092295985988796523": {
-   "created": 1787677210,
-   "author": "HolderOftheFire",
-   "followers": 17196,
-   "url": "https://x.com/HolderOftheFire/status/2092295985988796523",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787677545
-  },
   "2092305943191298196": {
    "created": 1787679584,
    "author": "firstadopter",
@@ -51,6 +38,17 @@
    "promoted": false,
    "miss": 0,
    "added": 1787685492
+  },
+  "2092340728944820353": {
+   "created": 1787687878,
+   "author": "tinyarchit1oxb",
+   "followers": 48,
+   "url": "https://x.com/tinyarchit1oxb/status/2092340728944820353",
+   "disc_score": 1,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787689884
   }
  },
  "baseline": {
