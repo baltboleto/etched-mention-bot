@@ -17,6 +17,32 @@ high without dropping real mentions:
 Nothing ambiguous is ever silently dropped — it goes to review so a human sees it. That's the
 "don't miss any" safety valve.
 
+## Popular channel (the "actually getting traction" feed)
+
+`popular.py` (X, runs after every monitor pass) and `popular_linkedin.py` (after every LinkedIn
+pass) watch everything the monitors post to main and re-post ONLY the risers to a second channel
+(#twitter-mentions-popular). Main stays the everything-feed; popular is the glance-feed.
+
+How a post qualifies:
+
+| Piece | X | LinkedIn |
+|-------|---|----------|
+| score | likes + 2·(RTs+quotes) + replies + bookmarks | reactions + 2·comments + 3·reposts |
+| checked at | ~1h after posting (one look; hot-at-discovery checked right away) | ~24h after posting (one look) |
+| the bar | max(absolute floor, **95th percentile** of what Etched mentions historically score at that age) | same |
+| flood control | each promotion in the last 24h raises the bar 15% (compounding, capped 8×) | same |
+| big-account rule | ≥100k followers qualifies at half the bar | — |
+
+The percentile baseline self-seeds on the first run from recent history in `state.json`
+(one-time ~$0.30 of twitterapi.io refetches); LinkedIn starts on floors and learns as it goes.
+Each post is promoted at most once. State lives in `popular_state.json` / `popular_linkedin_state.json`.
+
+Setup: just invite the bot (the `SLACK_BOT_TOKEN` one) to the popular channel — the channel id
+defaults in code. Secrets `SLACK_POPULAR_CHANNEL` / `SLACK_POPULAR_WEBHOOK_URL` override it if
+ever needed. Running cost: one fetch per mention — well under $1/month of twitterapi.io,
+~$1-2/month of Apify (`apimaestro/linkedin-post-detail`, $5/1k).
+Test offline with `python3 test_popular.py`; dry-run with `python3 popular.py --dry`.
+
 ## One-time setup (~10 minutes)
 
 ### 1. Put this folder in a GitHub repo

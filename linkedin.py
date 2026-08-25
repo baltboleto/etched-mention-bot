@@ -341,6 +341,12 @@ def main():
             try:
                 fb, bl = build_msg_li(it, reasons, v, "main", warn); mon.slack_webhook(mon.SLACK_MAIN, fb, bl)
             except Exception as e: print(f"  [slack main error] {e}", flush=True)
+        # start watching what we just posted; popular_linkedin.py promotes the risers
+        try:
+            import popular_linkedin
+            popular_linkedin.watch_posts([it for it, _, _ in to_main])
+        except Exception as e:
+            print(f"  [popular watch error] {e}", flush=True)
         if to_review and mon.SLACK_BOT_TOKEN and mon.SLACK_REVIEW_CHANNEL:
             ts = review_anchor_ts_li(state)
             for it, reasons, v in sorted(to_review, key=keyf):

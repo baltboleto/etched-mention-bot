@@ -552,6 +552,12 @@ def main():
             try:
                 fb, bl = build_msg(t, reasons, v, "main"); slack_webhook(SLACK_MAIN, fb, bl)
             except Exception as e: print(f"  [slack main error] {e}", flush=True)
+        # start watching what we just posted; popular.py promotes the risers
+        try:
+            import popular
+            popular.watch_tweets([t for t, _, _ in to_main])
+        except Exception as e:
+            print(f"  [popular watch error] {e}", flush=True)
         # review destination: threaded bot replies > separate webhook > held (never main)
         if to_review and SLACK_BOT_TOKEN and SLACK_REVIEW_CHANNEL:
             ts = review_anchor_ts(state)

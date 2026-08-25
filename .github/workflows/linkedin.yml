@@ -32,11 +32,24 @@ jobs:
           SLACK_REVIEW_CHANNEL: ${{ secrets.SLACK_REVIEW_CHANNEL }}
         run: python linkedin.py
 
+      # re-check watched mentions' engagement; promote risers to the popular channel.
+      # always(): a transient monitor failure must not starve the engagement checks.
+      - name: Track engagement for popular channel
+        if: always()
+        env:
+          APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
+          SLACK_POPULAR_CHANNEL: ${{ secrets.SLACK_POPULAR_CHANNEL }}
+          SLACK_POPULAR_WEBHOOK_URL: ${{ secrets.SLACK_POPULAR_WEBHOOK_URL }}
+        run: python popular_linkedin.py
+
       - name: Commit updated state
+        if: always()
         run: |
           git config user.name  "etched-mention-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add linkedin_state.json
+          git add linkedin_state.json popular_linkedin_state.json
           git diff --staged --quiet && { echo "no state change"; exit 0; }
           git commit -m "linkedin state: $(date -u +%FT%TZ)"
           # push is race-safe: on rejection, rebase onto the latest and retry
