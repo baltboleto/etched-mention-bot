@@ -32,6 +32,28 @@
    "promoted": false,
    "miss": 0,
    "added": 1787644669
+  },
+  "7497925198122270720": {
+   "created": 1787644671,
+   "author": "Grishin Robotics",
+   "url": "https://www.linkedin.com/posts/grishinrobotics_the-august-25-robotics-ai-briefing-assembles-activity-7497925198122270720-dT8S",
+   "text": "The August 25 Robotics + AI briefing assembles 71 funding rounds: 60 disclosed and 11 undisclosed, representing roughly $4.64B in explicit USD-denominated capital, plus EUR 25.8M, A$18.25M, more than GBP 1M, KRW 62B, JPY 1.73B, more than CN\u00a5300M, and several additional yuan rounds described as hundreds or several hundred million across physical AI, agent infrastructure, data centers, enterprise software, healthcare, and industrial automation.\n\nThe largest checks:\nSB Energy $1.5B, Etched $700M, Higgsfield AI $400M, Groq $350M, Wispr Flow $280M, Starcloud $250M, Gravis Robotics $200M, Velaura AI $110M, Callosum and Rillet $100M each, Veeda AI $90M, and Network Bio $50M.\n\nBeyond the headline ro",
+   "disc_score": 3,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787647977
+  },
+  "7497925667561324544": {
+   "created": 1787644783,
+   "author": "AIX Capital Group",
+   "url": "https://www.linkedin.com/posts/aixcapital_nvidia-earnings-groq-activity-7497925667561324544-T_0o",
+   "text": "The Godfather of AI, Nvidia reports its quarterly earnings tomorrow.\n\nInvestors are jittery as expected. The stock is down 4% over the last two weeks. The fundamental backdrop however remains strong. \n\nHyperscaler capital expenditures surged 92% year-over-year and 29% quarter-over-quarter in the second quarter, marking the fastest expansion since late 2022. \n\nCloud revenue across the Big 3 accelerated to 43% growth, with aggregate operating margins climbing to a record 39%. Against that spending wave, consensus models expect Nvidia revenue growth to moderate to 13% quarter-over-quarter, down from 20% or more in prior quarters.\n\nAhead of earnings Nvidia rolled out major hardware updates confi",
+   "disc_score": 4,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787647977
   }
  },
  "baseline": {},
