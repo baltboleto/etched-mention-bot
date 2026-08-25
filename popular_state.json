@@ -97,7 +97,9 @@
    "followers": 850,
    "url": "https://x.com/RikkinMajani/status/2092223238076260472",
    "disc_score": 1,
-   "checks": {},
+   "checks": {
+    "1": 1
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787662792
@@ -108,10 +110,34 @@
    "followers": 121,
    "url": "https://x.com/MikoMimie/status/2092231148105765013",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "1": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787662792
+  },
+  "2092248868247454072": {
+   "created": 1787665976,
+   "author": "KCEX_Turkey",
+   "followers": 33459,
+   "url": "https://x.com/KCEX_Turkey/status/2092248868247454072",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787666233
+  },
+  "2092244549699572031": {
+   "created": 1787664947,
+   "author": "selfcustodykrux",
+   "followers": 2860,
+   "url": "https://x.com/selfcustodykrux/status/2092244549699572031",
+   "disc_score": 13,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787666233
   }
  },
  "baseline": {
@@ -486,6 +512,14 @@
    ],
    [
     1787662792,
+    0
+   ],
+   [
+    1787666233,
+    1
+   ],
+   [
+    1787666233,
     0
    ]
   ]
