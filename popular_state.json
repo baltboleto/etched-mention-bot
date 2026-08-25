@@ -1,25 +1,14 @@
 {
  "watch": {
-  "2092175043900162128": {
-   "created": 1787648375,
-   "author": "boulatbek",
-   "followers": 105,
-   "url": "https://x.com/boulatbek/status/2092175043900162128",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787650568
-  },
   "2092208098987356625": {
    "created": 1787656256,
    "author": "cmschroed",
    "followers": 12730,
    "url": "https://x.com/cmschroed/status/2092208098987356625",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "1": 4
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787657318
@@ -30,7 +19,9 @@
    "followers": 2811,
    "url": "https://x.com/seidtweets/status/2092205598758588594",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "1": 9
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787657318
@@ -41,7 +32,9 @@
    "followers": 2812,
    "url": "https://x.com/seidtweets/status/2092217666928787877",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "1": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787659062
@@ -52,7 +45,9 @@
    "followers": 31608,
    "url": "https://x.com/KCEX_Vietnam/status/2092218057221660759",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "1": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787659062
@@ -63,7 +58,9 @@
    "followers": 3235,
    "url": "https://x.com/KCEX_Korea/status/2092218482549305833",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "1": 1
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787659062
@@ -74,7 +71,9 @@
    "followers": 3228,
    "url": "https://x.com/KCEX_CIS/status/2092218247219486956",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "1": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787659062
@@ -85,10 +84,34 @@
    "followers": 1152,
    "url": "https://x.com/KCEX_Ukraine/status/2092218325665452437",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "1": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787659062
+  },
+  "2092223238076260472": {
+   "created": 1787659866,
+   "author": "RikkinMajani",
+   "followers": 850,
+   "url": "https://x.com/RikkinMajani/status/2092223238076260472",
+   "disc_score": 1,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787662792
+  },
+  "2092231148105765013": {
+   "created": 1787661752,
+   "author": "MikoMimie",
+   "followers": 121,
+   "url": "https://x.com/MikoMimie/status/2092231148105765013",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787662792
   }
  },
  "baseline": {
@@ -435,6 +458,34 @@
    ],
    [
     1787652756,
+    0
+   ],
+   [
+    1787662792,
+    4
+   ],
+   [
+    1787662792,
+    9
+   ],
+   [
+    1787662792,
+    0
+   ],
+   [
+    1787662792,
+    0
+   ],
+   [
+    1787662792,
+    1
+   ],
+   [
+    1787662792,
+    0
+   ],
+   [
+    1787662792,
     0
    ]
   ]
