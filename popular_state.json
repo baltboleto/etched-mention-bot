@@ -1,44 +1,5 @@
 {
  "watch": {
-  "2092266853024321827": {
-   "created": 1787670264,
-   "author": "launcharchive",
-   "followers": 17,
-   "url": "https://x.com/launcharchive/status/2092266853024321827",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787672558
-  },
-  "2092275800221651345": {
-   "created": 1787672398,
-   "author": "dvbydt",
-   "followers": 10229,
-   "url": "https://x.com/dvbydt/status/2092275800221651345",
-   "disc_score": 1,
-   "checks": {
-    "1": 15
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787672558
-  },
-  "2092275455856427063": {
-   "created": 1787672315,
-   "author": "clyons",
-   "followers": 138,
-   "url": "https://x.com/clyons/status/2092275455856427063",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787672558
-  },
   "2092278634740408326": {
    "created": 1787673073,
    "author": "almostcmb",
@@ -58,7 +19,9 @@
    "followers": 17196,
    "url": "https://x.com/HolderOftheFire/status/2092295985988796523",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "1": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787677545
@@ -69,10 +32,23 @@
    "followers": 104802,
    "url": "https://x.com/firstadopter/status/2092305943191298196",
    "disc_score": 5,
+   "checks": {
+    "1": 24
+   },
+   "promoted": true,
+   "miss": 0,
+   "added": 1787679957
+  },
+  "2092319465333534935": {
+   "created": 1787682808,
+   "author": "ashrealite",
+   "followers": 6,
+   "url": "https://x.com/ashrealite/status/2092319465333534935",
+   "disc_score": 0,
    "checks": {},
    "promoted": false,
    "miss": 0,
-   "added": 1787679957
+   "added": 1787683245
   }
  },
  "baseline": {
@@ -480,9 +456,23 @@
    [
     1787677545,
     3
+   ],
+   [
+    1787683245,
+    0
+   ],
+   [
+    1787683245,
+    24
    ]
   ]
  },
- "promoted": [],
+ "promoted": [
+  [
+   1787683245,
+   "2092305943191298196",
+   24
+  ]
+ ],
  "seeded": true
 }
