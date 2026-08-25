@@ -142,6 +142,28 @@
    "promoted": false,
    "miss": 0,
    "added": 1787694200
+  },
+  "7498153782728404993": {
+   "created": 1787699170,
+   "author": "Gerson Morales",
+   "url": "https://www.linkedin.com/posts/gersonmoralesd_silicon-valley-rd-report-activity-7498153782728404993-7hEx",
+   "text": "Like much of the Bay Area, the new AI economy is re-shaping Silicon Valley's R&D market. From firms like Etched AI and Rhoda AI, to data center and advanced manufacturing users, a new wave of occupiers is helping absorb space across the region as vacancy and sublease inventory contract. Coupled with Nvidia's campus expansion, the quarter\u2019s activity offered yet more signs that AI growth is translating into base fundamentals for Silicon Valley.\n\u00a0\nSee Newmark\u2019s Q2 Silicon Valley R&D report here: https://lnkd.in/gDhMAUzn\n\u00a0\n#Newmark #NewmarkResearch #SiliconValley #ResearchAndDevelopment #CommercialRealEstate #CRE #AdvancedManufacturing #ArtificialIntelligence #AIInfrastructure #IndustrialRealEst",
+   "disc_score": 9,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787700996
+  },
+  "7498152502136225792": {
+   "created": 1787698865,
+   "author": "The Semiconductor Tech VC",
+   "url": "https://www.linkedin.com/posts/ai-for-vc_semiconductordesign-hardwareengineering-chipdesign-activity-7498152502136225792-PqzC",
+   "text": "When you bet on the next AI accelerator, the odds are set by tape\u2010out risk, lock\u2010in, and real\u2010world cost per token. - **Cerebras wafer\u2010scale** \u2013 The CS\u20102 packs hundreds of thousands of cores onto a single 8\u2010inch die, delivering roughly 2\u20103\u00d7 the inference throughput of an 8\u2010GPU NVIDIA H100 server on a 175B model. The upside is latency\u2010critical workloads, but each tape\u2010out costs well over $200 M and relies on a single fab, making the bet extremely binary. - **Specialized ASICs (Graphcore IPU, Etched transformer\u2010only, Groq LPU)** \u2013 Graphcore\u2019s IPU can sustain >1 TFLOP per watt on sparse workloads, Etched removes all non\u2010transformer logic to shave power, and Groq guarantees deterministic latency",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787700996
   }
  },
  "baseline": {},
