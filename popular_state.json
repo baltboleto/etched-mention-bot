@@ -32,7 +32,9 @@
    "followers": 9552,
    "url": "https://x.com/KCEX_Persian/status/2092146785514836018",
    "disc_score": 1,
-   "checks": {},
+   "checks": {
+    "1": 2
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787644702
@@ -375,6 +377,10 @@
    [
     1787644702,
     1
+   ],
+   [
+    1787647942,
+    2
    ]
   ]
  },
