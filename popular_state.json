@@ -32,7 +32,9 @@
    "followers": 809,
    "url": "https://x.com/siliconcodesign/status/2092361282292777250",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "1": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787694271
@@ -43,7 +45,9 @@
    "followers": 22,
    "url": "https://x.com/SubWvlngth/status/2092360320534851647",
    "disc_score": 2,
-   "checks": {},
+   "checks": {
+    "1": 2
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787694271
@@ -54,10 +58,78 @@
    "followers": 1412,
    "url": "https://x.com/ADarmouni/status/2092365466429686053",
    "disc_score": 1,
-   "checks": {},
+   "checks": {
+    "1": 2
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787694271
+  },
+  "2092372257842614383": {
+   "created": 1787695395,
+   "author": "NikChainAi",
+   "followers": 24,
+   "url": "https://x.com/NikChainAi/status/2092372257842614383",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787697947
+  },
+  "2092373810041204741": {
+   "created": 1787695765,
+   "author": "ryqwzrbuilds",
+   "followers": 20,
+   "url": "https://x.com/ryqwzrbuilds/status/2092373810041204741",
+   "disc_score": 1,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787697947
+  },
+  "2092373729653178436": {
+   "created": 1787695746,
+   "author": "ryqwzrbuilds",
+   "followers": 20,
+   "url": "https://x.com/ryqwzrbuilds/status/2092373729653178436",
+   "disc_score": 1,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787697947
+  },
+  "2092373728097120279": {
+   "created": 1787695745,
+   "author": "ryqwzrbuilds",
+   "followers": 20,
+   "url": "https://x.com/ryqwzrbuilds/status/2092373728097120279",
+   "disc_score": 1,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787697947
+  },
+  "2092373726490714353": {
+   "created": 1787695745,
+   "author": "ryqwzrbuilds",
+   "followers": 20,
+   "url": "https://x.com/ryqwzrbuilds/status/2092373726490714353",
+   "disc_score": 1,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787697947
+  },
+  "2092373724414504973": {
+   "created": 1787695744,
+   "author": "ryqwzrbuilds",
+   "followers": 20,
+   "url": "https://x.com/ryqwzrbuilds/status/2092373724414504973",
+   "disc_score": 2,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787697947
   }
  },
  "baseline": {
@@ -489,6 +561,18 @@
    [
     1787694271,
     1
+   ],
+   [
+    1787697947,
+    0
+   ],
+   [
+    1787697947,
+    2
+   ],
+   [
+    1787697947,
+    2
    ]
   ]
  },
