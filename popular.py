@@ -134,6 +134,8 @@ def watch_tweets(tweets, path=None):
             continue
         a = t.get("author") or {}
         handle = a.get("userName") or "unknown"
+        if handle.lower() in mon.HANDLES:
+            continue        # our own posts aren't mentions; main can carry them, popular shouldn't
         state["watch"][tid] = {
             "created": created,
             "author": handle,
@@ -238,29 +240,30 @@ def fmt_age(age_h):
     return (f"{age_h / 24:.1f}".rstrip("0").rstrip(".")) + "d"
 
 def build_popular_msg(rec, t, age_h, note=None):
+    """Numbers up top, the post itself quoted, everything else small print."""
     txt = (t.get("text") or "").strip()
     handle, url = rec["author"], rec["url"]
     tlabel = None
     if txt and mon.tweet_needs_translation(t):
         tr = mon.translate(txt)
         if tr:
-            txt, tlabel = tr["translation"], f":globe_with_meridians: Translated from {tr['language']}"
+            txt, tlabel = tr["translation"], f"translated from {tr['language']}"
     if len(txt) > 700:
         txt = txt[:697] + "..."
     if not txt:
         txt = "_(no text — shared a link)_"
-    header = f":fire: *<{url}|X Post by @{handle}>* is getting traction"
-    if note:
-        header += f" _({note})_"
-    stats = (f"❤️ {mon.fmt_count(t.get('likeCount'))} · 🔁 {mon.fmt_count(t.get('retweetCount'))}"
-             f" · 💬 {mon.fmt_count(t.get('replyCount'))} · 👁 {mon.fmt_count(t.get('viewCount'))}"
-             f" · {mon.fmt_count(rec['followers'])} followers · {fmt_age(age_h)} after posting")
-    ctx = ([{"type": "mrkdwn", "text": tlabel}] if tlabel else []) + [{"type": "mrkdwn", "text": stats}]
+    likes = mon.fmt_count(t.get("likeCount"))
+    header = (f"*<{url}|@{handle}>*  ❤️ {likes} · 🔁 {mon.fmt_count(t.get('retweetCount'))}"
+              f" · 💬 {mon.fmt_count(t.get('replyCount'))} · 👁 {mon.fmt_count(t.get('viewCount'))}")
+    meta = f"{mon.fmt_count(rec['followers'])} followers · posted {fmt_age(age_h)} ago"
+    for extra in (tlabel, note):
+        if extra:
+            meta += f" · {extra}"
     blocks = [
         {"type": "section", "text": {"type": "mrkdwn", "text": f"{header}\n>{mon.quote(txt)}"}},
-        {"type": "context", "elements": ctx},
+        {"type": "context", "elements": [{"type": "mrkdwn", "text": meta}]},
     ]
-    return f"Getting traction — X post by @{handle}: {url}", blocks
+    return f"@{handle} ❤️ {likes}: {url}", blocks
 
 def deliver(fb, blocks):
     """Webhook first (repo convention), bot token + channel as the fallback.
@@ -325,12 +328,11 @@ def run():
         big = rec.get("followers", 0) >= BIG_FOLLOWERS
         if not (s >= b or (big and s >= BIG_FACTOR * b)):
             continue
-        note = f"{mon.fmt_count(rec['followers'])}-follower account" if (big and s < b) else None
         if dry:
             print(f"  WOULD PROMOTE @{rec['author']} score={s:.0f} bar={b:.0f} at {cp}h: {rec['url']}", flush=True)
             continue
         try:
-            fb, blocks = build_popular_msg(rec, t, age_h, note)
+            fb, blocks = build_popular_msg(rec, t, age_h)
             if deliver(fb, blocks):
                 rec["promoted"] = True
                 state["promoted"].append([now, tid, s])
