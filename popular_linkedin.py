@@ -132,26 +132,27 @@ def match_result(items, rec):
 
 # ------------------------------------------------------------------ slack
 def build_popular_msg_li(rec, txt, likes, comments, shares, age_h, note=None):
+    """Same shape as the X card: numbers up top, post quoted, small print below."""
     tlabel = None
     if txt and not li.looks_english(txt):
         tr = mon.translate(txt)
         if tr:
-            txt, tlabel = tr["translation"], f":globe_with_meridians: Translated from {tr['language']}"
+            txt, tlabel = tr["translation"], f"translated from {tr['language']}"
     if len(txt) > 700:
         txt = txt[:697] + "..."
     if not txt:
         txt = "_(no text — media-only post)_"
-    header = f":fire: *<{rec['url']}|LinkedIn Post by {rec['author']}>* is getting traction"
-    if note:
-        header += f" _({note})_"
-    stats = (f"👍 {mon.fmt_count(likes)} · 💬 {mon.fmt_count(comments)} · 🔁 {mon.fmt_count(shares)}"
-             f" · {pop.fmt_age(age_h)} after posting")
-    ctx = ([{"type": "mrkdwn", "text": tlabel}] if tlabel else []) + [{"type": "mrkdwn", "text": stats}]
+    header = (f"*<{rec['url']}|{rec['author']}>*  👍 {mon.fmt_count(likes)}"
+              f" · 💬 {mon.fmt_count(comments)} · 🔁 {mon.fmt_count(shares)}")
+    meta = f"LinkedIn · posted {pop.fmt_age(age_h)} ago"
+    for extra in (tlabel, note):
+        if extra:
+            meta += f" · {extra}"
     blocks = [
         {"type": "section", "text": {"type": "mrkdwn", "text": f"{header}\n>{mon.quote(txt)}"}},
-        {"type": "context", "elements": ctx},
+        {"type": "context", "elements": [{"type": "mrkdwn", "text": meta}]},
     ]
-    return f"Getting traction — LinkedIn post by {rec['author']}: {rec['url']}", blocks
+    return f"{rec['author']} 👍 {mon.fmt_count(likes)} (LinkedIn): {rec['url']}", blocks
 
 # ------------------------------------------------------------------ main
 def run():
