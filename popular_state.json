@@ -32,7 +32,9 @@
    "followers": 6,
    "url": "https://x.com/ashrealite/status/2092319465333534935",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "1": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787683245
@@ -43,7 +45,9 @@
    "followers": 4743,
    "url": "https://x.com/norpadon/status/2092321124470104561",
    "disc_score": 3,
-   "checks": {},
+   "checks": {
+    "1": 4
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787685492
@@ -462,6 +466,14 @@
    [
     1787683245,
     24
+   ],
+   [
+    1787687771,
+    0
+   ],
+   [
+    1787687771,
+    4
    ]
   ]
  },
