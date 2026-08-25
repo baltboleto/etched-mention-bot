@@ -109,6 +109,17 @@
    "promoted": false,
    "miss": 0,
    "added": 1787666747
+  },
+  "7498022729418248192": {
+   "created": 1787667925,
+   "author": "Toby Palmer",
+   "url": "https://www.linkedin.com/posts/toby-palmer-01281611b_mercuris-weekly-ai-mediatech-digest-our-activity-7498022729418248192-roQv",
+   "text": "Mercuri's Weekly AI & MediaTech Digest\n\nOur roundup of weekly news across Media, Entertainment and AI.\n\n1.  Callosum raised a $100m seed round, led by Atomico with backing from Plural, DCVC and the UK Sovereign AI Fund. The company is building a heterogeneous compute layer that matches AI workloads across different models and chip architectures to optimise cost and performance.\n\nhttps://lnkd.in/eRxbMdA4\n\n2.  OpenAI has slowed frontier model development over emerging cyber capabilities. It paused RL training on its latest models for two weeks, while its largest planned frontier RL run remains on hold after upcoming model Astra showed possible \u201cCritical\u201d cyber capabilities.\n\nhttps://lnkd.in/e3",
+   "disc_score": 4,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787670234
   }
  },
  "baseline": {},
