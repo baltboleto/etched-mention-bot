@@ -1,31 +1,5 @@
 {
  "watch": {
-  "2092319465333534935": {
-   "created": 1787682808,
-   "author": "ashrealite",
-   "followers": 6,
-   "url": "https://x.com/ashrealite/status/2092319465333534935",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787683245
-  },
-  "2092321124470104561": {
-   "created": 1787683204,
-   "author": "norpadon",
-   "followers": 4743,
-   "url": "https://x.com/norpadon/status/2092321124470104561",
-   "disc_score": 3,
-   "checks": {
-    "1": 4
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787685492
-  },
   "2092340728944820353": {
    "created": 1787687878,
    "author": "tinyarchit1oxb",
@@ -45,10 +19,45 @@
    "followers": 69,
    "url": "https://x.com/balllvest/status/2092350812152332788",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "1": 1
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787691831
+  },
+  "2092361282292777250": {
+   "created": 1787692778,
+   "author": "siliconcodesign",
+   "followers": 809,
+   "url": "https://x.com/siliconcodesign/status/2092361282292777250",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787694271
+  },
+  "2092360320534851647": {
+   "created": 1787692549,
+   "author": "SubWvlngth",
+   "followers": 22,
+   "url": "https://x.com/SubWvlngth/status/2092360320534851647",
+   "disc_score": 2,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787694271
+  },
+  "2092365466429686053": {
+   "created": 1787693776,
+   "author": "ADarmouni",
+   "followers": 1412,
+   "url": "https://x.com/ADarmouni/status/2092365466429686053",
+   "disc_score": 1,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787694271
   }
  },
  "baseline": {
@@ -475,6 +484,10 @@
    ],
    [
     1787691831,
+    1
+   ],
+   [
+    1787694271,
     1
    ]
   ]
