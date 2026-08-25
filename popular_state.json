@@ -1,18 +1,5 @@
 {
  "watch": {
-  "2092305943191298196": {
-   "created": 1787679584,
-   "author": "firstadopter",
-   "followers": 104802,
-   "url": "https://x.com/firstadopter/status/2092305943191298196",
-   "disc_score": 5,
-   "checks": {
-    "1": 24
-   },
-   "promoted": true,
-   "miss": 0,
-   "added": 1787679957
-  },
   "2092319465333534935": {
    "created": 1787682808,
    "author": "ashrealite",
@@ -45,10 +32,23 @@
    "followers": 48,
    "url": "https://x.com/tinyarchit1oxb/status/2092340728944820353",
    "disc_score": 1,
-   "checks": {},
+   "checks": {
+    "1": 1
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787689884
+  },
+  "2092350812152332788": {
+   "created": 1787690282,
+   "author": "balllvest",
+   "followers": 69,
+   "url": "https://x.com/balllvest/status/2092350812152332788",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787691831
   }
  },
  "baseline": {
@@ -472,6 +472,10 @@
    [
     1787687771,
     4
+   ],
+   [
+    1787691831,
+    1
    ]
   ]
  },
