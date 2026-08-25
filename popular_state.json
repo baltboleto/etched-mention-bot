@@ -32,7 +32,9 @@
    "followers": 17,
    "url": "https://x.com/launcharchive/status/2092266853024321827",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "1": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787672558
@@ -58,6 +60,17 @@
    "promoted": false,
    "miss": 0,
    "added": 1787672558
+  },
+  "2092278634740408326": {
+   "created": 1787673073,
+   "author": "almostcmb",
+   "followers": 9934,
+   "url": "https://x.com/almostcmb/status/2092278634740408326",
+   "disc_score": 2,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787674768
   }
  },
  "baseline": {
@@ -448,6 +461,10 @@
    ],
    [
     1787672558,
+    0
+   ],
+   [
+    1787674769,
     0
    ]
   ]
