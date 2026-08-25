@@ -6,6 +6,9 @@ on:
       hours:
         description: "How far back to look"
         default: "48"
+      extra:
+        description: "Extra flags: --dry (audit only) and/or --skip=id1,id2"
+        default: ""
 
 jobs:
   backfill:
@@ -24,4 +27,4 @@ jobs:
           SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
           SLACK_POPULAR_CHANNEL: ${{ secrets.SLACK_POPULAR_CHANNEL }}
           SLACK_POPULAR_WEBHOOK_URL: ${{ secrets.SLACK_POPULAR_WEBHOOK_URL }}
-        run: python backfill_popular.py ${{ inputs.hours }}
+        run: python backfill_popular.py ${{ inputs.hours }} ${{ inputs.extra }}
