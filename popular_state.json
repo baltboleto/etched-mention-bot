@@ -1,31 +1,5 @@
 {
  "watch": {
-  "2092248868247454072": {
-   "created": 1787665976,
-   "author": "KCEX_Turkey",
-   "followers": 33459,
-   "url": "https://x.com/KCEX_Turkey/status/2092248868247454072",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787666233
-  },
-  "2092244549699572031": {
-   "created": 1787664947,
-   "author": "selfcustodykrux",
-   "followers": 2860,
-   "url": "https://x.com/selfcustodykrux/status/2092244549699572031",
-   "disc_score": 13,
-   "checks": {
-    "1": 22
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787666233
-  },
   "2092266853024321827": {
    "created": 1787670264,
    "author": "launcharchive",
@@ -45,7 +19,9 @@
    "followers": 10229,
    "url": "https://x.com/dvbydt/status/2092275800221651345",
    "disc_score": 1,
-   "checks": {},
+   "checks": {
+    "1": 15
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787672558
@@ -56,7 +32,9 @@
    "followers": 138,
    "url": "https://x.com/clyons/status/2092275455856427063",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "1": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787672558
@@ -67,10 +45,23 @@
    "followers": 9934,
    "url": "https://x.com/almostcmb/status/2092278634740408326",
    "disc_score": 2,
-   "checks": {},
+   "checks": {
+    "1": 3
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787674768
+  },
+  "2092295985988796523": {
+   "created": 1787677210,
+   "author": "HolderOftheFire",
+   "followers": 17196,
+   "url": "https://x.com/HolderOftheFire/status/2092295985988796523",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787677545
   }
  },
  "baseline": {
@@ -466,6 +457,18 @@
    [
     1787674769,
     0
+   ],
+   [
+    1787677545,
+    15
+   ],
+   [
+    1787677545,
+    0
+   ],
+   [
+    1787677545,
+    3
    ]
   ]
  },
