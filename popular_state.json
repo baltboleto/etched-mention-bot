@@ -1,18 +1,5 @@
 {
  "watch": {
-  "2092350812152332788": {
-   "created": 1787690282,
-   "author": "balllvest",
-   "followers": 69,
-   "url": "https://x.com/balllvest/status/2092350812152332788",
-   "disc_score": 0,
-   "checks": {
-    "1": 1
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787691831
-  },
   "2092361282292777250": {
    "created": 1787692778,
    "author": "siliconcodesign",
@@ -129,6 +116,28 @@
    "promoted": false,
    "miss": 0,
    "added": 1787697947
+  },
+  "2092397944880181315": {
+   "created": 1787701519,
+   "author": "longinussy",
+   "followers": 79,
+   "url": "https://x.com/longinussy/status/2092397944880181315",
+   "disc_score": 2,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787701788
+  },
+  "2092395828228817252": {
+   "created": 1787701014,
+   "author": "IbrahimDagher20",
+   "followers": 1023,
+   "url": "https://x.com/IbrahimDagher20/status/2092395828228817252",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787701788
   }
  },
  "baseline": {
