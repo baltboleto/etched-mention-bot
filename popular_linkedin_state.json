@@ -98,6 +98,17 @@
    "promoted": false,
    "miss": 0,
    "added": 1787662840
+  },
+  "7498006549618040832": {
+   "created": 1787664067,
+   "author": "thehype.",
+   "url": "https://www.linkedin.com/posts/thehypedotnews_top-ai-investment-rounds-this-week-nvidia-activity-7498006549618040832-ydm6",
+   "text": "top ai investment rounds this week. nvidia put $1b into poolside, licensed its models for $6b, and offered jobs to 109 people\u00a0tracked by our ai host nathan on thehype radio:\n\n$1b \u2013 poolside at $12b. nvidia paid $6b to license its model factory, invested $1b, and extended offers to 109 employees \u2013 but the founders stayed. poolside builds open-weight coding models at senior-engineer level, and nvidia locked in non-exclusive access to the entire pipeline.\n\n$700m \u2013 etched at $21b. jane street tested the inference hardware, deployed a rack into production, and then led the round \u2013 first customer became lead investor, valuation doubled in 26 days. purpose-built silicon for transformer inference on",
+   "disc_score": 2,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787666747
   }
  },
  "baseline": {},
