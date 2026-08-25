@@ -6,7 +6,9 @@
    "followers": 14684,
    "url": "https://x.com/SVTrivo/status/2092132944123224307",
    "disc_score": 2,
-   "checks": {},
+   "checks": {
+    "1": 19
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787638881
@@ -17,10 +19,23 @@
    "followers": 4,
    "url": "https://x.com/larpeoqi/status/2092133518981878011",
    "disc_score": 1,
-   "checks": {},
+   "checks": {
+    "1": 1
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787638881
+  },
+  "2092146785514836018": {
+   "created": 1787641638,
+   "author": "KCEX_Persian",
+   "followers": 9552,
+   "url": "https://x.com/KCEX_Persian/status/2092146785514836018",
+   "disc_score": 1,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787644702
   }
  },
  "baseline": {
@@ -352,6 +367,14 @@
    [
     1787638881,
     84.7
+   ],
+   [
+    1787644702,
+    19
+   ],
+   [
+    1787644702,
+    1
    ]
   ]
  },
