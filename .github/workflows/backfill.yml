@@ -1,0 +1,27 @@
+name: Backfill popular channel
+
+on:
+  workflow_dispatch:
+    inputs:
+      hours:
+        description: "How far back to look"
+        default: "48"
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Backfill
+        env:
+          TWAPI_KEY: ${{ secrets.TWAPI_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
+          SLACK_POPULAR_CHANNEL: ${{ secrets.SLACK_POPULAR_CHANNEL }}
+          SLACK_POPULAR_WEBHOOK_URL: ${{ secrets.SLACK_POPULAR_WEBHOOK_URL }}
+        run: python backfill_popular.py ${{ inputs.hours }}
