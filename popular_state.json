@@ -1,57 +1,5 @@
 {
  "watch": {
-  "2092208098987356625": {
-   "created": 1787656256,
-   "author": "cmschroed",
-   "followers": 12730,
-   "url": "https://x.com/cmschroed/status/2092208098987356625",
-   "disc_score": 0,
-   "checks": {
-    "1": 4
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787657318
-  },
-  "2092205598758588594": {
-   "created": 1787655660,
-   "author": "seidtweets",
-   "followers": 2811,
-   "url": "https://x.com/seidtweets/status/2092205598758588594",
-   "disc_score": 0,
-   "checks": {
-    "1": 9
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787657318
-  },
-  "2092217666928787877": {
-   "created": 1787658537,
-   "author": "seidtweets",
-   "followers": 2812,
-   "url": "https://x.com/seidtweets/status/2092217666928787877",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787659062
-  },
-  "2092218057221660759": {
-   "created": 1787658631,
-   "author": "KCEX_Vietnam",
-   "followers": 31608,
-   "url": "https://x.com/KCEX_Vietnam/status/2092218057221660759",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787659062
-  },
   "2092218482549305833": {
    "created": 1787658732,
    "author": "KCEX_Korea",
@@ -60,32 +8,6 @@
    "disc_score": 0,
    "checks": {
     "1": 1
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787659062
-  },
-  "2092218247219486956": {
-   "created": 1787658676,
-   "author": "KCEX_CIS",
-   "followers": 3228,
-   "url": "https://x.com/KCEX_CIS/status/2092218247219486956",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787659062
-  },
-  "2092218325665452437": {
-   "created": 1787658695,
-   "author": "KCEX_Ukraine",
-   "followers": 1152,
-   "url": "https://x.com/KCEX_Ukraine/status/2092218325665452437",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
    },
    "promoted": false,
    "miss": 0,
@@ -134,7 +56,9 @@
    "followers": 2860,
    "url": "https://x.com/selfcustodykrux/status/2092244549699572031",
    "disc_score": 13,
-   "checks": {},
+   "checks": {
+    "1": 22
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787666233
@@ -521,6 +445,10 @@
    [
     1787666233,
     0
+   ],
+   [
+    1787669524,
+    22
    ]
   ]
  },
