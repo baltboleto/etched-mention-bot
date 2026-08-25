@@ -1,25 +1,14 @@
 {
  "watch": {
-  "2092146785514836018": {
-   "created": 1787641638,
-   "author": "KCEX_Persian",
-   "followers": 9552,
-   "url": "https://x.com/KCEX_Persian/status/2092146785514836018",
-   "disc_score": 1,
-   "checks": {
-    "1": 2
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787644702
-  },
   "2092175043900162128": {
    "created": 1787648375,
    "author": "boulatbek",
    "followers": 105,
    "url": "https://x.com/boulatbek/status/2092175043900162128",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "1": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787650568
@@ -366,6 +355,10 @@
    [
     1787647942,
     2
+   ],
+   [
+    1787652756,
+    0
    ]
   ]
  },
