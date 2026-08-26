@@ -6,8 +6,10 @@
    "url": "https://www.linkedin.com/posts/fadeadeniyi_want-to-know-where-the-next-big-career-opportunities-activity-7497906291743354881--crr",
    "text": "Want to know where the next big career opportunities could be?\n\nDon\u2019t just watch who is hiring.\n\nWatch who is getting funded.\n\nBecause when investors put hundreds of millions into a company, they\u2019re not just betting on that business.\n\nThey\u2019re betting on a market they believe is about to get much bigger.\n\nI looked at some of the biggest funding rounds announced this week.\n\nHere are 6 companies that raised serious money this week:\n\n1. Etched: $700M | $21B valuation\nAI chips and inference infrastructure.\nJobs: https://lnkd.in/deBZtQ9U\n\n2. Rillet:  $100M Series C | $1B valuation\nAI-native accounting and ERP.\nJobs: https://lnkd.in/ds7Brf5F\n\n3. Navi: $100M | ~$1.3B valuation\nFintech.\nJobs: https:/",
    "disc_score": 41,
-   "checks": {},
-   "promoted": false,
+   "checks": {
+    "24": 231
+   },
+   "promoted": true,
    "miss": 0,
    "added": 1787641630
   },
@@ -17,7 +19,9 @@
    "url": "https://www.linkedin.com/posts/berthold-baurek-karlic-30228045_privatemarkets-venturecapital-privateequity-activity-7497910368145645568-9I5N",
    "text": "PRIVATE MARKETS CEO BRIEFING #01\n\n>> Capital is back \u2014 but highly selective << \n\nPrivate capital is returning to specific segments: scalable infrastructure, operational buy-and-build strategies, institutional tokenisation and companies with genuine strategic relevance.\n\nFive developments CEOs and investors should watch:\n\n1. Fresh capital for DACH buy-and-build\n\nVALU Invest raised approximately EUR 80 million in equity and now has more than EUR 214 million available for established DACH SMEs.\n\nIts focus on succession, fragmented markets and technology-enabled transformation confirms that Mittelstand consolidation remains a strong private-equity theme.\n\n2. Europe\u2019s public\u2013private valuation gap",
    "disc_score": 11,
-   "checks": {},
+   "checks": {
+    "24": 23
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787644669
@@ -28,7 +32,9 @@
    "url": "https://www.linkedin.com/posts/swarmconnection_swarmconnection-signalsbyswarm-yapayzeka-activity-7497910837337235457-3OiT",
    "text": "Bu hafta yapay zek\u00e2 ve giri\u015fimcilik ekosisteminin en kritik geli\u015fmelerini mercek alt\u0131na ald\u0131k:\n\n\u2022 Etched\u2019in 21 milyar dolarl\u0131k de\u011ferlemesi ve AI \u00e7ip yar\u0131\u015f\u0131nda m\u00fc\u015fteri kan\u0131t\u0131n\u0131n y\u00fckselen \u00f6nemi\n \u2022 K\u00fcresel VC yat\u0131r\u0131mlar\u0131nda rekor seviyeler ve sermayenin giderek daha az say\u0131da giri\u015fimde yo\u011funla\u015fmas\u0131\n \u2022 T\u00fcrkiye\u2019den tamamen yapay zek\u00e2 ile \u00fcretilen ilk uzun formatl\u0131 dizinin Amazon Prime Video\u2019da yay\u0131na girmesi\n \u2022 Castelion\u2019un 1 milyar dolar\u0131 a\u015fan hibrit finansman modeli ve giri\u015fimcilikte de\u011fi\u015fen sermaye yap\u0131s\u0131\n\nYapay zek\u00e2 ve startup ekosistemindeki kritik geli\u015fmeleri ka\u00e7\u0131rmamak i\u00e7in Signals by Swarm haber b\u00fcltenimize abone olun.\n\n#SwarmConnection #SignalsBySwarm #YapayZeka #AI #Startup #Giri\u015fimcili",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787644669
@@ -177,7 +183,28 @@
    "added": 1787719278
   }
  },
- "baseline": {},
- "promoted": [],
+ "baseline": {
+  "24": [
+   [
+    1787727815,
+    231
+   ],
+   [
+    1787727815,
+    23
+   ],
+   [
+    1787727815,
+    0
+   ]
+  ]
+ },
+ "promoted": [
+  [
+   1787727815,
+   "7497906291743354881",
+   231
+  ]
+ ],
  "seeded": true
 }
