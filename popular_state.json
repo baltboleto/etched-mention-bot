@@ -1,43 +1,15 @@
 {
  "watch": {
-  "2092652670414930136": {
-   "created": 1787762250,
-   "author": "iammeetkakkad",
-   "followers": 1094,
-   "url": "https://x.com/iammeetkakkad/status/2092652670414930136",
-   "disc_score": 1,
-   "checks": {
-    "1": null
-   },
+  "2092730595860476335": {
+   "created": 1787780829,
+   "author": "levidiamode",
+   "followers": 6620,
+   "url": "https://x.com/levidiamode/status/2092730595860476335",
+   "disc_score": 9,
+   "checks": {},
    "promoted": false,
    "miss": 0,
-   "added": 1787763602
-  },
-  "2092654381695221980": {
-   "created": 1787762658,
-   "author": "50to15",
-   "followers": 289,
-   "url": "https://x.com/50to15/status/2092654381695221980",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787763602
-  },
-  "2092662326528979268": {
-   "created": 1787764553,
-   "author": "stan_info",
-   "followers": 476,
-   "url": "https://x.com/stan_info/status/2092662326528979268",
-   "disc_score": 2,
-   "checks": {
-    "1": 2
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787771656
+   "added": 1787782643
   }
  },
  "baseline": {
