@@ -1,38 +1,14 @@
 {
  "watch": {
-  "2092628657726509548": {
-   "created": 1787756525,
-   "author": "lanoixdu24",
-   "followers": 1178,
-   "url": "https://x.com/lanoixdu24/status/2092628657726509548",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787760389
-  },
-  "2092632324101833001": {
-   "created": 1787757399,
-   "author": "RIsanians",
-   "followers": 382,
-   "url": "https://x.com/RIsanians/status/2092632324101833001",
-   "disc_score": 1,
-   "checks": {
-    "1": 1
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787760389
-  },
   "2092652670414930136": {
    "created": 1787762250,
    "author": "iammeetkakkad",
    "followers": 1094,
    "url": "https://x.com/iammeetkakkad/status/2092652670414930136",
    "disc_score": 1,
-   "checks": {},
+   "checks": {
+    "1": null
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787763602
@@ -43,10 +19,25 @@
    "followers": 289,
    "url": "https://x.com/50to15/status/2092654381695221980",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "1": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787763602
+  },
+  "2092662326528979268": {
+   "created": 1787764553,
+   "author": "stan_info",
+   "followers": 476,
+   "url": "https://x.com/stan_info/status/2092662326528979268",
+   "disc_score": 2,
+   "checks": {
+    "1": 2
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1787771656
   }
  },
  "baseline": {
@@ -606,6 +597,14 @@
    [
     1787763603,
     1
+   ],
+   [
+    1787771657,
+    0
+   ],
+   [
+    1787771657,
+    2
    ]
   ]
  },
