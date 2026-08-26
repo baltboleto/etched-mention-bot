@@ -1,18 +1,5 @@
 {
  "watch": {
-  "2092601775186489663": {
-   "created": 1787750116,
-   "author": "jrdothoughts",
-   "followers": 6449,
-   "url": "https://x.com/jrdothoughts/status/2092601775186489663",
-   "disc_score": 5,
-   "checks": {
-    "1": 6
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787752545
-  },
   "2092628657726509548": {
    "created": 1787756525,
    "author": "lanoixdu24",
@@ -32,10 +19,34 @@
    "followers": 382,
    "url": "https://x.com/RIsanians/status/2092632324101833001",
    "disc_score": 1,
-   "checks": {},
+   "checks": {
+    "1": 1
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787760389
+  },
+  "2092652670414930136": {
+   "created": 1787762250,
+   "author": "iammeetkakkad",
+   "followers": 1094,
+   "url": "https://x.com/iammeetkakkad/status/2092652670414930136",
+   "disc_score": 1,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787763602
+  },
+  "2092654381695221980": {
+   "created": 1787762658,
+   "author": "50to15",
+   "followers": 289,
+   "url": "https://x.com/50to15/status/2092654381695221980",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787763602
   }
  },
  "baseline": {
@@ -591,6 +602,10 @@
    [
     1787760389,
     0
+   ],
+   [
+    1787763603,
+    1
    ]
   ]
  },
