@@ -1,38 +1,14 @@
 {
  "watch": {
-  "2092406595489763776": {
-   "created": 1787703582,
-   "author": "brandonguo",
-   "followers": 899,
-   "url": "https://x.com/brandonguo/status/2092406595489763776",
-   "disc_score": 2,
-   "checks": {
-    "1": 2
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787707285
-  },
-  "2092401305364939255": {
-   "created": 1787702320,
-   "author": "kekmaomaster",
-   "followers": 46,
-   "url": "https://x.com/kekmaomaster/status/2092401305364939255",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787707285
-  },
   "2092439809751155146": {
    "created": 1787711500,
    "author": "VBalanaga",
    "followers": 82,
    "url": "https://x.com/VBalanaga/status/2092439809751155146",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "1": 4
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787712482
@@ -43,7 +19,9 @@
    "followers": 159,
    "url": "https://x.com/krolmacius/status/2092431715905982973",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "1": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787712482
@@ -54,10 +32,34 @@
    "followers": 30,
    "url": "https://x.com/sassysquirrel69/status/2092432708274123049",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "1": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787712482
+  },
+  "2092448952725757989": {
+   "created": 1787713680,
+   "author": "fcvprzhfgsybj",
+   "followers": 1804,
+   "url": "https://x.com/fcvprzhfgsybj/status/2092448952725757989",
+   "disc_score": 1,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787716464
+  },
+  "2092460206278209635": {
+   "created": 1787716363,
+   "author": "2thcrva",
+   "followers": 6,
+   "url": "https://x.com/2thcrva/status/2092460206278209635",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787716464
   }
  },
  "baseline": {
@@ -540,6 +542,18 @@
    ],
    [
     1787707286,
+    0
+   ],
+   [
+    1787716464,
+    4
+   ],
+   [
+    1787716464,
+    0
+   ],
+   [
+    1787716464,
     0
    ]
   ]
