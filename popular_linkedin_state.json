@@ -164,6 +164,17 @@
    "promoted": false,
    "miss": 0,
    "added": 1787700996
+  },
+  "7498227757622120448": {
+   "created": 1787716807,
+   "author": "Mohd. Umar Raza",
+   "url": "https://www.linkedin.com/posts/mohd-umar-raza-3287ba104_etched-just-doubled-its-valuation-to-21b-activity-7498227757622120448-Ntuz",
+   "text": "Etched just doubled its valuation to $21B in 30 days. Not a year \u2014 a month.\n\n$700M raised. And here's the part I can't get over: they don't build a single model.\n\nEveryone told me the chip race was already over. Nvidia won; the only question left was who finishes second. Etched isn't playing for second.\n\nLet me walk you through what actually happened here:\n\n1. They went narrow while everyone else went wide. Their entire bet is silicon that runs one thing \u2014 transformers. That's it. No flexibility, no hedging. Nvidia will sell you a GPU that does anything. Etched sells you a chip that does one thing faster than a general-purpose GPU ever could. Sounds insane until you realise compute is the bo",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787719278
   }
  },
  "baseline": {},
