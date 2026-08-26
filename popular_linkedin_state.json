@@ -1,44 +1,5 @@
 {
  "watch": {
-  "7497906291743354881": {
-   "created": 1787640164,
-   "author": "Fad\u00e9 Adeniyi",
-   "url": "https://www.linkedin.com/posts/fadeadeniyi_want-to-know-where-the-next-big-career-opportunities-activity-7497906291743354881--crr",
-   "text": "Want to know where the next big career opportunities could be?\n\nDon\u2019t just watch who is hiring.\n\nWatch who is getting funded.\n\nBecause when investors put hundreds of millions into a company, they\u2019re not just betting on that business.\n\nThey\u2019re betting on a market they believe is about to get much bigger.\n\nI looked at some of the biggest funding rounds announced this week.\n\nHere are 6 companies that raised serious money this week:\n\n1. Etched: $700M | $21B valuation\nAI chips and inference infrastructure.\nJobs: https://lnkd.in/deBZtQ9U\n\n2. Rillet:  $100M Series C | $1B valuation\nAI-native accounting and ERP.\nJobs: https://lnkd.in/ds7Brf5F\n\n3. Navi: $100M | ~$1.3B valuation\nFintech.\nJobs: https:/",
-   "disc_score": 41,
-   "checks": {
-    "24": 231
-   },
-   "promoted": true,
-   "miss": 0,
-   "added": 1787641630
-  },
-  "7497910368145645568": {
-   "created": 1787641136,
-   "author": "Berthold Baurek-Karlic",
-   "url": "https://www.linkedin.com/posts/berthold-baurek-karlic-30228045_privatemarkets-venturecapital-privateequity-activity-7497910368145645568-9I5N",
-   "text": "PRIVATE MARKETS CEO BRIEFING #01\n\n>> Capital is back \u2014 but highly selective << \n\nPrivate capital is returning to specific segments: scalable infrastructure, operational buy-and-build strategies, institutional tokenisation and companies with genuine strategic relevance.\n\nFive developments CEOs and investors should watch:\n\n1. Fresh capital for DACH buy-and-build\n\nVALU Invest raised approximately EUR 80 million in equity and now has more than EUR 214 million available for established DACH SMEs.\n\nIts focus on succession, fragmented markets and technology-enabled transformation confirms that Mittelstand consolidation remains a strong private-equity theme.\n\n2. Europe\u2019s public\u2013private valuation gap",
-   "disc_score": 11,
-   "checks": {
-    "24": 23
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787644669
-  },
-  "7497910837337235457": {
-   "created": 1787641248,
-   "author": "Swarm Connection",
-   "url": "https://www.linkedin.com/posts/swarmconnection_swarmconnection-signalsbyswarm-yapayzeka-activity-7497910837337235457-3OiT",
-   "text": "Bu hafta yapay zek\u00e2 ve giri\u015fimcilik ekosisteminin en kritik geli\u015fmelerini mercek alt\u0131na ald\u0131k:\n\n\u2022 Etched\u2019in 21 milyar dolarl\u0131k de\u011ferlemesi ve AI \u00e7ip yar\u0131\u015f\u0131nda m\u00fc\u015fteri kan\u0131t\u0131n\u0131n y\u00fckselen \u00f6nemi\n \u2022 K\u00fcresel VC yat\u0131r\u0131mlar\u0131nda rekor seviyeler ve sermayenin giderek daha az say\u0131da giri\u015fimde yo\u011funla\u015fmas\u0131\n \u2022 T\u00fcrkiye\u2019den tamamen yapay zek\u00e2 ile \u00fcretilen ilk uzun formatl\u0131 dizinin Amazon Prime Video\u2019da yay\u0131na girmesi\n \u2022 Castelion\u2019un 1 milyar dolar\u0131 a\u015fan hibrit finansman modeli ve giri\u015fimcilikte de\u011fi\u015fen sermaye yap\u0131s\u0131\n\nYapay zek\u00e2 ve startup ekosistemindeki kritik geli\u015fmeleri ka\u00e7\u0131rmamak i\u00e7in Signals by Swarm haber b\u00fcltenimize abone olun.\n\n#SwarmConnection #SignalsBySwarm #YapayZeka #AI #Startup #Giri\u015fimcili",
-   "disc_score": 0,
-   "checks": {
-    "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787644669
-  },
   "7497925198122270720": {
    "created": 1787644671,
    "author": "Grishin Robotics",
@@ -285,6 +246,83 @@
    "promoted": false,
    "miss": 0,
    "added": 1787759618
+  },
+  "7498446824211468288": {
+   "created": 1787769037,
+   "author": "Nexithon Technologies",
+   "url": "https://www.linkedin.com/posts/nexithon-technologies_ai-semiconductors-inference-activity-7498446824211468288-YZFH",
+   "text": "Why did a one-trick chip startup double to a $21B valuation in a single month?\n\n\u2192 Etched's Sohu ASIC is now shipping racks to Jane Street on $1B+ of signed contracts\n\u2192 The bet is narrow: silicon built for transformers alone, exposed if the architecture shifts\n\nHow would your inference roadmap change if one chip family locked in transformer economics?\n\n#AI #Semiconductors #Inference #Etched #Datacenter\n\n\nhttps://lnkd.in/eU5rmGSk",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787771761
+  },
+  "7498440462580518913": {
+   "created": 1787767520,
+   "author": "Jason Goodison",
+   "url": "https://www.linkedin.com/posts/jasonlevigoodison_this-week-i-sat-down-in-thecubes-palo-alto-activity-7498440462580518913-QcDu",
+   "text": "This week I sat down in theCUBE's Palo Alto studio with John Furrier for the AI Factories series, broadcast on NYSE Wired.\n\nWe got into the stuff I could talk about all day: \n\n> Why a GPU was built for graphics processing and what that means for inference, \n> Why model bring-up is a real bottleneck for alternative silicon, and,\n> What changes when enterprises start asking for Cerebras, Etched, and SambaNova  by name.\n\nTwo years ago alternative silicon was not on the radar for most, now it is one of the main topics of conversation in the valley. \n\nThanks John for the sharp questions and for actually going deep, not every host lets you get into the KV cache on camera.\n\nAnd thanks to the team b",
+   "disc_score": 25,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787771761
+  },
+  "7498429831613730816": {
+   "created": 1787764985,
+   "author": "BayTech Capital Partners",
+   "url": "https://www.linkedin.com/posts/baytech-capital-partners-llc_venturecapital-fintech-techfinancing-activity-7498429831613730816-MxDT",
+   "text": "\ud83d\ude80 Roughly $4B in tech and fintech capital hit the tape this week, led by defense tech and AI infrastructure.\n\nDefense tech startup Castelion led the week with a Series C package of $800 million in equity plus $250 million in debt, reaching a $13 billion valuation with backing from JPMorgan Chase, Andreessen Horowitz and Carlyle. AI inference chip maker Etched followed with $700 million led by Jane Street at a $21 billion valuation, while AI video platform Higgsfield raised $400 million and Groq raised $350 million. On the fintech side, AI-native ERP provider Rillet crossed the unicorn mark with a $100 million Series C at a $1 billion valuation.\n\n\ud83d\udcca Notable tech financings this week:\n\ud83d\ude80 Casteli",
+   "disc_score": 1,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787771761
+  },
+  "7498425602006425600": {
+   "created": 1787763977,
+   "author": "The Business Post",
+   "url": "https://www.linkedin.com/posts/the-business-post-com_ai-etched-robertwachen-activity-7498425602006425600-zbX3",
+   "text": "AI chip startup Etched, co-founded by Robert W., has raised $700 million in fresh funding at a staggering $21 billion valuation.\n\nThe round was led by Jane Street Street, which is not just an investor\u2014it has also become Etched\u2019s first customer after testing the company\u2019s AI inference hardware. Other investors include Kleiner Perkins , Sequoia Capital , Andreessen Horowitz , Tiger Global, Bain Capital Ventures (BCV) , Neo, Primary, Stripes, Positive Sum and Blackstone.\n\nThe valuation jump is remarkable. Etched was valued at $10.3 billion in July 2026 after raising a $300 million Series C, meaning its valuation more than doubled in less than a month. The company has now raised around $1.9 bill",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787771761
+  },
+  "7498422112202821632": {
+   "created": 1787763145,
+   "author": "Noah O. Kabir",
+   "url": "https://www.linkedin.com/posts/noah-o-kabir-57680b408_ai-tech-startup-activity-7498422112202821632-EFye",
+   "text": "The problem Etched is solving helped turn three Harvard dropouts into a $21B AI company.\n\nBy tackling thermal throttling and memory bottlenecks, Etched is redesigning AI inference from the silicon to the rack, unlocking more compute from every watt.\n\nHere\u2019s the technology behind it.\n\n\ud83c\udfa5 indibrief \n#ai #tech #startup #venturecapital #etched",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787771761
+  },
+  "7498391339911417856": {
+   "created": 1787755808,
+   "author": "Artak Seyranyan",
+   "url": "https://www.linkedin.com/posts/artak-seyranyan_6-pre-ipo-companies-everyone-wants-to-buy-activity-7498391339911417856-hpRH",
+   "text": "6 pre-IPO companies everyone wants to buy.\n\nEtched's valuation doubled to $21 billion in a month.\n\nSSI has been stuck at $32 billion for a year, with zero product.\n\nSame market. Opposite stories.\n\nSame problem underneath both: nobody is selling.\n\nSix names moved hard this year. I'm watching all six for one reason, not the usual one.\n\nNot because I have buyers who want in, though I do.\n\nBecause I can't find a single seller on any of them.\n\n\u2192 Neuralink: $9.6B official, last priced in 2025. Secondary bids now run $29B to $60B.\n\n\u2192 Valar Atomics: $2B in March. $6B by August. Sequoia led the round that tripled it.\n\n\u2192 Etched: $5B in December. $21B now. Jane Street tested the chips, then led the rou",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787771761
+  },
+  "7498314716163764225": {
+   "created": 1787737540,
+   "author": "Sushil Jindal",
+   "url": "https://www.linkedin.com/posts/jindalsushil_the-ai-infrastructure-conversation-is-shifting-activity-7498314716163764225-PoG5",
+   "text": "The AI infrastructure conversation is shifting from raw compute to system-level efficiency. Building another fast accelerator is no longer the sole priority; the engineering bottleneck lies in co-designing compute, spatial memory locality, interconnect topologies, and dynamic power budgets into a unified runtime control plane.\n\nLooking across the current commercial landscape, component layers are being aggressively tackled in isolation:\n\nSpecialized Compute Architectures: Companies like Etched focus on dedicated low-voltage decode and prefill silicon, reaching a $21B valuation with over $1B in contracts by optimizing latency and cost-per-token.\n\nHierarchical Memory Grids: Platforms like WEKA",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787771761
   }
  },
  "baseline": {
