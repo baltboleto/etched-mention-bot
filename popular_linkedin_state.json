@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7497975024537030656": {
-   "created": 1787656551,
-   "author": "Christopher M. Schroeder",
-   "url": "https://www.linkedin.com/posts/schroederchrism_weve-raised-700m-at-a-21b-valuation-from-activity-7497975024537030656-06Jj",
-   "text": "This is the most exciting company I know and honored to advise. \n\nA team of audacity, creativity and execution. The best in American building. Congrats @Etched team. The adventure has only begun. \n\nGavin Uberti and Chris Zhu on first meeting were just different minds and visionaries. I\u2019ve known Robert W. for some years -  he brings not only workd class leadership but the rarest of combinations: the highest character and integrity.",
-   "disc_score": 5,
-   "checks": {
-    "24": 6
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787658148
-  },
   "7497994566999068672": {
    "created": 1787661210,
    "author": "Avinash A.",
@@ -84,7 +71,9 @@
    "url": "https://www.linkedin.com/posts/gersonmoralesd_silicon-valley-rd-report-activity-7498153782728404993-7hEx",
    "text": "Like much of the Bay Area, the new AI economy is re-shaping Silicon Valley's R&D market. From firms like Etched AI and Rhoda AI, to data center and advanced manufacturing users, a new wave of occupiers is helping absorb space across the region as vacancy and sublease inventory contract. Coupled with Nvidia's campus expansion, the quarter\u2019s activity offered yet more signs that AI growth is translating into base fundamentals for Silicon Valley.\n\u00a0\nSee Newmark\u2019s Q2 Silicon Valley R&D report here: https://lnkd.in/gDhMAUzn\n\u00a0\n#Newmark #NewmarkResearch #SiliconValley #ResearchAndDevelopment #CommercialRealEstate #CRE #AdvancedManufacturing #ArtificialIntelligence #AIInfrastructure #IndustrialRealEst",
    "disc_score": 9,
-   "checks": {},
+   "checks": {
+    "24": 34
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787700996
@@ -95,7 +84,9 @@
    "url": "https://www.linkedin.com/posts/ai-for-vc_semiconductordesign-hardwareengineering-chipdesign-activity-7498152502136225792-PqzC",
    "text": "When you bet on the next AI accelerator, the odds are set by tape\u2010out risk, lock\u2010in, and real\u2010world cost per token. - **Cerebras wafer\u2010scale** \u2013 The CS\u20102 packs hundreds of thousands of cores onto a single 8\u2010inch die, delivering roughly 2\u20103\u00d7 the inference throughput of an 8\u2010GPU NVIDIA H100 server on a 175B model. The upside is latency\u2010critical workloads, but each tape\u2010out costs well over $200 M and relies on a single fab, making the bet extremely binary. - **Specialized ASICs (Graphcore IPU, Etched transformer\u2010only, Groq LPU)** \u2013 Graphcore\u2019s IPU can sustain >1 TFLOP per watt on sparse workloads, Etched removes all non\u2010transformer logic to shave power, and Groq guarantees deterministic latency",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787700996
@@ -297,6 +288,17 @@
    "promoted": false,
    "miss": 0,
    "added": 1787782704
+  },
+  "7498510600310910976": {
+   "created": 1787784242,
+   "author": "Cinderwood",
+   "url": "https://www.linkedin.com/posts/cinderwood_aiinfrastructure-semiconductors-venturecapital-activity-7498510600310910976-nn-9",
+   "text": "Etched closed a $700M Series D at $21B post-money. Led by Jane Street.\n\n\u2733\ufe0e Jul 23, $10.3B on a $300M Series C.\n\u2733\ufe0e Aug 18, $21B. Up 104% in 26 days.\n\u2733\ufe0e Total raised $1.9B. Named customers: 1.\n\nJane Street was already a shareholder in June alongside Hudson River Trading, Jump and Two Sigma, so this is an existing customer & holder increasing its position and taking delivery of the first rack. No independent benchmark on the chip yet.\n\nSecond named customer or second fab commitment. Which lands first?\n\n#AIinfrastructure #semiconductors #venturecapital",
+   "disc_score": 5,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787787062
   }
  },
  "baseline": {
@@ -351,6 +353,14 @@
    ],
    [
     1787782704,
+    0
+   ],
+   [
+    1787787063,
+    34
+   ],
+   [
+    1787787063,
     0
    ]
   ]
