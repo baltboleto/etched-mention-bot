@@ -1,18 +1,5 @@
 {
  "watch": {
-  "2092596105355940032": {
-   "created": 1787748764,
-   "author": "Wapeye",
-   "followers": 137,
-   "url": "https://x.com/Wapeye/status/2092596105355940032",
-   "disc_score": 1,
-   "checks": {
-    "1": 1
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787748827
-  },
   "2092601775186489663": {
    "created": 1787750116,
    "author": "jrdothoughts",
@@ -26,18 +13,29 @@
    "miss": 0,
    "added": 1787752545
   },
-  "2092598210707464300": {
-   "created": 1787749266,
-   "author": "BencyMarrit",
-   "followers": 1617,
-   "url": "https://x.com/BencyMarrit/status/2092598210707464300",
+  "2092628657726509548": {
+   "created": 1787756525,
+   "author": "lanoixdu24",
+   "followers": 1178,
+   "url": "https://x.com/lanoixdu24/status/2092628657726509548",
    "disc_score": 0,
    "checks": {
     "1": 0
    },
    "promoted": false,
    "miss": 0,
-   "added": 1787752545
+   "added": 1787760389
+  },
+  "2092632324101833001": {
+   "created": 1787757399,
+   "author": "RIsanians",
+   "followers": 382,
+   "url": "https://x.com/RIsanians/status/2092632324101833001",
+   "disc_score": 1,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787760389
   }
  },
  "baseline": {
@@ -588,6 +586,10 @@
    ],
    [
     1787755540,
+    0
+   ],
+   [
+    1787760389,
     0
    ]
   ]
