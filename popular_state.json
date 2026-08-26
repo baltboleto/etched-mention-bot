@@ -1,54 +1,39 @@
 {
  "watch": {
-  "2092555846441959885": {
-   "created": 1787739166,
-   "author": "louiscorneloup",
-   "followers": 175,
-   "url": "https://x.com/louiscorneloup/status/2092555846441959885",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787739524
-  },
-  "2092556065950888085": {
-   "created": 1787739218,
-   "author": "tinyarchit1oxb",
-   "followers": 48,
-   "url": "https://x.com/tinyarchit1oxb/status/2092556065950888085",
-   "disc_score": 0,
-   "checks": {
-    "1": 3
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787739524
-  },
-  "2092559732334629132": {
-   "created": 1787740092,
-   "author": "tinyarchit1oxb",
-   "followers": 48,
-   "url": "https://x.com/tinyarchit1oxb/status/2092559732334629132",
-   "disc_score": 1,
-   "checks": {
-    "1": 1
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787742148
-  },
   "2092596105355940032": {
    "created": 1787748764,
    "author": "Wapeye",
    "followers": 137,
    "url": "https://x.com/Wapeye/status/2092596105355940032",
    "disc_score": 1,
-   "checks": {},
+   "checks": {
+    "1": 1
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787748827
+  },
+  "2092601775186489663": {
+   "created": 1787750116,
+   "author": "jrdothoughts",
+   "followers": 6449,
+   "url": "https://x.com/jrdothoughts/status/2092601775186489663",
+   "disc_score": 5,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787752545
+  },
+  "2092598210707464300": {
+   "created": 1787749266,
+   "author": "BencyMarrit",
+   "followers": 1617,
+   "url": "https://x.com/BencyMarrit/status/2092598210707464300",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787752545
   }
  },
  "baseline": {
@@ -587,6 +572,10 @@
    ],
    [
     1787744736,
+    1
+   ],
+   [
+    1787752547,
     1
    ]
   ]
