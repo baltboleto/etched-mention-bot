@@ -1,57 +1,5 @@
 {
  "watch": {
-  "7497925198122270720": {
-   "created": 1787644671,
-   "author": "Grishin Robotics",
-   "url": "https://www.linkedin.com/posts/grishinrobotics_the-august-25-robotics-ai-briefing-assembles-activity-7497925198122270720-dT8S",
-   "text": "The August 25 Robotics + AI briefing assembles 71 funding rounds: 60 disclosed and 11 undisclosed, representing roughly $4.64B in explicit USD-denominated capital, plus EUR 25.8M, A$18.25M, more than GBP 1M, KRW 62B, JPY 1.73B, more than CN\u00a5300M, and several additional yuan rounds described as hundreds or several hundred million across physical AI, agent infrastructure, data centers, enterprise software, healthcare, and industrial automation.\n\nThe largest checks:\nSB Energy $1.5B, Etched $700M, Higgsfield AI $400M, Groq $350M, Wispr Flow $280M, Starcloud $250M, Gravis Robotics $200M, Velaura AI $110M, Callosum and Rillet $100M each, Veeda AI $90M, and Network Bio $50M.\n\nBeyond the headline ro",
-   "disc_score": 3,
-   "checks": {
-    "24": 17
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787647977
-  },
-  "7497925667561324544": {
-   "created": 1787644783,
-   "author": "AIX Capital Group",
-   "url": "https://www.linkedin.com/posts/aixcapital_nvidia-earnings-groq-activity-7497925667561324544-T_0o",
-   "text": "The Godfather of AI, Nvidia reports its quarterly earnings tomorrow.\n\nInvestors are jittery as expected. The stock is down 4% over the last two weeks. The fundamental backdrop however remains strong. \n\nHyperscaler capital expenditures surged 92% year-over-year and 29% quarter-over-quarter in the second quarter, marking the fastest expansion since late 2022. \n\nCloud revenue across the Big 3 accelerated to 43% growth, with aggregate operating margins climbing to a record 39%. Against that spending wave, consensus models expect Nvidia revenue growth to moderate to 13% quarter-over-quarter, down from 20% or more in prior quarters.\n\nAhead of earnings Nvidia rolled out major hardware updates confi",
-   "disc_score": 4,
-   "checks": {
-    "24": 10
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787647977
-  },
-  "7497953560500928512": {
-   "created": 1787651434,
-   "author": "Emeka Onu",
-   "url": "https://www.linkedin.com/posts/emekaonu_15-companies-that-raised-the-biggest-funding-activity-7497953560500928512-N7US",
-   "text": "15 companies that raised the biggest funding rounds in August . They are hiring. Job links are in the comments.\n\n\u2022 Databricks \u2014 $5B\n\u2022 Firmus Technologies \u2014 $2B\n\u2022 Valar Atomics \u2014 $1.2B\n\u2022 River AI  \u2014 $1.1B\n\u2022 Castelion \u2014 $1B\n\u2022 ICEYE \u2014 \u20ac1B\n\u2022 Base Power Company \u2014 $1B\n\u2022 Flexential \u2014 $800M\n\u2022 Form Energy \u2014 $750M\n\u2022 H&MV Engineering \u2014 \u20ac750M\n\u2022 Rigaku \u2014 $720M\n\u2022 Etched \u2014 $700M\n\u2022 Lumilens \u2014 $700M\n\u2022 Function Health \u2014 $450M\n\nSourced from Uncover.\n\nUncover is a career network where you can discover exclusive jobs and book 1:1 sessions with experienced professionals.\n\nIf you\u2019re looking for a job, changing careers, or need guidance on your next move, join Uncover.",
-   "disc_score": 2,
-   "checks": {
-    "24": 2
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787654932
-  },
-  "7497959709849567232": {
-   "created": 1787652900,
-   "author": "Sam Palazzolo",
-   "url": "https://www.linkedin.com/posts/spalazzolo_mckinsey-company-surveyed-419-b2b-pricing-activity-7497959709849567232-_3rr",
-   "text": "McKinsey & Company surveyed 419 B2B pricing executives and asked two questions.\n \n(1) Where is your biggest margin opportunity? 62% named discount approval and governance.\n \n(2) Where are you putting the money? 22% named discount approval and governance.\n \nRenewals scored worse: 60% for impact. 13% for investment.\n \nSit with that for a second. The function every executive identifies as the place margin escapes is the function almost none of them fund. Meanwhile the budget flows to market intelligence, which the same respondents ranked dead last for impact and first for spend.\n \nThis is not a data problem. Companies are not underfunding governance because they lack visibility. They are underf",
-   "disc_score": 0,
-   "checks": {
-    "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787654932
-  },
   "7497975024537030656": {
    "created": 1787656551,
    "author": "Christopher M. Schroeder",
@@ -110,7 +58,9 @@
    "url": "https://www.linkedin.com/posts/ai-insider-intel_ai-technews-startups-activity-7498111059312967680-Q_mk",
    "text": "The AI Insider \ud83d\udcf0 has published another edition of its LinkedIn newsletter, covering a jam-packed week where AI required more chips, more nuclear reactors, more cybersecurity and even the attention of the SEC! \u26a1\ud83d\udd0d \n\nFunding highlights include Etched's $700 million raise at a $21 billion valuation led by Jane Street and Omilia's $67 million Series B. \n\n\ud83d\udde3\ufe0f\u2728 Other stories cover public skepticism toward AI, SpaceX's reported interest in Cognition, Pew Research findings on AI-authored web content, and the Situational Awareness hedge fund's SEC probe! \ud83d\udcc8\n\n#AI #TechNews #Startups #Funding #Automation #Innovation #MachineLearning #AIInfrastructure #AgenticAI #Cybersecurity OpenAI Anthropic NVIDIA Googl",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 10
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787690694
@@ -121,7 +71,9 @@
    "url": "https://www.linkedin.com/posts/o-que-vem-a-i_etcheds-valuation-doubles-to-21b-in-a-month-activity-7498126307671818240-Ott2",
    "text": "\u26a1 A Etched, especializada em sistemas de clusters de IA, teve sua valuation dobrada para US$ 21 bilh\u00f5es em apenas um m\u00eas, ap\u00f3s a instala\u00e7\u00e3o de seu primeiro sistema pela Jane Street.\n\n\ud83d\udca1 **Impacto no Neg\u00f3cio:**\nA r\u00e1pida valoriza\u00e7\u00e3o da Etched demonstra a crescente demanda por solu\u00e7\u00f5es de infraestrutura de IA. Para l\u00edderes e executivos, isso sinaliza uma oportunidade de investimento em tecnologias que podem n\u00e3o apenas otimizar opera\u00e7\u00f5es, mas tamb\u00e9m gerar retornos significativos em um mercado em r\u00e1pida evolu\u00e7\u00e3o.\n\n\ud83c\udfaf **Radar O que vem A.I:**\nConsidere integrar clusters de IA em sua estrat\u00e9gia de TI, n\u00e3o apenas para melhorar a efici\u00eancia, mas tamb\u00e9m para posicionar sua empresa como l\u00edder em inova\u00e7\u00e3o",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787694200
@@ -323,6 +275,28 @@
    "promoted": false,
    "miss": 0,
    "added": 1787771761
+  },
+  "7498478061361762304": {
+   "created": 1787776484,
+   "author": "AI Funding News",
+   "url": "https://www.linkedin.com/posts/ai-funding-news_ainews-ai-artificialintelligence-activity-7498478061361762304-KMpG",
+   "text": "This week's AI Funding News from AI Funding Brief \ud83d\udc47\n\n\ud83d\udd37 Groq Secures $350 Million to Become Neocloud Provider\n\ud83d\udd37 CATL and Quinbrook Secure $469 Million for Supernode Phase 3\n\ud83d\udd37 Synthefy Launches Platform and Secures $6.5M Funding\n\ud83d\udd37 FORT Robotics to Go Public via SPAC Merger\n\ud83d\udd37 Smack Technologies Raises $61 Million for Tactical AI\n\ud83d\udd37 Happy Health Raises $75 Million for AI Home Healthcare\n\ud83d\udd37 GrubMarket Inc. Acquires JR Holland to Enter UK Market\n\ud83d\udd37 Hopscotch Primary Care Raises $53 Million for AI in Rural Healthcare\n\ud83d\udd37 Stigg Acquires Received.ai for AI Contract Management\n\ud83d\udd37 Codio Secures $5 Million for AI Literacy in Education\n\ud83d\udd37 Oakley Capital Acquires Majority Stake in Graphwise\n\ud83d\udd37 Unitree Unveils 'Su",
+   "disc_score": 4,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787782704
+  },
+  "7498454064611921921": {
+   "created": 1787770763,
+   "author": "Boyan Vasilev",
+   "url": "https://www.linkedin.com/posts/boyanv_xta-is-live-on-play-store-we-are-proud-activity-7498454064611921921-KWA8",
+   "text": "Big milestone! Having two codebases to build and maintain is tough but totally worth it. Full native experience and deep integration with both OS is the bar we\u2019ve set for ourselves. \n\nYour grind. Etched. Now on Android as well.",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787782704
   }
  },
  "baseline": {
@@ -370,6 +344,14 @@
    [
     1787755684,
     20
+   ],
+   [
+    1787782704,
+    10
+   ],
+   [
+    1787782704,
+    0
    ]
   ]
  },
