@@ -19,7 +19,9 @@
    "followers": 6449,
    "url": "https://x.com/jrdothoughts/status/2092601775186489663",
    "disc_score": 5,
-   "checks": {},
+   "checks": {
+    "1": 6
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787752545
@@ -30,7 +32,9 @@
    "followers": 1617,
    "url": "https://x.com/BencyMarrit/status/2092598210707464300",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "1": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787752545
@@ -577,6 +581,14 @@
    [
     1787752547,
     1
+   ],
+   [
+    1787755540,
+    6
+   ],
+   [
+    1787755540,
+    0
    ]
   ]
  },
