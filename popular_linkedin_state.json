@@ -45,7 +45,9 @@
    "url": "https://www.linkedin.com/posts/grishinrobotics_the-august-25-robotics-ai-briefing-assembles-activity-7497925198122270720-dT8S",
    "text": "The August 25 Robotics + AI briefing assembles 71 funding rounds: 60 disclosed and 11 undisclosed, representing roughly $4.64B in explicit USD-denominated capital, plus EUR 25.8M, A$18.25M, more than GBP 1M, KRW 62B, JPY 1.73B, more than CN\u00a5300M, and several additional yuan rounds described as hundreds or several hundred million across physical AI, agent infrastructure, data centers, enterprise software, healthcare, and industrial automation.\n\nThe largest checks:\nSB Energy $1.5B, Etched $700M, Higgsfield AI $400M, Groq $350M, Wispr Flow $280M, Starcloud $250M, Gravis Robotics $200M, Velaura AI $110M, Callosum and Rillet $100M each, Veeda AI $90M, and Network Bio $50M.\n\nBeyond the headline ro",
    "disc_score": 3,
-   "checks": {},
+   "checks": {
+    "24": 17
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787647977
@@ -196,6 +198,10 @@
    [
     1787727815,
     0
+   ],
+   [
+    1787731120,
+    17
    ]
   ]
  },
