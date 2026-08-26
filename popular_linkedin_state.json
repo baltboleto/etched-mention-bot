@@ -123,7 +123,9 @@
    "url": "https://www.linkedin.com/posts/thehypedotnews_top-ai-investment-rounds-this-week-nvidia-activity-7498006549618040832-ydm6",
    "text": "top ai investment rounds this week. nvidia put $1b into poolside, licensed its models for $6b, and offered jobs to 109 people\u00a0tracked by our ai host nathan on thehype radio:\n\n$1b \u2013 poolside at $12b. nvidia paid $6b to license its model factory, invested $1b, and extended offers to 109 employees \u2013 but the founders stayed. poolside builds open-weight coding models at senior-engineer level, and nvidia locked in non-exclusive access to the entire pipeline.\n\n$700m \u2013 etched at $21b. jane street tested the inference hardware, deployed a rack into production, and then led the round \u2013 first customer became lead investor, valuation doubled in 26 days. purpose-built silicon for transformer inference on",
    "disc_score": 2,
-   "checks": {},
+   "checks": {
+    "24": 3
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787666747
@@ -134,7 +136,9 @@
    "url": "https://www.linkedin.com/posts/toby-palmer-01281611b_mercuris-weekly-ai-mediatech-digest-our-activity-7498022729418248192-roQv",
    "text": "Mercuri's Weekly AI & MediaTech Digest\n\nOur roundup of weekly news across Media, Entertainment and AI.\n\n1.  Callosum raised a $100m seed round, led by Atomico with backing from Plural, DCVC and the UK Sovereign AI Fund. The company is building a heterogeneous compute layer that matches AI workloads across different models and chip architectures to optimise cost and performance.\n\nhttps://lnkd.in/eRxbMdA4\n\n2.  OpenAI has slowed frontier model development over emerging cyber capabilities. It paused RL training on its latest models for two weeks, while its largest planned frontier RL run remains on hold after upcoming model Astra showed possible \u201cCritical\u201d cyber capabilities.\n\nhttps://lnkd.in/e3",
    "disc_score": 4,
-   "checks": {},
+   "checks": {
+    "24": 20
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787670234
@@ -248,6 +252,17 @@
    "promoted": false,
    "miss": 0,
    "added": 1787748866
+  },
+  "7498390509095153666": {
+   "created": 1787755610,
+   "author": "Svetlana Stepanenko",
+   "url": "https://www.linkedin.com/posts/svestepanenko_startup-founder-ceo-activity-7498390509095153666-5jW-",
+   "text": "\ud83d\ude4f Etched raised $700M at a $21B valuation. Jane Street led. The company is four years old and builds inference clusters for AI compute.\n\nThe market it sells into: AI inference chips at $20.5B in 2026, forecast $37.0B by 2030, a 15.9% CAGR. \n\nHold those two numbers next to each other. The company is valued at roughly the size of its entire current market. That is not a mistake, it is a bet on 2030 being much larger than any forecast currently says.\n\n\nSource: Crunchbase \n\n#startup #founder #ceo #seed",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787755684
   }
  },
  "baseline": {
@@ -287,6 +302,14 @@
    [
     1787748866,
     0
+   ],
+   [
+    1787755684,
+    3
+   ],
+   [
+    1787755684,
+    20
    ]
   ]
  },
