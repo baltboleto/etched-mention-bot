@@ -45,7 +45,9 @@
    "followers": 1804,
    "url": "https://x.com/fcvprzhfgsybj/status/2092448952725757989",
    "disc_score": 1,
-   "checks": {},
+   "checks": {
+    "1": 1
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787716464
@@ -60,6 +62,17 @@
    "promoted": false,
    "miss": 0,
    "added": 1787716464
+  },
+  "2092468208758616136": {
+   "created": 1787718271,
+   "author": "araroux",
+   "followers": 116,
+   "url": "https://x.com/araroux/status/2092468208758616136",
+   "disc_score": 1,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787719248
   }
  },
  "baseline": {
@@ -555,6 +568,10 @@
    [
     1787716464,
     0
+   ],
+   [
+    1787719248,
+    1
    ]
   ]
  },
