@@ -1,31 +1,5 @@
 {
  "watch": {
-  "2092397944880181315": {
-   "created": 1787701519,
-   "author": "longinussy",
-   "followers": 79,
-   "url": "https://x.com/longinussy/status/2092397944880181315",
-   "disc_score": 2,
-   "checks": {
-    "1": 2
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787701788
-  },
-  "2092395828228817252": {
-   "created": 1787701014,
-   "author": "IbrahimDagher20",
-   "followers": 1023,
-   "url": "https://x.com/IbrahimDagher20/status/2092395828228817252",
-   "disc_score": 0,
-   "checks": {
-    "1": 2
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787701788
-  },
   "2092406595489763776": {
    "created": 1787703582,
    "author": "brandonguo",
@@ -51,6 +25,39 @@
    "promoted": false,
    "miss": 0,
    "added": 1787707285
+  },
+  "2092439809751155146": {
+   "created": 1787711500,
+   "author": "VBalanaga",
+   "followers": 82,
+   "url": "https://x.com/VBalanaga/status/2092439809751155146",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787712482
+  },
+  "2092431715905982973": {
+   "created": 1787709571,
+   "author": "krolmacius",
+   "followers": 159,
+   "url": "https://x.com/krolmacius/status/2092431715905982973",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787712482
+  },
+  "2092432708274123049": {
+   "created": 1787709807,
+   "author": "sassysquirrel69",
+   "followers": 30,
+   "url": "https://x.com/sassysquirrel69/status/2092432708274123049",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787712482
   }
  },
  "baseline": {
