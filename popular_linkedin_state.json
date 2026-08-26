@@ -58,7 +58,9 @@
    "url": "https://www.linkedin.com/posts/aixcapital_nvidia-earnings-groq-activity-7497925667561324544-T_0o",
    "text": "The Godfather of AI, Nvidia reports its quarterly earnings tomorrow.\n\nInvestors are jittery as expected. The stock is down 4% over the last two weeks. The fundamental backdrop however remains strong. \n\nHyperscaler capital expenditures surged 92% year-over-year and 29% quarter-over-quarter in the second quarter, marking the fastest expansion since late 2022. \n\nCloud revenue across the Big 3 accelerated to 43% growth, with aggregate operating margins climbing to a record 39%. Against that spending wave, consensus models expect Nvidia revenue growth to moderate to 13% quarter-over-quarter, down from 20% or more in prior quarters.\n\nAhead of earnings Nvidia rolled out major hardware updates confi",
    "disc_score": 4,
-   "checks": {},
+   "checks": {
+    "24": 10
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787647977
@@ -202,6 +204,10 @@
    [
     1787731120,
     17
+   ],
+   [
+    1787734579,
+    10
    ]
   ]
  },
