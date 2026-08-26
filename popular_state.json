@@ -1,25 +1,14 @@
 {
  "watch": {
-  "2092527932552147129": {
-   "created": 1787732511,
-   "author": "chaocacbannn",
-   "followers": 25408,
-   "url": "https://x.com/chaocacbannn/status/2092527932552147129",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787734533
-  },
   "2092555846441959885": {
    "created": 1787739166,
    "author": "louiscorneloup",
    "followers": 175,
    "url": "https://x.com/louiscorneloup/status/2092555846441959885",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "1": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787739524
@@ -30,7 +19,9 @@
    "followers": 48,
    "url": "https://x.com/tinyarchit1oxb/status/2092556065950888085",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "1": 3
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787739524
@@ -41,7 +32,9 @@
    "followers": 48,
    "url": "https://x.com/tinyarchit1oxb/status/2092559732334629132",
    "disc_score": 1,
-   "checks": {},
+   "checks": {
+    "1": 1
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787742148
@@ -572,6 +565,18 @@
    [
     1787737333,
     0
+   ],
+   [
+    1787744736,
+    0
+   ],
+   [
+    1787744736,
+    3
+   ],
+   [
+    1787744736,
+    1
    ]
   ]
  },
