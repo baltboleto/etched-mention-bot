@@ -13,32 +13,6 @@
    "miss": 0,
    "added": 1787712482
   },
-  "2092431715905982973": {
-   "created": 1787709571,
-   "author": "krolmacius",
-   "followers": 159,
-   "url": "https://x.com/krolmacius/status/2092431715905982973",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787712482
-  },
-  "2092432708274123049": {
-   "created": 1787709807,
-   "author": "sassysquirrel69",
-   "followers": 30,
-   "url": "https://x.com/sassysquirrel69/status/2092432708274123049",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787712482
-  },
   "2092448952725757989": {
    "created": 1787713680,
    "author": "fcvprzhfgsybj",
@@ -58,7 +32,9 @@
    "followers": 6,
    "url": "https://x.com/2thcrva/status/2092460206278209635",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "1": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787716464
@@ -572,6 +548,10 @@
    [
     1787719248,
     1
+   ],
+   [
+    1787721428,
+    0
    ]
   ]
  },
