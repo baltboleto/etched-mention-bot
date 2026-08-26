@@ -1,18 +1,5 @@
 {
  "watch": {
-  "2092439809751155146": {
-   "created": 1787711500,
-   "author": "VBalanaga",
-   "followers": 82,
-   "url": "https://x.com/VBalanaga/status/2092439809751155146",
-   "disc_score": 0,
-   "checks": {
-    "1": 4
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787712482
-  },
   "2092448952725757989": {
    "created": 1787713680,
    "author": "fcvprzhfgsybj",
@@ -45,10 +32,23 @@
    "followers": 116,
    "url": "https://x.com/araroux/status/2092468208758616136",
    "disc_score": 1,
-   "checks": {},
+   "checks": {
+    "1": 1
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787719248
+  },
+  "2092489878332166516": {
+   "created": 1787723438,
+   "author": "TheDarkGoldMan",
+   "followers": 531,
+   "url": "https://x.com/TheDarkGoldMan/status/2092489878332166516",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787723995
   }
  },
  "baseline": {
@@ -552,6 +552,10 @@
    [
     1787721428,
     0
+   ],
+   [
+    1787723995,
+    1
    ]
   ]
  },
