@@ -84,7 +84,9 @@
    "url": "https://www.linkedin.com/posts/spalazzolo_mckinsey-company-surveyed-419-b2b-pricing-activity-7497959709849567232-_3rr",
    "text": "McKinsey & Company surveyed 419 B2B pricing executives and asked two questions.\n \n(1) Where is your biggest margin opportunity? 62% named discount approval and governance.\n \n(2) Where are you putting the money? 22% named discount approval and governance.\n \nRenewals scored worse: 60% for impact. 13% for investment.\n \nSit with that for a second. The function every executive identifies as the place margin escapes is the function almost none of them fund. Meanwhile the budget flows to market intelligence, which the same respondents ranked dead last for impact and first for spend.\n \nThis is not a data problem. Companies are not underfunding governance because they lack visibility. They are underf",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787654932
@@ -247,6 +249,10 @@
    [
     1787738205,
     2
+   ],
+   [
+    1787741462,
+    0
    ]
   ]
  },
