@@ -1,44 +1,5 @@
 {
  "watch": {
-  "2092522137357824423": {
-   "created": 1787731129,
-   "author": "Muabansimdep",
-   "followers": 4635,
-   "url": "https://x.com/Muabansimdep/status/2092522137357824423",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787731192
-  },
-  "2092517933763408345": {
-   "created": 1787730127,
-   "author": "nhuhuu7",
-   "followers": 6345,
-   "url": "https://x.com/nhuhuu7/status/2092517933763408345",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787731192
-  },
-  "2092513868635648499": {
-   "created": 1787729157,
-   "author": "NgocMy18x",
-   "followers": 145124,
-   "url": "https://x.com/NgocMy18x/status/2092513868635648499",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787731192
-  },
   "2092527932552147129": {
    "created": 1787732511,
    "author": "chaocacbannn",
@@ -73,6 +34,17 @@
    "promoted": false,
    "miss": 0,
    "added": 1787739524
+  },
+  "2092559732334629132": {
+   "created": 1787740092,
+   "author": "tinyarchit1oxb",
+   "followers": 48,
+   "url": "https://x.com/tinyarchit1oxb/status/2092559732334629132",
+   "disc_score": 1,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787742148
   }
  },
  "baseline": {
