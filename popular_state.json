@@ -6,7 +6,9 @@
    "followers": 4635,
    "url": "https://x.com/Muabansimdep/status/2092522137357824423",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "1": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787731192
@@ -43,7 +45,9 @@
    "followers": 25408,
    "url": "https://x.com/chaocacbannn/status/2092527932552147129",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "1": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787734533
@@ -565,6 +569,14 @@
    ],
    [
     1787734533,
+    0
+   ],
+   [
+    1787737333,
+    0
+   ],
+   [
+    1787737333,
     0
    ]
   ]
