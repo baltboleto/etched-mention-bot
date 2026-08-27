@@ -1,31 +1,5 @@
 {
  "watch": {
-  "7498111059312967680": {
-   "created": 1787688984,
-   "author": "AI Insider",
-   "url": "https://www.linkedin.com/posts/ai-insider-intel_ai-technews-startups-activity-7498111059312967680-Q_mk",
-   "text": "The AI Insider \ud83d\udcf0 has published another edition of its LinkedIn newsletter, covering a jam-packed week where AI required more chips, more nuclear reactors, more cybersecurity and even the attention of the SEC! \u26a1\ud83d\udd0d \n\nFunding highlights include Etched's $700 million raise at a $21 billion valuation led by Jane Street and Omilia's $67 million Series B. \n\n\ud83d\udde3\ufe0f\u2728 Other stories cover public skepticism toward AI, SpaceX's reported interest in Cognition, Pew Research findings on AI-authored web content, and the Situational Awareness hedge fund's SEC probe! \ud83d\udcc8\n\n#AI #TechNews #Startups #Funding #Automation #Innovation #MachineLearning #AIInfrastructure #AgenticAI #Cybersecurity OpenAI Anthropic NVIDIA Googl",
-   "disc_score": 0,
-   "checks": {
-    "24": 10
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787690694
-  },
-  "7498126307671818240": {
-   "created": 1787692620,
-   "author": "O que vem A.I",
-   "url": "https://www.linkedin.com/posts/o-que-vem-a-i_etcheds-valuation-doubles-to-21b-in-a-month-activity-7498126307671818240-Ott2",
-   "text": "\u26a1 A Etched, especializada em sistemas de clusters de IA, teve sua valuation dobrada para US$ 21 bilh\u00f5es em apenas um m\u00eas, ap\u00f3s a instala\u00e7\u00e3o de seu primeiro sistema pela Jane Street.\n\n\ud83d\udca1 **Impacto no Neg\u00f3cio:**\nA r\u00e1pida valoriza\u00e7\u00e3o da Etched demonstra a crescente demanda por solu\u00e7\u00f5es de infraestrutura de IA. Para l\u00edderes e executivos, isso sinaliza uma oportunidade de investimento em tecnologias que podem n\u00e3o apenas otimizar opera\u00e7\u00f5es, mas tamb\u00e9m gerar retornos significativos em um mercado em r\u00e1pida evolu\u00e7\u00e3o.\n\n\ud83c\udfaf **Radar O que vem A.I:**\nConsidere integrar clusters de IA em sua estrat\u00e9gia de TI, n\u00e3o apenas para melhorar a efici\u00eancia, mas tamb\u00e9m para posicionar sua empresa como l\u00edder em inova\u00e7\u00e3o",
-   "disc_score": 0,
-   "checks": {
-    "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787694200
-  },
   "7498153782728404993": {
    "created": 1787699170,
    "author": "Gerson Morales",
@@ -58,7 +32,9 @@
    "url": "https://www.linkedin.com/posts/mohd-umar-raza-3287ba104_etched-just-doubled-its-valuation-to-21b-activity-7498227757622120448-Ntuz",
    "text": "Etched just doubled its valuation to $21B in 30 days. Not a year \u2014 a month.\n\n$700M raised. And here's the part I can't get over: they don't build a single model.\n\nEveryone told me the chip race was already over. Nvidia won; the only question left was who finishes second. Etched isn't playing for second.\n\nLet me walk you through what actually happened here:\n\n1. They went narrow while everyone else went wide. Their entire bet is silicon that runs one thing \u2014 transformers. That's it. No flexibility, no hedging. Nvidia will sell you a GPU that does anything. Etched sells you a chip that does one thing faster than a general-purpose GPU ever could. Sounds insane until you realise compute is the bo",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787719278
@@ -69,7 +45,9 @@
    "url": "https://www.linkedin.com/posts/alex-agafonov_they-dropped-out-of-harvard-at-22-built-activity-7498304701323472896-7KbF",
    "text": "They dropped out of Harvard at 22. Built a chip that does one thing. Runs Transformers. Nothing else. If the Transformer architecture dies, their company dies with it. They know. And they're making the bet. 20x faster than Nvidia. Peter Thiel invested. They're 24\n\nGavin Uberti and Chris Zhu. Met at Harvard. Both computer science. Uberti started building neural networks at 13.\n\nIn 2022, at 22, they dropped out. Founded Etched. The idea sounded insane: what if you build a chip that ONLY runs Transformers? Doesn't train. Doesn't render graphics. Does absolutely nothing else.\n\nEvery Nvidia GPU is a universal tool. It does everything: graphics, scientific computing, AI, crypto mining. That versat",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 5
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787738205
@@ -80,7 +58,9 @@
    "url": "https://www.linkedin.com/posts/aayush-jaiswal060507_etched-went-from-103b-to-21b-in-26-days-activity-7498309547447746561-mstO",
    "text": "Etched went from $10.3B to $21B in 26 days.\n\nThe obvious lesson is about AI infrastructure.\n\nThe more useful lesson is about sequencing.\n\nEtched did not suddenly become valuable because it announced another funding round.\n\nBefore the latest repricing, several things had happened:\n\nIts chip had been manufactured successfully.\n\nThe company said it had more than $1B in customer contracts.\n\nIt raised $300M at a $10.3B valuation in July.\n\nThen Jane Street tested the hardware, became the first customer, and deployed a rack.\n\nA few weeks later, investors priced the company at $21B.\n\nThe order matters.\n\nA lot of founders try to raise conviction with bigger claims.\n\nDeep-tech companies usually need t",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787738205
@@ -91,7 +71,9 @@
    "url": "https://www.linkedin.com/posts/damuwinston_aiinfrastructure-semiconductors-venturecapital-activity-7498311012127805440-ZYW3",
    "text": "Etched just proved its chip works by shipping it to a hedge fund that doesn't tolerate things that don't work.\n\nEtched closed a $700 million round at a $21 billion valuation after delivering its first inference rack to Jane Street. Hours earlier, Velaura AI raised $110 million for chip technology built to cut the power cost of AI compute.\n\n\u2192 $700M raise, $21B valuation\n\u2192 Named customer, not a roadmap promise\n\u2192 Etched builds inference-specific silicon, separate from training chips\n\u2192 Same week: NVIDIA's own roadmap splits inference and training hardware for the first time\n\nTraining chips get the headlines. Inference chips get the bill, every day a product stays live.\n\nInvestors just started pr",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 1
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787738205
@@ -223,7 +205,9 @@
    "url": "https://www.linkedin.com/posts/jindalsushil_the-ai-infrastructure-conversation-is-shifting-activity-7498314716163764225-PoG5",
    "text": "The AI infrastructure conversation is shifting from raw compute to system-level efficiency. Building another fast accelerator is no longer the sole priority; the engineering bottleneck lies in co-designing compute, spatial memory locality, interconnect topologies, and dynamic power budgets into a unified runtime control plane.\n\nLooking across the current commercial landscape, component layers are being aggressively tackled in isolation:\n\nSpecialized Compute Architectures: Companies like Etched focus on dedicated low-voltage decode and prefill silicon, reaching a $21B valuation with over $1B in contracts by optimizing latency and cost-per-token.\n\nHierarchical Memory Grids: Platforms like WEKA",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787771761
@@ -293,6 +277,72 @@
    "promoted": false,
    "miss": 0,
    "added": 1787801490
+  },
+  "7498601940696854528": {
+   "created": 1787806019,
+   "author": "Kush Mehta",
+   "url": "https://www.linkedin.com/posts/kushjmehta_artificialintelligence-aistrategy-digitalsovereignty-activity-7498601940696854528-PEKI",
+   "text": "In June 2026, the US government shut down two AI models used by businesses worldwide.\n\nNot a bug. Not a hack. A political decision.\n\nHere's what happened \u2014 and why it changes everything about AI strategy:\n\ud835\udde7\ud835\uddf5\ud835\uddf2 \ud835\udde6\ud835\uddf5\ud835\ude02\ud835\ude01\ud835\uddf1\ud835\uddfc\ud835\ude04\ud835\uddfb\n\u2192 Trump administration blocked foreign access to Anthropic's Claude Fable 5 and Mythos 5 \n\u2192 Anthropic couldn't distinguish foreign from domestic users in real time \n\u2192 Result: both models went dark globally for nearly 3 weeks \n\u2192 Reason: Anthropic pushed back on Pentagon using AI for autonomous weapons \n\u2192 Pentagon designated Anthropic a \"supply-chain risk to national security\"\n\n\ud835\udde7\ud835\uddf5\ud835\uddf2 \ud835\uddd9\ud835\uddee\ud835\uddf9\ud835\uddf9\ud835\uddfc\ud835\ude02\ud835\ude01\nThe UK government just published its risk assessment. The findings:\n\u2192 Advanced AI models si",
+   "disc_score": 4,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787824058
+  },
+  "7498665375279071233": {
+   "created": 1787821143,
+   "author": "Livio Andrea Acerbo",
+   "url": "https://www.linkedin.com/posts/lacerbo_ai-inference-acerboai-activity-7498665375279071233-wlYx",
+   "text": "THE INFERENCE WAR \u2014 field notes from this week.\n\nI'm watching the cost of intelligence get rewritten in public. Most feeds will treat it as noise.\n\n01  OpenAI Jalape\u00f1o: 1.5\u20131.9\u00d7 more work per watt than Nvidia GB300. Not for sale.\n02  Nvidia \u00d7 Hugging Face: $12.9B reported. The GitHub of AI may sit inside the GPU monopoly.\n03  Etched: $21B in 30 days. Jane Street bought the rack first.\n04  The stack is splitting. Custom chips. Reported roll-ups. Fund-scale inference startups.\n\nIf you operate or advise on this stack, this week changes how you price the next quarter.\n\nDaily brief \u2192 https://www.acerbo.ai/en/\nBook 30 min \u2192 https://lnkd.in/eZwKK8tR\n\n#AI #inference #AcerboAI",
+   "disc_score": 3,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787824058
+  },
+  "7498662764236898304": {
+   "created": 1787820521,
+   "author": "Dutch IT Leaders",
+   "url": "https://www.linkedin.com/posts/dutch-it-leaders_etched-haalt-700-miljoen-dollar-op-tegen-activity-7498662764236898304-l_IF",
+   "text": "Etched haalt 700 miljoen dollar op tegen 21 miljard waardering: Chippionier Etched heeft een kapitaalinjectie van 700 miljoen dollar opgehaald in een financieringsronde geleid door handelshuis Jane Street, met deelname van toonaangevende investeerders als Kleiner Perkins, Sequoia en Andreessen Horowitz. De ronde waardeert de ontwikkelaar van gespecialiseerde AI-hardware op 21 miljard dollar. Tegelijkertijd maakt het bedrijf bekend dat Jane Street de allereerste klant is die het hardware-systeem daadwerkelijk in productie heeft genomen.",
+   "disc_score": 1,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787824058
+  },
+  "7498665377665617920": {
+   "created": 1787821144,
+   "author": "Limited Liability Solutions",
+   "url": "https://www.linkedin.com/posts/limited-liability-solutions_ai-inference-corporatedevelopment-activity-7498665377665617920-Ty80",
+   "text": "THE INFERENCE WAR \u2014 what this week does to the stack.\n\nCapital is concentrating around inference. That is a vendor-risk story, not only a tech headline.\n\n01  OpenAI Jalape\u00f1o: 1.5\u20131.9\u00d7 more work per watt than Nvidia GB300. Not for sale.\n02  Nvidia \u00d7 Hugging Face: $12.9B reported \u2014 unconfirmed, still a monopoly signal.\n03  Etched: $21B in 30 days. Jane Street bought the rack first.\n04  Custom silicon, reported roll-ups, fund-scale inference bets.\n\nBoards and operators should ask which part of the stack they actually own when the bill of materials moves this fast.\n\nBrief for operators \u2192 https://www.acerbo.ai/en/\n\n#AI #inference #corporatedevelopment",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787824058
+  },
+  "7498665376453623808": {
+   "created": 1787821144,
+   "author": "Acerbo.AI",
+   "url": "https://www.linkedin.com/posts/acerbo-ai_ai-inference-acerboai-activity-7498665376453623808--GqM",
+   "text": "THE INFERENCE WAR \u2014 5 signals this week.\n\nThe cost of intelligence is being rewritten. Most feeds will miss it.\n\n01  OpenAI Jalape\u00f1o: 1.5\u20131.9\u00d7 more work per watt than Nvidia GB300. Not for sale.\n02  Nvidia \u00d7 Hugging Face: $12.9B reported. The GitHub of AI may sit inside the GPU monopoly.\n03  Etched: $21B in 30 days. Jane Street bought the rack first.\n04  The stack is splitting. Custom chips. Reported roll-ups. Fund-scale inference startups.\n\nDaily brief for operators \u2014 this is the hub cut.\n\nRead \u2192 https://www.acerbo.ai/en/\nBook 30 min \u2192 https://lnkd.in/eX2b7hzh\n\n#AI #inference #AcerboAI",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787824058
+  },
+  "7498662808809619456": {
+   "created": 1787820532,
+   "author": "Dutch IT Channel",
+   "url": "https://www.linkedin.com/posts/dutch-it-channel_ai-chipmaker-etched-gewaardeerd-op-21-miljard-activity-7498662808809619456-Z8cC",
+   "text": "AI-chipmaker Etched gewaardeerd op 21 miljard dollar: Chippionier Etched heeft een kapitaalinjectie van 700 miljoen dollar opgehaald in een financieringsronde geleid door handelshuis Jane Street, met deelname van toonaangevende investeerders als Kleiner Perkins, Sequoia en Andreessen Horowitz. De ronde waardeert de ontwikkelaar van gespecialiseerde AI-hardware op 21 miljard dollar. Tegelijkertijd maakt het bedrijf bekend dat Jane Street de allereerste klant is die het hardware-systeem daadwerkelijk in productie heeft genomen.",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787824058
   }
  },
  "baseline": {
@@ -355,6 +405,26 @@
    ],
    [
     1787787063,
+    0
+   ],
+   [
+    1787824058,
+    0
+   ],
+   [
+    1787824058,
+    5
+   ],
+   [
+    1787824058,
+    0
+   ],
+   [
+    1787824058,
+    1
+   ],
+   [
+    1787824058,
     0
    ]
   ]
