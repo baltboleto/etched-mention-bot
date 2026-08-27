@@ -1,44 +1,5 @@
 {
  "watch": {
-  "7497994566999068672": {
-   "created": 1787661210,
-   "author": "Avinash A.",
-   "url": "https://www.linkedin.com/posts/anantharamuavinash_michael-burry-flags-new-ai-chip-startup-by-activity-7497994566999068672-YPPY",
-   "text": "NVIDIA best days are behind it time to bet on Etched  says big short  https://lnkd.in/d4F-V_Ui",
-   "disc_score": 0,
-   "checks": {
-    "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787662840
-  },
-  "7498006549618040832": {
-   "created": 1787664067,
-   "author": "thehype.",
-   "url": "https://www.linkedin.com/posts/thehypedotnews_top-ai-investment-rounds-this-week-nvidia-activity-7498006549618040832-ydm6",
-   "text": "top ai investment rounds this week. nvidia put $1b into poolside, licensed its models for $6b, and offered jobs to 109 people\u00a0tracked by our ai host nathan on thehype radio:\n\n$1b \u2013 poolside at $12b. nvidia paid $6b to license its model factory, invested $1b, and extended offers to 109 employees \u2013 but the founders stayed. poolside builds open-weight coding models at senior-engineer level, and nvidia locked in non-exclusive access to the entire pipeline.\n\n$700m \u2013 etched at $21b. jane street tested the inference hardware, deployed a rack into production, and then led the round \u2013 first customer became lead investor, valuation doubled in 26 days. purpose-built silicon for transformer inference on",
-   "disc_score": 2,
-   "checks": {
-    "24": 3
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787666747
-  },
-  "7498022729418248192": {
-   "created": 1787667925,
-   "author": "Toby Palmer",
-   "url": "https://www.linkedin.com/posts/toby-palmer-01281611b_mercuris-weekly-ai-mediatech-digest-our-activity-7498022729418248192-roQv",
-   "text": "Mercuri's Weekly AI & MediaTech Digest\n\nOur roundup of weekly news across Media, Entertainment and AI.\n\n1.  Callosum raised a $100m seed round, led by Atomico with backing from Plural, DCVC and the UK Sovereign AI Fund. The company is building a heterogeneous compute layer that matches AI workloads across different models and chip architectures to optimise cost and performance.\n\nhttps://lnkd.in/eRxbMdA4\n\n2.  OpenAI has slowed frontier model development over emerging cyber capabilities. It paused RL training on its latest models for two weeks, while its largest planned frontier RL run remains on hold after upcoming model Astra showed possible \u201cCritical\u201d cyber capabilities.\n\nhttps://lnkd.in/e3",
-   "disc_score": 4,
-   "checks": {
-    "24": 20
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787670234
-  },
   "7498111059312967680": {
    "created": 1787688984,
    "author": "AI Insider",
@@ -299,6 +260,39 @@
    "promoted": false,
    "miss": 0,
    "added": 1787787062
+  },
+  "7498526715195944960": {
+   "created": 1787788084,
+   "author": "Alan Wizemann",
+   "url": "https://www.linkedin.com/posts/alanwizemann_if-you-are-a-cto-or-svpvp-of-engineering-activity-7498526715195944960-s51T",
+   "text": "If you are a CTO or SVP/VP of Engineering right now and are not looking to bring AI inference and processing in-house for your team and your company, you are positioning yourself and your organization for an expensive and exhaustive future.\n\nI have recently wrapped up a consulting project to do just that for a very large development and sales organization that is on the path to fully owned, 100% in-house inference and development, leveraging large-scale open-source and open-weight models across their entire organization. The math was easy, the technology is there, and the payback is quick. \n\nWith the new large-scale and enterprise hardware now coming to market (Etched is one I am keeping my ",
+   "disc_score": 20,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787801490
+  },
+  "7498533734313250816": {
+   "created": 1787789758,
+   "author": "AI Tech Institute",
+   "url": "https://www.linkedin.com/posts/aitechinstitute_aiinfrastructure-machinelearning-aistrategy-activity-7498533734313250816-7Vyi",
+   "text": "An AI chip startup just doubled its valuation to US$21 billion in under a month. The interesting part isn't the number \u2014 it's what the money is betting on.\n\nEtched raised US$700 million in a round led by trading firm Jane Street, which had tested the hardware and now runs one of Etched's racks in its own datacentre. Kleiner Perkins, Sequoia, Andreessen Horowitz and Tiger Global are among the other investors. The company was valued at around US$10.3 billion in July.\n\nWhat Etched builds: specialised hardware for inference \u2014 running AI models \u2014 rather than training them.\n\nThat distinction is worth understanding, because it explains a lot about where AI is heading.\n\nTraining is the one-off, enor",
+   "disc_score": 1,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787801490
+  },
+  "7498552626268012544": {
+   "created": 1787794262,
+   "author": "\u682a\u5f0f\u4f1a\u793e\u30a2\u30b9\u30af\u300c\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u30fb\u30bd\u30ea\u30e5\u30fc\u30b7\u30e7\u30f3\u90e8\u300d ASK_SSD",
+   "url": "https://www.linkedin.com/posts/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A2%E3%82%B9%E3%82%AF%E3%80%8C%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%BB%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E9%83%A8%E3%80%8D-ask-ssd-63b540228_hpcwire%E3%81%AFai%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%81%AF%E6%8E%A8%E8%AB%96%E9%87%8F%E3%81%AE%E5%A2%97%E5%8A%A0%E3%81%A8hbm%E3%83%A1%E3%83%A2%E3%83%AA%E5%B8%AF%E5%9F%9F%E9%9B%BB%E5%8A%9B%E3%82%B3%E3%82%B9%E3%83%88%E3%81%AE%E5%88%B6%E7%B4%84-activity-7498552626268012544-6UFF",
+   "text": "HPCwire\u306f\u3001AI\u534a\u5c0e\u4f53\u306f\u3001\u63a8\u8ad6\u91cf\u306e\u5897\u52a0\u3068\u3001HBM\u30fb\u30e1\u30e2\u30ea\u5e2f\u57df\u30fb\u96fb\u529b\u30b3\u30b9\u30c8\u306e\u5236\u7d04\u306b\u4f34\u3044\u3001\u6c4e\u7528GPU\u4e2d\u5fc3\u304b\u3089\u3001\u63a8\u8ad6\u306e\u7279\u5b9a\u5de5\u7a0b\u30fb\u7279\u5b9a\u30e2\u30c7\u30eb\u306b\u6700\u9069\u5316\u3057\u305f\u30ab\u30b9\u30bf\u30e0\u30c1\u30c3\u30d7\u3092\u7d44\u307f\u8fbc\u3080\u300c\u7570\u7a2e\u6df7\u5728\u300d\u3078\u5411\u304b\u3063\u3066\u304a\u308a\u3001AMD\u306b\u3088\u308bTaalas\u8cb7\u53ce\u3001Etched\u306e\u5927\u578b\u8abf\u9054\u306f\u3053\u306e\u8ee2\u63db\u3092\u8c61\u5fb4\u3057\u3066\u3044\u308b\u3068\u7d39\u4ecb\u3057\u3066\u3044\u307e\u3059\u3002\n\nhttps://x.gd/B4vAe",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787801490
   }
  },
  "baseline": {
