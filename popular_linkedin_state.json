@@ -1,31 +1,5 @@
 {
  "watch": {
-  "7498153782728404993": {
-   "created": 1787699170,
-   "author": "Gerson Morales",
-   "url": "https://www.linkedin.com/posts/gersonmoralesd_silicon-valley-rd-report-activity-7498153782728404993-7hEx",
-   "text": "Like much of the Bay Area, the new AI economy is re-shaping Silicon Valley's R&D market. From firms like Etched AI and Rhoda AI, to data center and advanced manufacturing users, a new wave of occupiers is helping absorb space across the region as vacancy and sublease inventory contract. Coupled with Nvidia's campus expansion, the quarter\u2019s activity offered yet more signs that AI growth is translating into base fundamentals for Silicon Valley.\n\u00a0\nSee Newmark\u2019s Q2 Silicon Valley R&D report here: https://lnkd.in/gDhMAUzn\n\u00a0\n#Newmark #NewmarkResearch #SiliconValley #ResearchAndDevelopment #CommercialRealEstate #CRE #AdvancedManufacturing #ArtificialIntelligence #AIInfrastructure #IndustrialRealEst",
-   "disc_score": 9,
-   "checks": {
-    "24": 34
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787700996
-  },
-  "7498152502136225792": {
-   "created": 1787698865,
-   "author": "The Semiconductor Tech VC",
-   "url": "https://www.linkedin.com/posts/ai-for-vc_semiconductordesign-hardwareengineering-chipdesign-activity-7498152502136225792-PqzC",
-   "text": "When you bet on the next AI accelerator, the odds are set by tape\u2010out risk, lock\u2010in, and real\u2010world cost per token. - **Cerebras wafer\u2010scale** \u2013 The CS\u20102 packs hundreds of thousands of cores onto a single 8\u2010inch die, delivering roughly 2\u20103\u00d7 the inference throughput of an 8\u2010GPU NVIDIA H100 server on a 175B model. The upside is latency\u2010critical workloads, but each tape\u2010out costs well over $200 M and relies on a single fab, making the bet extremely binary. - **Specialized ASICs (Graphcore IPU, Etched transformer\u2010only, Groq LPU)** \u2013 Graphcore\u2019s IPU can sustain >1 TFLOP per watt on sparse workloads, Etched removes all non\u2010transformer logic to shave power, and Groq guarantees deterministic latency",
-   "disc_score": 0,
-   "checks": {
-    "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787700996
-  },
   "7498227757622120448": {
    "created": 1787716807,
    "author": "Mohd. Umar Raza",
@@ -84,7 +58,9 @@
    "url": "https://www.linkedin.com/posts/sheetventure_semiconductors-aichips-deeptech-activity-7498350785093787649-f1Ok",
    "text": "The AI boom has created a GPU shortage nobody can wait out. Instead of waiting years for new fabs, these startups are solving the bottleneck with smarter interconnects and purpose-built silicon:\n\nAyar Labs (San Jose, US)\nReplaces copper connections with optical interconnect chiplets, letting chips share data faster without needing more physical silicon\n \ud83d\udc49 Mark Wade (Co-founder & CEO)\n\nLightmatter (Mountain View, US)\n3D-stacked optical engine connecting thousands of processors via light instead of electricity, cutting data delays industry-wide\n \ud83d\udc49 Nicholas Harris (Founder & CEO)\n\nGroq (Mountain View, US)\nPurpose-built LPU (Language Processing Unit) delivering instant AI inference as a direct a",
    "disc_score": 6,
-   "checks": {},
+   "checks": {
+    "24": 9
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787748866
@@ -95,7 +71,9 @@
    "url": "https://www.linkedin.com/posts/60-arabianews_60arabia-aeyaeraepaejabraepaedaefaeuaepaehaey-activity-7498348726319509505-qLVi",
    "text": "\u0634\u0631\u0643\u0629 Etched \u062a\u062c\u0645\u0639 \u0667\u0660\u0660 \u0645\u0644\u064a\u0648\u0646 \u062f\u0648\u0644\u0627\u0631 \u0628\u062a\u0642\u064a\u064a\u0645 \u0662\u0661 \u0645\u0644\u064a\u0627\u0631 \u0641\u064a \u062c\u0648\u0644\u0629 \u062a\u0642\u0648\u062f\u0647\u0627 Jane Street\n\n\u0623\u0639\u0644\u0646\u062a \u0634\u0631\u0643\u0629 Etched \u0627\u0644\u0645\u062a\u062e\u0635\u0635\u0629 \u0641\u064a \u062a\u0635\u0645\u064a\u0645 \u0634\u0631\u0627\u0626\u062d \u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a \u0639\u0646 \u0625\u063a\u0644\u0627\u0642 \u062c\u0648\u0644\u0629 \u062a\u0645\u0648\u064a\u0644 \u0636\u062e\u0645\u0629 \u0628\u0642\u064a\u0645\u0629 \u0667\u0660\u0660 \u0645\u0644\u064a\u0648\u0646 \u062f\u0648\u0644\u0627\u0631\u060c \u0642\u0627\u062f\u062a\u0647\u0627 \u0645\u0624\u0633\u0633\u0629 Jane Street \u0627\u0644\u0645\u0627\u0644\u064a\u0629\u060c \u0644\u064a\u0631\u062a\u0641\u0639 \u062a\u0642\u064a\u064a\u0645\u0647\u0627 \u0625\u0644\u0649 \u0662\u0661 \u0645\u0644\u064a\u0627\u0631 \u062f\u0648\u0644\u0627\u0631. \u0648\u062a\u064f\u0631\u0643\u0651\u0632 \u0627\u0644\u0634\u0631\u0643\u0629 \u0639\u0644\u0649 \u062a\u0637\u0648\u064a\u0631 \u0634\u0631\u0627\u0626\u062d \u0645\u062a\u062e\u0635\u0635\u0629 \u062a\u0639\u0645\u0644 \u0628\u0643\u0641\u0627\u0621\u0629 \u0639\u0627\u0644\u064a\u0629 \u0644\u062a\u0634\u063a\u064a\u0644 \u0646\u0645\u0627\u0630\u062c \u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a \u0627\u0644\u062a\u0648\u0644\u064a\u062f\u064a. \u0648\u064a\u064f\u0624\u0643\u062f \u0647\u0630\u0627 \u0627\u0644\u062a\u0645\u0648\u064a\u0644 \u0627\u0644\u0636\u062e\u0645 \u0639\u0644\u0649 \u0627\u0644\u0632\u062e\u0645 \u0627\u0644\u0645\u062a\u0635\u0627\u0639\u062f \u0641\u064a \u0633\u0648\u0642 \u0627\u0644\u0628\u0646\u064a\u0629 \u0627\u0644\u062a\u062d\u062a\u064a\u0629 \u0644\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a.\n\n\ud83d\udd17 \u0631\u0627\u0628\u0637 \u0627\u0644\u0645\u0642\u0627\u0644 \u0641\u064a \u0623\u0648\u0644 \u062a\u0639\u0644\u064a\u0642\n\n#60arabia #\u0630\u0643\u0627\u0621_\u0627\u0635\u0637\u0646\u0627\u0639\u064a #\u062a\u0645\u0648\u064a\u0644 #\u062a\u0643\u0646\u0648\u0644\u0648\u062c\u064a\u0627",
    "disc_score": 18,
-   "checks": {},
+   "checks": {
+    "24": 19
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787748866
@@ -343,6 +321,50 @@
    "promoted": false,
    "miss": 0,
    "added": 1787824058
+  },
+  "7498699194010927104": {
+   "created": 1787829206,
+   "author": "Vishwa Nath Jha",
+   "url": "https://www.linkedin.com/posts/activity-7498699194010927104-rXPK",
+   "text": "Three days at Hot Chips 2026, and the center of gravity wasn't a chip. It was a constraint.\n\nEvery headline architecture \u2014 Google splitting TPU into separate training and serving chips, Intel dropping HBM entirely on Crescent Island, OpenAI's Jalape\u00f1o, Qualcomm burying compute under LPDDR, SanDisk stacking NAND into HBM's form factor \u2014 was a different answer to the same question: not how fast you can compute, but where you can hold the weights and how far they have to travel.\n\nThe most interesting call of the conference: OpenAI, building the highest-volume inference chip on earth, explicitly chose not to disaggregate prefill and decode. Their design principle, in their own words \u2014 minimize d",
+   "disc_score": 2,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787841496
+  },
+  "7498715946618904576": {
+   "created": 1787833201,
+   "author": "Airstream Alpha",
+   "url": "https://www.linkedin.com/posts/airstreamalpha_368-portfolio-construction-in-the-ai-era-activity-7498715946618904576-LRJZ",
+   "text": "AI chip startup Etched just re-priced its valuation twice in seven months, most recently doubling to $21B in under four weeks, per Etched's own announcement.\n\nMost fund reserve models still assume 12-18 months between a company's financing rounds. That gap between assumption and reality is what our latest issue digs into.\n\u27a1\ufe0f Per Carta's Peter Walker, across 1,000+ software rounds in the last six months, dilution at both Seed and Series A has been ticking down for months, founders are raising bigger checks for less equity than in prior cycles.\n\u27a1\ufe0f 19 of the new unicorns Crunchbase tracked in H1 2026 raised a fast follow-on round in six months or less, Hadrian among them, going from $1.6B to $7",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787841496
+  },
+  "7498718521565126656": {
+   "created": 1787833814,
+   "author": "Liam Vitoria",
+   "url": "https://www.linkedin.com/posts/liam-vitoria-37ab1ba4_around-15-of-etcheds-400-employees-previously-activity-7498718521565126656-WLdM",
+   "text": "Around 15% of Etched\u2019s 400 employees previously worked at NVIDIA.\n\nThat\u2019s roughly 60 hires from one company.\n\nMost startups hire vacancy by vacancy.\n\nEtched shows the value of mapping teams instead.\n\nFind the companies doing the engineering you need.\n\nThen find who built it, who worked with them and where those people went.\n\nOne company can contain half your future engineering team.",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787841496
+  },
+  "7498688305132273665": {
+   "created": 1787826610,
+   "author": "Joshua Rahn",
+   "url": "https://www.linkedin.com/posts/rahnjoshua_oceans-co-founder-joshua-rahn-talks-significance-activity-7498688305132273665-JYW2",
+   "text": "Thanks Ashley Mastronardi and the team at NYSE for hosting me to talk about Etched's latest round!\n\nhttps://lnkd.in/g5UUrsa5 \n\n(thanks for the absurd image tied to the video! \ud83e\udd26\u200d\u2642\ufe0f )",
+   "disc_score": 35,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787841496
   }
  },
  "baseline": {
@@ -426,6 +448,14 @@
    [
     1787824058,
     0
+   ],
+   [
+    1787841496,
+    9
+   ],
+   [
+    1787841496,
+    19
    ]
   ]
  },
