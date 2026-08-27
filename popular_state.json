@@ -1,15 +1,28 @@
 {
  "watch": {
-  "2092730595860476335": {
-   "created": 1787780829,
-   "author": "levidiamode",
-   "followers": 6620,
-   "url": "https://x.com/levidiamode/status/2092730595860476335",
-   "disc_score": 9,
+  "2092807720621519031": {
+   "created": 1787799217,
+   "author": "Ledoge126916",
+   "followers": 174,
+   "url": "https://x.com/Ledoge126916/status/2092807720621519031",
+   "disc_score": 0,
    "checks": {},
    "promoted": false,
    "miss": 0,
-   "added": 1787782643
+   "added": 1787801407
+  },
+  "2092782208675123522": {
+   "created": 1787793135,
+   "author": "Michaelz1914",
+   "followers": 193,
+   "url": "https://x.com/Michaelz1914/status/2092782208675123522",
+   "disc_score": 0,
+   "checks": {
+    "1": 0
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1787801407
   }
  },
  "baseline": {
@@ -577,6 +590,10 @@
    [
     1787771657,
     2
+   ],
+   [
+    1787801407,
+    0
    ]
   ]
  },
