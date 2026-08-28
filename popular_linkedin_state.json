@@ -1,57 +1,5 @@
 {
  "watch": {
-  "7498526715195944960": {
-   "created": 1787788084,
-   "author": "Alan Wizemann",
-   "url": "https://www.linkedin.com/posts/alanwizemann_if-you-are-a-cto-or-svpvp-of-engineering-activity-7498526715195944960-s51T",
-   "text": "If you are a CTO or SVP/VP of Engineering right now and are not looking to bring AI inference and processing in-house for your team and your company, you are positioning yourself and your organization for an expensive and exhaustive future.\n\nI have recently wrapped up a consulting project to do just that for a very large development and sales organization that is on the path to fully owned, 100% in-house inference and development, leveraging large-scale open-source and open-weight models across their entire organization. The math was easy, the technology is there, and the payback is quick. \n\nWith the new large-scale and enterprise hardware now coming to market (Etched is one I am keeping my ",
-   "disc_score": 20,
-   "checks": {
-    "24": 53
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787801490
-  },
-  "7498533734313250816": {
-   "created": 1787789758,
-   "author": "AI Tech Institute",
-   "url": "https://www.linkedin.com/posts/aitechinstitute_aiinfrastructure-machinelearning-aistrategy-activity-7498533734313250816-7Vyi",
-   "text": "An AI chip startup just doubled its valuation to US$21 billion in under a month. The interesting part isn't the number \u2014 it's what the money is betting on.\n\nEtched raised US$700 million in a round led by trading firm Jane Street, which had tested the hardware and now runs one of Etched's racks in its own datacentre. Kleiner Perkins, Sequoia, Andreessen Horowitz and Tiger Global are among the other investors. The company was valued at around US$10.3 billion in July.\n\nWhat Etched builds: specialised hardware for inference \u2014 running AI models \u2014 rather than training them.\n\nThat distinction is worth understanding, because it explains a lot about where AI is heading.\n\nTraining is the one-off, enor",
-   "disc_score": 1,
-   "checks": {
-    "24": 2
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787801490
-  },
-  "7498552626268012544": {
-   "created": 1787794262,
-   "author": "\u682a\u5f0f\u4f1a\u793e\u30a2\u30b9\u30af\u300c\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u30fb\u30bd\u30ea\u30e5\u30fc\u30b7\u30e7\u30f3\u90e8\u300d ASK_SSD",
-   "url": "https://www.linkedin.com/posts/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A2%E3%82%B9%E3%82%AF%E3%80%8C%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%BB%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E9%83%A8%E3%80%8D-ask-ssd-63b540228_hpcwire%E3%81%AFai%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%81%AF%E6%8E%A8%E8%AB%96%E9%87%8F%E3%81%AE%E5%A2%97%E5%8A%A0%E3%81%A8hbm%E3%83%A1%E3%83%A2%E3%83%AA%E5%B8%AF%E5%9F%9F%E9%9B%BB%E5%8A%9B%E3%82%B3%E3%82%B9%E3%83%88%E3%81%AE%E5%88%B6%E7%B4%84-activity-7498552626268012544-6UFF",
-   "text": "HPCwire\u306f\u3001AI\u534a\u5c0e\u4f53\u306f\u3001\u63a8\u8ad6\u91cf\u306e\u5897\u52a0\u3068\u3001HBM\u30fb\u30e1\u30e2\u30ea\u5e2f\u57df\u30fb\u96fb\u529b\u30b3\u30b9\u30c8\u306e\u5236\u7d04\u306b\u4f34\u3044\u3001\u6c4e\u7528GPU\u4e2d\u5fc3\u304b\u3089\u3001\u63a8\u8ad6\u306e\u7279\u5b9a\u5de5\u7a0b\u30fb\u7279\u5b9a\u30e2\u30c7\u30eb\u306b\u6700\u9069\u5316\u3057\u305f\u30ab\u30b9\u30bf\u30e0\u30c1\u30c3\u30d7\u3092\u7d44\u307f\u8fbc\u3080\u300c\u7570\u7a2e\u6df7\u5728\u300d\u3078\u5411\u304b\u3063\u3066\u304a\u308a\u3001AMD\u306b\u3088\u308bTaalas\u8cb7\u53ce\u3001Etched\u306e\u5927\u578b\u8abf\u9054\u306f\u3053\u306e\u8ee2\u63db\u3092\u8c61\u5fb4\u3057\u3066\u3044\u308b\u3068\u7d39\u4ecb\u3057\u3066\u3044\u307e\u3059\u3002\n\nhttps://x.gd/B4vAe",
-   "disc_score": 0,
-   "checks": {
-    "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787801490
-  },
-  "7498601940696854528": {
-   "created": 1787806019,
-   "author": "Kush Mehta",
-   "url": "https://www.linkedin.com/posts/kushjmehta_artificialintelligence-aistrategy-digitalsovereignty-activity-7498601940696854528-PEKI",
-   "text": "In June 2026, the US government shut down two AI models used by businesses worldwide.\n\nNot a bug. Not a hack. A political decision.\n\nHere's what happened \u2014 and why it changes everything about AI strategy:\n\ud835\udde7\ud835\uddf5\ud835\uddf2 \ud835\udde6\ud835\uddf5\ud835\ude02\ud835\ude01\ud835\uddf1\ud835\uddfc\ud835\ude04\ud835\uddfb\n\u2192 Trump administration blocked foreign access to Anthropic's Claude Fable 5 and Mythos 5 \n\u2192 Anthropic couldn't distinguish foreign from domestic users in real time \n\u2192 Result: both models went dark globally for nearly 3 weeks \n\u2192 Reason: Anthropic pushed back on Pentagon using AI for autonomous weapons \n\u2192 Pentagon designated Anthropic a \"supply-chain risk to national security\"\n\n\ud835\udde7\ud835\uddf5\ud835\uddf2 \ud835\uddd9\ud835\uddee\ud835\uddf9\ud835\uddf9\ud835\uddfc\ud835\ude02\ud835\ude01\nThe UK government just published its risk assessment. The findings:\n\u2192 Advanced AI models si",
-   "disc_score": 4,
-   "checks": {
-    "24": 6
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787824058
-  },
   "7498665375279071233": {
    "created": 1787821143,
    "author": "Livio Andrea Acerbo",
@@ -136,7 +84,9 @@
    "url": "https://www.linkedin.com/posts/airstreamalpha_368-portfolio-construction-in-the-ai-era-activity-7498715946618904576-LRJZ",
    "text": "AI chip startup Etched just re-priced its valuation twice in seven months, most recently doubling to $21B in under four weeks, per Etched's own announcement.\n\nMost fund reserve models still assume 12-18 months between a company's financing rounds. That gap between assumption and reality is what our latest issue digs into.\n\u27a1\ufe0f Per Carta's Peter Walker, across 1,000+ software rounds in the last six months, dilution at both Seed and Series A has been ticking down for months, founders are raising bigger checks for less equity than in prior cycles.\n\u27a1\ufe0f 19 of the new unicorns Crunchbase tracked in H1 2026 raised a fast follow-on round in six months or less, Hadrian among them, going from $1.6B to $7",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787841496
@@ -147,7 +97,9 @@
    "url": "https://www.linkedin.com/posts/liam-vitoria-37ab1ba4_around-15-of-etcheds-400-employees-previously-activity-7498718521565126656-WLdM",
    "text": "Around 15% of Etched\u2019s 400 employees previously worked at NVIDIA.\n\nThat\u2019s roughly 60 hires from one company.\n\nMost startups hire vacancy by vacancy.\n\nEtched shows the value of mapping teams instead.\n\nFind the companies doing the engineering you need.\n\nThen find who built it, who worked with them and where those people went.\n\nOne company can contain half your future engineering team.",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 2
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787841496
@@ -171,7 +123,9 @@
    "url": "https://www.linkedin.com/posts/andre-green-psu_semiconductors-aihardware-electricalengineering-activity-7498782930115297280-fqpx",
    "text": "Inside Hot Chips \u2699\ufe0f \ud83d\udcbb\n\nFrom NVIDIA and OpenAI to massive AI startups like Etched and the pioneers of RISC-V International, this is where tomorrow\u2019s hardware gets built.\n\nBringing all of this right back to my computer architecture students at the University of California, Berkeley this semester \ud83d\udc3b\n\nCheck out who showed up to Stanford University: Hot Chips Symposium.\n\n\n #Semiconductors\u2060 \u2060#AIHardware\u2060 \u2060#ElectricalEngineering\u2060 \u2060#ComputerArchitecture\u2060 \u2060#TechInnovation\u2060",
    "disc_score": 33,
-   "checks": {},
+   "checks": {
+    "24": 71
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787862648
@@ -193,7 +147,9 @@
    "url": "https://www.linkedin.com/posts/waqas-khann-0225b633_venturecapital-deeptech-aiinfrastructure-activity-7498811432621383680-itqa",
    "text": "\ud83d\ude80 The New Wave of Frontier Tech: Nuclear, Space, AI Infra & Beyond\n\nLate-stage private markets are no longer just chasing software multiples \u2014 they're funding atoms, not just bits. A look at some of the most closely watched names attracting serious investor capital right now:\n\n\u269b\ufe0f Aalo Atomics \u2014 Building modular nuclear microreactors purpose-built to power AI data centers; raised a $100M Series B (Valor Equity Partners) at a ~$450M valuation, signaling investors are betting nuclear becomes the default power source for the AI buildout.\n\n\ud83d\udef0\ufe0f Starcloud \u2014 Pioneering data centers in orbit; just closed $250M at a $2.3B valuation (up from $1.1B five months earlier), with NVIDIA and Cisco joining as n",
    "disc_score": 1,
-   "checks": {},
+   "checks": {
+    "24": 4
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787862648
@@ -204,7 +160,9 @@
    "url": "https://www.linkedin.com/posts/joearo_etched-a-us-based-startup-building-a-new-activity-7498775054210465792-N1da",
    "text": "Etched, a US-based startup building a new type of AI semiconductor cluster, delivered its first chip rack to quantitative trading firm Jane Street this week. That delivery helped fuel a fresh $700M raise, pushing the company's valuation to $21B \u2014 up from $10.3B in July, just weeks after emerging from stealth in late June.",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787862648
@@ -215,7 +173,9 @@
    "url": "https://www.linkedin.com/posts/witoldkepinski_ai-chipmaker-etched-gewaardeerd-op-21-miljard-activity-7498791101579857921-e1nr",
    "text": "AI-chipmaker Etched gewaardeerd op 21 miljard dollar\n\nChippionier Etched heeft een kapitaalinjectie van 700 miljoen dollar opgehaald in een financieringsronde geleid door handelshuis Jane Street, met deelname van toonaangevende investeerders als Kleiner Perkins, Sequoia Capital en Andreessen Horowitz. De ronde waardeert de ontwikkelaar van gespecialiseerde AI-hardware op 21 miljard dollar. Tegelijkertijd maakt het bedrijf bekend dat Jane Street de allereerste klant is die het hardware-systeem daadwerkelijk in productie heeft genomen.",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787862648
@@ -296,6 +256,61 @@
    "promoted": false,
    "miss": 0,
    "added": 1787916561
+  },
+  "7499148972268138496": {
+   "created": 1787936442,
+   "author": "Lynn Duan",
+   "url": "https://www.linkedin.com/posts/yuyan-duan_everyone-in-ai-would-agree-2026-is-the-year-activity-7499148972268138496-H2Wz",
+   "text": "Everyone in AI would agree: 2026 is the year of compute and inference.\n \nLast week, together with General Compute and Kaleidoscope Ventures, we at AI Plus (AI+) hosted Compute & Caviar \u2014 a very small, private evening in SF for leaders building, financing, and operating across the AI infrastructure stack.\n\nIn the room: the CEOs of SemiAnalysis, SambaNova, Exa, Artificial Analysis and Composio; co-founders from Fireworks AI and General Compute, head of compute planning from OpenAI; VP of AI Datacenters from Qualcomm; SVP of Applied AI from Nebius, and leadership across Etched, Ricursive Intelligence, and frontier investors from Andreessen Horowitz, DCVC, Temasek, and Theory Ventures. \n\nA prett",
+   "disc_score": 19,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787942508
+  },
+  "7499135017126756353": {
+   "created": 1787933115,
+   "author": "Jason Goodison",
+   "url": "https://www.linkedin.com/posts/jasonlevigoodison_last-week-was-a-big-one-for-non-nvidia-inference-activity-7499135017126756353-YBxf",
+   "text": "Last week was a big one for non-Nvidia inference silicon. Etched and Cerebras had some very exciting updates. \n\nEtched shipped its first rack to Jane Street, their first customer, who tested it on live trading workloads, and also led their latest fundraise.\n\nWhat's been impressive is Etched's innovation here. \n\nOn prefill, they run low-voltage inference to pack more compute into the same power budget. On decode, cluster-scale memory allows an entire rack to function as a single, unified machine. \n\nCerebras launched CS-4, which achieves up to 30x faster inference compared to GPUs. \n\nGPUs only get fast by batching lots of users, so each one waits. CS-4 holds the whole model in memory thousands",
+   "disc_score": 25,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787942508
+  },
+  "7499156972307582976": {
+   "created": 1787938349,
+   "author": "Janet Gehrmann",
+   "url": "https://www.linkedin.com/posts/janet-gehrmann_one-way-to-read-the-latest-ai-funding-news-activity-7499156972307582976-rdO-",
+   "text": "One way to read the latest AI funding news is that AI is moving from a destination to an operating layer.\n\nLook at where investors are putting capital:\n\u25b6\ufe0f Hadrian raised nearly $1.4B to scale AI-powered manufacturing for defense and aerospace.\u00a0\n\u25b6\ufe0f River AI raised $1.1B to build personal AI systems that can be trained and adapted by their users.\u00a0\n\u25b6\ufe0f Etched raised $700M to develop specialized chips for faster, cheaper AI inference.\u00a0\n\u25b6\ufe0f Wispr Flow raised $280M for voice-driven workplace software and says its products are used by more than 10,000 enterprises.\u00a0\n\u25b6\ufe0f Stability AI raised $76M from strategic investors across music, gaming, and entertainment. \n\nThese are very different companies, but t",
+   "disc_score": 3,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787942508
+  },
+  "7499116865177423872": {
+   "created": 1787928787,
+   "author": "Dror Futter",
+   "url": "https://www.linkedin.com/posts/drorfutter_nobodys-waiting-around-anymore-heres-activity-7499116865177423872-k-0N",
+   "text": "\"Nobody's Waiting Around Anymore\n\nHere's the part that actually worries me. I'm not seeing deals take the time they used to take. Term sheets are turning around in days, not weeks. Rounds that would have taken a quarter to put together a few years ago are done before the data room is even fully organized.\n\nEtched is the clearest example of what that compression actually looks like. $5B in December, roughly $10B by July, then $21B a month after that. That's not just a bigger number each time, that's three separate rounds inside eight months, each one closing faster than the last. Castelion went from fifty rejections to a billion-dollar round co-led by three institutions that don't typically m",
+   "disc_score": 1,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787942508
+  },
+  "7499148902261051392": {
+   "created": 1787936425,
+   "author": "Startup Savant",
+   "url": "https://www.linkedin.com/posts/startup-savant_22-top-silicon-valley-startups-to-watch-in-activity-7499148902261051392-XoIm",
+   "text": "AI is everywhere in Silicon Valley right now, but it\u2019s not the whole story.\n\nThere are startups working on carbon removal, cell therapy manufacturing, humanoid robots, construction tech, embedded finance, and cybersecurity.\n\nWe updated our list of the top Silicon Valley startups to watch in 2026, with a look at what they\u2019re building, who\u2019s backing them, and how much they\u2019ve raised: https://lnkd.in/gP8udAUE\n\nVanta Glean Cellares Parafin Daffy Heirloom Harvey Figure Together AI Hippocratic AI Sierra Decagon Physical Intelligence World Labs Lyrid Datasaur Cribl Fiddler AI Brightline Dusty Robotics humans& Etched\n\n#Startups #SiliconValley #Tech",
+   "disc_score": 1,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787942508
   }
  },
  "baseline": {
@@ -479,6 +494,30 @@
    [
     1787916561,
     88
+   ],
+   [
+    1787942508,
+    0
+   ],
+   [
+    1787942508,
+    2
+   ],
+   [
+    1787942508,
+    71
+   ],
+   [
+    1787942508,
+    4
+   ],
+   [
+    1787942508,
+    0
+   ],
+   [
+    1787942508,
+    0
    ]
   ]
  },
