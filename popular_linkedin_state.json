@@ -1,57 +1,5 @@
 {
  "watch": {
-  "7498350785093787649": {
-   "created": 1787746139,
-   "author": "SheetVenture",
-   "url": "https://www.linkedin.com/posts/sheetventure_semiconductors-aichips-deeptech-activity-7498350785093787649-f1Ok",
-   "text": "The AI boom has created a GPU shortage nobody can wait out. Instead of waiting years for new fabs, these startups are solving the bottleneck with smarter interconnects and purpose-built silicon:\n\nAyar Labs (San Jose, US)\nReplaces copper connections with optical interconnect chiplets, letting chips share data faster without needing more physical silicon\n \ud83d\udc49 Mark Wade (Co-founder & CEO)\n\nLightmatter (Mountain View, US)\n3D-stacked optical engine connecting thousands of processors via light instead of electricity, cutting data delays industry-wide\n \ud83d\udc49 Nicholas Harris (Founder & CEO)\n\nGroq (Mountain View, US)\nPurpose-built LPU (Language Processing Unit) delivering instant AI inference as a direct a",
-   "disc_score": 6,
-   "checks": {
-    "24": 9
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787748866
-  },
-  "7498390509095153666": {
-   "created": 1787755610,
-   "author": "Svetlana Stepanenko",
-   "url": "https://www.linkedin.com/posts/svestepanenko_startup-founder-ceo-activity-7498390509095153666-5jW-",
-   "text": "\ud83d\ude4f Etched raised $700M at a $21B valuation. Jane Street led. The company is four years old and builds inference clusters for AI compute.\n\nThe market it sells into: AI inference chips at $20.5B in 2026, forecast $37.0B by 2030, a 15.9% CAGR. \n\nHold those two numbers next to each other. The company is valued at roughly the size of its entire current market. That is not a mistake, it is a bet on 2030 being much larger than any forecast currently says.\n\n\nSource: Crunchbase \n\n#startup #founder #ceo #seed",
-   "disc_score": 0,
-   "checks": {
-    "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787755684
-  },
-  "7498397441281662977": {
-   "created": 1787757263,
-   "author": "Raffi Isanians",
-   "url": "https://www.linkedin.com/posts/raffi-isanians_groq-raised-at-half-its-old-mark-i-would-activity-7498397441281662977-B79i",
-   "text": "Groq raised at half its old mark. I would spend no time on the valuation and the whole week on one license agreement.\n\nIn December the press reported Nvidia buying Groq's assets for about $20 billion. Groq's own newsroom called it a nonexclusive inference technology license. Those two sentences produce very different reps. A buyer here acquires a license position, not ownership, so field of use, improvements and grant backs come before the financials. And the people who wrote the technology now work for the counterparty.\n\nThe rest of last week's raises, and the one thing I would flag on each:\n\n1. Etched, $700m (Jane Street), $21b post, double its July mark. The lead investor is also the firs",
-   "disc_score": 2,
-   "checks": {
-    "24": 5
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787759618
-  },
-  "7498393983664996352": {
-   "created": 1787756439,
-   "author": "Jennifer Day",
-   "url": "https://www.linkedin.com/posts/jdaycreative_take-a-crypto-infrastructure-company-raising-activity-7498393983664996352-usui",
-   "text": "Take a crypto infrastructure company raising right now.\n\nGood product. Real engineering. The kind of custody infrastructure that takes an hour to explain properly. The deck shows it. Forty-some slides, most of them architecture.\n\nPartners keep passing after the second meeting. Nobody says why.\n\nThe founders assume the answer is more detail. More proof the tech is real. So the deck keeps getting longer.\n\nWhat they're missing: the person in the room is rarely the person who says yes. The story has to survive being retold on Monday by someone who half remembers it. Complexity doesn't survive that trip. Clarity does.\n\nCrypto and AI infrastructure both have this problem right now, and the timing ",
-   "disc_score": 1,
-   "checks": {
-    "24": 2
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787759618
-  },
   "7498446824211468288": {
    "created": 1787769037,
    "author": "Nexithon Technologies",
@@ -75,58 +23,6 @@
     "24": 77
    },
    "promoted": true,
-   "miss": 0,
-   "added": 1787771761
-  },
-  "7498429831613730816": {
-   "created": 1787764985,
-   "author": "BayTech Capital Partners",
-   "url": "https://www.linkedin.com/posts/baytech-capital-partners-llc_venturecapital-fintech-techfinancing-activity-7498429831613730816-MxDT",
-   "text": "\ud83d\ude80 Roughly $4B in tech and fintech capital hit the tape this week, led by defense tech and AI infrastructure.\n\nDefense tech startup Castelion led the week with a Series C package of $800 million in equity plus $250 million in debt, reaching a $13 billion valuation with backing from JPMorgan Chase, Andreessen Horowitz and Carlyle. AI inference chip maker Etched followed with $700 million led by Jane Street at a $21 billion valuation, while AI video platform Higgsfield raised $400 million and Groq raised $350 million. On the fintech side, AI-native ERP provider Rillet crossed the unicorn mark with a $100 million Series C at a $1 billion valuation.\n\n\ud83d\udcca Notable tech financings this week:\n\ud83d\ude80 Casteli",
-   "disc_score": 1,
-   "checks": {
-    "24": 2
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787771761
-  },
-  "7498425602006425600": {
-   "created": 1787763977,
-   "author": "The Business Post",
-   "url": "https://www.linkedin.com/posts/the-business-post-com_ai-etched-robertwachen-activity-7498425602006425600-zbX3",
-   "text": "AI chip startup Etched, co-founded by Robert W., has raised $700 million in fresh funding at a staggering $21 billion valuation.\n\nThe round was led by Jane Street Street, which is not just an investor\u2014it has also become Etched\u2019s first customer after testing the company\u2019s AI inference hardware. Other investors include Kleiner Perkins , Sequoia Capital , Andreessen Horowitz , Tiger Global, Bain Capital Ventures (BCV) , Neo, Primary, Stripes, Positive Sum and Blackstone.\n\nThe valuation jump is remarkable. Etched was valued at $10.3 billion in July 2026 after raising a $300 million Series C, meaning its valuation more than doubled in less than a month. The company has now raised around $1.9 bill",
-   "disc_score": 0,
-   "checks": {
-    "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787771761
-  },
-  "7498422112202821632": {
-   "created": 1787763145,
-   "author": "Noah O. Kabir",
-   "url": "https://www.linkedin.com/posts/noah-o-kabir-57680b408_ai-tech-startup-activity-7498422112202821632-EFye",
-   "text": "The problem Etched is solving helped turn three Harvard dropouts into a $21B AI company.\n\nBy tackling thermal throttling and memory bottlenecks, Etched is redesigning AI inference from the silicon to the rack, unlocking more compute from every watt.\n\nHere\u2019s the technology behind it.\n\n\ud83c\udfa5 indibrief \n#ai #tech #startup #venturecapital #etched",
-   "disc_score": 0,
-   "checks": {
-    "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787771761
-  },
-  "7498391339911417856": {
-   "created": 1787755808,
-   "author": "Artak Seyranyan",
-   "url": "https://www.linkedin.com/posts/artak-seyranyan_6-pre-ipo-companies-everyone-wants-to-buy-activity-7498391339911417856-hpRH",
-   "text": "6 pre-IPO companies everyone wants to buy.\n\nEtched's valuation doubled to $21 billion in a month.\n\nSSI has been stuck at $32 billion for a year, with zero product.\n\nSame market. Opposite stories.\n\nSame problem underneath both: nobody is selling.\n\nSix names moved hard this year. I'm watching all six for one reason, not the usual one.\n\nNot because I have buyers who want in, though I do.\n\nBecause I can't find a single seller on any of them.\n\n\u2192 Neuralink: $9.6B official, last priced in 2025. Secondary bids now run $29B to $60B.\n\n\u2192 Valar Atomics: $2B in March. $6B by August. Sequoia led the round that tripled it.\n\n\u2192 Etched: $5B in December. $21B now. Jane Street tested the chips, then led the rou",
-   "disc_score": 0,
-   "checks": {
-    "24": 12
-   },
-   "promoted": false,
    "miss": 0,
    "added": 1787771761
   },
@@ -188,7 +84,9 @@
    "url": "https://www.linkedin.com/posts/aitechinstitute_aiinfrastructure-machinelearning-aistrategy-activity-7498533734313250816-7Vyi",
    "text": "An AI chip startup just doubled its valuation to US$21 billion in under a month. The interesting part isn't the number \u2014 it's what the money is betting on.\n\nEtched raised US$700 million in a round led by trading firm Jane Street, which had tested the hardware and now runs one of Etched's racks in its own datacentre. Kleiner Perkins, Sequoia, Andreessen Horowitz and Tiger Global are among the other investors. The company was valued at around US$10.3 billion in July.\n\nWhat Etched builds: specialised hardware for inference \u2014 running AI models \u2014 rather than training them.\n\nThat distinction is worth understanding, because it explains a lot about where AI is heading.\n\nTraining is the one-off, enor",
    "disc_score": 1,
-   "checks": {},
+   "checks": {
+    "24": 2
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787801490
@@ -199,7 +97,9 @@
    "url": "https://www.linkedin.com/posts/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A2%E3%82%B9%E3%82%AF%E3%80%8C%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%BB%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E9%83%A8%E3%80%8D-ask-ssd-63b540228_hpcwire%E3%81%AFai%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%81%AF%E6%8E%A8%E8%AB%96%E9%87%8F%E3%81%AE%E5%A2%97%E5%8A%A0%E3%81%A8hbm%E3%83%A1%E3%83%A2%E3%83%AA%E5%B8%AF%E5%9F%9F%E9%9B%BB%E5%8A%9B%E3%82%B3%E3%82%B9%E3%83%88%E3%81%AE%E5%88%B6%E7%B4%84-activity-7498552626268012544-6UFF",
    "text": "HPCwire\u306f\u3001AI\u534a\u5c0e\u4f53\u306f\u3001\u63a8\u8ad6\u91cf\u306e\u5897\u52a0\u3068\u3001HBM\u30fb\u30e1\u30e2\u30ea\u5e2f\u57df\u30fb\u96fb\u529b\u30b3\u30b9\u30c8\u306e\u5236\u7d04\u306b\u4f34\u3044\u3001\u6c4e\u7528GPU\u4e2d\u5fc3\u304b\u3089\u3001\u63a8\u8ad6\u306e\u7279\u5b9a\u5de5\u7a0b\u30fb\u7279\u5b9a\u30e2\u30c7\u30eb\u306b\u6700\u9069\u5316\u3057\u305f\u30ab\u30b9\u30bf\u30e0\u30c1\u30c3\u30d7\u3092\u7d44\u307f\u8fbc\u3080\u300c\u7570\u7a2e\u6df7\u5728\u300d\u3078\u5411\u304b\u3063\u3066\u304a\u308a\u3001AMD\u306b\u3088\u308bTaalas\u8cb7\u53ce\u3001Etched\u306e\u5927\u578b\u8abf\u9054\u306f\u3053\u306e\u8ee2\u63db\u3092\u8c61\u5fb4\u3057\u3066\u3044\u308b\u3068\u7d39\u4ecb\u3057\u3066\u3044\u307e\u3059\u3002\n\nhttps://x.gd/B4vAe",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787801490
@@ -210,7 +110,9 @@
    "url": "https://www.linkedin.com/posts/kushjmehta_artificialintelligence-aistrategy-digitalsovereignty-activity-7498601940696854528-PEKI",
    "text": "In June 2026, the US government shut down two AI models used by businesses worldwide.\n\nNot a bug. Not a hack. A political decision.\n\nHere's what happened \u2014 and why it changes everything about AI strategy:\n\ud835\udde7\ud835\uddf5\ud835\uddf2 \ud835\udde6\ud835\uddf5\ud835\ude02\ud835\ude01\ud835\uddf1\ud835\uddfc\ud835\ude04\ud835\uddfb\n\u2192 Trump administration blocked foreign access to Anthropic's Claude Fable 5 and Mythos 5 \n\u2192 Anthropic couldn't distinguish foreign from domestic users in real time \n\u2192 Result: both models went dark globally for nearly 3 weeks \n\u2192 Reason: Anthropic pushed back on Pentagon using AI for autonomous weapons \n\u2192 Pentagon designated Anthropic a \"supply-chain risk to national security\"\n\n\ud835\udde7\ud835\uddf5\ud835\uddf2 \ud835\uddd9\ud835\uddee\ud835\uddf9\ud835\uddf9\ud835\uddfc\ud835\ude02\ud835\ude01\nThe UK government just published its risk assessment. The findings:\n\u2192 Advanced AI models si",
    "disc_score": 4,
-   "checks": {},
+   "checks": {
+    "24": 6
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787824058
@@ -379,6 +281,28 @@
    "promoted": false,
    "miss": 0,
    "added": 1787875457
+  },
+  "7498955247738929153": {
+   "created": 1787890254,
+   "author": "Rich Washburn",
+   "url": "https://www.linkedin.com/posts/rich-washburn_ive-been-waiting-two-years-for-this-chip-activity-7498955247738929153-VR87",
+   "text": "I've been waiting two years for this chip.\n\nBack in June 2024, Etched came out of stealth with a pitch that sounded insane: build the chip specifically for transformer inference, not as a general-purpose GPU. One Etched server potentially replacing 160 NVIDIA H100s.\n\nI chose to pay very close attention. Not because I knew they were right \u2014 nobody knew \u2014 but because the idea made sense.\n\nGPUs won AI because they were already there: massively parallel, programmable, backed by NVIDIA's software ecosystem. That flexibility was perfect when nobody knew what the next architecture would look like. But there was always the other question sitting there: what happens when we know enough about the work",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787894599
+  },
+  "7498958575302692864": {
+   "created": 1787891048,
+   "author": "Beth M",
+   "url": "https://www.linkedin.com/posts/activity-7498958575302692864-0pxv",
+   "text": "NEXT PLAY:  Roles at Etched, former Product Leader at Amazon Prime Video, EMEA marketing lead at Listen Labs\nroles at breakout startups, co-founder searches, early startups hiring\n ~ BEN LANG via substack.com\nAUG 25, 2026 AT 10:29 AM",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787894599
   }
  },
  "baseline": {
@@ -522,6 +446,18 @@
    [
     1787875462,
     53
+   ],
+   [
+    1787894600,
+    2
+   ],
+   [
+    1787894600,
+    0
+   ],
+   [
+    1787894600,
+    6
    ]
   ]
  },
