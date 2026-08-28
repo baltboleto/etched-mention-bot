@@ -1,30 +1,28 @@
 {
  "watch": {
-  "2093273831427145960": {
-   "created": 1787910347,
-   "author": "0xnxzt_",
-   "followers": 16,
-   "url": "https://x.com/0xnxzt_/status/2093273831427145960",
+  "2093441581885825176": {
+   "created": 1787950342,
+   "author": "PeterGazdik",
+   "followers": 498,
+   "url": "https://x.com/PeterGazdik/status/2093441581885825176",
    "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
+   "checks": {},
    "promoted": false,
    "miss": 0,
-   "added": 1787916460
+   "added": 1787952687
   },
-  "2093273676191871119": {
-   "created": 1787910310,
-   "author": "0xnxzt_",
-   "followers": 16,
-   "url": "https://x.com/0xnxzt_/status/2093273676191871119",
+  "2093427563804627254": {
+   "created": 1787946999,
+   "author": "tn9_py",
+   "followers": 447,
+   "url": "https://x.com/tn9_py/status/2093427563804627254",
    "disc_score": 0,
    "checks": {
     "1": 0
    },
    "promoted": false,
    "miss": 0,
-   "added": 1787916460
+   "added": 1787952687
   }
  },
  "baseline": {
@@ -627,6 +625,10 @@
    ],
    [
     1787916461,
+    0
+   ],
+   [
+    1787952689,
     0
    ]
   ]
