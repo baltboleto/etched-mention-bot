@@ -1,44 +1,5 @@
 {
  "watch": {
-  "7498304701323472896": {
-   "created": 1787735152,
-   "author": "Alex Agafonov",
-   "url": "https://www.linkedin.com/posts/alex-agafonov_they-dropped-out-of-harvard-at-22-built-activity-7498304701323472896-7KbF",
-   "text": "They dropped out of Harvard at 22. Built a chip that does one thing. Runs Transformers. Nothing else. If the Transformer architecture dies, their company dies with it. They know. And they're making the bet. 20x faster than Nvidia. Peter Thiel invested. They're 24\n\nGavin Uberti and Chris Zhu. Met at Harvard. Both computer science. Uberti started building neural networks at 13.\n\nIn 2022, at 22, they dropped out. Founded Etched. The idea sounded insane: what if you build a chip that ONLY runs Transformers? Doesn't train. Doesn't render graphics. Does absolutely nothing else.\n\nEvery Nvidia GPU is a universal tool. It does everything: graphics, scientific computing, AI, crypto mining. That versat",
-   "disc_score": 0,
-   "checks": {
-    "24": 5
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787738205
-  },
-  "7498309547447746561": {
-   "created": 1787736307,
-   "author": "Aayush Jaiswal",
-   "url": "https://www.linkedin.com/posts/aayush-jaiswal060507_etched-went-from-103b-to-21b-in-26-days-activity-7498309547447746561-mstO",
-   "text": "Etched went from $10.3B to $21B in 26 days.\n\nThe obvious lesson is about AI infrastructure.\n\nThe more useful lesson is about sequencing.\n\nEtched did not suddenly become valuable because it announced another funding round.\n\nBefore the latest repricing, several things had happened:\n\nIts chip had been manufactured successfully.\n\nThe company said it had more than $1B in customer contracts.\n\nIt raised $300M at a $10.3B valuation in July.\n\nThen Jane Street tested the hardware, became the first customer, and deployed a rack.\n\nA few weeks later, investors priced the company at $21B.\n\nThe order matters.\n\nA lot of founders try to raise conviction with bigger claims.\n\nDeep-tech companies usually need t",
-   "disc_score": 0,
-   "checks": {
-    "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787738205
-  },
-  "7498311012127805440": {
-   "created": 1787736657,
-   "author": "Damu Winston, MBA, PMP",
-   "url": "https://www.linkedin.com/posts/damuwinston_aiinfrastructure-semiconductors-venturecapital-activity-7498311012127805440-ZYW3",
-   "text": "Etched just proved its chip works by shipping it to a hedge fund that doesn't tolerate things that don't work.\n\nEtched closed a $700 million round at a $21 billion valuation after delivering its first inference rack to Jane Street. Hours earlier, Velaura AI raised $110 million for chip technology built to cut the power cost of AI compute.\n\n\u2192 $700M raise, $21B valuation\n\u2192 Named customer, not a roadmap promise\n\u2192 Etched builds inference-specific silicon, separate from training chips\n\u2192 Same week: NVIDIA's own roadmap splits inference and training hardware for the first time\n\nTraining chips get the headlines. Inference chips get the bill, every day a product stays live.\n\nInvestors just started pr",
-   "disc_score": 0,
-   "checks": {
-    "24": 1
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787738205
-  },
   "7498350785093787649": {
    "created": 1787746139,
    "author": "SheetVenture",
@@ -47,19 +8,6 @@
    "disc_score": 6,
    "checks": {
     "24": 9
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787748866
-  },
-  "7498348726319509505": {
-   "created": 1787745648,
-   "author": "60 ARABIA \u0628\u0627\u0644\u0639\u0631\u0628\u064a",
-   "url": "https://www.linkedin.com/posts/60-arabianews_60arabia-aeyaeraepaejabraepaedaefaeuaepaehaey-activity-7498348726319509505-qLVi",
-   "text": "\u0634\u0631\u0643\u0629 Etched \u062a\u062c\u0645\u0639 \u0667\u0660\u0660 \u0645\u0644\u064a\u0648\u0646 \u062f\u0648\u0644\u0627\u0631 \u0628\u062a\u0642\u064a\u064a\u0645 \u0662\u0661 \u0645\u0644\u064a\u0627\u0631 \u0641\u064a \u062c\u0648\u0644\u0629 \u062a\u0642\u0648\u062f\u0647\u0627 Jane Street\n\n\u0623\u0639\u0644\u0646\u062a \u0634\u0631\u0643\u0629 Etched \u0627\u0644\u0645\u062a\u062e\u0635\u0635\u0629 \u0641\u064a \u062a\u0635\u0645\u064a\u0645 \u0634\u0631\u0627\u0626\u062d \u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a \u0639\u0646 \u0625\u063a\u0644\u0627\u0642 \u062c\u0648\u0644\u0629 \u062a\u0645\u0648\u064a\u0644 \u0636\u062e\u0645\u0629 \u0628\u0642\u064a\u0645\u0629 \u0667\u0660\u0660 \u0645\u0644\u064a\u0648\u0646 \u062f\u0648\u0644\u0627\u0631\u060c \u0642\u0627\u062f\u062a\u0647\u0627 \u0645\u0624\u0633\u0633\u0629 Jane Street \u0627\u0644\u0645\u0627\u0644\u064a\u0629\u060c \u0644\u064a\u0631\u062a\u0641\u0639 \u062a\u0642\u064a\u064a\u0645\u0647\u0627 \u0625\u0644\u0649 \u0662\u0661 \u0645\u0644\u064a\u0627\u0631 \u062f\u0648\u0644\u0627\u0631. \u0648\u062a\u064f\u0631\u0643\u0651\u0632 \u0627\u0644\u0634\u0631\u0643\u0629 \u0639\u0644\u0649 \u062a\u0637\u0648\u064a\u0631 \u0634\u0631\u0627\u0626\u062d \u0645\u062a\u062e\u0635\u0635\u0629 \u062a\u0639\u0645\u0644 \u0628\u0643\u0641\u0627\u0621\u0629 \u0639\u0627\u0644\u064a\u0629 \u0644\u062a\u0634\u063a\u064a\u0644 \u0646\u0645\u0627\u0630\u062c \u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a \u0627\u0644\u062a\u0648\u0644\u064a\u062f\u064a. \u0648\u064a\u064f\u0624\u0643\u062f \u0647\u0630\u0627 \u0627\u0644\u062a\u0645\u0648\u064a\u0644 \u0627\u0644\u0636\u062e\u0645 \u0639\u0644\u0649 \u0627\u0644\u0632\u062e\u0645 \u0627\u0644\u0645\u062a\u0635\u0627\u0639\u062f \u0641\u064a \u0633\u0648\u0642 \u0627\u0644\u0628\u0646\u064a\u0629 \u0627\u0644\u062a\u062d\u062a\u064a\u0629 \u0644\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a.\n\n\ud83d\udd17 \u0631\u0627\u0628\u0637 \u0627\u0644\u0645\u0642\u0627\u0644 \u0641\u064a \u0623\u0648\u0644 \u062a\u0639\u0644\u064a\u0642\n\n#60arabia #\u0630\u0643\u0627\u0621_\u0627\u0635\u0637\u0646\u0627\u0639\u064a #\u062a\u0645\u0648\u064a\u0644 #\u062a\u0643\u0646\u0648\u0644\u0648\u062c\u064a\u0627",
-   "disc_score": 18,
-   "checks": {
-    "24": 19
    },
    "promoted": false,
    "miss": 0,
@@ -182,26 +130,15 @@
    "miss": 0,
    "added": 1787771761
   },
-  "7498314716163764225": {
-   "created": 1787737540,
-   "author": "Sushil Jindal",
-   "url": "https://www.linkedin.com/posts/jindalsushil_the-ai-infrastructure-conversation-is-shifting-activity-7498314716163764225-PoG5",
-   "text": "The AI infrastructure conversation is shifting from raw compute to system-level efficiency. Building another fast accelerator is no longer the sole priority; the engineering bottleneck lies in co-designing compute, spatial memory locality, interconnect topologies, and dynamic power budgets into a unified runtime control plane.\n\nLooking across the current commercial landscape, component layers are being aggressively tackled in isolation:\n\nSpecialized Compute Architectures: Companies like Etched focus on dedicated low-voltage decode and prefill silicon, reaching a $21B valuation with over $1B in contracts by optimizing latency and cost-per-token.\n\nHierarchical Memory Grids: Platforms like WEKA",
-   "disc_score": 0,
-   "checks": {
-    "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787771761
-  },
   "7498478061361762304": {
    "created": 1787776484,
    "author": "AI Funding News",
    "url": "https://www.linkedin.com/posts/ai-funding-news_ainews-ai-artificialintelligence-activity-7498478061361762304-KMpG",
    "text": "This week's AI Funding News from AI Funding Brief \ud83d\udc47\n\n\ud83d\udd37 Groq Secures $350 Million to Become Neocloud Provider\n\ud83d\udd37 CATL and Quinbrook Secure $469 Million for Supernode Phase 3\n\ud83d\udd37 Synthefy Launches Platform and Secures $6.5M Funding\n\ud83d\udd37 FORT Robotics to Go Public via SPAC Merger\n\ud83d\udd37 Smack Technologies Raises $61 Million for Tactical AI\n\ud83d\udd37 Happy Health Raises $75 Million for AI Home Healthcare\n\ud83d\udd37 GrubMarket Inc. Acquires JR Holland to Enter UK Market\n\ud83d\udd37 Hopscotch Primary Care Raises $53 Million for AI in Rural Healthcare\n\ud83d\udd37 Stigg Acquires Received.ai for AI Contract Management\n\ud83d\udd37 Codio Secures $5 Million for AI Literacy in Education\n\ud83d\udd37 Oakley Capital Acquires Majority Stake in Graphwise\n\ud83d\udd37 Unitree Unveils 'Su",
    "disc_score": 4,
-   "checks": {},
+   "checks": {
+    "24": 9
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787782704
@@ -225,7 +162,9 @@
    "url": "https://www.linkedin.com/posts/cinderwood_aiinfrastructure-semiconductors-venturecapital-activity-7498510600310910976-nn-9",
    "text": "Etched closed a $700M Series D at $21B post-money. Led by Jane Street.\n\n\u2733\ufe0e Jul 23, $10.3B on a $300M Series C.\n\u2733\ufe0e Aug 18, $21B. Up 104% in 26 days.\n\u2733\ufe0e Total raised $1.9B. Named customers: 1.\n\nJane Street was already a shareholder in June alongside Hudson River Trading, Jump and Two Sigma, so this is an existing customer & holder increasing its position and taking delivery of the first rack. No independent benchmark on the chip yet.\n\nSecond named customer or second fab commitment. Which lands first?\n\n#AIinfrastructure #semiconductors #venturecapital",
    "disc_score": 5,
-   "checks": {},
+   "checks": {
+    "24": 5
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787787062
@@ -236,7 +175,9 @@
    "url": "https://www.linkedin.com/posts/alanwizemann_if-you-are-a-cto-or-svpvp-of-engineering-activity-7498526715195944960-s51T",
    "text": "If you are a CTO or SVP/VP of Engineering right now and are not looking to bring AI inference and processing in-house for your team and your company, you are positioning yourself and your organization for an expensive and exhaustive future.\n\nI have recently wrapped up a consulting project to do just that for a very large development and sales organization that is on the path to fully owned, 100% in-house inference and development, leveraging large-scale open-source and open-weight models across their entire organization. The math was easy, the technology is there, and the payback is quick. \n\nWith the new large-scale and enterprise hardware now coming to market (Etched is one I am keeping my ",
    "disc_score": 20,
-   "checks": {},
+   "checks": {
+    "24": 53
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787801490
@@ -427,6 +368,17 @@
    "promoted": false,
    "miss": 0,
    "added": 1787862648
+  },
+  "7498877268845424640": {
+   "created": 1787871663,
+   "author": "Vishal Prajapati",
+   "url": "https://www.linkedin.com/posts/vp17_ai-nvidia-etchedai-activity-7498877268845424640-24b6",
+   "text": "Etched vs NVIDIA: What you need to know\nThe AI chip battle is getting interesting.\n\nNVIDIA builds GPUs that can handle almost everything training, inference, different models, and workloads.\n\nEtched is taking the opposite approach.\n\nIts Sohu chip is built specifically for Transformer-based AI inference.\nThe bet is simple:\nNVIDIA: Flexibility\nEtched: Specialization\n\nEtched claims its Sohu systems can deliver 500K+ tokens/sec on Llama 70B, dramatically above comparable GPU setups but these numbers are still largely company-reported.\n\nAnd NVIDIA isn't sitting still either. Its latest inference-focused systems show that it's also optimizing heavily for agentic AI and token generation.\n\nSo the re",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787875457
   }
  },
  "baseline": {
@@ -558,6 +510,18 @@
    [
     1787862648,
     5
+   ],
+   [
+    1787875462,
+    9
+   ],
+   [
+    1787875462,
+    5
+   ],
+   [
+    1787875462,
+    53
    ]
   ]
  },
