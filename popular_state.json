@@ -1,30 +1,30 @@
 {
  "watch": {
-  "2093108925465821413": {
-   "created": 1787871030,
-   "author": "brokestdealer",
-   "followers": 12,
-   "url": "https://x.com/brokestdealer/status/2093108925465821413",
+  "2093273831427145960": {
+   "created": 1787910347,
+   "author": "0xnxzt_",
+   "followers": 16,
+   "url": "https://x.com/0xnxzt_/status/2093273831427145960",
    "disc_score": 0,
    "checks": {
     "1": 0
    },
    "promoted": false,
    "miss": 0,
-   "added": 1787875413
+   "added": 1787916460
   },
-  "2093108737804566623": {
-   "created": 1787870985,
-   "author": "john7rho",
-   "followers": 1619,
-   "url": "https://x.com/john7rho/status/2093108737804566623",
-   "disc_score": 64,
+  "2093273676191871119": {
+   "created": 1787910310,
+   "author": "0xnxzt_",
+   "followers": 16,
+   "url": "https://x.com/0xnxzt_/status/2093273676191871119",
+   "disc_score": 0,
    "checks": {
-    "1": 66
+    "1": 0
    },
-   "promoted": true,
+   "promoted": false,
    "miss": 0,
-   "added": 1787875413
+   "added": 1787916460
   }
  },
  "baseline": {
@@ -620,6 +620,14 @@
    [
     1787875419,
     66
+   ],
+   [
+    1787916461,
+    0
+   ],
+   [
+    1787916461,
+    0
    ]
   ]
  },
