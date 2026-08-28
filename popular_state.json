@@ -1,69 +1,30 @@
 {
  "watch": {
-  "2092968066325921980": {
-   "created": 1787837447,
-   "author": "priyakapoorhere",
-   "followers": 70,
-   "url": "https://x.com/priyakapoorhere/status/2092968066325921980",
+  "2093108925465821413": {
+   "created": 1787871030,
+   "author": "brokestdealer",
+   "followers": 12,
+   "url": "https://x.com/brokestdealer/status/2093108925465821413",
    "disc_score": 0,
    "checks": {
     "1": 0
    },
    "promoted": false,
    "miss": 0,
-   "added": 1787841372
+   "added": 1787875413
   },
-  "2092966281129644440": {
-   "created": 1787837021,
-   "author": "ZahabiyaGabaji",
-   "followers": 3888,
-   "url": "https://x.com/ZahabiyaGabaji/status/2092966281129644440",
-   "disc_score": 0,
+  "2093108737804566623": {
+   "created": 1787870985,
+   "author": "john7rho",
+   "followers": 1619,
+   "url": "https://x.com/john7rho/status/2093108737804566623",
+   "disc_score": 64,
    "checks": {
-    "1": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787841372
-  },
-  "2092975447638409540": {
-   "created": 1787839206,
-   "author": "mustufa4socials",
-   "followers": 9039,
-   "url": "https://x.com/mustufa4socials/status/2092975447638409540",
-   "disc_score": 44,
-   "checks": {
-    "1": 44
+    "1": 66
    },
    "promoted": true,
    "miss": 0,
-   "added": 1787841372
-  },
-  "2092949399420751883": {
-   "created": 1787832996,
-   "author": "DCryptDeezNutz",
-   "followers": 535,
-   "url": "https://x.com/DCryptDeezNutz/status/2092949399420751883",
-   "disc_score": 20,
-   "checks": {
-    "1": 20
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787841372
-  },
-  "2092953830803566905": {
-   "created": 1787834053,
-   "author": "railsdomains",
-   "followers": 1420,
-   "url": "https://x.com/railsdomains/status/2092953830803566905",
-   "disc_score": 7,
-   "checks": {
-    "1": 7
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787841372
+   "added": 1787875413
   }
  },
  "baseline": {
@@ -651,6 +612,14 @@
    [
     1787841373,
     7
+   ],
+   [
+    1787875419,
+    0
+   ],
+   [
+    1787875419,
+    66
    ]
   ]
  },
@@ -664,6 +633,11 @@
    1787841373,
    "2092975447638409540",
    44
+  ],
+  [
+   1787875419,
+   "2093108737804566623",
+   66
   ]
  ],
  "seeded": true
