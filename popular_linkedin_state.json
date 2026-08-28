@@ -1,70 +1,5 @@
 {
  "watch": {
-  "7498665375279071233": {
-   "created": 1787821143,
-   "author": "Livio Andrea Acerbo",
-   "url": "https://www.linkedin.com/posts/lacerbo_ai-inference-acerboai-activity-7498665375279071233-wlYx",
-   "text": "THE INFERENCE WAR \u2014 field notes from this week.\n\nI'm watching the cost of intelligence get rewritten in public. Most feeds will treat it as noise.\n\n01  OpenAI Jalape\u00f1o: 1.5\u20131.9\u00d7 more work per watt than Nvidia GB300. Not for sale.\n02  Nvidia \u00d7 Hugging Face: $12.9B reported. The GitHub of AI may sit inside the GPU monopoly.\n03  Etched: $21B in 30 days. Jane Street bought the rack first.\n04  The stack is splitting. Custom chips. Reported roll-ups. Fund-scale inference startups.\n\nIf you operate or advise on this stack, this week changes how you price the next quarter.\n\nDaily brief \u2192 https://www.acerbo.ai/en/\nBook 30 min \u2192 https://lnkd.in/eZwKK8tR\n\n#AI #inference #AcerboAI",
-   "disc_score": 3,
-   "checks": {
-    "24": 3
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787824058
-  },
-  "7498662764236898304": {
-   "created": 1787820521,
-   "author": "Dutch IT Leaders",
-   "url": "https://www.linkedin.com/posts/dutch-it-leaders_etched-haalt-700-miljoen-dollar-op-tegen-activity-7498662764236898304-l_IF",
-   "text": "Etched haalt 700 miljoen dollar op tegen 21 miljard waardering: Chippionier Etched heeft een kapitaalinjectie van 700 miljoen dollar opgehaald in een financieringsronde geleid door handelshuis Jane Street, met deelname van toonaangevende investeerders als Kleiner Perkins, Sequoia en Andreessen Horowitz. De ronde waardeert de ontwikkelaar van gespecialiseerde AI-hardware op 21 miljard dollar. Tegelijkertijd maakt het bedrijf bekend dat Jane Street de allereerste klant is die het hardware-systeem daadwerkelijk in productie heeft genomen.",
-   "disc_score": 1,
-   "checks": {
-    "24": 2
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787824058
-  },
-  "7498665377665617920": {
-   "created": 1787821144,
-   "author": "Limited Liability Solutions",
-   "url": "https://www.linkedin.com/posts/limited-liability-solutions_ai-inference-corporatedevelopment-activity-7498665377665617920-Ty80",
-   "text": "THE INFERENCE WAR \u2014 what this week does to the stack.\n\nCapital is concentrating around inference. That is a vendor-risk story, not only a tech headline.\n\n01  OpenAI Jalape\u00f1o: 1.5\u20131.9\u00d7 more work per watt than Nvidia GB300. Not for sale.\n02  Nvidia \u00d7 Hugging Face: $12.9B reported \u2014 unconfirmed, still a monopoly signal.\n03  Etched: $21B in 30 days. Jane Street bought the rack first.\n04  Custom silicon, reported roll-ups, fund-scale inference bets.\n\nBoards and operators should ask which part of the stack they actually own when the bill of materials moves this fast.\n\nBrief for operators \u2192 https://www.acerbo.ai/en/\n\n#AI #inference #corporatedevelopment",
-   "disc_score": 0,
-   "checks": {
-    "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787824058
-  },
-  "7498665376453623808": {
-   "created": 1787821144,
-   "author": "Acerbo.AI",
-   "url": "https://www.linkedin.com/posts/acerbo-ai_ai-inference-acerboai-activity-7498665376453623808--GqM",
-   "text": "THE INFERENCE WAR \u2014 5 signals this week.\n\nThe cost of intelligence is being rewritten. Most feeds will miss it.\n\n01  OpenAI Jalape\u00f1o: 1.5\u20131.9\u00d7 more work per watt than Nvidia GB300. Not for sale.\n02  Nvidia \u00d7 Hugging Face: $12.9B reported. The GitHub of AI may sit inside the GPU monopoly.\n03  Etched: $21B in 30 days. Jane Street bought the rack first.\n04  The stack is splitting. Custom chips. Reported roll-ups. Fund-scale inference startups.\n\nDaily brief for operators \u2014 this is the hub cut.\n\nRead \u2192 https://www.acerbo.ai/en/\nBook 30 min \u2192 https://lnkd.in/eX2b7hzh\n\n#AI #inference #AcerboAI",
-   "disc_score": 0,
-   "checks": {
-    "24": 3
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787824058
-  },
-  "7498662808809619456": {
-   "created": 1787820532,
-   "author": "Dutch IT Channel",
-   "url": "https://www.linkedin.com/posts/dutch-it-channel_ai-chipmaker-etched-gewaardeerd-op-21-miljard-activity-7498662808809619456-Z8cC",
-   "text": "AI-chipmaker Etched gewaardeerd op 21 miljard dollar: Chippionier Etched heeft een kapitaalinjectie van 700 miljoen dollar opgehaald in een financieringsronde geleid door handelshuis Jane Street, met deelname van toonaangevende investeerders als Kleiner Perkins, Sequoia en Andreessen Horowitz. De ronde waardeert de ontwikkelaar van gespecialiseerde AI-hardware op 21 miljard dollar. Tegelijkertijd maakt het bedrijf bekend dat Jane Street de allereerste klant is die het hardware-systeem daadwerkelijk in productie heeft genomen.",
-   "disc_score": 0,
-   "checks": {
-    "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787824058
-  },
   "7498699194010927104": {
    "created": 1787829206,
    "author": "Vishwa Nath Jha",
@@ -136,7 +71,9 @@
    "url": "https://www.linkedin.com/posts/yasinehsan_the-ai-bubble-is-carried-by-nvidia-and-activity-7498832373166436352-clzJ",
    "text": "The AI \u201cbubble\u201d is carried by NVIDIA and OpenAI.\n\nSo long as these two companies keep climbing, hundreds of thousands of companies follow suit.\n\nCan they fail? Here\u2019s are NVIDIA\u2019s and OpenAI\u2019s \u201cachilles heels\u201d as I see it.\n\n1) Google, Anthropic and new entrants like Etched are building their own chips. Bye bye CUDA era.\n\n2) OpenAI (OAI) has committed to spending $1TN in infrastructure next 4 years. Mark Cuban thinks OAI will never make that money back.\n\n3) Unexpected threats. China\u2019s models are only 3 months away. If Huawei GPUs cost .87/hour (ie 4x less than NVIDIA) and China go all-in on open models\u2026\n\nSo here is how NVIDIA and OAI are combatting.\n\nNVIDIA is buying Hugging Face (GitHub for ",
    "disc_score": 7,
-   "checks": {},
+   "checks": {
+    "24": 18
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787862648
@@ -311,6 +248,39 @@
    "promoted": false,
    "miss": 0,
    "added": 1787942508
+  },
+  "7499175696527732736": {
+   "created": 1787942813,
+   "author": "Hardware FYI",
+   "url": "https://www.linkedin.com/posts/hardware-fyi_last-weeks-startup-highlights-1-starcloud-activity-7499175696527732736-_fcO",
+   "text": "\ud83c\udf31 Last week's startup highlights:\n\n1) Starcloud raised a $250M Series A extension to expand its satellite manufacturing capacity and develop larger orbital data centers. The company plans to launch two 8 kW compute satellites in 2027 before hoping to fly its larger Starcloud-3 spacecraft on SpaceX's Starship. The extension was led by Manhattan West Ventures and included Nvidia, Cisco, Benchmark, and EQT.\n\n2) Etched raised $700M at a $21B valuation to expand its specialized AI inference systems. The company sells 'frontier inference clusters' that can run any frontier model faster and at lower cost, framing its systems as an alternative to Nvidia for inference workloads. Jane Street led the r",
+   "disc_score": 4,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787952740
+  },
+  "7499184435393609728": {
+   "created": 1787944897,
+   "author": "Nicholas Roche",
+   "url": "https://www.linkedin.com/posts/nickfunds_jane-street-tested-etcheds-hardware-took-activity-7499184435393609728-4JlL",
+   "text": "Jane Street tested Etched's hardware, took delivery of the first rack, then led the round that doubled the company to $21B. It was already on the cap table before any of that happened.\n\n$10.3B on July 23. $21B on August 18. A 104% step-up in 26 days, on total funding of $1.9B and one named customer.\n\nThat customer is the lead investor. Jane Street was reported as an Etched backer in June, alongside Hudson River Trading, Jump Trading and Two Sigma. The first production rack went to the firm that priced the round. Etched cites $1B+ in customer contracts across frontier labs and clouds, none of them named, and no independent benchmark has cleared the performance claims yet.\n\nPricing $21B on one",
+   "disc_score": 11,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787952740
+  },
+  "7499190915572625408": {
+   "created": 1787946442,
+   "author": "Founderscrowd",
+   "url": "https://www.linkedin.com/posts/founderscrowd_etched-doubled-to-21-billion-in-a-month-activity-7499190915572625408-J8yY",
+   "text": "Etched doubled to $21 billion in a month. Its chip runs one kind of model and nothing else.\n\nMost AI chips are general, ready for whatever architecture wins next. Etched bet the whole company that the transformer is here to stay, and burned that into silicon.\n\nThe reward for being right is enormous. A transformer-only chip is far faster and cheaper than one keeping its options open.\n\nThe risk is the same size. If the field moves past the transformer, a general chip adapts. This one is scrap.\n\nJane Street led the round and is also the customer, running the racks.\n\nYou trade flexibility for performance and pray the ground does not move.\n\nWhere in your strategy have you traded optionality for s",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787952740
   }
  },
  "baseline": {
@@ -518,6 +488,10 @@
    [
     1787942508,
     0
+   ],
+   [
+    1787952740,
+    18
    ]
   ]
  },
