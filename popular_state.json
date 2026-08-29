@@ -1,30 +1,5 @@
 {
- "watch": {
-  "2093511488761905577": {
-   "created": 1787967009,
-   "author": "perceptroncloud",
-   "followers": 4957,
-   "url": "https://x.com/perceptroncloud/status/2093511488761905577",
-   "disc_score": 1,
-   "checks": {
-    "1": 1
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787973602
-  },
-  "2093533123891847360": {
-   "created": 1787972167,
-   "author": "goonsandgeeks",
-   "followers": 226,
-   "url": "https://x.com/goonsandgeeks/status/2093533123891847360",
-   "disc_score": 0,
-   "checks": {},
-   "promoted": false,
-   "miss": 0,
-   "added": 1787973602
-  }
- },
+ "watch": {},
  "baseline": {
   "1": [
    [
