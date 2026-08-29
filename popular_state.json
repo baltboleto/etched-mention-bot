@@ -1,28 +1,28 @@
 {
  "watch": {
-  "2093441581885825176": {
-   "created": 1787950342,
-   "author": "PeterGazdik",
-   "followers": 498,
-   "url": "https://x.com/PeterGazdik/status/2093441581885825176",
+  "2093511488761905577": {
+   "created": 1787967009,
+   "author": "perceptroncloud",
+   "followers": 4957,
+   "url": "https://x.com/perceptroncloud/status/2093511488761905577",
+   "disc_score": 1,
+   "checks": {
+    "1": 1
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1787973602
+  },
+  "2093533123891847360": {
+   "created": 1787972167,
+   "author": "goonsandgeeks",
+   "followers": 226,
+   "url": "https://x.com/goonsandgeeks/status/2093533123891847360",
    "disc_score": 0,
    "checks": {},
    "promoted": false,
    "miss": 0,
-   "added": 1787952687
-  },
-  "2093427563804627254": {
-   "created": 1787946999,
-   "author": "tn9_py",
-   "followers": 447,
-   "url": "https://x.com/tn9_py/status/2093427563804627254",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787952687
+   "added": 1787973602
   }
  },
  "baseline": {
@@ -630,6 +630,10 @@
    [
     1787952689,
     0
+   ],
+   [
+    1787973602,
+    1
    ]
   ]
  },
