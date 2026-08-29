@@ -1,57 +1,5 @@
 {
  "watch": {
-  "7498699194010927104": {
-   "created": 1787829206,
-   "author": "Vishwa Nath Jha",
-   "url": "https://www.linkedin.com/posts/activity-7498699194010927104-rXPK",
-   "text": "Three days at Hot Chips 2026, and the center of gravity wasn't a chip. It was a constraint.\n\nEvery headline architecture \u2014 Google splitting TPU into separate training and serving chips, Intel dropping HBM entirely on Crescent Island, OpenAI's Jalape\u00f1o, Qualcomm burying compute under LPDDR, SanDisk stacking NAND into HBM's form factor \u2014 was a different answer to the same question: not how fast you can compute, but where you can hold the weights and how far they have to travel.\n\nThe most interesting call of the conference: OpenAI, building the highest-volume inference chip on earth, explicitly chose not to disaggregate prefill and decode. Their design principle, in their own words \u2014 minimize d",
-   "disc_score": 2,
-   "checks": {
-    "24": 3
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787841496
-  },
-  "7498715946618904576": {
-   "created": 1787833201,
-   "author": "Airstream Alpha",
-   "url": "https://www.linkedin.com/posts/airstreamalpha_368-portfolio-construction-in-the-ai-era-activity-7498715946618904576-LRJZ",
-   "text": "AI chip startup Etched just re-priced its valuation twice in seven months, most recently doubling to $21B in under four weeks, per Etched's own announcement.\n\nMost fund reserve models still assume 12-18 months between a company's financing rounds. That gap between assumption and reality is what our latest issue digs into.\n\u27a1\ufe0f Per Carta's Peter Walker, across 1,000+ software rounds in the last six months, dilution at both Seed and Series A has been ticking down for months, founders are raising bigger checks for less equity than in prior cycles.\n\u27a1\ufe0f 19 of the new unicorns Crunchbase tracked in H1 2026 raised a fast follow-on round in six months or less, Hadrian among them, going from $1.6B to $7",
-   "disc_score": 0,
-   "checks": {
-    "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787841496
-  },
-  "7498718521565126656": {
-   "created": 1787833814,
-   "author": "Liam Vitoria",
-   "url": "https://www.linkedin.com/posts/liam-vitoria-37ab1ba4_around-15-of-etcheds-400-employees-previously-activity-7498718521565126656-WLdM",
-   "text": "Around 15% of Etched\u2019s 400 employees previously worked at NVIDIA.\n\nThat\u2019s roughly 60 hires from one company.\n\nMost startups hire vacancy by vacancy.\n\nEtched shows the value of mapping teams instead.\n\nFind the companies doing the engineering you need.\n\nThen find who built it, who worked with them and where those people went.\n\nOne company can contain half your future engineering team.",
-   "disc_score": 0,
-   "checks": {
-    "24": 2
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787841496
-  },
-  "7498688305132273665": {
-   "created": 1787826610,
-   "author": "Joshua Rahn",
-   "url": "https://www.linkedin.com/posts/rahnjoshua_oceans-co-founder-joshua-rahn-talks-significance-activity-7498688305132273665-JYW2",
-   "text": "Thanks Ashley Mastronardi and the team at NYSE for hosting me to talk about Etched's latest round!\n\nhttps://lnkd.in/g5UUrsa5 \n\n(thanks for the absurd image tied to the video! \ud83e\udd26\u200d\u2642\ufe0f )",
-   "disc_score": 35,
-   "checks": {
-    "24": 88
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787841496
-  },
   "7498782930115297280": {
    "created": 1787849171,
    "author": "Andre Green",
@@ -123,7 +71,9 @@
    "url": "https://www.linkedin.com/posts/vp17_ai-nvidia-etchedai-activity-7498877268845424640-24b6",
    "text": "Etched vs NVIDIA: What you need to know\nThe AI chip battle is getting interesting.\n\nNVIDIA builds GPUs that can handle almost everything training, inference, different models, and workloads.\n\nEtched is taking the opposite approach.\n\nIts Sohu chip is built specifically for Transformer-based AI inference.\nThe bet is simple:\nNVIDIA: Flexibility\nEtched: Specialization\n\nEtched claims its Sohu systems can deliver 500K+ tokens/sec on Llama 70B, dramatically above comparable GPU setups but these numbers are still largely company-reported.\n\nAnd NVIDIA isn't sitting still either. Its latest inference-focused systems show that it's also optimizing heavily for agentic AI and token generation.\n\nSo the re",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 5
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787875457
@@ -281,6 +231,28 @@
    "promoted": false,
    "miss": 0,
    "added": 1787952740
+  },
+  "7499260447167139840": {
+   "created": 1787963020,
+   "author": "John Wong",
+   "url": "https://www.linkedin.com/posts/john-wong-3080441_ai-%E6%8E%A8%E7%90%86%E6%88%90%E6%9C%AC%E7%9A%84%E7%B5%82%E6%A5%B5%E5%B0%8D%E6%B1%BAnvidiagroq-%E8%88%87-etched-%E7%9A%84%E6%9E%B6%E6%A7%8B%E8%83%BD%E6%95%88%E8%88%87%E5%95%86%E6%A5%AD%E7%AE%97%E7%9B%A4-activity-7499260447167139840--18a",
+   "text": "\u300aAI \u63a8\u7406\u6210\u672c\u7684\u7d42\u6975\u5c0d\u6c7a\uff1aNVIDIA\u3001Groq \u8207 Etched \u7684\u67b6\u69cb\u3001\u80fd\u6548\u8207\u5546\u696d\u7b97\u76e4\u300bThe Ultimate Inference War: Decoding Power, Token Cost, and Architecture Between NVIDIA, Groq, and Etched.\u00a0 https://lnkd.in/gwJRrkwF \nNVIDIA\u3001Groq\u3001Etched \u7684\u6df1\u5ea6\u786c\u9ad4\u8207\u6210\u672c\u6bd4\u8f03 In-depth hardware and cost comparison of NVIDIA, Groq, and Etched\n\nAI \u6676\u7247\u65b0\u5275\u516c\u53f8 Etched \u7684\u6700\u65b0\u9032\u5c55\uff08\u5df2\u7d2f\u8a08\u52df\u8cc7 8 \u5104\u7f8e\u5143\u3001\u7c3d\u4e0b\u903e 10 \u5104\u7f8e\u5143\u8a02\u55ae\uff09\u5c55\u73fe\u4e86\u6975\u5177\u91ce\u5fc3\u7684\u67b6\u69cb\u5e03\u5c40\u3002\u4ee5\u4e0b\u70ba\u60a8\u6574\u7406 Etched \u6676\u7247\u8207 NVIDIA \u901a\u7528 GPU \u4e4b\u9593\u7684\u6838\u5fc3\u6548\u80fd\u8207\u6230\u7565\u6bd4\u8f03\uff1aThe latest developments of AI chip startup Etched (which has raised $800 million and secured over $1 billion in orders) showcase its ambitious architectural strategy. Below is a comparison of the core performance and strategy of Etched chips and NVIDIA's general-purpose GPUs:\n\n1. \u901a\u7528\u904b\u7b97\uff08NVIDIA\uff09vs. \u5c08\u7528\u786c\u9ad4\uff08Etched\uff091. Gene",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787969448
+  },
+  "7499214323060375552": {
+   "created": 1787952023,
+   "author": "NBTC SAS",
+   "url": "https://www.linkedin.com/posts/nbtc-sas_crypto-regulation-nbtc-activity-7499214323060375552-qTPw",
+   "text": "AI startup Etched valuation doubles to $20B in one month with fresh $700M raise\n\u27a1\ufe0f Read All : https://lnkd.in/gdFd4pNn\n\nEtched is already eyeing a fresh funding round that will more than double the AI inference chips startup\u2019s valuation at around $21 billion, barely one month after its late July Sequoia-led $300 million Series C round that valued the firm at $10.3 billion. The new numbers cited in the Wall Street Journal\u2019s August 18 report [...] \n\n#Crypto #Regulation #NBTC #AI #Startup #Funding #Valuation #Unicorn",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787969448
   }
  },
  "baseline": {
@@ -492,6 +464,10 @@
    [
     1787952740,
     18
+   ],
+   [
+    1787969448,
+    5
    ]
   ]
  },
