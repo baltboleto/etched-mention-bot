@@ -1,70 +1,5 @@
 {
  "watch": {
-  "7498782930115297280": {
-   "created": 1787849171,
-   "author": "Andre Green",
-   "url": "https://www.linkedin.com/posts/andre-green-psu_semiconductors-aihardware-electricalengineering-activity-7498782930115297280-fqpx",
-   "text": "Inside Hot Chips \u2699\ufe0f \ud83d\udcbb\n\nFrom NVIDIA and OpenAI to massive AI startups like Etched and the pioneers of RISC-V International, this is where tomorrow\u2019s hardware gets built.\n\nBringing all of this right back to my computer architecture students at the University of California, Berkeley this semester \ud83d\udc3b\n\nCheck out who showed up to Stanford University: Hot Chips Symposium.\n\n\n #Semiconductors\u2060 \u2060#AIHardware\u2060 \u2060#ElectricalEngineering\u2060 \u2060#ComputerArchitecture\u2060 \u2060#TechInnovation\u2060",
-   "disc_score": 33,
-   "checks": {
-    "24": 71
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787862648
-  },
-  "7498832373166436352": {
-   "created": 1787860959,
-   "author": "Yasin Ehsan",
-   "url": "https://www.linkedin.com/posts/yasinehsan_the-ai-bubble-is-carried-by-nvidia-and-activity-7498832373166436352-clzJ",
-   "text": "The AI \u201cbubble\u201d is carried by NVIDIA and OpenAI.\n\nSo long as these two companies keep climbing, hundreds of thousands of companies follow suit.\n\nCan they fail? Here\u2019s are NVIDIA\u2019s and OpenAI\u2019s \u201cachilles heels\u201d as I see it.\n\n1) Google, Anthropic and new entrants like Etched are building their own chips. Bye bye CUDA era.\n\n2) OpenAI (OAI) has committed to spending $1TN in infrastructure next 4 years. Mark Cuban thinks OAI will never make that money back.\n\n3) Unexpected threats. China\u2019s models are only 3 months away. If Huawei GPUs cost .87/hour (ie 4x less than NVIDIA) and China go all-in on open models\u2026\n\nSo here is how NVIDIA and OAI are combatting.\n\nNVIDIA is buying Hugging Face (GitHub for ",
-   "disc_score": 7,
-   "checks": {
-    "24": 18
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787862648
-  },
-  "7498811432621383680": {
-   "created": 1787855966,
-   "author": "Waqas Khann",
-   "url": "https://www.linkedin.com/posts/waqas-khann-0225b633_venturecapital-deeptech-aiinfrastructure-activity-7498811432621383680-itqa",
-   "text": "\ud83d\ude80 The New Wave of Frontier Tech: Nuclear, Space, AI Infra & Beyond\n\nLate-stage private markets are no longer just chasing software multiples \u2014 they're funding atoms, not just bits. A look at some of the most closely watched names attracting serious investor capital right now:\n\n\u269b\ufe0f Aalo Atomics \u2014 Building modular nuclear microreactors purpose-built to power AI data centers; raised a $100M Series B (Valor Equity Partners) at a ~$450M valuation, signaling investors are betting nuclear becomes the default power source for the AI buildout.\n\n\ud83d\udef0\ufe0f Starcloud \u2014 Pioneering data centers in orbit; just closed $250M at a $2.3B valuation (up from $1.1B five months earlier), with NVIDIA and Cisco joining as n",
-   "disc_score": 1,
-   "checks": {
-    "24": 4
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787862648
-  },
-  "7498775054210465792": {
-   "created": 1787847293,
-   "author": "Joe Aro",
-   "url": "https://www.linkedin.com/posts/joearo_etched-a-us-based-startup-building-a-new-activity-7498775054210465792-N1da",
-   "text": "Etched, a US-based startup building a new type of AI semiconductor cluster, delivered its first chip rack to quantitative trading firm Jane Street this week. That delivery helped fuel a fresh $700M raise, pushing the company's valuation to $21B \u2014 up from $10.3B in July, just weeks after emerging from stealth in late June.",
-   "disc_score": 0,
-   "checks": {
-    "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787862648
-  },
-  "7498791101579857921": {
-   "created": 1787851119,
-   "author": "Witold Kepinski",
-   "url": "https://www.linkedin.com/posts/witoldkepinski_ai-chipmaker-etched-gewaardeerd-op-21-miljard-activity-7498791101579857921-e1nr",
-   "text": "AI-chipmaker Etched gewaardeerd op 21 miljard dollar\n\nChippionier Etched heeft een kapitaalinjectie van 700 miljoen dollar opgehaald in een financieringsronde geleid door handelshuis Jane Street, met deelname van toonaangevende investeerders als Kleiner Perkins, Sequoia Capital en Andreessen Horowitz. De ronde waardeert de ontwikkelaar van gespecialiseerde AI-hardware op 21 miljard dollar. Tegelijkertijd maakt het bedrijf bekend dat Jane Street de allereerste klant is die het hardware-systeem daadwerkelijk in productie heeft genomen.",
-   "disc_score": 0,
-   "checks": {
-    "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787862648
-  },
   "7498877268845424640": {
    "created": 1787871663,
    "author": "Vishal Prajapati",
@@ -84,7 +19,9 @@
    "url": "https://www.linkedin.com/posts/rich-washburn_ive-been-waiting-two-years-for-this-chip-activity-7498955247738929153-VR87",
    "text": "I've been waiting two years for this chip.\n\nBack in June 2024, Etched came out of stealth with a pitch that sounded insane: build the chip specifically for transformer inference, not as a general-purpose GPU. One Etched server potentially replacing 160 NVIDIA H100s.\n\nI chose to pay very close attention. Not because I knew they were right \u2014 nobody knew \u2014 but because the idea made sense.\n\nGPUs won AI because they were already there: massively parallel, programmable, backed by NVIDIA's software ecosystem. That flexibility was perfect when nobody knew what the next architecture would look like. But there was always the other question sitting there: what happens when we know enough about the work",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787894599
@@ -95,7 +32,9 @@
    "url": "https://www.linkedin.com/posts/activity-7498958575302692864-0pxv",
    "text": "NEXT PLAY:  Roles at Etched, former Product Leader at Amazon Prime Video, EMEA marketing lead at Listen Labs\nroles at breakout startups, co-founder searches, early startups hiring\n ~ BEN LANG via substack.com\nAUG 25, 2026 AT 10:29 AM",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787894599
@@ -106,7 +45,9 @@
    "url": "https://www.linkedin.com/posts/denis-kalyshkin_lastweekinai-activity-7499007757698899968-qWY-",
    "text": "U.S. AI Investments Last Week\n\nToday, I analyzed 50+ U.S. venture deals in AI startups announced between August 16\u201322. I decided to highlight the 5 largest deals and 7 early-stage investments in startups with solutions that I liked. Let me know if you like this format and how I could improve it.\n\nIf you\u2019d like to receive the full list of 50+ startups, leave a \u201c+\u201d in the comments. I\u2019ll send it to you via DM.\n\nTop 5 deals:\n- Poolside ($1B), AI models for software development.\n- Etched ($700M), chips, server racks, software, and manufacturing techniques designed to deliver higher performance and energy efficiency for cutting-edge AI models.\n- Higgsfield AI ($400M), tools for producing high-qual",
    "disc_score": 12,
-   "checks": {},
+   "checks": {
+    "24": 20
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787916561
@@ -117,7 +58,9 @@
    "url": "https://www.linkedin.com/posts/prabhhav-sharma_nvidia-activity-7498971318260948993-UlKY",
    "text": "NVIDIA is on a generational run right now.\n\nTheir revenue is greater than all Indian IT Companies combine. Market Cap greater than Indian GDP. \n\nThey recently acquired huggingface. Launched new AI Hardware. Building Data Centre. \n\nChip Vera targets CPU work around agents, including Python execution, tool calls, retrieval, orchestration and sandboxed code.\n\nNow they are best positioned to win Physical AI and Robotics race as well. \n\nNVIDIA New age competitors  etched hits $21b valuation $1b in sales for ai chip in US. \n\nIts chinese competitors Cambricon and Moore Threads are also growing fastly.\n\nOpen AI has also launched its AI Chip. With Anthropic and Spacex building one. \n\nNVIDIA will cont",
    "disc_score": 7,
-   "checks": {},
+   "checks": {
+    "24": 7
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787916561
@@ -128,7 +71,9 @@
    "url": "https://www.linkedin.com/posts/debadipb_debadipb-profitsolutions-aiinfrastructure-activity-7499024385857556480-QmiU",
    "text": "\u26a1 THE POWER TRADE JUST GOT REAL\n\nThis week confirmed what the last two quarters have been signaling: the AI infrastructure race isn't a chip race anymore. It's a power race.\n\n1\ufe0f\u20e3 Anthropic \u2192 Nscale: $45B, 6-year deal for 460MW of capacity on Nvidia Vera Rubin chips. Not a GPU order \u2014 a power-and-land commitment.\n\n2\ufe0f\u20e3 AWS x Nvidia expansion: 1M+ GPUs across Blackwell Ultra, Rubin, and Rubin Ultra, plus Vera CPUs coming to AWS and a dedicated 100,000-GPU buildout for federal/national-security workloads.\n\n3\ufe0f\u20e3 Custom silicon is no longer a side bet: AMD's acquisition of Taalas and Etched's $700M raise show frontier labs and challengers alike hedging away from commodity GPU dependence.\n\n4\ufe0f\u20e3 Nvidi",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 1
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787916561
@@ -139,7 +84,9 @@
    "url": "https://www.linkedin.com/posts/xu-jie-tao-57125741b_this-issue-focuses-on-how-ai-demand-is-reshaping-activity-7499028236136415232-UVOg",
    "text": "This issue focuses on how AI demand is reshaping pricing, production capacity and technology roadmaps across the semiconductor supply chain. The most prominent signals this week include price hikes for advanced wafer foundry services, custom AI chip partnerships, robust demand for analog and power management semiconductors, intensifying competition among inference accelerators, and expanded procurement demand spanning power generation, thermal management, cabling and system-level hardware for data centers. Supply chain stakeholders are shifting their core focus from \"chip availability\" to four critical dimensions: capacity reservation, cost pass-through of price increases, proprietary custom",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787916561
@@ -253,6 +200,28 @@
    "promoted": false,
    "miss": 0,
    "added": 1787969448
+  },
+  "7499340081833357312": {
+   "created": 1787982006,
+   "author": "Evergreen Technologies LLC",
+   "url": "https://www.linkedin.com/posts/evergreen-tech-llc_httpszurlcosdn4b-etched-the-21-activity-7499340081833357312-1S-9",
+   "text": "https://zurl.co/SdN4b \n\ud83d\ude80Etched: The $21 Billion Bet on Transformer-Specific Silicon\nThe provided video details the rise of Etched, a semiconductor startup that has developed a specialized chip called Sohu designed exclusively ...\nRead more at https://zurl.co/1no0p",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787994324
+  },
+  "7499340086090752000": {
+   "created": 1787982007,
+   "author": "Evergreen Technologies (USA)",
+   "url": "https://www.linkedin.com/posts/evergreen-technologies-usa-3a7422198_httpszurlcosdn4b-etched-the-21-activity-7499340086090752000-KWMR",
+   "text": "https://zurl.co/SdN4b \n\ud83d\ude80Etched: The $21 Billion Bet on Transformer-Specific Silicon\nThe provided video details the rise of Etched, a semiconductor startup that has developed a specialized chip called Sohu designed exclusively ...\nRead more at https://zurl.co/1no0p",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1787994324
   }
  },
  "baseline": {
@@ -468,6 +437,30 @@
    [
     1787969448,
     5
+   ],
+   [
+    1787994324,
+    0
+   ],
+   [
+    1787994324,
+    0
+   ],
+   [
+    1787994324,
+    20
+   ],
+   [
+    1787994324,
+    7
+   ],
+   [
+    1787994324,
+    1
+   ],
+   [
+    1787994324,
+    0
    ]
   ]
  },
