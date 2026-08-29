@@ -6,21 +6,23 @@
    "followers": 356624,
    "url": "https://x.com/patrick_oshag/status/2093766611320639560",
    "disc_score": 4,
-   "checks": {},
+   "checks": {
+    "1": null
+   },
    "promoted": false,
    "miss": 0,
    "added": 1788028433
   },
-  "2093760057792172188": {
-   "created": 1788026272,
-   "author": "Karthik287",
-   "followers": 1195,
-   "url": "https://x.com/Karthik287/status/2093760057792172188",
-   "disc_score": 1,
+  "2093802718339142070": {
+   "created": 1788036443,
+   "author": "ToonamiAfter",
+   "followers": 2540,
+   "url": "https://x.com/ToonamiAfter/status/2093802718339142070",
+   "disc_score": 0,
    "checks": {},
    "promoted": false,
    "miss": 0,
-   "added": 1788028433
+   "added": 1788038219
   }
  },
  "baseline": {
