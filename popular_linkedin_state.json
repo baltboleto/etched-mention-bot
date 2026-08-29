@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7498877268845424640": {
-   "created": 1787871663,
-   "author": "Vishal Prajapati",
-   "url": "https://www.linkedin.com/posts/vp17_ai-nvidia-etchedai-activity-7498877268845424640-24b6",
-   "text": "Etched vs NVIDIA: What you need to know\nThe AI chip battle is getting interesting.\n\nNVIDIA builds GPUs that can handle almost everything training, inference, different models, and workloads.\n\nEtched is taking the opposite approach.\n\nIts Sohu chip is built specifically for Transformer-based AI inference.\nThe bet is simple:\nNVIDIA: Flexibility\nEtched: Specialization\n\nEtched claims its Sohu systems can deliver 500K+ tokens/sec on Llama 70B, dramatically above comparable GPU setups but these numbers are still largely company-reported.\n\nAnd NVIDIA isn't sitting still either. Its latest inference-focused systems show that it's also optimizing heavily for agentic AI and token generation.\n\nSo the re",
-   "disc_score": 0,
-   "checks": {
-    "24": 5
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787875457
-  },
   "7498955247738929153": {
    "created": 1787890254,
    "author": "Rich Washburn",
