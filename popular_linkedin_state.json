@@ -1,44 +1,5 @@
 {
  "watch": {
-  "7499007757698899968": {
-   "created": 1787902774,
-   "author": "Denis Kalyshkin",
-   "url": "https://www.linkedin.com/posts/denis-kalyshkin_lastweekinai-activity-7499007757698899968-qWY-",
-   "text": "U.S. AI Investments Last Week\n\nToday, I analyzed 50+ U.S. venture deals in AI startups announced between August 16\u201322. I decided to highlight the 5 largest deals and 7 early-stage investments in startups with solutions that I liked. Let me know if you like this format and how I could improve it.\n\nIf you\u2019d like to receive the full list of 50+ startups, leave a \u201c+\u201d in the comments. I\u2019ll send it to you via DM.\n\nTop 5 deals:\n- Poolside ($1B), AI models for software development.\n- Etched ($700M), chips, server racks, software, and manufacturing techniques designed to deliver higher performance and energy efficiency for cutting-edge AI models.\n- Higgsfield AI ($400M), tools for producing high-qual",
-   "disc_score": 12,
-   "checks": {
-    "24": 20
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787916561
-  },
-  "7499024385857556480": {
-   "created": 1787906738,
-   "author": "deb(debadip) bandyopadhyay, CEO CMO Strategist MBA MTech MS",
-   "url": "https://www.linkedin.com/posts/debadipb_debadipb-profitsolutions-aiinfrastructure-activity-7499024385857556480-QmiU",
-   "text": "\u26a1 THE POWER TRADE JUST GOT REAL\n\nThis week confirmed what the last two quarters have been signaling: the AI infrastructure race isn't a chip race anymore. It's a power race.\n\n1\ufe0f\u20e3 Anthropic \u2192 Nscale: $45B, 6-year deal for 460MW of capacity on Nvidia Vera Rubin chips. Not a GPU order \u2014 a power-and-land commitment.\n\n2\ufe0f\u20e3 AWS x Nvidia expansion: 1M+ GPUs across Blackwell Ultra, Rubin, and Rubin Ultra, plus Vera CPUs coming to AWS and a dedicated 100,000-GPU buildout for federal/national-security workloads.\n\n3\ufe0f\u20e3 Custom silicon is no longer a side bet: AMD's acquisition of Taalas and Etched's $700M raise show frontier labs and challengers alike hedging away from commodity GPU dependence.\n\n4\ufe0f\u20e3 Nvidi",
-   "disc_score": 0,
-   "checks": {
-    "24": 1
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787916561
-  },
-  "7499028236136415232": {
-   "created": 1787907656,
-   "author": "xu jie tao",
-   "url": "https://www.linkedin.com/posts/xu-jie-tao-57125741b_this-issue-focuses-on-how-ai-demand-is-reshaping-activity-7499028236136415232-UVOg",
-   "text": "This issue focuses on how AI demand is reshaping pricing, production capacity and technology roadmaps across the semiconductor supply chain. The most prominent signals this week include price hikes for advanced wafer foundry services, custom AI chip partnerships, robust demand for analog and power management semiconductors, intensifying competition among inference accelerators, and expanded procurement demand spanning power generation, thermal management, cabling and system-level hardware for data centers. Supply chain stakeholders are shifting their core focus from \"chip availability\" to four critical dimensions: capacity reservation, cost pass-through of price increases, proprietary custom",
-   "disc_score": 0,
-   "checks": {
-    "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787916561
-  },
   "7499148972268138496": {
    "created": 1787936442,
    "author": "Lynn Duan",
@@ -110,7 +71,9 @@
    "url": "https://www.linkedin.com/posts/hardware-fyi_last-weeks-startup-highlights-1-starcloud-activity-7499175696527732736-_fcO",
    "text": "\ud83c\udf31 Last week's startup highlights:\n\n1) Starcloud raised a $250M Series A extension to expand its satellite manufacturing capacity and develop larger orbital data centers. The company plans to launch two 8 kW compute satellites in 2027 before hoping to fly its larger Starcloud-3 spacecraft on SpaceX's Starship. The extension was led by Manhattan West Ventures and included Nvidia, Cisco, Benchmark, and EQT.\n\n2) Etched raised $700M at a $21B valuation to expand its specialized AI inference systems. The company sells 'frontier inference clusters' that can run any frontier model faster and at lower cost, framing its systems as an alternative to Nvidia for inference workloads. Jane Street led the r",
    "disc_score": 4,
-   "checks": {},
+   "checks": {
+    "24": 7
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787952740
@@ -121,7 +84,9 @@
    "url": "https://www.linkedin.com/posts/nickfunds_jane-street-tested-etcheds-hardware-took-activity-7499184435393609728-4JlL",
    "text": "Jane Street tested Etched's hardware, took delivery of the first rack, then led the round that doubled the company to $21B. It was already on the cap table before any of that happened.\n\n$10.3B on July 23. $21B on August 18. A 104% step-up in 26 days, on total funding of $1.9B and one named customer.\n\nThat customer is the lead investor. Jane Street was reported as an Etched backer in June, alongside Hudson River Trading, Jump Trading and Two Sigma. The first production rack went to the firm that priced the round. Etched cites $1B+ in customer contracts across frontier labs and clouds, none of them named, and no independent benchmark has cleared the performance claims yet.\n\nPricing $21B on one",
    "disc_score": 11,
-   "checks": {},
+   "checks": {
+    "24": 13
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787952740
@@ -132,7 +97,9 @@
    "url": "https://www.linkedin.com/posts/founderscrowd_etched-doubled-to-21-billion-in-a-month-activity-7499190915572625408-J8yY",
    "text": "Etched doubled to $21 billion in a month. Its chip runs one kind of model and nothing else.\n\nMost AI chips are general, ready for whatever architecture wins next. Etched bet the whole company that the transformer is here to stay, and burned that into silicon.\n\nThe reward for being right is enormous. A transformer-only chip is far faster and cheaper than one keeping its options open.\n\nThe risk is the same size. If the field moves past the transformer, a general chip adapts. This one is scrap.\n\nJane Street led the round and is also the customer, running the racks.\n\nYou trade flexibility for performance and pray the ground does not move.\n\nWhere in your strategy have you traded optionality for s",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787952740
@@ -439,6 +406,18 @@
    [
     1788028085,
     4
+   ],
+   [
+    1788038256,
+    7
+   ],
+   [
+    1788038256,
+    13
+   ],
+   [
+    1788038256,
+    0
    ]
   ]
  },
