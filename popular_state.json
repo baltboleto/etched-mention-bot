@@ -1,28 +1,28 @@
 {
  "watch": {
-  "2093766611320639560": {
-   "created": 1788027835,
-   "author": "patrick_oshag",
-   "followers": 356624,
-   "url": "https://x.com/patrick_oshag/status/2093766611320639560",
-   "disc_score": 4,
-   "checks": {
-    "1": null
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788028433
-  },
   "2093802718339142070": {
    "created": 1788036443,
    "author": "ToonamiAfter",
    "followers": 2540,
    "url": "https://x.com/ToonamiAfter/status/2093802718339142070",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "1": null
+   },
    "promoted": false,
    "miss": 0,
    "added": 1788038219
+  },
+  "2093836586744226002": {
+   "created": 1788044518,
+   "author": "raymondjzhao",
+   "followers": 9,
+   "url": "https://x.com/raymondjzhao/status/2093836586744226002",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1788046282
   }
  },
  "baseline": {
