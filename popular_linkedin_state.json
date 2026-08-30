@@ -1,70 +1,5 @@
 {
  "watch": {
-  "7499175696527732736": {
-   "created": 1787942813,
-   "author": "Hardware FYI",
-   "url": "https://www.linkedin.com/posts/hardware-fyi_last-weeks-startup-highlights-1-starcloud-activity-7499175696527732736-_fcO",
-   "text": "\ud83c\udf31 Last week's startup highlights:\n\n1) Starcloud raised a $250M Series A extension to expand its satellite manufacturing capacity and develop larger orbital data centers. The company plans to launch two 8 kW compute satellites in 2027 before hoping to fly its larger Starcloud-3 spacecraft on SpaceX's Starship. The extension was led by Manhattan West Ventures and included Nvidia, Cisco, Benchmark, and EQT.\n\n2) Etched raised $700M at a $21B valuation to expand its specialized AI inference systems. The company sells 'frontier inference clusters' that can run any frontier model faster and at lower cost, framing its systems as an alternative to Nvidia for inference workloads. Jane Street led the r",
-   "disc_score": 4,
-   "checks": {
-    "24": 7
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787952740
-  },
-  "7499184435393609728": {
-   "created": 1787944897,
-   "author": "Nicholas Roche",
-   "url": "https://www.linkedin.com/posts/nickfunds_jane-street-tested-etcheds-hardware-took-activity-7499184435393609728-4JlL",
-   "text": "Jane Street tested Etched's hardware, took delivery of the first rack, then led the round that doubled the company to $21B. It was already on the cap table before any of that happened.\n\n$10.3B on July 23. $21B on August 18. A 104% step-up in 26 days, on total funding of $1.9B and one named customer.\n\nThat customer is the lead investor. Jane Street was reported as an Etched backer in June, alongside Hudson River Trading, Jump Trading and Two Sigma. The first production rack went to the firm that priced the round. Etched cites $1B+ in customer contracts across frontier labs and clouds, none of them named, and no independent benchmark has cleared the performance claims yet.\n\nPricing $21B on one",
-   "disc_score": 11,
-   "checks": {
-    "24": 13
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787952740
-  },
-  "7499190915572625408": {
-   "created": 1787946442,
-   "author": "Founderscrowd",
-   "url": "https://www.linkedin.com/posts/founderscrowd_etched-doubled-to-21-billion-in-a-month-activity-7499190915572625408-J8yY",
-   "text": "Etched doubled to $21 billion in a month. Its chip runs one kind of model and nothing else.\n\nMost AI chips are general, ready for whatever architecture wins next. Etched bet the whole company that the transformer is here to stay, and burned that into silicon.\n\nThe reward for being right is enormous. A transformer-only chip is far faster and cheaper than one keeping its options open.\n\nThe risk is the same size. If the field moves past the transformer, a general chip adapts. This one is scrap.\n\nJane Street led the round and is also the customer, running the racks.\n\nYou trade flexibility for performance and pray the ground does not move.\n\nWhere in your strategy have you traded optionality for s",
-   "disc_score": 0,
-   "checks": {
-    "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787952740
-  },
-  "7499260447167139840": {
-   "created": 1787963020,
-   "author": "John Wong",
-   "url": "https://www.linkedin.com/posts/john-wong-3080441_ai-%E6%8E%A8%E7%90%86%E6%88%90%E6%9C%AC%E7%9A%84%E7%B5%82%E6%A5%B5%E5%B0%8D%E6%B1%BAnvidiagroq-%E8%88%87-etched-%E7%9A%84%E6%9E%B6%E6%A7%8B%E8%83%BD%E6%95%88%E8%88%87%E5%95%86%E6%A5%AD%E7%AE%97%E7%9B%A4-activity-7499260447167139840--18a",
-   "text": "\u300aAI \u63a8\u7406\u6210\u672c\u7684\u7d42\u6975\u5c0d\u6c7a\uff1aNVIDIA\u3001Groq \u8207 Etched \u7684\u67b6\u69cb\u3001\u80fd\u6548\u8207\u5546\u696d\u7b97\u76e4\u300bThe Ultimate Inference War: Decoding Power, Token Cost, and Architecture Between NVIDIA, Groq, and Etched.\u00a0 https://lnkd.in/gwJRrkwF \nNVIDIA\u3001Groq\u3001Etched \u7684\u6df1\u5ea6\u786c\u9ad4\u8207\u6210\u672c\u6bd4\u8f03 In-depth hardware and cost comparison of NVIDIA, Groq, and Etched\n\nAI \u6676\u7247\u65b0\u5275\u516c\u53f8 Etched \u7684\u6700\u65b0\u9032\u5c55\uff08\u5df2\u7d2f\u8a08\u52df\u8cc7 8 \u5104\u7f8e\u5143\u3001\u7c3d\u4e0b\u903e 10 \u5104\u7f8e\u5143\u8a02\u55ae\uff09\u5c55\u73fe\u4e86\u6975\u5177\u91ce\u5fc3\u7684\u67b6\u69cb\u5e03\u5c40\u3002\u4ee5\u4e0b\u70ba\u60a8\u6574\u7406 Etched \u6676\u7247\u8207 NVIDIA \u901a\u7528 GPU \u4e4b\u9593\u7684\u6838\u5fc3\u6548\u80fd\u8207\u6230\u7565\u6bd4\u8f03\uff1aThe latest developments of AI chip startup Etched (which has raised $800 million and secured over $1 billion in orders) showcase its ambitious architectural strategy. Below is a comparison of the core performance and strategy of Etched chips and NVIDIA's general-purpose GPUs:\n\n1. \u901a\u7528\u904b\u7b97\uff08NVIDIA\uff09vs. \u5c08\u7528\u786c\u9ad4\uff08Etched\uff091. Gene",
-   "disc_score": 0,
-   "checks": {
-    "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787969448
-  },
-  "7499214323060375552": {
-   "created": 1787952023,
-   "author": "NBTC SAS",
-   "url": "https://www.linkedin.com/posts/nbtc-sas_crypto-regulation-nbtc-activity-7499214323060375552-qTPw",
-   "text": "AI startup Etched valuation doubles to $20B in one month with fresh $700M raise\n\u27a1\ufe0f Read All : https://lnkd.in/gdFd4pNn\n\nEtched is already eyeing a fresh funding round that will more than double the AI inference chips startup\u2019s valuation at around $21 billion, barely one month after its late July Sequoia-led $300 million Series C round that valued the firm at $10.3 billion. The new numbers cited in the Wall Street Journal\u2019s August 18 report [...] \n\n#Crypto #Regulation #NBTC #AI #Startup #Funding #Valuation #Unicorn",
-   "disc_score": 0,
-   "checks": {
-    "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787969448
-  },
   "7499340081833357312": {
    "created": 1787982006,
    "author": "Evergreen Technologies LLC",
@@ -90,6 +25,17 @@
    "promoted": false,
    "miss": 0,
    "added": 1787994324
+  },
+  "7499802360974655488": {
+   "created": 1788092222,
+   "author": "Rene van Pelt",
+   "url": "https://www.linkedin.com/posts/rene-van-pelt_ai-brief-put-together-a-ranking-of-the-most-activity-7499802360974655488-Vk8w",
+   "text": "AI Brief put together a ranking of the most valuable private AI chip companies. A clear snapshot of where the money is going outside NVIDIA.\n\nEtched, SambaNova, Groq, Ayar Labs, Tenstorrent and more. Nine companies, what they build, and their latest reported valuation.\n\nWorth a look if you follow the compute side: https://lnkd.in/esHXbQey",
+   "disc_score": 5,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1788094404
   }
  },
  "baseline": {
