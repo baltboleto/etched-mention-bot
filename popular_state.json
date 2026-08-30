@@ -1,28 +1,30 @@
 {
  "watch": {
-  "2094046234499527044": {
-   "created": 1788094502,
-   "author": "austinsemis",
-   "followers": 6667,
-   "url": "https://x.com/austinsemis/status/2094046234499527044",
-   "disc_score": 1,
-   "checks": {},
+  "2094094319305236523": {
+   "created": 1788105966,
+   "author": "adamkillam",
+   "followers": 4913,
+   "url": "https://x.com/adamkillam/status/2094094319305236523",
+   "disc_score": 0,
+   "checks": {
+    "1": 0
+   },
    "promoted": false,
    "miss": 0,
-   "added": 1788095562
+   "added": 1788111137
   },
-  "2094005635578798466": {
-   "created": 1788084822,
-   "author": "sowaworks",
-   "followers": 16,
-   "url": "https://x.com/sowaworks/status/2094005635578798466",
-   "disc_score": 0,
+  "2094073767840346575": {
+   "created": 1788101066,
+   "author": "intern_cc",
+   "followers": 8575,
+   "url": "https://x.com/intern_cc/status/2094073767840346575",
+   "disc_score": 84,
    "checks": {
     "1": null
    },
    "promoted": false,
    "miss": 0,
-   "added": 1788095562
+   "added": 1788111137
   }
  },
  "baseline": {
@@ -634,6 +636,10 @@
    [
     1787973602,
     1
+   ],
+   [
+    1788111138,
+    0
    ]
   ]
  },
