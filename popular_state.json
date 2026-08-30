@@ -1,32 +1,5 @@
 {
- "watch": {
-  "2094094319305236523": {
-   "created": 1788105966,
-   "author": "adamkillam",
-   "followers": 4913,
-   "url": "https://x.com/adamkillam/status/2094094319305236523",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788111137
-  },
-  "2094073767840346575": {
-   "created": 1788101066,
-   "author": "intern_cc",
-   "followers": 8575,
-   "url": "https://x.com/intern_cc/status/2094073767840346575",
-   "disc_score": 84,
-   "checks": {
-    "1": null
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788111137
-  }
- },
+ "watch": {},
  "baseline": {
   "1": [
    [
