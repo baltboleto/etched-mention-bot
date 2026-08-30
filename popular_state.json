@@ -1,25 +1,14 @@
 {
  "watch": {
-  "2093802718339142070": {
-   "created": 1788036443,
-   "author": "ToonamiAfter",
-   "followers": 2540,
-   "url": "https://x.com/ToonamiAfter/status/2093802718339142070",
-   "disc_score": 0,
-   "checks": {
-    "1": null
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788038219
-  },
   "2093836586744226002": {
    "created": 1788044518,
    "author": "raymondjzhao",
    "followers": 9,
    "url": "https://x.com/raymondjzhao/status/2093836586744226002",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "1": null
+   },
    "promoted": false,
    "miss": 0,
    "added": 1788046282
