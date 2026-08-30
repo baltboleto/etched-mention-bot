@@ -1,70 +1,5 @@
 {
  "watch": {
-  "7499148972268138496": {
-   "created": 1787936442,
-   "author": "Lynn Duan",
-   "url": "https://www.linkedin.com/posts/yuyan-duan_everyone-in-ai-would-agree-2026-is-the-year-activity-7499148972268138496-H2Wz",
-   "text": "Everyone in AI would agree: 2026 is the year of compute and inference.\n \nLast week, together with General Compute and Kaleidoscope Ventures, we at AI Plus (AI+) hosted Compute & Caviar \u2014 a very small, private evening in SF for leaders building, financing, and operating across the AI infrastructure stack.\n\nIn the room: the CEOs of SemiAnalysis, SambaNova, Exa, Artificial Analysis and Composio; co-founders from Fireworks AI and General Compute, head of compute planning from OpenAI; VP of AI Datacenters from Qualcomm; SVP of Applied AI from Nebius, and leadership across Etched, Ricursive Intelligence, and frontier investors from Andreessen Horowitz, DCVC, Temasek, and Theory Ventures. \n\nA prett",
-   "disc_score": 19,
-   "checks": {
-    "24": 74
-   },
-   "promoted": true,
-   "miss": 0,
-   "added": 1787942508
-  },
-  "7499135017126756353": {
-   "created": 1787933115,
-   "author": "Jason Goodison",
-   "url": "https://www.linkedin.com/posts/jasonlevigoodison_last-week-was-a-big-one-for-non-nvidia-inference-activity-7499135017126756353-YBxf",
-   "text": "Last week was a big one for non-Nvidia inference silicon. Etched and Cerebras had some very exciting updates. \n\nEtched shipped its first rack to Jane Street, their first customer, who tested it on live trading workloads, and also led their latest fundraise.\n\nWhat's been impressive is Etched's innovation here. \n\nOn prefill, they run low-voltage inference to pack more compute into the same power budget. On decode, cluster-scale memory allows an entire rack to function as a single, unified machine. \n\nCerebras launched CS-4, which achieves up to 30x faster inference compared to GPUs. \n\nGPUs only get fast by batching lots of users, so each one waits. CS-4 holds the whole model in memory thousands",
-   "disc_score": 25,
-   "checks": {
-    "24": 82
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787942508
-  },
-  "7499156972307582976": {
-   "created": 1787938349,
-   "author": "Janet Gehrmann",
-   "url": "https://www.linkedin.com/posts/janet-gehrmann_one-way-to-read-the-latest-ai-funding-news-activity-7499156972307582976-rdO-",
-   "text": "One way to read the latest AI funding news is that AI is moving from a destination to an operating layer.\n\nLook at where investors are putting capital:\n\u25b6\ufe0f Hadrian raised nearly $1.4B to scale AI-powered manufacturing for defense and aerospace.\u00a0\n\u25b6\ufe0f River AI raised $1.1B to build personal AI systems that can be trained and adapted by their users.\u00a0\n\u25b6\ufe0f Etched raised $700M to develop specialized chips for faster, cheaper AI inference.\u00a0\n\u25b6\ufe0f Wispr Flow raised $280M for voice-driven workplace software and says its products are used by more than 10,000 enterprises.\u00a0\n\u25b6\ufe0f Stability AI raised $76M from strategic investors across music, gaming, and entertainment. \n\nThese are very different companies, but t",
-   "disc_score": 3,
-   "checks": {
-    "24": 3
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787942508
-  },
-  "7499116865177423872": {
-   "created": 1787928787,
-   "author": "Dror Futter",
-   "url": "https://www.linkedin.com/posts/drorfutter_nobodys-waiting-around-anymore-heres-activity-7499116865177423872-k-0N",
-   "text": "\"Nobody's Waiting Around Anymore\n\nHere's the part that actually worries me. I'm not seeing deals take the time they used to take. Term sheets are turning around in days, not weeks. Rounds that would have taken a quarter to put together a few years ago are done before the data room is even fully organized.\n\nEtched is the clearest example of what that compression actually looks like. $5B in December, roughly $10B by July, then $21B a month after that. That's not just a bigger number each time, that's three separate rounds inside eight months, each one closing faster than the last. Castelion went from fifty rejections to a billion-dollar round co-led by three institutions that don't typically m",
-   "disc_score": 1,
-   "checks": {
-    "24": 3
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787942508
-  },
-  "7499148902261051392": {
-   "created": 1787936425,
-   "author": "Startup Savant",
-   "url": "https://www.linkedin.com/posts/startup-savant_22-top-silicon-valley-startups-to-watch-in-activity-7499148902261051392-XoIm",
-   "text": "AI is everywhere in Silicon Valley right now, but it\u2019s not the whole story.\n\nThere are startups working on carbon removal, cell therapy manufacturing, humanoid robots, construction tech, embedded finance, and cybersecurity.\n\nWe updated our list of the top Silicon Valley startups to watch in 2026, with a look at what they\u2019re building, who\u2019s backing them, and how much they\u2019ve raised: https://lnkd.in/gP8udAUE\n\nVanta Glean Cellares Parafin Daffy Heirloom Harvey Figure Together AI Hippocratic AI Sierra Decagon Physical Intelligence World Labs Lyrid Datasaur Cribl Fiddler AI Brightline Dusty Robotics humans& Etched\n\n#Startups #SiliconValley #Tech",
-   "disc_score": 1,
-   "checks": {
-    "24": 4
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1787942508
-  },
   "7499175696527732736": {
    "created": 1787942813,
    "author": "Hardware FYI",
@@ -136,7 +71,9 @@
    "url": "https://www.linkedin.com/posts/evergreen-tech-llc_httpszurlcosdn4b-etched-the-21-activity-7499340081833357312-1S-9",
    "text": "https://zurl.co/SdN4b \n\ud83d\ude80Etched: The $21 Billion Bet on Transformer-Specific Silicon\nThe provided video details the rise of Etched, a semiconductor startup that has developed a specialized chip called Sohu designed exclusively ...\nRead more at https://zurl.co/1no0p",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787994324
@@ -147,7 +84,9 @@
    "url": "https://www.linkedin.com/posts/evergreen-technologies-usa-3a7422198_httpszurlcosdn4b-etched-the-21-activity-7499340086090752000-KWMR",
    "text": "https://zurl.co/SdN4b \n\ud83d\ude80Etched: The $21 Billion Bet on Transformer-Specific Silicon\nThe provided video details the rise of Etched, a semiconductor startup that has developed a specialized chip called Sohu designed exclusively ...\nRead more at https://zurl.co/1no0p",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787994324
@@ -429,6 +368,14 @@
    ],
    [
     1788054082,
+    0
+   ],
+   [
+    1788071943,
+    0
+   ],
+   [
+    1788071943,
     0
    ]
   ]
