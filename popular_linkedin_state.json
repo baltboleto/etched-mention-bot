@@ -110,7 +110,9 @@
    "url": "https://www.linkedin.com/posts/john-wong-3080441_ai-%E6%8E%A8%E7%90%86%E6%88%90%E6%9C%AC%E7%9A%84%E7%B5%82%E6%A5%B5%E5%B0%8D%E6%B1%BAnvidiagroq-%E8%88%87-etched-%E7%9A%84%E6%9E%B6%E6%A7%8B%E8%83%BD%E6%95%88%E8%88%87%E5%95%86%E6%A5%AD%E7%AE%97%E7%9B%A4-activity-7499260447167139840--18a",
    "text": "\u300aAI \u63a8\u7406\u6210\u672c\u7684\u7d42\u6975\u5c0d\u6c7a\uff1aNVIDIA\u3001Groq \u8207 Etched \u7684\u67b6\u69cb\u3001\u80fd\u6548\u8207\u5546\u696d\u7b97\u76e4\u300bThe Ultimate Inference War: Decoding Power, Token Cost, and Architecture Between NVIDIA, Groq, and Etched.\u00a0 https://lnkd.in/gwJRrkwF \nNVIDIA\u3001Groq\u3001Etched \u7684\u6df1\u5ea6\u786c\u9ad4\u8207\u6210\u672c\u6bd4\u8f03 In-depth hardware and cost comparison of NVIDIA, Groq, and Etched\n\nAI \u6676\u7247\u65b0\u5275\u516c\u53f8 Etched \u7684\u6700\u65b0\u9032\u5c55\uff08\u5df2\u7d2f\u8a08\u52df\u8cc7 8 \u5104\u7f8e\u5143\u3001\u7c3d\u4e0b\u903e 10 \u5104\u7f8e\u5143\u8a02\u55ae\uff09\u5c55\u73fe\u4e86\u6975\u5177\u91ce\u5fc3\u7684\u67b6\u69cb\u5e03\u5c40\u3002\u4ee5\u4e0b\u70ba\u60a8\u6574\u7406 Etched \u6676\u7247\u8207 NVIDIA \u901a\u7528 GPU \u4e4b\u9593\u7684\u6838\u5fc3\u6548\u80fd\u8207\u6230\u7565\u6bd4\u8f03\uff1aThe latest developments of AI chip startup Etched (which has raised $800 million and secured over $1 billion in orders) showcase its ambitious architectural strategy. Below is a comparison of the core performance and strategy of Etched chips and NVIDIA's general-purpose GPUs:\n\n1. \u901a\u7528\u904b\u7b97\uff08NVIDIA\uff09vs. \u5c08\u7528\u786c\u9ad4\uff08Etched\uff091. Gene",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1787969448
@@ -423,6 +425,10 @@
    ],
    [
     1788039791,
+    0
+   ],
+   [
+    1788054082,
     0
    ]
   ]
