@@ -6,7 +6,9 @@
    "url": "https://www.linkedin.com/posts/rene-van-pelt_ai-brief-put-together-a-ranking-of-the-most-activity-7499802360974655488-Vk8w",
    "text": "AI Brief put together a ranking of the most valuable private AI chip companies. A clear snapshot of where the money is going outside NVIDIA.\n\nEtched, SambaNova, Groq, Ayar Labs, Tenstorrent and more. Nine companies, what they build, and their latest reported valuation.\n\nWorth a look if you follow the compute side: https://lnkd.in/esHXbQey",
    "disc_score": 5,
-   "checks": {},
+   "checks": {
+    "24": 14
+   },
    "promoted": false,
    "miss": 0,
    "added": 1788094404
@@ -330,6 +332,10 @@
    [
     1788071943,
     0
+   ],
+   [
+    1788184021,
+    14
    ]
   ]
  },
