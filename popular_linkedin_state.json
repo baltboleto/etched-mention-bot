@@ -32,6 +32,17 @@
    "promoted": false,
    "miss": 0,
    "added": 1788110923
+  },
+  "7499943527078875136": {
+   "created": 1788125879,
+   "author": "Peng Shao",
+   "url": "https://www.linkedin.com/posts/peng-shao-54aab728_why-does-the-ai-era-require-multiple-technological-activity-7499943527078875136-soP9",
+   "text": "Why does the AI era require multiple technological routes?\n\u2014 From GPUs to dedicated ASICs, and then to integrated memory and computing in the next five years\nOver the past decade, AI computing can almost be summed up in a simple logic: stronger GPUs, larger clusters, and higher computing power. NVIDIA/AMD has built a very powerful AI computing platform with GPU, CUDA/ROCm, HBM, high-speed connectivity, and a complete software ecosystem. \nBut today, AI development has begun to change this logic.\nWith the rapid development of large models, agents, robots, and multimodal AI, the problems faced by AI computing are no longer just \"insufficient computing power,\" but have gradually become excessive",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1788154367
   }
  },
  "baseline": {
