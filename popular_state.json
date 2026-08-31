@@ -1,28 +1,17 @@
 {
  "watch": {
-  "2094205489919967239": {
-   "created": 1788132471,
-   "author": "jinmingnn",
-   "followers": 10,
-   "url": "https://x.com/jinmingnn/status/2094205489919967239",
-   "disc_score": 2,
+  "2094292867220983843": {
+   "created": 1788153304,
+   "author": "qmshahzad1",
+   "followers": 32,
+   "url": "https://x.com/qmshahzad1/status/2094292867220983843",
+   "disc_score": 0,
    "checks": {
-    "1": 2
+    "1": 0
    },
    "promoted": false,
    "miss": 0,
-   "added": 1788137678
-  },
-  "2094214397228966393": {
-   "created": 1788134595,
-   "author": "CXCarroll",
-   "followers": 9402,
-   "url": "https://x.com/CXCarroll/status/2094214397228966393",
-   "disc_score": 0,
-   "checks": {},
-   "promoted": false,
-   "miss": 0,
-   "added": 1788137678
+   "added": 1788158823
   }
  },
  "baseline": {
@@ -642,6 +631,10 @@
    [
     1788137679,
     2
+   ],
+   [
+    1788158826,
+    0
    ]
   ]
  },
