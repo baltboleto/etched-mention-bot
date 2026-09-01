@@ -54,6 +54,61 @@
    "promoted": false,
    "miss": 0,
    "added": 1788257186
+  },
+  "7500555893407739904": {
+   "created": 1788271878,
+   "author": "Dimitrios Skarlatos",
+   "url": "https://www.linkedin.com/posts/dskarlatos_a-7b-offer-became-a-13b-one-in-1-year-activity-7500555893407739904-1PPq",
+   "text": "A $7B offer became a $13B one in 1 year. NVIDIA acquiring Hugging Face is a win for everyone building AI agents and infrastructure.\n\nHugging Face provides access to millions of open models; getting absorbed by a hardware company can go 1 of 2 ways: either it loses the neutrality that makes the platform great or gains the runway to further democratize AI. \n\nI think it\u2019s the latter and NVIDIA + Hugging Face becomes the public square for open models, one that persists despite the business model.\n\nThat\u2019s great news our work at LithosAI on ultra-low latency inference because open model availability:\n- Accelerates open model development and decreases lock-in with closed models\n- Drives better perf",
+   "disc_score": 10,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1788274427
+  },
+  "7500546950413471744": {
+   "created": 1788269746,
+   "author": "Bogdan Iordache",
+   "url": "https://www.linkedin.com/posts/bogdaniordache_why-nvidia-hunging-face-nvidia-is-reportedly-activity-7500546950413471744-1YPL",
+   "text": "WHY NVIDIA + HUNGING FACE\nNvidia is reportedly acquiring Hugging Face for $12.9bln - why them, why this much, why now?\n \nIn July 2026, Nvidia CEO Jensen Huang published the now-famous \u201cOpen Weights and American AI Leadership\u201d letter:\n \n\u201c[\u2026.] Our AI leadership will be judged not by one frontier AI model, but by whether the United States builds a strong, open ecosystem that diffuses into every sector. [\u2026.] Open weights let every organization match the right model to the right job at the right cost, reserving frontier-scale capability for genuine frontier problems and running efficient, specialized models everywhere else. [\u2026.]\u201d\n \nNvidia believes that for the economy to prosper, it needs a diver",
+   "disc_score": 19,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1788274427
+  },
+  "7500522869035102208": {
+   "created": 1788264004,
+   "author": "Semiconductor Jobs",
+   "url": "https://www.linkedin.com/posts/semiconductor-jobs_substrate-ic-package-layout-design-engineer-activity-7500522869035102208-597o",
+   "text": "\ud83c\uddfa\ud83c\uddf8 New Job Post: Substrate IC Package Layout Design Engineer\n\nCompany: Etched, San Jose, CA\n\nJob Summary: Etched is seeking a Substrate IC Package Layout Design Engineer to lead the design of complex IC substrate packages for high-power AI processors. The role involves creating large  multi-layer substrates with robust power delivery systems supporting over 700W and high-speed signaling solutions exceeding 50GHz. The ideal candidate will have over 10 years of experience in IC substrate layout design, particularly with high-density layouts and CoWoS integration. Responsibilities include collaborating with silicon, signal integrity, and power integrity teams, performing design validation, and ",
+   "disc_score": 1,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1788274427
+  },
+  "7500553606157340672": {
+   "created": 1788271333,
+   "author": "AI Tech News Today",
+   "url": "https://www.linkedin.com/posts/ai-tech-news-today_ai-biotech-chips-activity-7500553606157340672-GDKh",
+   "text": "News:\nAnthropic reports $65B+ annualized revenue\u2014Claude coding tools fuel a sharp jump and revive IPO talk.\nAn AI-assisted cancer vaccine cleared Phase III, a rare milestone for model-driven therapeutics.\nEtched raised $700M, doubled to $21B and shipped its first inference rack.\nCursor debuts Origin: in-IDE repo + PRs with GitHub sync for agent workflows (beta).\nOpenAI pauses frontier RL runs to tighten safety, isolation and monitoring.\n\nThoughts? Ask or comment below.\n#AI #biotech #chips #safety #startups #developers\n\nRead more about our news coverage here: https://lnkd.in/e3TxQe6x",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1788274427
+  },
+  "7500508844716945410": {
+   "created": 1788260661,
+   "author": "Paul Koval",
+   "url": "https://www.linkedin.com/feed/update/urn:li:groupPost:13095364-7500508843467239425",
+   "text": "The doubling of Etched's valuation to $21 billion in just one month (following a $700 million round led by Jane Street) is the culmination of the main fintech race of 2026: the shift in market capitalization from pre-training to inference.\n\nHow Jane Street and #VentureCapital #Funds Are Fueling the Inference Silicon Bubble\n\n1. Circular Validation and Jane Street's Self-Fulfilling Prophecy. The story of how quantitative hedge fund Jane Street tested Etched's first server rack, was satisfied, and immediately led a $700 million round at a $21 billion valuation is a masterpiece of venture engineering. \n\nConflict of Interest as a Valuation Driver: Jane Street is both a client and a lead investor.",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1788274427
   }
  },
  "baseline": {
