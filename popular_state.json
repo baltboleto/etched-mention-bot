@@ -1,5 +1,54 @@
 {
- "watch": {},
+ "watch": {
+  "2094725630172787050": {
+   "created": 1788256483,
+   "author": "imfuryfist",
+   "followers": 1218,
+   "url": "https://x.com/imfuryfist/status/2094725630172787050",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1788257306
+  },
+  "2094694222972715403": {
+   "created": 1788248994,
+   "author": "borvibe",
+   "followers": 1177,
+   "url": "https://x.com/borvibe/status/2094694222972715403",
+   "disc_score": 0,
+   "checks": {
+    "1": 0
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1788257306
+  },
+  "2094723145680740653": {
+   "created": 1788255890,
+   "author": "nice_nick29974",
+   "followers": 928,
+   "url": "https://x.com/nice_nick29974/status/2094723145680740653",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1788257306
+  },
+  "2094709389739610386": {
+   "created": 1788252610,
+   "author": "AnimocaVentures",
+   "followers": 9266,
+   "url": "https://x.com/AnimocaVentures/status/2094709389739610386",
+   "disc_score": 4,
+   "checks": {
+    "1": 4
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1788257306
+  }
+ },
  "baseline": {
   "1": [
    [
@@ -621,6 +670,14 @@
    [
     1788158826,
     0
+   ],
+   [
+    1788257307,
+    0
+   ],
+   [
+    1788257307,
+    4
    ]
   ]
  },
