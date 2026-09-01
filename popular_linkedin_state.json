@@ -6,7 +6,9 @@
    "url": "https://www.linkedin.com/posts/hpcwire-published-by-tabor-communications_recent-events-including-amds-acquisition-activity-7500311542811500544-_GLE",
    "text": "Recent events \u2014 including AMD\u2019s acquisition of Taalas, Etched\u2019s $700 million fundraising round, and frontier AI labs developing their own chips \u2014 suggest that custom-built hardware could play a bigger role in AI\u2019s future than initially thought. https://ow.ly/BFyj50ZFmeM",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 3
+   },
    "promoted": false,
    "miss": 0,
    "added": 1788220243
@@ -469,6 +471,10 @@
    [
     1788220243,
     1
+   ],
+   [
+    1788304770,
+    3
    ]
   ]
  },
