@@ -153,6 +153,19 @@
    "promoted": false,
    "miss": 0,
    "added": 1788286506
+  },
+  "7500630409647427584": {
+   "created": 1788289644,
+   "author": "Joshua Wu",
+   "url": "https://www.linkedin.com/posts/joshuawwu_thanks-to-all-my-day-ones-teachers-and-activity-7500630409647427584-IL_M",
+   "text": "Thanks to all my day ones, teachers, and mentors throughout my time during classes, internships, and Texas A&M Formula Electric. These past 4 years have been absolutely amazing.\n\nI\u2019m happy to announce that following graduation, I\u2019ll be joining etched as a member of technical staff.",
+   "disc_score": 80,
+   "checks": {
+    "24": 78
+   },
+   "promoted": true,
+   "miss": 0,
+   "added": 1788296830
   }
  },
  "baseline": {
@@ -474,6 +487,11 @@
    1788028085,
    "7499148972268138496",
    74
+  ],
+  [
+   1788296830,
+   "7500630409647427584",
+   78
   ]
  ],
  "seeded": true
