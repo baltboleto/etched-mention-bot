@@ -97,7 +97,9 @@
    "url": "https://www.linkedin.com/posts/activity-7500604746773229570-1jzP",
    "text": "3 Harvard dropouts doubled a $10B company in 26 days\n\n2022: Gavin Uberti, Chris Zhu and Robert Wachen leave Harvard to build a chip that runs one thing: the transformer. \n\nMost people had never heard that word before\nKeep in mind that this was before the big ChatGPT aha moment\nThe result: Etched\n\nThe rule every VC knew: don't back kids in chips\nThe somehow raised anyway\n\nMarch 2023: $34M valuation\nDec 2025: $5B\nJuly 23, 2026: $10.3B, led by Sequoia Capital.\nAug 18: $21B, $700M round led by Jane Street\n\nThe twist: Jane Street was also their first customer. It ran live trading workloads on an Etched rack, then wrote the check.\n\n$34M to $21B in a little over 3 years\n$1B+ in orders\nNow poaching ",
    "disc_score": 1,
-   "checks": {},
+   "checks": {
+    "24": 2
+   },
    "promoted": false,
    "miss": 0,
    "added": 1788286506
@@ -121,7 +123,9 @@
    "url": "https://www.linkedin.com/posts/martinhack_nvidias-real-moat-is-not-the-gpu-it-is-activity-7500597274180206592-XW8c",
    "text": "NVIDIA\u2019s real moat is not the GPU.\n \nIt is CUDA and the software ecosystem around it.\n \nThe hardware lead matters, but the switching costs for AI/ML teams are now so high that they function as a structural barrier. Once a company has built its stack, tooling, kernels, and internal expertise around CUDA, moving is not a procurement decision. It is an organizational and technical rewrite with real timeline and performance risk.\n \nThat is why challengers face a much harder problem than simply shipping a faster or cheaper accelerator. AMD, Cerebras, Tenstorrent, Etched, and the hyperscaler ASIC programs can win on architecture or efficiency in isolation. They still have to overcome the gravity o",
    "disc_score": 1,
-   "checks": {},
+   "checks": {
+    "24": 5
+   },
    "promoted": false,
    "miss": 0,
    "added": 1788286506
@@ -274,6 +278,39 @@
    "promoted": false,
    "miss": 0,
    "added": 1788366824
+  },
+  "7500955383998550017": {
+   "created": 1788367124,
+   "author": "Jimmy Cheng",
+   "url": "https://www.linkedin.com/posts/jimmy-cheng-877a0b3_it-is-a-great-privilege-to-introduce-keynote-activity-7500955383998550017-6wCt",
+   "text": "It is a great privilege to introduce keynote speaker for this year\u2019s CASPA Annual Conference \u2014 The CEO Summit: Michael Hurlston, President ad CEO of Lumentum.\n\nMichael is an exceptional CEO and a true beacon of leadership. But what I admire most about him is not simply what he has accomplished in business\u2014it is his character, his loyalty, and his commitment to the community.\nMichael has been part of the CASPA community for nearly 15 years. Long before today\u2019s CEO Summit, he was already showing up, participating, and supporting our mission.\nAnd sometimes, you learn the most about a person not during the best of times, but during the hardest ones.\nDuring some of CASPA\u2019s most difficult periods\u2014",
+   "disc_score": 13,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1788374203
+  },
+  "7500930993739014144": {
+   "created": 1788361309,
+   "author": "Finn P.",
+   "url": "https://www.linkedin.com/posts/finn-puklowski_the-most-interesting-companies-in-ai-right-activity-7500930993739014144-plaE",
+   "text": "The most interesting companies in AI right now are the ones nobody is writing about.\n\nEveryone is watching the frontier labs. \n\nMeanwhile there are many teams building the silicon that actually runs the models, and most of them get covered as a footnote on Nvidia's headline.\n\nThese are known as ASICs (Application Specific Integrated Circuits). \n\nWe just finished a review of the landscape and three things stood out:\n\n1/ Most are already in production. \n\nNine of the fifteen have now shipped silicon in volume; a year ago that number was only three. \n\nNotably, d-Matrix hit full production in June, FuriosaAI has been in mass production since January, and Positron AI, SambaNova and Tenstorrent are",
+   "disc_score": 23,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1788374203
+  },
+  "7500966123983613952": {
+   "created": 1788369685,
+   "author": "Joshua Rahn",
+   "url": "https://www.linkedin.com/posts/rahnjoshua_a-race-for-two-milestones-shipping-jane-activity-7500966123983613952-ORaY",
+   "text": "I want to scream from the mountain tops the non obvious to most.\n\n- Etched was a baby 3yrs ago, now they have people making babies (woo hoo). \n\n- Maternity leave at a tech start up is important, all early founders need to learn this and learn it quickly; mom's rule the world (and most businesses); give them the space to be excellent.\n\n- Racks shipped (she said out loud so I can do it too now!\n\nI am so incredibly proud of you Alexandra - for the obvious and for the non obvious. Enjoy the time off. Im here to baby sit at any point.",
+   "disc_score": 8,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1788374203
   }
  },
  "baseline": {
@@ -621,6 +658,14 @@
    [
     1788366825,
     22
+   ],
+   [
+    1788374203,
+    2
+   ],
+   [
+    1788374203,
+    5
    ]
   ]
  },
