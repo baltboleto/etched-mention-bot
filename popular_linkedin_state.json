@@ -181,6 +181,17 @@
    "promoted": false,
    "miss": 0,
    "added": 1788311743
+  },
+  "7500736052278673408": {
+   "created": 1788314831,
+   "author": "Lance Matthews",
+   "url": "https://www.linkedin.com/posts/lancevmatthews_speed-activity-7500736052278673408-H4AW",
+   "text": "A few years back, on one of my first calls with Sunny Madra at Groq, I asked him something I thought was clever: as agentic workflows get longer, more multi-step, and perhaps even overnight for highly complex ones, will speed still matter? Wouldn't \"give me the answer now\" become less relevant?\n\nLong pause. \"Would you like your iPhone more or less if it took longer to boot up?\"What I was failing to realize is that in a multi-step, agentic world, things get worse, as every step in the chain inherits the latency of the last one.\n\nI think about that a lot right now.\n\nIn February, AI agents crossed a boundary \u2014 they overtook humans as the primary consumers of AI tokens, and agent usage is up 14x",
+   "disc_score": 22,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1788328141
   }
  },
  "baseline": {
