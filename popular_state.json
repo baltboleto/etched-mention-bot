@@ -1,28 +1,30 @@
 {
  "watch": {
-  "2094893522424140161": {
-   "created": 1788296511,
-   "author": "OGRE_Encryption",
-   "followers": 43,
-   "url": "https://x.com/OGRE_Encryption/status/2094893522424140161",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788296770
-  },
   "2094924596998721613": {
    "created": 1788303920,
    "author": "CXCarroll",
    "followers": 9406,
    "url": "https://x.com/CXCarroll/status/2094924596998721613",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "1": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1788304756
+  },
+  "2094936025294639593": {
+   "created": 1788306645,
+   "author": "JoeKirsten15",
+   "followers": 30,
+   "url": "https://x.com/JoeKirsten15/status/2094936025294639593",
+   "disc_score": 0,
+   "checks": {
+    "1": 0
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1788311709
   }
  },
  "baseline": {
@@ -657,6 +659,14 @@
    ],
    [
     1788304756,
+    0
+   ],
+   [
+    1788311709,
+    0
+   ],
+   [
+    1788311709,
     0
    ]
   ]
