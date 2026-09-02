@@ -170,6 +170,17 @@
    "promoted": true,
    "miss": 0,
    "added": 1788296830
+  },
+  "7500708121590394880": {
+   "created": 1788308172,
+   "author": "Kevin Selhi",
+   "url": "https://www.linkedin.com/posts/kevinselhi_im-excited-to-announce-that-wafer-raised-activity-7500708121590394880-pkG3",
+   "text": "Congrats to the Wafer team! They use AI to optimize model inference specific to the hardware it's executed on. NVIDIA's advantages are many and CUDA is high on the list. But as AI adoption and utilization increase, one firm won't be able to satisfy all the world's demand for compute. To fulfill AI's promise, inference providers will increasingly need to run models on non-NVIDIA hardware (i.e. AMD's family of chips, Google TPUs, Cerebras, Etched, Positron, etc). Looking forward to a world where >1k tokens per second is the norm. Thankfully Emilio Andere, Eugene Ye, JV Cosico and their team are laser focused on getting us there, sooner than later.",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1788311743
   }
  },
  "baseline": {
