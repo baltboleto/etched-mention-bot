@@ -1,41 +1,37 @@
 {
  "watch": {
-  "2095179461180420172": {
-   "created": 1788364684,
-   "author": "aessostudio",
-   "followers": 11,
-   "url": "https://x.com/aessostudio/status/2095179461180420172",
-   "disc_score": 3,
-   "checks": {
-    "1": null
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788374139
-  },
-  "2095206862589145567": {
-   "created": 1788371217,
-   "author": "ReliquasAlteras",
-   "followers": 175,
-   "url": "https://x.com/ReliquasAlteras/status/2095206862589145567",
+  "2095253164287271068": {
+   "created": 1788382256,
+   "author": "Flaaashbanggg",
+   "followers": 278,
+   "url": "https://x.com/Flaaashbanggg/status/2095253164287271068",
    "disc_score": 0,
    "checks": {},
    "promoted": false,
    "miss": 0,
-   "added": 1788374139
+   "added": 1788384028
   },
-  "2095201294176629012": {
-   "created": 1788369890,
-   "author": "combonnation",
-   "followers": 25,
-   "url": "https://x.com/combonnation/status/2095201294176629012",
-   "disc_score": 1,
-   "checks": {
-    "1": 1
-   },
+  "2095247353821479376": {
+   "created": 1788380871,
+   "author": "sebonomics",
+   "followers": 256,
+   "url": "https://x.com/sebonomics/status/2095247353821479376",
+   "disc_score": 2,
+   "checks": {},
    "promoted": false,
    "miss": 0,
-   "added": 1788374139
+   "added": 1788384028
+  },
+  "2095258433666867288": {
+   "created": 1788383513,
+   "author": "anilmurty_ai",
+   "followers": 1267,
+   "url": "https://x.com/anilmurty_ai/status/2095258433666867288",
+   "disc_score": 1,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1788384028
   }
  },
  "baseline": {
