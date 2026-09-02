@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7500311542811500544": {
-   "created": 1788213620,
-   "author": "HPCwire",
-   "url": "https://www.linkedin.com/posts/hpcwire-published-by-tabor-communications_recent-events-including-amds-acquisition-activity-7500311542811500544-_GLE",
-   "text": "Recent events \u2014 including AMD\u2019s acquisition of Taalas, Etched\u2019s $700 million fundraising round, and frontier AI labs developing their own chips \u2014 suggest that custom-built hardware could play a bigger role in AI\u2019s future than initially thought. https://ow.ly/BFyj50ZFmeM",
-   "disc_score": 0,
-   "checks": {
-    "24": 3
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788220243
-  },
   "7500338648047931393": {
    "created": 1788220083,
    "author": "Shayema Rahim",
@@ -32,7 +19,9 @@
    "url": "https://www.linkedin.com/posts/multiples-vc_these-were-the-worlds-largest-funding-rounds-activity-7500481340119715841-EixB",
    "text": "These were the world's largest funding rounds in August 2026. 9 of the 11 raised by companies that build physical things: chips, reactors, satellites, missiles, robots and the data centers to run them.\n\nSource: Multiples, data as of 31 Aug 2026\n\n1. Databricks \u2014 $5B raised, $190B valuation \u2014 data and AI platform for enterprises\n2. Firmus Technologies \u2014 $2B raised, $11B valuation \u2014 builds AI data centres across Australia and Asia-Pacific\n3. Thrive Capital Holdings \u2014 $2B raised, $12B valuation \u2014 buys and runs businesses using AI\n4. Hadrian \u2014 $1.4B raised, $7.9B valuation \u2014 automated factories for aerospace and defense parts\n5. Yuanxin Satellite \u2014 $1B raised, $7.4B valuation \u2014 Chinese commercial",
    "disc_score": 8,
-   "checks": {},
+   "checks": {
+    "24": 27
+   },
    "promoted": false,
    "miss": 0,
    "added": 1788257186
@@ -43,7 +32,9 @@
    "url": "https://www.linkedin.com/posts/ignacioibeas_artificialintelligence-semiconductors-hardware-activity-7500472122528641024-yLQ-",
    "text": "Memory, not compute, is the true rate limiter of the Agentic era.\n\nWhile the world remains fixated on GPU compute clusters, artificial intelligence is running headfirst into a massive physical barrier: the memory wall.\n\n\ud83e\udde0 The Collapse of the Classical Model\nFor over half a century, computing has operated under the classical Von Neumann architecture\u2014a clean, physical division between the compute processor (the \"head\") and memory storage (the \"tape\").\n\nThat model worked when software memory demands were modest. But frontier transformer models have upended the paradigm:\n\nTrillion-parameter models require every single layer to reside in memory to execute matrix multiplications during forward pro",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 1
+   },
    "promoted": false,
    "miss": 0,
    "added": 1788257186
@@ -54,7 +45,9 @@
    "url": "https://www.linkedin.com/posts/andrew-siropiatov_the-intake-who-raised-this-week-and-what-activity-7500485731581321217-2xQq",
    "text": "\ud83c\udfc6 The Podium \u2014 which startup idea more than one company is chasing\n\n23 ideas drew more than one company each between 17 Jul and 1 Sep. Ranked by how many COMPANIES, not how much money. The leading three:\n\n\ud83e\udd47 Chips built for AI \u2014 11 companies \u00b7 $3.9bn reported\nFirmus, OLIX, Etched, Xsight Labs, Callosum, DeepX, Velatir, Solinide, Embedd, HexSeed Technology, Groq\n\ud83e\udd48 AI agents doing the work \u2014 7 companies \u00b7 $293m reported\nOnyx, Freehand, BUSINESSNEXT, Arrakis, Natural, Itoflow, Aisot Technologies\n\ud83e\udd49 Grid & energy storage \u2014 6 companies \u00b7 $782m reported\nAntora, Nexeon, Ore Energy, Yuma Energy, Certain Energy, Boldr\n\nThe full table \u2014 every contested lane, and one plain sentence on what each company a",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1788257186
@@ -192,6 +185,39 @@
    "promoted": false,
    "miss": 0,
    "added": 1788328141
+  },
+  "7500816115024076800": {
+   "created": 1788333920,
+   "author": "AI Brief",
+   "url": "https://www.linkedin.com/posts/ai-brief_ai-aichips-semiconductors-activity-7500816115024076800-iQ65",
+   "text": "The most valuable private AI chip companies, ranked by latest reported valuation. AI Brief's snapshot of where the money is flowing in AI silicon.\n\nOn the list: Etched, SambaNova, Groq, Tenstorrent, Rebellions, d-Matrix, Positron AI, Tensordyne and FuriosaAI.\n\nWhat did we miss?\n\nFull ranking: https://lnkd.in/gSfjWx88\n\n#AI #AIchips #Semiconductors #AIHardware #Inference #Datacenters #ChipStartups #DeepTech #ArtificialIntelligence #VentureCapital AI Chips & Data Centers",
+   "disc_score": 11,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1788346349
+  },
+  "7500843746171928576": {
+   "created": 1788340508,
+   "author": "Muhammad Hashir",
+   "url": "https://www.linkedin.com/posts/muhammad-hashir-2b825b123_privatemarkets-venturecapital-ai-activity-7500843746171928576-abd6",
+   "text": "9 of the 11 largest VC rounds in August went to companies building physical things.\n\n\t\u2022\tHadrian raised $1.4B for automated defense manufacturing.\n\t\u2022\tValar Atomics raised $1B for nuclear energy.\n\t\u2022\tCastelion raised $800M for defense systems.\n\t\u2022\tEtched raised $700M for AI chips.\n\t\u2022\tFirmus raised $2B for AI data centers.\n\nFor years, venture capital was heavily focused on software. Now some of the biggest rounds are going into factories, chips, energy, defense, robotics and physical infrastructure.\n\nCapital seems to be moving from just software to the infrastructure needed to actually power and build the AI economy.\n\nThe physical layer of AI is becoming one of the biggest themes in private marke",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1788346349
+  },
+  "7500862612033761280": {
+   "created": 1788345005,
+   "author": "Robert Lee-Green",
+   "url": "https://www.linkedin.com/posts/robert-lee-green-3013a349_ideasfest-entrepreneurs-founders-activity-7500862612033761280-Eddo",
+   "text": "I\u2019ll be at Ideas Fest on 9\u201310 September with the Etched team, in partnership with CMS\n\nAnd on day one, we\u2019ll be taking to the LaunchPad stage at 2pm for a session called:\n\nUnderstanding the Value of an Idea\n\nIt\u2019s a question I keep coming back to.\n\nWhen does an idea actually become valuable?\n\nWhen someone invests in it?\n\nWhen it generates revenue?\n\nWhen someone else wants it?\n\nOr much earlier, when the first concept, contribution or creative decision is made?\n\nAt Etched, we spend a lot of time thinking about how ideas develop, how their value grows, and how businesses can better evidence the innovation they create.\n\nIdeasFest feels like the perfect place to have that conversation.\n\nIf you\u2019re ",
+   "disc_score": 1,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1788346349
   }
  },
  "baseline": {
@@ -503,6 +529,18 @@
    [
     1788307949,
     2
+   ],
+   [
+    1788346349,
+    27
+   ],
+   [
+    1788346349,
+    1
+   ],
+   [
+    1788346349,
+    0
    ]
   ]
  },
