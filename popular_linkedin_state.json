@@ -1,31 +1,5 @@
 {
  "watch": {
-  "7500481340119715841": {
-   "created": 1788254103,
-   "author": "Multiples",
-   "url": "https://www.linkedin.com/posts/multiples-vc_these-were-the-worlds-largest-funding-rounds-activity-7500481340119715841-EixB",
-   "text": "These were the world's largest funding rounds in August 2026. 9 of the 11 raised by companies that build physical things: chips, reactors, satellites, missiles, robots and the data centers to run them.\n\nSource: Multiples, data as of 31 Aug 2026\n\n1. Databricks \u2014 $5B raised, $190B valuation \u2014 data and AI platform for enterprises\n2. Firmus Technologies \u2014 $2B raised, $11B valuation \u2014 builds AI data centres across Australia and Asia-Pacific\n3. Thrive Capital Holdings \u2014 $2B raised, $12B valuation \u2014 buys and runs businesses using AI\n4. Hadrian \u2014 $1.4B raised, $7.9B valuation \u2014 automated factories for aerospace and defense parts\n5. Yuanxin Satellite \u2014 $1B raised, $7.4B valuation \u2014 Chinese commercial",
-   "disc_score": 8,
-   "checks": {
-    "24": 27
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788257186
-  },
-  "7500472122528641024": {
-   "created": 1788251906,
-   "author": "Ignacio Ibeas",
-   "url": "https://www.linkedin.com/posts/ignacioibeas_artificialintelligence-semiconductors-hardware-activity-7500472122528641024-yLQ-",
-   "text": "Memory, not compute, is the true rate limiter of the Agentic era.\n\nWhile the world remains fixated on GPU compute clusters, artificial intelligence is running headfirst into a massive physical barrier: the memory wall.\n\n\ud83e\udde0 The Collapse of the Classical Model\nFor over half a century, computing has operated under the classical Von Neumann architecture\u2014a clean, physical division between the compute processor (the \"head\") and memory storage (the \"tape\").\n\nThat model worked when software memory demands were modest. But frontier transformer models have upended the paradigm:\n\nTrillion-parameter models require every single layer to reside in memory to execute matrix multiplications during forward pro",
-   "disc_score": 0,
-   "checks": {
-    "24": 1
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788257186
-  },
   "7500485731581321217": {
    "created": 1788255150,
    "author": "Andrew Siropiatov",
@@ -311,6 +285,28 @@
    "promoted": false,
    "miss": 0,
    "added": 1788374203
+  },
+  "7501017236279848960": {
+   "created": 1788381871,
+   "author": "Chloe Jian Ma",
+   "url": "https://www.linkedin.com/posts/chloejianma_congratulations-to-the-entire-caspa-chinese-activity-7501017236279848960-EyN0",
+   "text": "Congratulations to the entire CASPA - Chinese American Semiconductor Professional Assoc. team, especially the leadership of Ge (Gary) Wang and Jimmy Cheng for assembling a truly star-studded lineup of semiconductor CEOs, founders, pioneers, investors and industry luminaries for the CASPA 35th Annual Conference & Dinner Banquet. From established semiconductor giants Lip-Bu Tan, CEO of Intel, Xin Guo, CEO of Solidigm, Andrew Feldman, CEO of Cerebras, Dylan Patel, CEO of SemiAnalysis, Hong Hou, CEO of Semtech, Jodi Shelton, CEO of Global Semiconductor Alliance, Sassine Ghazi, CEO of Synopsys Inc,  to the new generation of AI accelerator contenders Rodrigo Liang, CEO of SambaNova, Gavin Uberti, ",
+   "disc_score": 5,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1788384065
+  },
+  "7501018376161509376": {
+   "created": 1788382143,
+   "author": "Chloe Jian Ma",
+   "url": "https://www.linkedin.com/feed/update/urn:li:groupPost:2291736-7501018375272448000",
+   "text": "CASPA - Chinese American Semiconductor Professional Assoc. has assembled a truly star-studded lineup of semiconductor CEOs, founders, pioneers, investors and industry luminaries for the CASPA 35th Annual Conference & Dinner Banquet. From established semiconductor giants Lip-Bu Tan, CEO of Intel, Xin Guo, CEO of Solidigm, Andrew Feldman, CEO of Cerebras, Dylan Patel, CEO of SemiAnalysis, Hong Hou, CEO of Semtech, Jodi Shelton, CEO of Global Semiconductor Alliance, Sassine Ghazi, CEO of Synopsys Inc,  to the new generation of AI accelerator contenders Rodrigo Liang, CEO of SambaNova, Gavin Uberti, CEO of Etched, Sunghyun Park, CEO of Rebellions, Sid Sheth, CEO of d-Matrix, and many other ecosy",
+   "disc_score": 2,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1788384065
   }
  },
  "baseline": {
