@@ -91,17 +91,6 @@
    "miss": 0,
    "added": 1788274427
   },
-  "7500508844716945410": {
-   "created": 1788260661,
-   "author": "Paul Koval",
-   "url": "https://www.linkedin.com/feed/update/urn:li:groupPost:13095364-7500508843467239425",
-   "text": "The doubling of Etched's valuation to $21 billion in just one month (following a $700 million round led by Jane Street) is the culmination of the main fintech race of 2026: the shift in market capitalization from pre-training to inference.\n\nHow Jane Street and #VentureCapital #Funds Are Fueling the Inference Silicon Bubble\n\n1. Circular Validation and Jane Street's Self-Fulfilling Prophecy. The story of how quantitative hedge fund Jane Street tested Etched's first server rack, was satisfied, and immediately led a $700 million round at a $21 billion valuation is a masterpiece of venture engineering. \n\nConflict of Interest as a Valuation Driver: Jane Street is both a client and a lead investor.",
-   "disc_score": 0,
-   "checks": {},
-   "promoted": false,
-   "miss": 2,
-   "added": 1788274427
-  },
   "7500604746773229570": {
    "created": 1788283526,
    "author": "Sahil Sapra",
@@ -119,7 +108,9 @@
    "url": "https://www.linkedin.com/posts/crystalxtang_stripe-just-paid-7b-for-openrouter-nvidia-activity-7500587558754471937-Klsr",
    "text": "Stripe just paid $7B for OpenRouter. NVIDIA paid $12.9B for Hugging Face.\n\nNeither company makes models. So why the eye-watering multiples?\n\nBecause they own the front door. OpenRouter is where developers choose a model. Hugging Face is where they pull model weights. Owning that top of funnel means seeing demand and usage trends before anyone else. And both of their successes are tied to the rise of open weight models, a trend that has only accelerated as enterprises push to cut token costs.\n\nThe September edition of Infra Bytes covers these acquisitions and more:\n\ud83d\udc51 With SpaceX closing its $60B acquisition of Cursor, Cognition now takes the coding throne at a reported $900M ARR\n\u26a1\ufe0f Etched dou",
    "disc_score": 8,
-   "checks": {},
+   "checks": {
+    "24": 22
+   },
    "promoted": false,
    "miss": 0,
    "added": 1788286506
@@ -259,6 +250,30 @@
    "promoted": false,
    "miss": 0,
    "added": 1788361398
+  },
+  "7500944348612542464": {
+   "created": 1788364493,
+   "author": "Alexandra Boyle",
+   "url": "https://www.linkedin.com/posts/alexandraboyle_a-race-for-two-milestones-shipping-jane-activity-7500944348612542464-EJBw",
+   "text": "A race for two milestones: shipping Jane Street's racks and running production tokens before I go into labor with my first child. \n\nThe Etched team won. Racks deployed, production tokens flowing with days to spare. Then, the fast follow: Etched raised $700M, led by Jane Street, at a $21B valuation. \n\nTo Jane Street: You\u2019ve been extraordinary partners. From early pre-silicon discussions to late-night deployments, you've been true teammates along the way. Thank you for backing us for scale. So much on the horizon. \n\nTo the Etched team: I am beyond grateful. I get to be present with my new little one because I know this team of exceptional operators has it covered. That's not a small thing, and",
+   "disc_score": 87,
+   "checks": {
+    "24": 87
+   },
+   "promoted": true,
+   "miss": 0,
+   "added": 1788366824
+  },
+  "7500945153268826112": {
+   "created": 1788364685,
+   "author": "Aesso",
+   "url": "https://www.linkedin.com/posts/aessostudio_from-rack-to-chip-an-entire-ecosystem-for-activity-7500945153268826112-JCxS",
+   "text": "From rack to chip \u2014 an entire ecosystem for frontier inference.\n\naesso.com/work/etched",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1788366824
   }
  },
  "baseline": {
@@ -602,6 +617,10 @@
    [
     1788361398,
     0
+   ],
+   [
+    1788366825,
+    22
    ]
   ]
  },
@@ -625,6 +644,11 @@
    1788296830,
    "7500630409647427584",
    78
+  ],
+  [
+   1788366825,
+   "7500944348612542464",
+   87
   ]
  ],
  "seeded": true
