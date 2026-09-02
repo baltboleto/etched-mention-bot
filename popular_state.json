@@ -1,17 +1,41 @@
 {
  "watch": {
-  "2095000166277235090": {
-   "created": 1788321937,
-   "author": "FPuklowski",
-   "followers": 206,
-   "url": "https://x.com/FPuklowski/status/2095000166277235090",
-   "disc_score": 2,
+  "2095075038932435249": {
+   "created": 1788339788,
+   "author": "_BlueDeep_",
+   "followers": 602,
+   "url": "https://x.com/_BlueDeep_/status/2095075038932435249",
+   "disc_score": 0,
    "checks": {
-    "1": 2
+    "1": 0
    },
    "promoted": false,
    "miss": 0,
-   "added": 1788328550
+   "added": 1788346236
+  },
+  "2095098237833421302": {
+   "created": 1788345319,
+   "author": "rutikbhagure",
+   "followers": 142,
+   "url": "https://x.com/rutikbhagure/status/2095098237833421302",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1788346236
+  },
+  "2095074347820171683": {
+   "created": 1788339623,
+   "author": "xmaxxie1119",
+   "followers": 32,
+   "url": "https://x.com/xmaxxie1119/status/2095074347820171683",
+   "disc_score": 1,
+   "checks": {
+    "1": 1
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1788346236
   }
  },
  "baseline": {
@@ -659,6 +683,14 @@
    [
     1788328550,
     2
+   ],
+   [
+    1788346238,
+    0
+   ],
+   [
+    1788346238,
+    1
    ]
   ]
  },
