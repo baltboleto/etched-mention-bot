@@ -1,32 +1,5 @@
 {
- "watch": {
-  "2095436797417324808": {
-   "created": 1788426038,
-   "author": "1MoNo2Prod",
-   "followers": 2311,
-   "url": "https://x.com/1MoNo2Prod/status/2095436797417324808",
-   "disc_score": 8,
-   "checks": {
-    "1": 8
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788434685
-  },
-  "2095445960822321187": {
-   "created": 1788428223,
-   "author": "en_rostamzadeh",
-   "followers": 2354,
-   "url": "https://x.com/en_rostamzadeh/status/2095445960822321187",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788434685
-  }
- },
+ "watch": {},
  "baseline": {
   "1": [
    [
