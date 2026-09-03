@@ -26,19 +26,6 @@
    "miss": 0,
    "added": 1788274427
   },
-  "7500522869035102208": {
-   "created": 1788264004,
-   "author": "Semiconductor Jobs",
-   "url": "https://www.linkedin.com/posts/semiconductor-jobs_substrate-ic-package-layout-design-engineer-activity-7500522869035102208-597o",
-   "text": "\ud83c\uddfa\ud83c\uddf8 New Job Post: Substrate IC Package Layout Design Engineer\n\nCompany: Etched, San Jose, CA\n\nJob Summary: Etched is seeking a Substrate IC Package Layout Design Engineer to lead the design of complex IC substrate packages for high-power AI processors. The role involves creating large  multi-layer substrates with robust power delivery systems supporting over 700W and high-speed signaling solutions exceeding 50GHz. The ideal candidate will have over 10 years of experience in IC substrate layout design, particularly with high-density layouts and CoWoS integration. Responsibilities include collaborating with silicon, signal integrity, and power integrity teams, performing design validation, and ",
-   "disc_score": 1,
-   "checks": {
-    "24": 1
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788274427
-  },
   "7500553606157340672": {
    "created": 1788271333,
    "author": "AI Tech News Today",
@@ -123,7 +110,9 @@
    "url": "https://www.linkedin.com/posts/kevinselhi_im-excited-to-announce-that-wafer-raised-activity-7500708121590394880-pkG3",
    "text": "Congrats to the Wafer team! They use AI to optimize model inference specific to the hardware it's executed on. NVIDIA's advantages are many and CUDA is high on the list. But as AI adoption and utilization increase, one firm won't be able to satisfy all the world's demand for compute. To fulfill AI's promise, inference providers will increasingly need to run models on non-NVIDIA hardware (i.e. AMD's family of chips, Google TPUs, Cerebras, Etched, Positron, etc). Looking forward to a world where >1k tokens per second is the norm. Thankfully Emilio Andere, Eugene Ye, JV Cosico and their team are laser focused on getting us there, sooner than later.",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 2
+   },
    "promoted": false,
    "miss": 0,
    "added": 1788311743
@@ -294,6 +283,50 @@
    "promoted": false,
    "miss": 0,
    "added": 1788384065
+  },
+  "7501045004589748224": {
+   "created": 1788388491,
+   "author": "Johannes Stahl",
+   "url": "https://www.linkedin.com/posts/johannes-stahl-2b56b_a-bumblebee-moment-for-ai-silicon-synopsys-activity-7501045004589748224-9OL9",
+   "text": "At this year\u2019s Synopsys Converge Silicon Valley Etched presented its work on Sohu, a transformer engine built specifically for AI inference. It was amazing to see how David Svensson built a development platform with ZeBu Server 5 that enabled 40 software developers, using a 2 min iteration cycle for his complex AI project.\n\nRead more here: https://lnkd.in/ew7B2unU",
+   "disc_score": 2,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1788397638
+  },
+  "7501021659152191488": {
+   "created": 1788382925,
+   "author": "Anil Murty",
+   "url": "https://www.linkedin.com/posts/anilmurty_when-you-think-ai-inference-you-think-nvidia-activity-7501021659152191488-WAs9",
+   "text": "When you think AI inference, you think Nvidia. Maybe AMD if you're a little more plugged in.\nThe reality: Nvidia owns ~90% of training. But the market for inference - expected to triple from $97B to a projected $254B by 2030 - is a different fight, and it's accelerating fast as agents hit enterprise scale.\n\nNvidia's inference share is closer to 60-75%, and its weapon is still a gaming GPU evolved into a general-purpose accelerator, not silicon designed for inference from day one. Today it's the default. That's changing fast, and even Nvidia knows it: see the Grace and Vera CPU platforms and the strategic bet on Groq's LPU for decode.\n\nA quick rundown to catch you up on the rest:\n\nMerchant si",
+   "disc_score": 1,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1788397638
+  },
+  "7501042712071049216": {
+   "created": 1788387945,
+   "author": "Ryan Moeller \u24c2\ufe0f",
+   "url": "https://www.linkedin.com/posts/ryancfo_anthropic-claude-claudeai-activity-7501042712071049216-uio1",
+   "text": "MEMBER SPOTLIGHT #6 \u2b1b ANTHROP\\C Community \u2b1b \n\nLeyla Samiee\nChief Product & Technology Officer, Introhive | Angel Investor | Executive Advisor | MIT\n New York, NY\n\nLeyla Samiee\n https://lnkd.in/gUgbvw5D\nhttps://lnkd.in/gHWCr6dZ\n\nLeyla has one of the most relevant r\u00e9sum\u00e9s in this entire group for what we're all actually building.\n\nAt Meta, she led ML Hub ... the unified internal AI platform serving 4,000 ML engineers, covering model development, training, testing and observability. Then VP of Product Engineering for Content and AI at Mozilla. Now CPTO at Introhive, running product, engineering, security, UX research and client solutions. She's also an investor and advisor at Etched, the infere",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1788397638
+  },
+  "7501002289386651649": {
+   "created": 1788378307,
+   "author": "Institutional Investor",
+   "url": "https://www.linkedin.com/posts/institutional-investor_ai-mania-boosts-these-hedgies-activity-7501002289386651649-HVWG",
+   "text": "In the fast-evolving world of AI, the chip start-up Etched has made headlines by raising $700 million in a Series D round, reaching a valuation of $21 billion\u2014more than quadrupling its value in just eight months. Explore the dynamics of this surge and the implications for investors. \n\n#AIInvestment #TechValuations\n\nRead more: https://okt.to/Bb9hD3",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1788397638
   }
  },
  "baseline": {
@@ -649,6 +682,10 @@
    [
     1788374203,
     5
+   ],
+   [
+    1788397638,
+    2
    ]
   ]
  },
