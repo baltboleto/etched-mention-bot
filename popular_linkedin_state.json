@@ -110,7 +110,9 @@
    "url": "https://www.linkedin.com/posts/aessostudio_from-rack-to-chip-an-entire-ecosystem-for-activity-7500945153268826112-JCxS",
    "text": "From rack to chip \u2014 an entire ecosystem for frontier inference.\n\naesso.com/work/etched",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1788366824
@@ -121,7 +123,9 @@
    "url": "https://www.linkedin.com/posts/jimmy-cheng-877a0b3_it-is-a-great-privilege-to-introduce-keynote-activity-7500955383998550017-6wCt",
    "text": "It is a great privilege to introduce keynote speaker for this year\u2019s CASPA Annual Conference \u2014 The CEO Summit: Michael Hurlston, President ad CEO of Lumentum.\n\nMichael is an exceptional CEO and a true beacon of leadership. But what I admire most about him is not simply what he has accomplished in business\u2014it is his character, his loyalty, and his commitment to the community.\nMichael has been part of the CASPA community for nearly 15 years. Long before today\u2019s CEO Summit, he was already showing up, participating, and supporting our mission.\nAnd sometimes, you learn the most about a person not during the best of times, but during the hardest ones.\nDuring some of CASPA\u2019s most difficult periods\u2014",
    "disc_score": 13,
-   "checks": {},
+   "checks": {
+    "24": 28
+   },
    "promoted": false,
    "miss": 0,
    "added": 1788374203
@@ -145,7 +149,9 @@
    "url": "https://www.linkedin.com/posts/rahnjoshua_a-race-for-two-milestones-shipping-jane-activity-7500966123983613952-ORaY",
    "text": "I want to scream from the mountain tops the non obvious to most.\n\n- Etched was a baby 3yrs ago, now they have people making babies (woo hoo). \n\n- Maternity leave at a tech start up is important, all early founders need to learn this and learn it quickly; mom's rule the world (and most businesses); give them the space to be excellent.\n\n- Racks shipped (she said out loud so I can do it too now!\n\nI am so incredibly proud of you Alexandra - for the obvious and for the non obvious. Enjoy the time off. Im here to baby sit at any point.",
    "disc_score": 8,
-   "checks": {},
+   "checks": {
+    "24": 23
+   },
    "promoted": false,
    "miss": 0,
    "added": 1788374203
@@ -325,6 +331,61 @@
    "promoted": false,
    "miss": 0,
    "added": 1788447746
+  },
+  "7501333720809984000": {
+   "created": 1788457327,
+   "author": "Emeka Onu",
+   "url": "https://www.linkedin.com/posts/emekaonu_39-companies-that-raised-funding-in-august-activity-7501333720809984000-zSW8",
+   "text": "39 companies that raised funding in August and hiring. Job links are in the comments.\n\n\u2022 Databricks \u2014 $5B\n\u2022 Firmus Technologies \u2014 $2B\n\u2022 Imprint \u2014 $2B\n\u2022 Hadrian \u2014 $1.37B\n\u2022 Valar Atomics \u2014 $1.2B\n\u2022 River AI \u2014 $1.1B\n\u2022 Base Power Company  \u2014 $1B\n\u2022 Castelion  \u2014 $1B\n\u2022 Lambda \u2014 $962M (debt)\n\u2022 Flexential \u2014 $800M (credit facility)\n\u2022 Form Energy \u2014 $750M\n\u2022 Rigaku \u2014 $720M\n\u2022 Lumilens \u2014 $700M+\n\u2022 Etched \u2014 $700M\n\u2022 Function Health \u2014 $450M\n\u2022 Global AI  \u2014 $441M (debt)\n\u2022 inKind \u2014 $414M\n\u2022 Lovable \u2014 $400M\n\u2022 Higgsfield AI \u2014 $400M\n\u2022 Groq \u2014 $350M\n\u2022 OLIX \u2014 $312M\n\u2022 Mariana Minerals \u2014 $310M\n\u2022 Cambridge Aerospace \u2014 $300M\n\u2022 Volta    \u2014 $300M\n\u2022 Wispr Flow \u2014 $280M\n\u2022 Ajaib \u2014 $270M\n\u2022 LifeMine Therapeutics \u2014 $263M\n\u2022 Horizon3.ai ",
+   "disc_score": 2,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1788460702
+  },
+  "7501328018196586498": {
+   "created": 1788455967,
+   "author": "ECell, NIT Silchar",
+   "url": "https://www.linkedin.com/posts/ecell-nit-silchar_ecellnitsilchar-ai-deeptech-activity-7501328018196586498-i6a3",
+   "text": "An AI Chip Startup Just Doubled Its Valuation to $21 Billion\n\nArtificial intelligence is creating opportunities far beyond chatbots and software applications.\n\nA striking example emerged this week when Etched, a San Jose-based AI chip startup, raised $700 million, taking its valuation to approximately $21 billion more than double its valuation less than a month earlier. \nThe company is developing specialised chips designed for AI inference,the stage where trained AI models generate responses and predictions.\n\nWhy does this matter?\nBecause the AI race is increasingly becoming a race for infrastructure.\nPowerful AI models require enormous computing resources.\n\nThat means demand is growing for ",
+   "disc_score": 3,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1788460702
+  },
+  "7501338054473695232": {
+   "created": 1788458360,
+   "author": "Ronak Khakhkhar",
+   "url": "https://www.linkedin.com/posts/activity-7501338054473695232-GH6u",
+   "text": "I'm hiring!\n\nEtched is building the Frontier Interference Clusters and we are looking for Silicon Validation Engineer, Software.\n\nIf you are interested Silicon Enablement, Bringup, Debug and solve a lot of technical challenges, please apply!\n\n\nWe work with a variety of technologies PCIe, HBM, Ethernet, Slow Speed Interfaces and Custom Compute Logic and more. \n\nThis position is for on-site Santa Clara only. \n\nhttps://lnkd.in/gwYCsGRh",
+   "disc_score": 1,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1788460702
+  },
+  "7501335291496935424": {
+   "created": 1788457701,
+   "author": "Levent Caglar",
+   "url": "https://www.linkedin.com/posts/levent-caglar_a-bumblebee-moment-for-ai-silicon-synopsys-activity-7501335291496935424-x081",
+   "text": "Excellent perspective on how AI silicon validation is evolving. As AI accelerators become increasingly workload-specific, success is no longer defined solely by block-level correctness. The ability to validate real workloads, hardware/software interactions, and system performance before tape-out is becoming a critical differentiator. The Etched case study demonstrates how emulation can serve as a true pre-silicon development platform, enabling software productivity and increasing confidence in both correctness and performance. #AI #Semiconductors #Verification #Emulation #ChipDesign",
+   "disc_score": 1,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1788460702
+  },
+  "7501327394125934592": {
+   "created": 1788455818,
+   "author": "Lewis Yule",
+   "url": "https://www.linkedin.com/posts/lewis-yule-b8b62982_ideasfest2026-cmsequip-cmslaw-activity-7501327394125934592-rbJH",
+   "text": "A robust intellectual property strategy can be one of a start-up's most valuable assets, helping to turn innovative ideas into sustainable commercial success.\n\nWe're delighted to be partnering with Etched Tech, a member of the CMS equIP for Start-ups community, at Ideas Fest, sharing a space where founders can drop in for practical advice on IP, innovation, and scaling their businesses.\n\nIf you are attending and have any questions about patents, feel free to reach out or come and see us in our tent! \n\nCMS Intellectual Property",
+   "disc_score": 4,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1788460702
   }
  },
  "baseline": {
@@ -720,6 +781,18 @@
    [
     1788447746,
     74
+   ],
+   [
+    1788460702,
+    0
+   ],
+   [
+    1788460702,
+    28
+   ],
+   [
+    1788460702,
+    23
    ]
   ]
  },
