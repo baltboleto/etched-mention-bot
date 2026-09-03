@@ -1,31 +1,5 @@
 {
  "watch": {
-  "7500816115024076800": {
-   "created": 1788333920,
-   "author": "AI Brief",
-   "url": "https://www.linkedin.com/posts/ai-brief_ai-aichips-semiconductors-activity-7500816115024076800-iQ65",
-   "text": "The most valuable private AI chip companies, ranked by latest reported valuation. AI Brief's snapshot of where the money is flowing in AI silicon.\n\nOn the list: Etched, SambaNova, Groq, Tenstorrent, Rebellions, d-Matrix, Positron AI, Tensordyne and FuriosaAI.\n\nWhat did we miss?\n\nFull ranking: https://lnkd.in/gSfjWx88\n\n#AI #AIchips #Semiconductors #AIHardware #Inference #Datacenters #ChipStartups #DeepTech #ArtificialIntelligence #VentureCapital AI Chips & Data Centers",
-   "disc_score": 11,
-   "checks": {
-    "24": 30
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788346349
-  },
-  "7500843746171928576": {
-   "created": 1788340508,
-   "author": "Muhammad Hashir",
-   "url": "https://www.linkedin.com/posts/muhammad-hashir-2b825b123_privatemarkets-venturecapital-ai-activity-7500843746171928576-abd6",
-   "text": "9 of the 11 largest VC rounds in August went to companies building physical things.\n\n\t\u2022\tHadrian raised $1.4B for automated defense manufacturing.\n\t\u2022\tValar Atomics raised $1B for nuclear energy.\n\t\u2022\tCastelion raised $800M for defense systems.\n\t\u2022\tEtched raised $700M for AI chips.\n\t\u2022\tFirmus raised $2B for AI data centers.\n\nFor years, venture capital was heavily focused on software. Now some of the biggest rounds are going into factories, chips, energy, defense, robotics and physical infrastructure.\n\nCapital seems to be moving from just software to the infrastructure needed to actually power and build the AI economy.\n\nThe physical layer of AI is becoming one of the biggest themes in private marke",
-   "disc_score": 0,
-   "checks": {
-    "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788346349
-  },
   "7500862612033761280": {
    "created": 1788345005,
    "author": "Robert Lee-Green",
@@ -162,7 +136,9 @@
    "url": "https://www.linkedin.com/posts/chloejianma_congratulations-to-the-entire-caspa-chinese-activity-7501017236279848960-EyN0",
    "text": "Congratulations to the entire CASPA - Chinese American Semiconductor Professional Assoc. team, especially the leadership of Ge (Gary) Wang and Jimmy Cheng for assembling a truly star-studded lineup of semiconductor CEOs, founders, pioneers, investors and industry luminaries for the CASPA 35th Annual Conference & Dinner Banquet. From established semiconductor giants Lip-Bu Tan, CEO of Intel, Xin Guo, CEO of Solidigm, Andrew Feldman, CEO of Cerebras, Dylan Patel, CEO of SemiAnalysis, Hong Hou, CEO of Semtech, Jodi Shelton, CEO of Global Semiconductor Alliance, Sassine Ghazi, CEO of Synopsys Inc,  to the new generation of AI accelerator contenders Rodrigo Liang, CEO of SambaNova, Gavin Uberti, ",
    "disc_score": 5,
-   "checks": {},
+   "checks": {
+    "24": 47
+   },
    "promoted": false,
    "miss": 0,
    "added": 1788384065
@@ -175,7 +151,7 @@
    "disc_score": 2,
    "checks": {},
    "promoted": false,
-   "miss": 0,
+   "miss": 1,
    "added": 1788384065
   },
   "7501045004589748224": {
@@ -195,7 +171,9 @@
    "url": "https://www.linkedin.com/posts/anilmurty_when-you-think-ai-inference-you-think-nvidia-activity-7501021659152191488-WAs9",
    "text": "When you think AI inference, you think Nvidia. Maybe AMD if you're a little more plugged in.\nThe reality: Nvidia owns ~90% of training. But the market for inference - expected to triple from $97B to a projected $254B by 2030 - is a different fight, and it's accelerating fast as agents hit enterprise scale.\n\nNvidia's inference share is closer to 60-75%, and its weapon is still a gaming GPU evolved into a general-purpose accelerator, not silicon designed for inference from day one. Today it's the default. That's changing fast, and even Nvidia knows it: see the Grace and Vera CPU platforms and the strategic bet on Groq's LPU for decode.\n\nA quick rundown to catch you up on the rest:\n\nMerchant si",
    "disc_score": 1,
-   "checks": {},
+   "checks": {
+    "24": 2
+   },
    "promoted": false,
    "miss": 0,
    "added": 1788397638
@@ -217,7 +195,9 @@
    "url": "https://www.linkedin.com/posts/institutional-investor_ai-mania-boosts-these-hedgies-activity-7501002289386651649-HVWG",
    "text": "In the fast-evolving world of AI, the chip start-up Etched has made headlines by raising $700 million in a Series D round, reaching a valuation of $21 billion\u2014more than quadrupling its value in just eight months. Explore the dynamics of this surge and the implications for investors. \n\n#AIInvestment #TechValuations\n\nRead more: https://okt.to/Bb9hD3",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 2
+   },
    "promoted": false,
    "miss": 0,
    "added": 1788397638
@@ -386,6 +366,30 @@
    "promoted": false,
    "miss": 0,
    "added": 1788460702
+  },
+  "7501366781119258624": {
+   "created": 1788465209,
+   "author": "Parv Shrivastava",
+   "url": "https://www.linkedin.com/posts/parvs1_etched-just-raised-700m-at-a-21b-valuation-activity-7501366781119258624-im7U",
+   "text": "Etched just raised $700M at a $21B valuation and their CEO was doing FIRST Tech Challenge robotics the same season I was.\n\nSo was Felipe Bergerman, who was on my team back then and recruited me to Ergo last year. So was my founder Yash Dulla.\n\nFTC is a really underrated pipeline for startups, and I don't see people talk about it enough.\n\nGavin Uberti's team, 8802, was one of the teams I watched autonomous videos of senior year. One of my friends on that team, who built a huge part of their robot, went on to become one of Etched's first 25 employees. They had built one of the best robots that season.\n\nProbably not a coincidence. The skills line up almost exactly.\n\nThat photo is from Worlds 20",
+   "disc_score": 22,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1788470678
+  },
+  "7501343476190679040": {
+   "created": 1788459652,
+   "author": "Jacob Renard",
+   "url": "https://www.linkedin.com/posts/jacob-renard_silicon-validation-engineer-software-activity-7501343476190679040-6D4O",
+   "text": "We're hiring in my org at Etched!\n\nIf you're an engineer with experience that bridges the gap between low-level firmware, validation infrastructure, and debugging the hardware/software boundary you may be a great fit.\n\nWe're ideally looking for experience in: C/C++, Python, Computer Architecture, Embedded Systems, and a willingness to get your hands on silicon.\n\nReach out if you're interested or send them my way!\n#hiring \nhttps://lnkd.in/gjDVFsAQ",
+   "disc_score": 79,
+   "checks": {
+    "24": 79
+   },
+   "promoted": true,
+   "miss": 0,
+   "added": 1788470678
   }
  },
  "baseline": {
@@ -793,6 +797,18 @@
    [
     1788460702,
     23
+   ],
+   [
+    1788470678,
+    47
+   ],
+   [
+    1788470678,
+    2
+   ],
+   [
+    1788470678,
+    2
    ]
   ]
  },
@@ -821,6 +837,11 @@
    1788366825,
    "7500944348612542464",
    87
+  ],
+  [
+   1788470678,
+   "7501343476190679040",
+   79
   ]
  ],
  "seeded": true
