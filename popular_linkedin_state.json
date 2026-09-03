@@ -1,96 +1,5 @@
 {
  "watch": {
-  "7500555893407739904": {
-   "created": 1788271878,
-   "author": "Dimitrios Skarlatos",
-   "url": "https://www.linkedin.com/posts/dskarlatos_a-7b-offer-became-a-13b-one-in-1-year-activity-7500555893407739904-1PPq",
-   "text": "A $7B offer became a $13B one in 1 year. NVIDIA acquiring Hugging Face is a win for everyone building AI agents and infrastructure.\n\nHugging Face provides access to millions of open models; getting absorbed by a hardware company can go 1 of 2 ways: either it loses the neutrality that makes the platform great or gains the runway to further democratize AI. \n\nI think it\u2019s the latter and NVIDIA + Hugging Face becomes the public square for open models, one that persists despite the business model.\n\nThat\u2019s great news our work at LithosAI on ultra-low latency inference because open model availability:\n- Accelerates open model development and decreases lock-in with closed models\n- Drives better perf",
-   "disc_score": 10,
-   "checks": {
-    "24": 49
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788274427
-  },
-  "7500546950413471744": {
-   "created": 1788269746,
-   "author": "Bogdan Iordache",
-   "url": "https://www.linkedin.com/posts/bogdaniordache_why-nvidia-hunging-face-nvidia-is-reportedly-activity-7500546950413471744-1YPL",
-   "text": "WHY NVIDIA + HUNGING FACE\nNvidia is reportedly acquiring Hugging Face for $12.9bln - why them, why this much, why now?\n \nIn July 2026, Nvidia CEO Jensen Huang published the now-famous \u201cOpen Weights and American AI Leadership\u201d letter:\n \n\u201c[\u2026.] Our AI leadership will be judged not by one frontier AI model, but by whether the United States builds a strong, open ecosystem that diffuses into every sector. [\u2026.] Open weights let every organization match the right model to the right job at the right cost, reserving frontier-scale capability for genuine frontier problems and running efficient, specialized models everywhere else. [\u2026.]\u201d\n \nNvidia believes that for the economy to prosper, it needs a diver",
-   "disc_score": 19,
-   "checks": {
-    "24": 47
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788274427
-  },
-  "7500553606157340672": {
-   "created": 1788271333,
-   "author": "AI Tech News Today",
-   "url": "https://www.linkedin.com/posts/ai-tech-news-today_ai-biotech-chips-activity-7500553606157340672-GDKh",
-   "text": "News:\nAnthropic reports $65B+ annualized revenue\u2014Claude coding tools fuel a sharp jump and revive IPO talk.\nAn AI-assisted cancer vaccine cleared Phase III, a rare milestone for model-driven therapeutics.\nEtched raised $700M, doubled to $21B and shipped its first inference rack.\nCursor debuts Origin: in-IDE repo + PRs with GitHub sync for agent workflows (beta).\nOpenAI pauses frontier RL runs to tighten safety, isolation and monitoring.\n\nThoughts? Ask or comment below.\n#AI #biotech #chips #safety #startups #developers\n\nRead more about our news coverage here: https://lnkd.in/e3TxQe6x",
-   "disc_score": 0,
-   "checks": {
-    "24": 1
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788274427
-  },
-  "7500604746773229570": {
-   "created": 1788283526,
-   "author": "Sahil Sapra",
-   "url": "https://www.linkedin.com/posts/activity-7500604746773229570-1jzP",
-   "text": "3 Harvard dropouts doubled a $10B company in 26 days\n\n2022: Gavin Uberti, Chris Zhu and Robert Wachen leave Harvard to build a chip that runs one thing: the transformer. \n\nMost people had never heard that word before\nKeep in mind that this was before the big ChatGPT aha moment\nThe result: Etched\n\nThe rule every VC knew: don't back kids in chips\nThe somehow raised anyway\n\nMarch 2023: $34M valuation\nDec 2025: $5B\nJuly 23, 2026: $10.3B, led by Sequoia Capital.\nAug 18: $21B, $700M round led by Jane Street\n\nThe twist: Jane Street was also their first customer. It ran live trading workloads on an Etched rack, then wrote the check.\n\n$34M to $21B in a little over 3 years\n$1B+ in orders\nNow poaching ",
-   "disc_score": 1,
-   "checks": {
-    "24": 2
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788286506
-  },
-  "7500587558754471937": {
-   "created": 1788279428,
-   "author": "Crystal Tang",
-   "url": "https://www.linkedin.com/posts/crystalxtang_stripe-just-paid-7b-for-openrouter-nvidia-activity-7500587558754471937-Klsr",
-   "text": "Stripe just paid $7B for OpenRouter. NVIDIA paid $12.9B for Hugging Face.\n\nNeither company makes models. So why the eye-watering multiples?\n\nBecause they own the front door. OpenRouter is where developers choose a model. Hugging Face is where they pull model weights. Owning that top of funnel means seeing demand and usage trends before anyone else. And both of their successes are tied to the rise of open weight models, a trend that has only accelerated as enterprises push to cut token costs.\n\nThe September edition of Infra Bytes covers these acquisitions and more:\n\ud83d\udc51 With SpaceX closing its $60B acquisition of Cursor, Cognition now takes the coding throne at a reported $900M ARR\n\u26a1\ufe0f Etched dou",
-   "disc_score": 8,
-   "checks": {
-    "24": 22
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788286506
-  },
-  "7500597274180206592": {
-   "created": 1788281744,
-   "author": "Martin Hack",
-   "url": "https://www.linkedin.com/posts/martinhack_nvidias-real-moat-is-not-the-gpu-it-is-activity-7500597274180206592-XW8c",
-   "text": "NVIDIA\u2019s real moat is not the GPU.\n \nIt is CUDA and the software ecosystem around it.\n \nThe hardware lead matters, but the switching costs for AI/ML teams are now so high that they function as a structural barrier. Once a company has built its stack, tooling, kernels, and internal expertise around CUDA, moving is not a procurement decision. It is an organizational and technical rewrite with real timeline and performance risk.\n \nThat is why challengers face a much harder problem than simply shipping a faster or cheaper accelerator. AMD, Cerebras, Tenstorrent, Etched, and the hyperscaler ASIC programs can win on architecture or efficiency in isolation. They still have to overcome the gravity o",
-   "disc_score": 1,
-   "checks": {
-    "24": 5
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788286506
-  },
-  "7500568405423308800": {
-   "created": 1788274861,
-   "author": "StorageNewsletter",
-   "url": "https://www.linkedin.com/posts/storagenewsletter_multicloud-everpure-nvidia-activity-7500568405423308800-gwvt",
-   "text": "Top News today on StorageNewsletter with a recap of August 2026 with all Top News + 10 others\n\nRead the full article at https://bit.ly/4xzjlM9\n\n#MultiCloud #Everpure #Nvidia #Nebius #Sandisk #Lenovo #Intel #WD #FMS2026 #YMTC #CXMT #Etched #Samsung #SKhynix #DDN #StorageNewsletter",
-   "disc_score": 0,
-   "checks": {
-    "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788286506
-  },
   "7500630409647427584": {
    "created": 1788289644,
    "author": "Joshua Wu",
@@ -123,7 +32,9 @@
    "url": "https://www.linkedin.com/posts/lancevmatthews_speed-activity-7500736052278673408-H4AW",
    "text": "A few years back, on one of my first calls with Sunny Madra at Groq, I asked him something I thought was clever: as agentic workflows get longer, more multi-step, and perhaps even overnight for highly complex ones, will speed still matter? Wouldn't \"give me the answer now\" become less relevant?\n\nLong pause. \"Would you like your iPhone more or less if it took longer to boot up?\"What I was failing to realize is that in a multi-step, agentic world, things get worse, as every step in the chain inherits the latency of the last one.\n\nI think about that a lot right now.\n\nIn February, AI agents crossed a boundary \u2014 they overtook humans as the primary consumers of AI tokens, and agent usage is up 14x",
    "disc_score": 22,
-   "checks": {},
+   "checks": {
+    "24": 47
+   },
    "promoted": false,
    "miss": 0,
    "added": 1788328141
@@ -327,6 +238,17 @@
    "promoted": false,
    "miss": 0,
    "added": 1788397638
+  },
+  "7501137410261610496": {
+   "created": 1788410523,
+   "author": "Shabd studio",
+   "url": "https://www.linkedin.com/posts/shabd-studio_three-harvard-dropouts-bet-their-entire-company-activity-7501137410261610496-6bWN",
+   "text": "Three Harvard dropouts bet their entire company on one idea: build a chip\u00a0\nthat runs ONLY transformer AI models. Nothing else.\n\nEveryone else in the chip industry builds general-purpose hardware. They\u00a0\nwent the opposite direction.\n\nThen one customer tested it, bought it \u2014 and Etched's valuation doubled\u00a0\nfrom $10.3B to $21B in 30 days.\n\nHere's how it happened, and the one lesson every founder should take from\u00a0\nit \ud83d\udc47",
+   "disc_score": 4,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1788414438
   }
  },
  "baseline": {
@@ -686,6 +608,10 @@
    [
     1788397638,
     2
+   ],
+   [
+    1788414438,
+    47
    ]
   ]
  },
