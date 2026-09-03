@@ -1,43 +1,5 @@
 {
- "watch": {
-  "2095287487447105682": {
-   "created": 1788390440,
-   "author": "EllaTech0",
-   "followers": 17416,
-   "url": "https://x.com/EllaTech0/status/2095287487447105682",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788391805
-  },
-  "2095285517105705281": {
-   "created": 1788389970,
-   "author": "toobaddown",
-   "followers": 222,
-   "url": "https://x.com/toobaddown/status/2095285517105705281",
-   "disc_score": 0,
-   "checks": {
-    "1": 1
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788391805
-  },
-  "2095312029976543641": {
-   "created": 1788396291,
-   "author": "MainzOnX",
-   "followers": 5580,
-   "url": "https://x.com/MainzOnX/status/2095312029976543641",
-   "disc_score": 11,
-   "checks": {},
-   "promoted": false,
-   "miss": 0,
-   "added": 1788398634
-  }
- },
+ "watch": {},
  "baseline": {
   "1": [
    [
