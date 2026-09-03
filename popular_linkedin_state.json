@@ -1,31 +1,5 @@
 {
  "watch": {
-  "7500708121590394880": {
-   "created": 1788308172,
-   "author": "Kevin Selhi",
-   "url": "https://www.linkedin.com/posts/kevinselhi_im-excited-to-announce-that-wafer-raised-activity-7500708121590394880-pkG3",
-   "text": "Congrats to the Wafer team! They use AI to optimize model inference specific to the hardware it's executed on. NVIDIA's advantages are many and CUDA is high on the list. But as AI adoption and utilization increase, one firm won't be able to satisfy all the world's demand for compute. To fulfill AI's promise, inference providers will increasingly need to run models on non-NVIDIA hardware (i.e. AMD's family of chips, Google TPUs, Cerebras, Etched, Positron, etc). Looking forward to a world where >1k tokens per second is the norm. Thankfully Emilio Andere, Eugene Ye, JV Cosico and their team are laser focused on getting us there, sooner than later.",
-   "disc_score": 0,
-   "checks": {
-    "24": 2
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788311743
-  },
-  "7500736052278673408": {
-   "created": 1788314831,
-   "author": "Lance Matthews",
-   "url": "https://www.linkedin.com/posts/lancevmatthews_speed-activity-7500736052278673408-H4AW",
-   "text": "A few years back, on one of my first calls with Sunny Madra at Groq, I asked him something I thought was clever: as agentic workflows get longer, more multi-step, and perhaps even overnight for highly complex ones, will speed still matter? Wouldn't \"give me the answer now\" become less relevant?\n\nLong pause. \"Would you like your iPhone more or less if it took longer to boot up?\"What I was failing to realize is that in a multi-step, agentic world, things get worse, as every step in the chain inherits the latency of the last one.\n\nI think about that a lot right now.\n\nIn February, AI agents crossed a boundary \u2014 they overtook humans as the primary consumers of AI tokens, and agent usage is up 14x",
-   "disc_score": 22,
-   "checks": {
-    "24": 47
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788328141
-  },
   "7500816115024076800": {
    "created": 1788333920,
    "author": "AI Brief",
@@ -71,7 +45,9 @@
    "url": "https://www.linkedin.com/posts/braden-w_high-growth-engineering-roles-with-huge-runway-activity-7500892301897097216-e9UR",
    "text": "High-growth engineering roles with huge runway\n\nScaling in NYC and SF right now\n\nNew York City:\n\nNorm Ai: agentic law platform embedding legal reasoning ($120M Series C at $1.2B)  \nInstaLILY AI: vertical AI teammates ($60M Series B)  \nVendelux: AI event intelligence predicting B2B ROI ($50M Series B)  \nAegis AI Security: agentic email security built to stop AI spear phishing ($36M Series A)  \nBaselayer: automated B2B risk and fraud platform ($20M Series A)  \n\nSan Francisco:\n\nEtched: chips that run transformers and nothing else ($700M Series D)  \nWispr Flow: talk instead of typing, voice-to-text platform ($280M Series B at $2B)  \nHappyRobot: AI workers running supply chain ops ($150M Series C",
    "disc_score": 17,
-   "checks": {},
+   "checks": {
+    "24": 28
+   },
    "promoted": false,
    "miss": 0,
    "added": 1788361398
@@ -82,7 +58,9 @@
    "url": "https://www.linkedin.com/posts/nancy-asimakopoulou_andreessen-horowitz-launches-a-11b-fund-activity-7500883981085646848-gMxE",
    "text": "Andreessen Horowitz \u2014the firm that coined \"software is eating the world\"\u2014just closed its $\ud835\udfed.\ud835\udfed\ud835\uddd5 Machine Age Fund dedicated entirely to physical AI infrastructure.\nSo, two core questions popped in my mind: \ud835\ude0f\ud835\ude30\ud835\ude38 \ud835\ude2a\ud835\ude34 \ud835\ude35\ud835\ude29\ud835\ude26 '\ud835\ude17\ud835\ude29\ud835\ude3a\ud835\ude34\ud835\ude2a\ud835\ude24\ud835\ude22\ud835\ude2d \ud835\ude08\ud835\ude10 \ud835\ude10\ud835\ude2f\ud835\ude27\ud835\ude33\ud835\ude22\ud835\ude34\ud835\ude35\ud835\ude33\ud835\ude36\ud835\ude24\ud835\ude35\ud835\ude36\ud835\ude33\ud835\ude26' \ud835\ude26\ud835\ude24\ud835\ude30\ud835\ude34\ud835\ude3a\ud835\ude34\ud835\ude35\ud835\ude26\ud835\ude2e \ud835\ude25\ud835\ude26\ud835\ude27\ud835\ude2a\ud835\ude2f\ud835\ude26\ud835\ude25, \ud835\ude22\ud835\ude2f\ud835\ude25 \ud835\ude38\ud835\ude29\ud835\ude2a\ud835\ude24\ud835\ude29 \ud835\ude2e\ud835\ude22\ud835\ude33\ud835\ude2c\ud835\ude26\ud835\ude35 \ud835\ude31\ud835\ude22\ud835\ude33\ud835\ude35\ud835\ude2a\ud835\ude24\ud835\ude2a\ud835\ude31\ud835\ude22\ud835\ude2f\ud835\ude35\ud835\ude34 \ud835\ude22\ud835\ude33\ud835\ude26 \ud835\ude2d\ud835\ude26\ud835\ude22\ud835\ude25\ud835\ude2a\ud835\ude2f\ud835\ude28 \ud835\ude35\ud835\ude29\ud835\ude26 \ud835\ude34\ud835\ude26\ud835\ude24\ud835\ude35\ud835\ude30\ud835\ude33?\n5 core verticals:\n\u20221\u2022 \ud835\uddd4\ud835\udddc \ud835\uddd6\ud835\uddf5\ud835\uddf6\ud835\uddfd\ud835\ude00 & \ud835\uddd4\ud835\uddf0\ud835\uddf0\ud835\uddf2\ud835\uddf9\ud835\uddf2\ud835\uddff\ud835\uddee\ud835\ude01\ud835\uddfc\ud835\uddff\ud835\ude00: \n$18.9B raised across 11 co's - most crowded  - Startups: Cerebras ($10.3B) and Etched ($2.5B) are attacking Nvidia with radical architectures (wafer-scale engines, transformer ASICs) to solve the inference cost curve.\n\u20222\u2022 \ud835\udde3\ud835\uddf5\ud835\uddfc\ud835\ude01\ud835\uddfc\ud835\uddfb\ud835\uddf6\ud835\uddf0 \ud835\udddc\ud835\uddfb\ud835\ude01\ud835\uddf2\ud835\uddff\ud835\uddf0\ud835\uddfc\ud835\uddfb\ud835\uddfb\ud835\uddf2\ud835\uddf0\ud835\ude01\ud835\ude00 & \ud835\udde2\ud835\uddfd\ud835\ude01\ud835\uddf6\ud835\uddf0\ud835\ude00:\n$7.0B raised across 9 co's - sleeper - Startups: Lightmatter ($2.0B) and Ayar La",
    "disc_score": 1,
-   "checks": {},
+   "checks": {
+    "24": 2
+   },
    "promoted": false,
    "miss": 0,
    "added": 1788361398
@@ -93,7 +71,9 @@
    "url": "https://www.linkedin.com/posts/caroline-denaes_etched-5b-in-december-103b-in-july-activity-7500923029628317696-inzr",
    "text": "Etched: $5B in December. $10.3B in July. $21B in August. They shipped their first rack \u2014 to the firm that just led the round. The valuation nearly doubled in 26 days. Nobody is pretending this is normal.\n\n\ud83d\udce6 What \"From Zero to One\" actually means\n\"We shipped our first rack to Jane Street.\" That's the post. That's the announcement. One rack. One customer. One sentence.\nThe quantitative trading firm that led the $700M round also tested the hardware before writing the check, then took delivery of the rack, then plugged it into a live data center running real workloads.\nJane Street said: \"We tested the chip and are pleased with the early results. Etched's unique approach to inference delivers the",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 1
+   },
    "promoted": false,
    "miss": 0,
    "added": 1788361398
@@ -104,7 +84,9 @@
    "url": "https://www.linkedin.com/posts/benscott22_were-delighted-to-welcome-etched-techd-and-activity-7500896680049819648-PdId",
    "text": "What and where is the value of an idea!? \n\nIt\u2019s not as clear cut as many might think! Myself, Etched Tech  in partnership with the fantastic team at CMS Intellectual Property will be exploring this in the \u2018Ideas oasis\u2019 nourishment for your ideas! \n\nCome join us at Ideas Fest next week or follow closely for updates!",
    "disc_score": 3,
-   "checks": {},
+   "checks": {
+    "24": 10
+   },
    "promoted": false,
    "miss": 0,
    "added": 1788361398
@@ -150,7 +132,9 @@
    "url": "https://www.linkedin.com/posts/finn-puklowski_the-most-interesting-companies-in-ai-right-activity-7500930993739014144-plaE",
    "text": "The most interesting companies in AI right now are the ones nobody is writing about.\n\nEveryone is watching the frontier labs. \n\nMeanwhile there are many teams building the silicon that actually runs the models, and most of them get covered as a footnote on Nvidia's headline.\n\nThese are known as ASICs (Application Specific Integrated Circuits). \n\nWe just finished a review of the landscape and three things stood out:\n\n1/ Most are already in production. \n\nNine of the fifteen have now shipped silicon in volume; a year ago that number was only three. \n\nNotably, d-Matrix hit full production in June, FuriosaAI has been in mass production since January, and Positron AI, SambaNova and Tenstorrent are",
    "disc_score": 23,
-   "checks": {},
+   "checks": {
+    "24": 74
+   },
    "promoted": false,
    "miss": 0,
    "added": 1788374203
@@ -319,6 +303,28 @@
    "promoted": false,
    "miss": 0,
    "added": 1788434036
+  },
+  "7501240290037452800": {
+   "created": 1788435051,
+   "author": "Muhammad Arhem",
+   "url": "https://www.linkedin.com/posts/muhammad-arhem_capital-chases-infrastructure-not-softwarepdf-activity-7501240290037452800-bKCj",
+   "text": "Four AI companies raised a combined $8.7 billion in August. Databricks took $5 billion at a $190 billion valuation, led by Coatue, Blackstone, MGX, and T. Rowe Price. Firmus raised $2 billion. Castelion closed a $1 billion Series C. Etched brought in $700 million.\n\nNone of them sell a subscription.\n\nDatabricks sells a data and compute platform. Firmus sells infrastructure capacity. Castelion and Etched sell hardware. Not a single one of the four biggest AI rounds this month went to a company whose product is a login screen and a monthly invoice.\n\nI read that as a signal, not a coincidence. Software companies built on top of someone else's model are renting margin. Whoever owns the compute, t",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1788447746
+  },
+  "7501263165104488449": {
+   "created": 1788440505,
+   "author": "Etched Tech",
+   "url": "https://www.linkedin.com/posts/etched-tech_were-giving-away-a-team-pass-to-ideas-fest-activity-7501263165104488449-mtQV",
+   "text": "WE'RE GIVING AWAY A TEAM PASS TO IDEAS FEST \u2747\ufe0f \ud83c\udfa1\n\nIdeas Fest is dubbed \"The Glastonbury of Business\". It's where a small spark could become a big idea.\n\nWe're giving away a team pass for you, your co-founders, or anyone else who's been part of your entrepreneurial journey, to join us there next week.\n\nThe draw closes at Midday on Friday 4th September. We'll email the winner directly at 6pm that day.\n\nAnd if it's not you, you're not leaving empty-handed. Everyone who enters gets a FREE Etched account for the festival, so you can capture your ideas as they evolve in the field.\n\nEnter here:\u00a0https://lnkd.in/eEgreSTa",
+   "disc_score": 21,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1788447746
   }
  },
  "baseline": {
@@ -694,6 +700,26 @@
    [
     1788434036,
     17
+   ],
+   [
+    1788447746,
+    28
+   ],
+   [
+    1788447746,
+    2
+   ],
+   [
+    1788447746,
+    1
+   ],
+   [
+    1788447746,
+    10
+   ],
+   [
+    1788447746,
+    74
    ]
   ]
  },
