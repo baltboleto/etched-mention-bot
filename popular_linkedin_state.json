@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7500862612033761280": {
-   "created": 1788345005,
-   "author": "Robert Lee-Green",
-   "url": "https://www.linkedin.com/posts/robert-lee-green-3013a349_ideasfest-entrepreneurs-founders-activity-7500862612033761280-Eddo",
-   "text": "I\u2019ll be at Ideas Fest on 9\u201310 September with the Etched team, in partnership with CMS\n\nAnd on day one, we\u2019ll be taking to the LaunchPad stage at 2pm for a session called:\n\nUnderstanding the Value of an Idea\n\nIt\u2019s a question I keep coming back to.\n\nWhen does an idea actually become valuable?\n\nWhen someone invests in it?\n\nWhen it generates revenue?\n\nWhen someone else wants it?\n\nOr much earlier, when the first concept, contribution or creative decision is made?\n\nAt Etched, we spend a lot of time thinking about how ideas develop, how their value grows, and how businesses can better evidence the innovation they create.\n\nIdeasFest feels like the perfect place to have that conversation.\n\nIf you\u2019re ",
-   "disc_score": 1,
-   "checks": {
-    "24": 17
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788346349
-  },
   "7500892301897097216": {
    "created": 1788352084,
    "author": "Braden Woods",
@@ -143,24 +130,15 @@
    "miss": 0,
    "added": 1788384065
   },
-  "7501018376161509376": {
-   "created": 1788382143,
-   "author": "Chloe Jian Ma",
-   "url": "https://www.linkedin.com/feed/update/urn:li:groupPost:2291736-7501018375272448000",
-   "text": "CASPA - Chinese American Semiconductor Professional Assoc. has assembled a truly star-studded lineup of semiconductor CEOs, founders, pioneers, investors and industry luminaries for the CASPA 35th Annual Conference & Dinner Banquet. From established semiconductor giants Lip-Bu Tan, CEO of Intel, Xin Guo, CEO of Solidigm, Andrew Feldman, CEO of Cerebras, Dylan Patel, CEO of SemiAnalysis, Hong Hou, CEO of Semtech, Jodi Shelton, CEO of Global Semiconductor Alliance, Sassine Ghazi, CEO of Synopsys Inc,  to the new generation of AI accelerator contenders Rodrigo Liang, CEO of SambaNova, Gavin Uberti, CEO of Etched, Sunghyun Park, CEO of Rebellions, Sid Sheth, CEO of d-Matrix, and many other ecosy",
-   "disc_score": 2,
-   "checks": {},
-   "promoted": false,
-   "miss": 2,
-   "added": 1788384065
-  },
   "7501045004589748224": {
    "created": 1788388491,
    "author": "Johannes Stahl",
    "url": "https://www.linkedin.com/posts/johannes-stahl-2b56b_a-bumblebee-moment-for-ai-silicon-synopsys-activity-7501045004589748224-9OL9",
    "text": "At this year\u2019s Synopsys Converge Silicon Valley Etched presented its work on Sohu, a transformer engine built specifically for AI inference. It was amazing to see how David Svensson built a development platform with ZeBu Server 5 that enabled 40 software developers, using a 2 min iteration cycle for his complex AI project.\n\nRead more here: https://lnkd.in/ew7B2unU",
    "disc_score": 2,
-   "checks": {},
+   "checks": {
+    "24": 31
+   },
    "promoted": false,
    "miss": 0,
    "added": 1788397638
@@ -184,7 +162,9 @@
    "url": "https://www.linkedin.com/posts/ryancfo_anthropic-claude-claudeai-activity-7501042712071049216-uio1",
    "text": "MEMBER SPOTLIGHT #6 \u2b1b ANTHROP\\C Community \u2b1b \n\nLeyla Samiee\nChief Product & Technology Officer, Introhive | Angel Investor | Executive Advisor | MIT\n New York, NY\n\nLeyla Samiee\n https://lnkd.in/gUgbvw5D\nhttps://lnkd.in/gHWCr6dZ\n\nLeyla has one of the most relevant r\u00e9sum\u00e9s in this entire group for what we're all actually building.\n\nAt Meta, she led ML Hub ... the unified internal AI platform serving 4,000 ML engineers, covering model development, training, testing and observability. Then VP of Product Engineering for Content and AI at Mozilla. Now CPTO at Introhive, running product, engineering, security, UX research and client solutions. She's also an investor and advisor at Etched, the infere",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 1
+   },
    "promoted": false,
    "miss": 0,
    "added": 1788397638
@@ -809,6 +789,14 @@
    [
     1788470678,
     2
+   ],
+   [
+    1788478083,
+    31
+   ],
+   [
+    1788478083,
+    1
    ]
   ]
  },
