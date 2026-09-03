@@ -1,168 +1,14 @@
 {
  "watch": {
-  "2095582423471845643": {
-   "created": 1788460758,
-   "author": "sardinepate",
-   "followers": 228,
-   "url": "https://x.com/sardinepate/status/2095582423471845643",
-   "disc_score": 0,
-   "checks": {
-    "1": null
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788460970
-  },
-  "2095582161420046512": {
-   "created": 1788460695,
-   "author": "sardinepate",
-   "followers": 228,
-   "url": "https://x.com/sardinepate/status/2095582161420046512",
-   "disc_score": 1,
-   "checks": {
-    "1": null
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788460970
-  },
-  "2095580509518610795": {
-   "created": 1788460302,
-   "author": "sardinepate",
-   "followers": 228,
-   "url": "https://x.com/sardinepate/status/2095580509518610795",
-   "disc_score": 0,
-   "checks": {
-    "1": null
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788460970
-  },
-  "2095580367457497180": {
-   "created": 1788460268,
-   "author": "armsingla",
-   "followers": 59,
-   "url": "https://x.com/armsingla/status/2095580367457497180",
-   "disc_score": 0,
-   "checks": {
-    "1": null
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788460970
-  },
-  "2095580030470615048": {
-   "created": 1788460187,
-   "author": "sawyerlai_",
-   "followers": 12,
-   "url": "https://x.com/sawyerlai_/status/2095580030470615048",
-   "disc_score": 0,
-   "checks": {
-    "1": null
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788460970
-  },
-  "2095579998669148339": {
-   "created": 1788460180,
-   "author": "sardinepate",
-   "followers": 228,
-   "url": "https://x.com/sardinepate/status/2095579998669148339",
-   "disc_score": 1,
-   "checks": {
-    "1": null
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788460970
-  },
-  "2095579767022219706": {
-   "created": 1788460125,
-   "author": "mahi_jariwala",
-   "followers": 490,
-   "url": "https://x.com/mahi_jariwala/status/2095579767022219706",
-   "disc_score": 0,
-   "checks": {
-    "1": null
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788460970
-  },
-  "2095579750022676680": {
-   "created": 1788460121,
-   "author": "ayirpelle",
-   "followers": 5232,
-   "url": "https://x.com/ayirpelle/status/2095579750022676680",
-   "disc_score": 0,
-   "checks": {
-    "1": null
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788460970
-  },
-  "2095579633819271666": {
-   "created": 1788460093,
-   "author": "sardinepate",
-   "followers": 228,
-   "url": "https://x.com/sardinepate/status/2095579633819271666",
-   "disc_score": 1,
-   "checks": {
-    "1": null
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788460970
-  },
-  "2095579455309676602": {
-   "created": 1788460050,
-   "author": "sardinepate",
-   "followers": 228,
-   "url": "https://x.com/sardinepate/status/2095579455309676602",
-   "disc_score": 1,
-   "checks": {
-    "1": null
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788460970
-  },
-  "2095579214099382514": {
-   "created": 1788459993,
-   "author": "DanielTerreroC",
-   "followers": 297,
-   "url": "https://x.com/DanielTerreroC/status/2095579214099382514",
-   "disc_score": 0,
-   "checks": {
-    "1": null
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788460970
-  },
-  "2095579026878546179": {
-   "created": 1788459948,
-   "author": "smanne124",
-   "followers": 22,
-   "url": "https://x.com/smanne124/status/2095579026878546179",
-   "disc_score": 0,
-   "checks": {
-    "1": null
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788460970
-  },
   "2095621608425639966": {
    "created": 1788470100,
    "author": "AI_Arav",
    "followers": 3261,
    "url": "https://x.com/AI_Arav/status/2095621608425639966",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "1": 1
+   },
    "promoted": false,
    "miss": 0,
    "added": 1788470621
@@ -173,7 +19,9 @@
    "followers": 11,
    "url": "https://x.com/BrysonLiang/status/2095615429792211178",
    "disc_score": 1,
-   "checks": {},
+   "checks": {
+    "1": null
+   },
    "promoted": false,
    "miss": 0,
    "added": 1788470621
@@ -183,238 +31,6 @@
    "author": "katiiecheng",
    "followers": 748,
    "url": "https://x.com/katiiecheng/status/2095614331232702950",
-   "disc_score": 1,
-   "checks": {},
-   "promoted": false,
-   "miss": 0,
-   "added": 1788470621
-  },
-  "2095603106289717607": {
-   "created": 1788465689,
-   "author": "ramya_iyer1",
-   "followers": 171,
-   "url": "https://x.com/ramya_iyer1/status/2095603106289717607",
-   "disc_score": 1,
-   "checks": {
-    "1": 1
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788470621
-  },
-  "2095602636070560127": {
-   "created": 1788465577,
-   "author": "darrowoah",
-   "followers": 531,
-   "url": "https://x.com/darrowoah/status/2095602636070560127",
-   "disc_score": 1,
-   "checks": {
-    "1": 1
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788470621
-  },
-  "2095602203935605123": {
-   "created": 1788465474,
-   "author": "srachasaucee",
-   "followers": 5822,
-   "url": "https://x.com/srachasaucee/status/2095602203935605123",
-   "disc_score": 1,
-   "checks": {
-    "1": 1
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788470621
-  },
-  "2095601901433991219": {
-   "created": 1788465402,
-   "author": "baltboleto",
-   "followers": 24,
-   "url": "https://x.com/baltboleto/status/2095601901433991219",
-   "disc_score": 1,
-   "checks": {
-    "1": 1
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788470621
-  },
-  "2095598901235466509": {
-   "created": 1788464687,
-   "author": "gabyllorenzi",
-   "followers": 880,
-   "url": "https://x.com/gabyllorenzi/status/2095598901235466509",
-   "disc_score": 1,
-   "checks": {
-    "1": 1
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788470621
-  },
-  "2095598861511447011": {
-   "created": 1788464677,
-   "author": "ezzyosborne",
-   "followers": 64,
-   "url": "https://x.com/ezzyosborne/status/2095598861511447011",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788470621
-  },
-  "2095598235293257829": {
-   "created": 1788464528,
-   "author": "jennsun",
-   "followers": 9931,
-   "url": "https://x.com/jennsun/status/2095598235293257829",
-   "disc_score": 1,
-   "checks": {
-    "1": 1
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788470621
-  },
-  "2095597985174519960": {
-   "created": 1788464468,
-   "author": "bxptr_",
-   "followers": 90,
-   "url": "https://x.com/bxptr_/status/2095597985174519960",
-   "disc_score": 1,
-   "checks": {
-    "1": 1
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788470621
-  },
-  "2095593660217770101": {
-   "created": 1788463437,
-   "author": "suryasure05",
-   "followers": 3563,
-   "url": "https://x.com/suryasure05/status/2095593660217770101",
-   "disc_score": 1,
-   "checks": {
-    "1": 1
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788470621
-  },
-  "2095591233498546576": {
-   "created": 1788462858,
-   "author": "AnnmariaKAntony",
-   "followers": 306,
-   "url": "https://x.com/AnnmariaKAntony/status/2095591233498546576",
-   "disc_score": 1,
-   "checks": {
-    "1": 1
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788470621
-  },
-  "2095590482919444825": {
-   "created": 1788462679,
-   "author": "18jeffreyma",
-   "followers": 754,
-   "url": "https://x.com/18jeffreyma/status/2095590482919444825",
-   "disc_score": 2,
-   "checks": {
-    "1": 2
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788470621
-  },
-  "2095588176362643759": {
-   "created": 1788462130,
-   "author": "clairebookworm",
-   "followers": 4131,
-   "url": "https://x.com/clairebookworm/status/2095588176362643759",
-   "disc_score": 1,
-   "checks": {
-    "1": 1
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788470621
-  },
-  "2095587212037681496": {
-   "created": 1788461900,
-   "author": "aadityabuilds",
-   "followers": 16457,
-   "url": "https://x.com/aadityabuilds/status/2095587212037681496",
-   "disc_score": 1,
-   "checks": {
-    "1": 1
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788470621
-  },
-  "2095585503114412494": {
-   "created": 1788461492,
-   "author": "EigenForge",
-   "followers": 8,
-   "url": "https://x.com/EigenForge/status/2095585503114412494",
-   "disc_score": 1,
-   "checks": {
-    "1": null
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788470621
-  },
-  "2095585436626522443": {
-   "created": 1788461476,
-   "author": "SallyHZhu",
-   "followers": 1118,
-   "url": "https://x.com/SallyHZhu/status/2095585436626522443",
-   "disc_score": 1,
-   "checks": {
-    "1": null
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788470621
-  },
-  "2095583782753440247": {
-   "created": 1788461082,
-   "author": "seanf1orez",
-   "followers": 1308,
-   "url": "https://x.com/seanf1orez/status/2095583782753440247",
-   "disc_score": 1,
-   "checks": {
-    "1": null
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788470621
-  },
-  "2095582913316409651": {
-   "created": 1788460875,
-   "author": "johncrown",
-   "followers": 68,
-   "url": "https://x.com/johncrown/status/2095582913316409651",
-   "disc_score": 1,
-   "checks": {
-    "1": null
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788470621
-  },
-  "2095582777852707243": {
-   "created": 1788460842,
-   "author": "spantacular",
-   "followers": 401,
-   "url": "https://x.com/spantacular/status/2095582777852707243",
    "disc_score": 1,
    "checks": {
     "1": null
@@ -429,10 +45,34 @@
    "followers": 564,
    "url": "https://x.com/tirunox/status/2095619587513684054",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "1": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1788470621
+  },
+  "2095653516153139700": {
+   "created": 1788477708,
+   "author": "RyanNeverWrong",
+   "followers": 1770,
+   "url": "https://x.com/RyanNeverWrong/status/2095653516153139700",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1788478055
+  },
+  "2095650510824976604": {
+   "created": 1788476991,
+   "author": "juliali",
+   "followers": 9022,
+   "url": "https://x.com/juliali/status/2095650510824976604",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1788478055
   }
  },
  "baseline": {
@@ -1220,6 +860,14 @@
    [
     1788470622,
     1
+   ],
+   [
+    1788478055,
+    1
+   ],
+   [
+    1788478055,
+    0
    ]
   ]
  },
