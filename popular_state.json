@@ -1,38 +1,14 @@
 {
  "watch": {
-  "2095253164287271068": {
-   "created": 1788382256,
-   "author": "Flaaashbanggg",
-   "followers": 278,
-   "url": "https://x.com/Flaaashbanggg/status/2095253164287271068",
-   "disc_score": 0,
-   "checks": {
-    "1": null
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788384028
-  },
-  "2095258433666867288": {
-   "created": 1788383513,
-   "author": "anilmurty_ai",
-   "followers": 1267,
-   "url": "https://x.com/anilmurty_ai/status/2095258433666867288",
-   "disc_score": 1,
-   "checks": {
-    "1": 1
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788384028
-  },
   "2095287487447105682": {
    "created": 1788390440,
    "author": "EllaTech0",
    "followers": 17416,
    "url": "https://x.com/EllaTech0/status/2095287487447105682",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "1": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1788391805
@@ -43,10 +19,23 @@
    "followers": 222,
    "url": "https://x.com/toobaddown/status/2095285517105705281",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "1": 1
+   },
    "promoted": false,
    "miss": 0,
    "added": 1788391805
+  },
+  "2095312029976543641": {
+   "created": 1788396291,
+   "author": "MainzOnX",
+   "followers": 5580,
+   "url": "https://x.com/MainzOnX/status/2095312029976543641",
+   "disc_score": 11,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1788398634
   }
  },
  "baseline": {
@@ -709,6 +698,14 @@
    ],
    [
     1788391805,
+    1
+   ],
+   [
+    1788398634,
+    0
+   ],
+   [
+    1788398634,
     1
    ]
   ]
