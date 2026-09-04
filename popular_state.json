@@ -1,69 +1,28 @@
 {
  "watch": {
-  "2095653516153139700": {
-   "created": 1788477708,
-   "author": "RyanNeverWrong",
-   "followers": 1770,
-   "url": "https://x.com/RyanNeverWrong/status/2095653516153139700",
+  "2095750533697134713": {
+   "created": 1788500839,
+   "author": "ameyajadhav_",
+   "followers": 2762,
+   "url": "https://x.com/ameyajadhav_/status/2095750533697134713",
    "disc_score": 0,
-   "checks": {
-    "1": 1
-   },
+   "checks": {},
    "promoted": false,
    "miss": 0,
-   "added": 1788478055
+   "added": 1788501534
   },
-  "2095650510824976604": {
-   "created": 1788476991,
-   "author": "juliali",
-   "followers": 9022,
-   "url": "https://x.com/juliali/status/2095650510824976604",
-   "disc_score": 0,
-   "checks": {
-    "1": 1
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788478055
-  },
-  "2095661829674738014": {
-   "created": 1788479690,
-   "author": "arbitr_ary",
-   "followers": 193,
-   "url": "https://x.com/arbitr_ary/status/2095661829674738014",
-   "disc_score": 2,
-   "checks": {
-    "1": 2
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788484372
-  },
-  "2095657146646245774": {
-   "created": 1788478573,
-   "author": "ToonamiAfter",
-   "followers": 2542,
-   "url": "https://x.com/ToonamiAfter/status/2095657146646245774",
-   "disc_score": 1,
-   "checks": {
-    "1": 1
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788484372
-  },
-  "2095656691048051104": {
-   "created": 1788478465,
-   "author": "tasukuvtol",
-   "followers": 1320,
-   "url": "https://x.com/tasukuvtol/status/2095656691048051104",
+  "2095723219894321447": {
+   "created": 1788494326,
+   "author": "danialhasan",
+   "followers": 2677,
+   "url": "https://x.com/danialhasan/status/2095723219894321447",
    "disc_score": 0,
    "checks": {
     "1": 0
    },
    "promoted": false,
    "miss": 0,
-   "added": 1788484372
+   "added": 1788501534
   }
  },
  "baseline": {
@@ -878,6 +837,10 @@
    ],
    [
     1788484373,
+    0
+   ],
+   [
+    1788501534,
     0
    ]
   ]
