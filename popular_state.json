@@ -1,64 +1,14 @@
 {
  "watch": {
-  "2095621608425639966": {
-   "created": 1788470100,
-   "author": "AI_Arav",
-   "followers": 3261,
-   "url": "https://x.com/AI_Arav/status/2095621608425639966",
-   "disc_score": 0,
-   "checks": {
-    "1": 1
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788470621
-  },
-  "2095615429792211178": {
-   "created": 1788468627,
-   "author": "BrysonLiang",
-   "followers": 11,
-   "url": "https://x.com/BrysonLiang/status/2095615429792211178",
-   "disc_score": 1,
-   "checks": {
-    "1": null
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788470621
-  },
-  "2095614331232702950": {
-   "created": 1788468365,
-   "author": "katiiecheng",
-   "followers": 748,
-   "url": "https://x.com/katiiecheng/status/2095614331232702950",
-   "disc_score": 1,
-   "checks": {
-    "1": null
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788470621
-  },
-  "2095619587513684054": {
-   "created": 1788469619,
-   "author": "tirunox",
-   "followers": 564,
-   "url": "https://x.com/tirunox/status/2095619587513684054",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788470621
-  },
   "2095653516153139700": {
    "created": 1788477708,
    "author": "RyanNeverWrong",
    "followers": 1770,
    "url": "https://x.com/RyanNeverWrong/status/2095653516153139700",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "1": 1
+   },
    "promoted": false,
    "miss": 0,
    "added": 1788478055
@@ -69,10 +19,51 @@
    "followers": 9022,
    "url": "https://x.com/juliali/status/2095650510824976604",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "1": 1
+   },
    "promoted": false,
    "miss": 0,
    "added": 1788478055
+  },
+  "2095661829674738014": {
+   "created": 1788479690,
+   "author": "arbitr_ary",
+   "followers": 193,
+   "url": "https://x.com/arbitr_ary/status/2095661829674738014",
+   "disc_score": 2,
+   "checks": {
+    "1": 2
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1788484372
+  },
+  "2095657146646245774": {
+   "created": 1788478573,
+   "author": "ToonamiAfter",
+   "followers": 2542,
+   "url": "https://x.com/ToonamiAfter/status/2095657146646245774",
+   "disc_score": 1,
+   "checks": {
+    "1": 1
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1788484372
+  },
+  "2095656691048051104": {
+   "created": 1788478465,
+   "author": "tasukuvtol",
+   "followers": 1320,
+   "url": "https://x.com/tasukuvtol/status/2095656691048051104",
+   "disc_score": 0,
+   "checks": {
+    "1": 0
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1788484372
   }
  },
  "baseline": {
@@ -867,6 +858,26 @@
    ],
    [
     1788478055,
+    0
+   ],
+   [
+    1788484373,
+    1
+   ],
+   [
+    1788484373,
+    1
+   ],
+   [
+    1788484373,
+    2
+   ],
+   [
+    1788484373,
+    1
+   ],
+   [
+    1788484373,
     0
    ]
   ]
