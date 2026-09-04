@@ -1,43 +1,50 @@
 {
  "watch": {
-  "2095807823087272055": {
-   "created": 1788514497,
-   "author": "PavanKumarNY",
-   "followers": 1861,
-   "url": "https://x.com/PavanKumarNY/status/2095807823087272055",
-   "disc_score": 1,
-   "checks": {
-    "1": 1
-   },
+  "2095876441816658256": {
+   "created": 1788530857,
+   "author": "sandylikesfrogs",
+   "followers": 3641,
+   "url": "https://x.com/sandylikesfrogs/status/2095876441816658256",
+   "disc_score": 0,
+   "checks": {},
    "promoted": false,
    "miss": 0,
-   "added": 1788519576
+   "added": 1788533718
   },
-  "2095795233577746455": {
-   "created": 1788511496,
-   "author": "aretaidos",
-   "followers": 431,
-   "url": "https://x.com/aretaidos/status/2095795233577746455",
-   "disc_score": 1,
+  "2095856246826176789": {
+   "created": 1788526043,
+   "author": "kimindiehacker",
+   "followers": 1451,
+   "url": "https://x.com/kimindiehacker/status/2095856246826176789",
+   "disc_score": 0,
    "checks": {
-    "1": 1
+    "1": 0
    },
    "promoted": false,
    "miss": 0,
-   "added": 1788519576
+   "added": 1788533718
   },
-  "2095784939560255853": {
-   "created": 1788509042,
-   "author": "EuclidStellar",
-   "followers": 196,
-   "url": "https://x.com/EuclidStellar/status/2095784939560255853",
-   "disc_score": 1,
-   "checks": {
-    "1": null
-   },
+  "2095887021759692801": {
+   "created": 1788533380,
+   "author": "PrimaryVC",
+   "followers": 15445,
+   "url": "https://x.com/PrimaryVC/status/2095887021759692801",
+   "disc_score": 3,
+   "checks": {},
    "promoted": false,
    "miss": 0,
-   "added": 1788519576
+   "added": 1788533718
+  },
+  "2095874647531426084": {
+   "created": 1788530430,
+   "author": "vktrnow",
+   "followers": 88,
+   "url": "https://x.com/vktrnow/status/2095874647531426084",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1788533718
   }
  },
  "baseline": {
@@ -865,6 +872,10 @@
    [
     1788519577,
     1
+   ],
+   [
+    1788533718,
+    0
    ]
   ]
  },
