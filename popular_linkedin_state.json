@@ -110,7 +110,9 @@
    "url": "https://www.linkedin.com/posts/muhammad-arhem_capital-chases-infrastructure-not-softwarepdf-activity-7501240290037452800-bKCj",
    "text": "Four AI companies raised a combined $8.7 billion in August. Databricks took $5 billion at a $190 billion valuation, led by Coatue, Blackstone, MGX, and T. Rowe Price. Firmus raised $2 billion. Castelion closed a $1 billion Series C. Etched brought in $700 million.\n\nNone of them sell a subscription.\n\nDatabricks sells a data and compute platform. Firmus sells infrastructure capacity. Castelion and Etched sell hardware. Not a single one of the four biggest AI rounds this month went to a company whose product is a login screen and a monthly invoice.\n\nI read that as a signal, not a coincidence. Software companies built on top of someone else's model are renting margin. Whoever owns the compute, t",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 2
+   },
    "promoted": false,
    "miss": 0,
    "added": 1788447746
@@ -121,7 +123,9 @@
    "url": "https://www.linkedin.com/posts/etched-tech_were-giving-away-a-team-pass-to-ideas-fest-activity-7501263165104488449-mtQV",
    "text": "WE'RE GIVING AWAY A TEAM PASS TO IDEAS FEST \u2747\ufe0f \ud83c\udfa1\n\nIdeas Fest is dubbed \"The Glastonbury of Business\". It's where a small spark could become a big idea.\n\nWe're giving away a team pass for you, your co-founders, or anyone else who's been part of your entrepreneurial journey, to join us there next week.\n\nThe draw closes at Midday on Friday 4th September. We'll email the winner directly at 6pm that day.\n\nAnd if it's not you, you're not leaving empty-handed. Everyone who enters gets a FREE Etched account for the festival, so you can capture your ideas as they evolve in the field.\n\nEnter here:\u00a0https://lnkd.in/eEgreSTa",
    "disc_score": 21,
-   "checks": {},
+   "checks": {
+    "24": 40
+   },
    "promoted": false,
    "miss": 0,
    "added": 1788447746
@@ -259,6 +263,28 @@
    "promoted": false,
    "miss": 0,
    "added": 1788514776
+  },
+  "7501570846805651456": {
+   "created": 1788513862,
+   "author": "Brunella Lupano",
+   "url": "https://www.linkedin.com/posts/brunellalupano_private-ai-chip-activity-7501570846805651456-cZ_7",
+   "text": "The #private #AI #chip landscape is rapidly expanding, with over 43 active US #startups raising a combined $17.7 #billion to challenge NVIDIA's market dominance. As of 2026, leading venture-backed players like #SambaNova, #Etched, and #Groq are securing massive valuations by focusing on specialized tasks like ultra-fast Transformer inference, optical interconnects, and edge computing. \n\nDatacenter & LLM Inference Specialists\nSambaNova Systems: $11B valuation. Focuses on full-stack enterprise AI and data-center scale infrastructure, raising $1 billion in its latest July round.\u00a0\nEtched: $10.3B valuation. Builds transformer-specific ASICs (Sohu chip) designed exclusively for hardwired LLM accel",
+   "disc_score": 1,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1788531678
+  },
+  "7501610073182474240": {
+   "created": 1788523214,
+   "author": "Shashi Bellamkonda",
+   "url": "https://www.linkedin.com/posts/sbellamkonda_contentstrategy-b2bmarketing-aioverviews-activity-7501610073182474240-f4KO",
+   "text": "The post that reached the most people wasn't the post people talked about.\n\nI ranked four weeks of LinkedIn analytics and last month's Shashi.co traffic the same way, by reach and by reaction. The winners didn't match.\n\nIt was the same pattern on both places.\n\n A post on exposure management for CISOs reached 24,394 impressions and 78 engagements.\n\nA post about being named a Distinguished Analyst for 2027 pulled 1,191 engagements on 6,211 impressions. \n\nA quarter the reach, fifteen times the interaction.\n\nImpressions follow the topic:\n\n- Identity infrastructure and AI security\n- Agentic AI in enterprise work management\n- Cloudflare's FedRAMP authorization\n- Nokia's fixed wireless access sale\n",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1788531678
   }
  },
  "baseline": {
@@ -718,6 +744,14 @@
    [
     1788514776,
     50
+   ],
+   [
+    1788531678,
+    2
+   ],
+   [
+    1788531678,
+    40
    ]
   ]
  },
