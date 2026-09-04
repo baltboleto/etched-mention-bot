@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7501209883342503937": {
-   "created": 1788427801,
-   "author": "Ekaterina Kurasheva",
-   "url": "https://www.linkedin.com/posts/ekaterina-kurasheva_now-i-understand-one-of-the-reasons-i-came-activity-7501209883342503937-CKd2",
-   "text": "Now I understand one of the reasons I came to Silicon Valley: to have this conversation with Marina Davidova.\n\nAfter seven hours of filming the podcast, Marina and I sat on the couch, warming up after being outside. The cameras were off. We were no longer in a rush, and we could talk without recording. Marina said something I really needed to hear at this particular moment in my life. I know I will carry it with me for a long time.\n\nToday, Marina is the co-founder and managing partner of Davidovs Venture Collective.\n\nDVC was among the first investors to believe in Perplexity, Etched, Higgsfield, Thinking Machines, Rhoda AI, and Avoca. The fund\u2019s portfolio includes seven unicorns.\n\nBut it is ",
-   "disc_score": 6,
-   "checks": {
-    "24": 52
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788434036
-  },
   "7501240290037452800": {
    "created": 1788435051,
    "author": "Muhammad Arhem",
@@ -136,7 +123,9 @@
    "url": "https://www.linkedin.com/posts/kathsu_a-bumblebee-moment-for-ai-silicon-synopsys-activity-7501394354737926145-ANGb",
    "text": "Congrats to Etched who extensively leveraged ZeBu emulation's performance and scalability, to run full inference workloads. Resulting in only a few weeks of software bring up after silicon is back. Engineering prowess!",
    "disc_score": 3,
-   "checks": {},
+   "checks": {
+    "24": 3
+   },
    "promoted": false,
    "miss": 0,
    "added": 1788496295
@@ -158,7 +147,9 @@
    "url": "https://www.linkedin.com/posts/hpcwire-published-by-tabor-communications_artificialintelligence-activity-7501398703669219328-s2mJ",
    "text": "Recent events \u2014 including AMD\u2019s acquisition of Taalas, Etched\u2019s $700 million fundraising round, and frontier AI labs developing their own chips \u2014 suggest that custom-built hardware could play a bigger role in AI\u2019s future than initially thought. https://ow.ly/HSPI50ZHXzO #artificialintelligence",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 3
+   },
    "promoted": false,
    "miss": 0,
    "added": 1788496295
@@ -763,6 +754,14 @@
    [
     1788554858,
     87
+   ],
+   [
+    1788562240,
+    3
+   ],
+   [
+    1788562240,
+    3
    ]
   ]
  },
