@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7500892301897097216": {
-   "created": 1788352084,
-   "author": "Braden Woods",
-   "url": "https://www.linkedin.com/posts/braden-w_high-growth-engineering-roles-with-huge-runway-activity-7500892301897097216-e9UR",
-   "text": "High-growth engineering roles with huge runway\n\nScaling in NYC and SF right now\n\nNew York City:\n\nNorm Ai: agentic law platform embedding legal reasoning ($120M Series C at $1.2B)  \nInstaLILY AI: vertical AI teammates ($60M Series B)  \nVendelux: AI event intelligence predicting B2B ROI ($50M Series B)  \nAegis AI Security: agentic email security built to stop AI spear phishing ($36M Series A)  \nBaselayer: automated B2B risk and fraud platform ($20M Series A)  \n\nSan Francisco:\n\nEtched: chips that run transformers and nothing else ($700M Series D)  \nWispr Flow: talk instead of typing, voice-to-text platform ($280M Series B at $2B)  \nHappyRobot: AI workers running supply chain ops ($150M Series C",
-   "disc_score": 17,
-   "checks": {
-    "24": 28
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788361398
-  },
   "7500923029628317696": {
    "created": 1788359410,
    "author": "Caroline Denaes",
@@ -21,19 +8,6 @@
    "disc_score": 0,
    "checks": {
     "24": 1
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788361398
-  },
-  "7500896680049819648": {
-   "created": 1788353128,
-   "author": "Ben Scott",
-   "url": "https://www.linkedin.com/posts/benscott22_were-delighted-to-welcome-etched-techd-and-activity-7500896680049819648-PdId",
-   "text": "What and where is the value of an idea!? \n\nIt\u2019s not as clear cut as many might think! Myself, Etched Tech  in partnership with the fantastic team at CMS Intellectual Property will be exploring this in the \u2018Ideas oasis\u2019 nourishment for your ideas! \n\nCome join us at Ideas Fest next week or follow closely for updates!",
-   "disc_score": 3,
-   "checks": {
-    "24": 10
    },
    "promoted": false,
    "miss": 0,
