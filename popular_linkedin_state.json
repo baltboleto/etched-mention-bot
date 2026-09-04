@@ -13,19 +13,6 @@
    "miss": 0,
    "added": 1788434036
   },
-  "7501207665000312833": {
-   "created": 1788427273,
-   "author": "Eric Yeh",
-   "url": "https://www.linkedin.com/posts/activity-7501207665000312833-PMPx",
-   "text": "Etched has delivered its first inference system to Jane Street after raising $700 million at a $21 billion valuation.\n\nThat is still an early deployment signal.\n\nIt does not prove specialized inference hardware will replace general-purpose GPUs.\n\nBut it does raise a harder enterprise question:\nHow stable does an AI workload need to be before specialization becomes worth giving up some compute flexibility?\n\nGeneral-purpose infrastructure provides more than performance.\nIt also provides optionality.\n\nIf models change, demand shifts, or a workload fails to scale as expected, that capacity can often be reassigned.\n\nSpecialized compute offers a different trade-off.\n\nIf a workload becomes large, p",
-   "disc_score": 0,
-   "checks": {
-    "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788434036
-  },
   "7501240290037452800": {
    "created": 1788435051,
    "author": "Muhammad Arhem",
