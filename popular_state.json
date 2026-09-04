@@ -1,28 +1,43 @@
 {
  "watch": {
-  "2095750533697134713": {
-   "created": 1788500839,
-   "author": "ameyajadhav_",
-   "followers": 2762,
-   "url": "https://x.com/ameyajadhav_/status/2095750533697134713",
-   "disc_score": 0,
-   "checks": {},
-   "promoted": false,
-   "miss": 0,
-   "added": 1788501534
-  },
-  "2095723219894321447": {
-   "created": 1788494326,
-   "author": "danialhasan",
-   "followers": 2677,
-   "url": "https://x.com/danialhasan/status/2095723219894321447",
-   "disc_score": 0,
+  "2095807823087272055": {
+   "created": 1788514497,
+   "author": "PavanKumarNY",
+   "followers": 1861,
+   "url": "https://x.com/PavanKumarNY/status/2095807823087272055",
+   "disc_score": 1,
    "checks": {
-    "1": 0
+    "1": 1
    },
    "promoted": false,
    "miss": 0,
-   "added": 1788501534
+   "added": 1788519576
+  },
+  "2095795233577746455": {
+   "created": 1788511496,
+   "author": "aretaidos",
+   "followers": 431,
+   "url": "https://x.com/aretaidos/status/2095795233577746455",
+   "disc_score": 1,
+   "checks": {
+    "1": 1
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1788519576
+  },
+  "2095784939560255853": {
+   "created": 1788509042,
+   "author": "EuclidStellar",
+   "followers": 196,
+   "url": "https://x.com/EuclidStellar/status/2095784939560255853",
+   "disc_score": 1,
+   "checks": {
+    "1": null
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1788519576
   }
  },
  "baseline": {
@@ -842,6 +857,14 @@
    [
     1788501534,
     0
+   ],
+   [
+    1788519577,
+    1
+   ],
+   [
+    1788519577,
+    1
    ]
   ]
  },
