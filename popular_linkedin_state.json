@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7501194862327750657": {
-   "created": 1788424220,
-   "author": "NonPublic",
-   "url": "https://www.linkedin.com/posts/nonpublic-io_augusts-largest-rounds-landed-in-defence-activity-7501194862327750657-I5J7",
-   "text": "August's largest rounds landed in defence technology, AI infrastructure and voice AI, and investors wrote fewer, bigger cheques to win them.\n\nWe cover six raises across those fields, from Castelion's $1B at $13B to Etched's $700M at $21B, and what they mean for Australian investors.\n\nRead more on our piece via Australian FinTech.\nLink in the comments.",
-   "disc_score": 6,
-   "checks": {
-    "24": 11
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788434036
-  },
   "7501209883342503937": {
    "created": 1788427801,
    "author": "Ekaterina Kurasheva",
@@ -34,19 +21,6 @@
    "disc_score": 0,
    "checks": {
     "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788434036
-  },
-  "7501187633142845441": {
-   "created": 1788422497,
-   "author": "Ben Scott",
-   "url": "https://www.linkedin.com/posts/benscott22_im-speaking-6-days-out-9th-sep-2pm-activity-7501187633142845441-m08m",
-   "text": "I'm speaking!! 6 days out - 9th Sep - 2pm on the Launch pad stage 'Understanding the value of an Idea'\n\n\"If you're struggling to sleep\"... \n\"don't order the soup\"... (David Nash special!) \n\"I'm just resting my eyes\"...\n\nI heard them all ha ha but fortunately it not just me this time, I have extremely good company in Sarah Wright and CMS UK to help spark the interest with what is a very topical subject!  \n\nMy brother and I debate 'Value' as a concept all the time and I love it! Where and when does it truly sit and how can it be protected...  \n\nCheck out this promotional speaker code if you haven't got your ticket yet! Come and join me and Etched Tech https://lnkd.in/eUQXDqr5",
-   "disc_score": 19,
-   "checks": {
-    "24": 50
    },
    "promoted": false,
    "miss": 0,
@@ -149,8 +123,10 @@
    "url": "https://www.linkedin.com/posts/parvs1_etched-just-raised-700m-at-a-21b-valuation-activity-7501366781119258624-im7U",
    "text": "Etched just raised $700M at a $21B valuation and their CEO was doing FIRST Tech Challenge robotics the same season I was.\n\nSo was Felipe Bergerman, who was on my team back then and recruited me to Ergo last year. So was my founder Yash Dulla.\n\nFTC is a really underrated pipeline for startups, and I don't see people talk about it enough.\n\nGavin Uberti's team, 8802, was one of the teams I watched autonomous videos of senior year. One of my friends on that team, who built a huge part of their robot, went on to become one of Etched's first 25 employees. They had built one of the best robots that season.\n\nProbably not a coincidence. The skills line up almost exactly.\n\nThat photo is from Worlds 20",
    "disc_score": 22,
-   "checks": {},
-   "promoted": false,
+   "checks": {
+    "24": 87
+   },
+   "promoted": true,
    "miss": 0,
    "added": 1788470678
   },
@@ -796,6 +772,10 @@
    [
     1788545569,
     12
+   ],
+   [
+    1788554858,
+    87
    ]
   ]
  },
@@ -829,6 +809,11 @@
    1788470678,
    "7501343476190679040",
    79
+  ],
+  [
+   1788554858,
+   "7501366781119258624",
+   87
   ]
  ],
  "seeded": true
