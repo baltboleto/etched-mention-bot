@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7501017236279848960": {
-   "created": 1788381871,
-   "author": "Chloe Jian Ma",
-   "url": "https://www.linkedin.com/posts/chloejianma_congratulations-to-the-entire-caspa-chinese-activity-7501017236279848960-EyN0",
-   "text": "Congratulations to the entire CASPA - Chinese American Semiconductor Professional Assoc. team, especially the leadership of Ge (Gary) Wang and Jimmy Cheng for assembling a truly star-studded lineup of semiconductor CEOs, founders, pioneers, investors and industry luminaries for the CASPA 35th Annual Conference & Dinner Banquet. From established semiconductor giants Lip-Bu Tan, CEO of Intel, Xin Guo, CEO of Solidigm, Andrew Feldman, CEO of Cerebras, Dylan Patel, CEO of SemiAnalysis, Hong Hou, CEO of Semtech, Jodi Shelton, CEO of Global Semiconductor Alliance, Sassine Ghazi, CEO of Synopsys Inc,  to the new generation of AI accelerator contenders Rodrigo Liang, CEO of SambaNova, Gavin Uberti, ",
-   "disc_score": 5,
-   "checks": {
-    "24": 47
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788384065
-  },
   "7501045004589748224": {
    "created": 1788388491,
    "author": "Johannes Stahl",
@@ -26,19 +13,6 @@
    "miss": 0,
    "added": 1788397638
   },
-  "7501021659152191488": {
-   "created": 1788382925,
-   "author": "Anil Murty",
-   "url": "https://www.linkedin.com/posts/anilmurty_when-you-think-ai-inference-you-think-nvidia-activity-7501021659152191488-WAs9",
-   "text": "When you think AI inference, you think Nvidia. Maybe AMD if you're a little more plugged in.\nThe reality: Nvidia owns ~90% of training. But the market for inference - expected to triple from $97B to a projected $254B by 2030 - is a different fight, and it's accelerating fast as agents hit enterprise scale.\n\nNvidia's inference share is closer to 60-75%, and its weapon is still a gaming GPU evolved into a general-purpose accelerator, not silicon designed for inference from day one. Today it's the default. That's changing fast, and even Nvidia knows it: see the Grace and Vera CPU platforms and the strategic bet on Groq's LPU for decode.\n\nA quick rundown to catch you up on the rest:\n\nMerchant si",
-   "disc_score": 1,
-   "checks": {
-    "24": 2
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788397638
-  },
   "7501042712071049216": {
    "created": 1788387945,
    "author": "Ryan Moeller \u24c2\ufe0f",
@@ -47,19 +21,6 @@
    "disc_score": 0,
    "checks": {
     "24": 1
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788397638
-  },
-  "7501002289386651649": {
-   "created": 1788378307,
-   "author": "Institutional Investor",
-   "url": "https://www.linkedin.com/posts/institutional-investor_ai-mania-boosts-these-hedgies-activity-7501002289386651649-HVWG",
-   "text": "In the fast-evolving world of AI, the chip start-up Etched has made headlines by raising $700 million in a Series D round, reaching a valuation of $21 billion\u2014more than quadrupling its value in just eight months. Explore the dynamics of this surge and the implications for investors. \n\n#AIInvestment #TechValuations\n\nRead more: https://okt.to/Bb9hD3",
-   "disc_score": 0,
-   "checks": {
-    "24": 2
    },
    "promoted": false,
    "miss": 0,
@@ -84,7 +45,9 @@
    "url": "https://www.linkedin.com/posts/nonpublic-io_augusts-largest-rounds-landed-in-defence-activity-7501194862327750657-I5J7",
    "text": "August's largest rounds landed in defence technology, AI infrastructure and voice AI, and investors wrote fewer, bigger cheques to win them.\n\nWe cover six raises across those fields, from Castelion's $1B at $13B to Etched's $700M at $21B, and what they mean for Australian investors.\n\nRead more on our piece via Australian FinTech.\nLink in the comments.",
    "disc_score": 6,
-   "checks": {},
+   "checks": {
+    "24": 11
+   },
    "promoted": false,
    "miss": 0,
    "added": 1788434036
@@ -95,7 +58,9 @@
    "url": "https://www.linkedin.com/posts/ekaterina-kurasheva_now-i-understand-one-of-the-reasons-i-came-activity-7501209883342503937-CKd2",
    "text": "Now I understand one of the reasons I came to Silicon Valley: to have this conversation with Marina Davidova.\n\nAfter seven hours of filming the podcast, Marina and I sat on the couch, warming up after being outside. The cameras were off. We were no longer in a rush, and we could talk without recording. Marina said something I really needed to hear at this particular moment in my life. I know I will carry it with me for a long time.\n\nToday, Marina is the co-founder and managing partner of Davidovs Venture Collective.\n\nDVC was among the first investors to believe in Perplexity, Etched, Higgsfield, Thinking Machines, Rhoda AI, and Avoca. The fund\u2019s portfolio includes seven unicorns.\n\nBut it is ",
    "disc_score": 6,
-   "checks": {},
+   "checks": {
+    "24": 52
+   },
    "promoted": false,
    "miss": 0,
    "added": 1788434036
@@ -119,7 +84,9 @@
    "url": "https://www.linkedin.com/posts/activity-7501207665000312833-PMPx",
    "text": "Etched has delivered its first inference system to Jane Street after raising $700 million at a $21 billion valuation.\n\nThat is still an early deployment signal.\n\nIt does not prove specialized inference hardware will replace general-purpose GPUs.\n\nBut it does raise a harder enterprise question:\nHow stable does an AI workload need to be before specialization becomes worth giving up some compute flexibility?\n\nGeneral-purpose infrastructure provides more than performance.\nIt also provides optionality.\n\nIf models change, demand shifts, or a workload fails to scale as expected, that capacity can often be reassigned.\n\nSpecialized compute offers a different trade-off.\n\nIf a workload becomes large, p",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1788434036
@@ -156,7 +123,9 @@
    "url": "https://www.linkedin.com/posts/benscott22_im-speaking-6-days-out-9th-sep-2pm-activity-7501187633142845441-m08m",
    "text": "I'm speaking!! 6 days out - 9th Sep - 2pm on the Launch pad stage 'Understanding the value of an Idea'\n\n\"If you're struggling to sleep\"... \n\"don't order the soup\"... (David Nash special!) \n\"I'm just resting my eyes\"...\n\nI heard them all ha ha but fortunately it not just me this time, I have extremely good company in Sarah Wright and CMS UK to help spark the interest with what is a very topical subject!  \n\nMy brother and I debate 'Value' as a concept all the time and I love it! Where and when does it truly sit and how can it be protected...  \n\nCheck out this promotional speaker code if you haven't got your ticket yet! Come and join me and Etched Tech https://lnkd.in/eUQXDqr5",
    "disc_score": 19,
-   "checks": {},
+   "checks": {
+    "24": 50
+   },
    "promoted": false,
    "miss": 0,
    "added": 1788434036
@@ -294,6 +263,28 @@
    "promoted": false,
    "miss": 0,
    "added": 1788496295
+  },
+  "7501523245846925312": {
+   "created": 1788502513,
+   "author": "WeeklyOne.co",
+   "url": "https://www.linkedin.com/posts/weeklyone_etched-yat%C4%B1r%C4%B1m-haberi-activity-7501523245846925312-zMoZ",
+   "text": "Yapay zeka \u00e7\u0131kar\u0131m i\u015f y\u00fcklerine \u00f6zel donan\u0131m ve yaz\u0131l\u0131mlar geli\u015ftiren Etched; Jane Street liderli\u011finde Sequoia Capital, Andreessen Horowitz, Peter Thiel ve Venturetech Alliance LLC kat\u0131l\u0131m\u0131yla $21 milyar de\u011ferleme \u00fczerinden $700 milyon yat\u0131r\u0131m alarak toplam finansman\u0131n\u0131 $800 milyona \u00e7\u0131kard\u0131. TSMC N4P tabanl\u0131 A0 silikonunu canl\u0131 veri merkezinde do\u011frulayan \u015firket; matematiksel bloklar\u0131 yar\u0131 yar\u0131ya d\u00fc\u015f\u00fck voltajda \u00e7al\u0131\u015ft\u0131ran LVI ve payla\u015f\u0131ml\u0131 bellek alan\u0131 olu\u015fturan CSM teknolojileriyle trilyon parametreli modellerdeki termal ve bellek darbo\u011fazlar\u0131n\u0131 ortadan kald\u0131r\u0131yor. CEO Gavin Uberti liderli\u011findeki 400'\u00fc a\u015fk\u0131n m\u00fchendisle $1 milyar\u0131 a\u015fan talebi kar\u015f\u0131lamak i\u00e7in Tayvan ve San Jose'de \u00fcretim a\u011f\u0131n\u0131",
+   "disc_score": 4,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1788514776
+  },
+  "7501527580194291712": {
+   "created": 1788503546,
+   "author": "Kezia Owusu-Yianoma",
+   "url": "https://www.linkedin.com/posts/kezia-owusu-yianoma_were-giving-away-a-team-pass-to-ideas-fest-activity-7501527580194291712-TUjP",
+   "text": "Last few hours to enter! Win a free team pass to Ideas Fest with Etched Tech",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1788514776
   }
  },
  "baseline": {
@@ -737,6 +728,22 @@
    [
     1788501568,
     0
+   ],
+   [
+    1788514776,
+    11
+   ],
+   [
+    1788514776,
+    52
+   ],
+   [
+    1788514776,
+    0
+   ],
+   [
+    1788514776,
+    50
    ]
   ]
  },
