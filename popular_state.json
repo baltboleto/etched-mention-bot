@@ -1,28 +1,67 @@
 {
  "watch": {
-  "2095905323970421042": {
-   "created": 1788537743,
-   "author": "marktmassey",
-   "followers": 375,
-   "url": "https://x.com/marktmassey/status/2095905323970421042",
+  "2095968918838063180": {
+   "created": 1788552906,
+   "author": "FireworksAI_HQ",
+   "followers": 31864,
+   "url": "https://x.com/FireworksAI_HQ/status/2095968918838063180",
+   "disc_score": 1,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1788554812
+  },
+  "2095954679066927148": {
+   "created": 1788549511,
+   "author": "neo",
+   "followers": 19658,
+   "url": "https://x.com/neo/status/2095954679066927148",
+   "disc_score": 3,
+   "checks": {
+    "1": 3
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1788554812
+  },
+  "2095948749809783233": {
+   "created": 1788548097,
+   "author": "sohailmo",
+   "followers": 1068,
+   "url": "https://x.com/sohailmo/status/2095948749809783233",
    "disc_score": 2,
    "checks": {
     "1": 2
    },
    "promoted": false,
    "miss": 0,
-   "added": 1788545494
+   "added": 1788554812
   },
-  "2095924365875450111": {
-   "created": 1788542283,
-   "author": "Tylerbryy",
-   "followers": 72,
-   "url": "https://x.com/Tylerbryy/status/2095924365875450111",
-   "disc_score": 0,
-   "checks": {},
+  "2095954676755865721": {
+   "created": 1788549510,
+   "author": "neo",
+   "followers": 19658,
+   "url": "https://x.com/neo/status/2095954676755865721",
+   "disc_score": 11,
+   "checks": {
+    "1": 11
+   },
    "promoted": false,
    "miss": 0,
-   "added": 1788545494
+   "added": 1788554812
+  },
+  "2095942521981485204": {
+   "created": 1788546612,
+   "author": "ishan__1111",
+   "followers": 140,
+   "url": "https://x.com/ishan__1111/status/2095942521981485204",
+   "disc_score": 1,
+   "checks": {
+    "1": 1
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1788554812
   }
  },
  "baseline": {
@@ -858,6 +897,22 @@
    [
     1788545508,
     2
+   ],
+   [
+    1788554812,
+    3
+   ],
+   [
+    1788554812,
+    2
+   ],
+   [
+    1788554812,
+    11
+   ],
+   [
+    1788554812,
+    1
    ]
   ]
  },
