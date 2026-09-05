@@ -1,17 +1,17 @@
 {
  "watch": {
-  "2096324533032567050": {
-   "created": 1788637691,
-   "author": "KairosPraxis",
-   "followers": 5659,
-   "url": "https://x.com/KairosPraxis/status/2096324533032567050",
-   "disc_score": 1,
+  "2096358621475201105": {
+   "created": 1788645818,
+   "author": "LukePiette",
+   "followers": 2208,
+   "url": "https://x.com/LukePiette/status/2096358621475201105",
+   "disc_score": 9,
    "checks": {
-    "1": 1
+    "1": 9
    },
    "promoted": false,
    "miss": 0,
-   "added": 1788644657
+   "added": 1788650581
   }
  },
  "baseline": {
@@ -887,6 +887,10 @@
    [
     1788644658,
     1
+   ],
+   [
+    1788650582,
+    9
    ]
   ]
  },
