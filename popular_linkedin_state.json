@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7501489247342923776": {
-   "created": 1788494407,
-   "author": "AI Chips & Data Centers",
-   "url": "https://www.linkedin.com/posts/ai-chips-datacenters_aichips-semiconductors-aihardware-activity-7501489247342923776-x66D",
-   "text": "Which private AI chip companies are worth the most right now? Here is the ranking by latest reported valuation, from Transformer ASICs to reconfigurable dataflow and LPUs.\n\nOn the list: Etched, SambaNova, Groq, Tenstorrent, Rebellions, d-Matrix, Positron AI, Tensordyne and FuriosaAI.\n\nFull ranking: https://lnkd.in/gSfjWx88\n\n#AIchips #Semiconductors #AIHardware #Datacenters #Inference #ChipDesign #DeepTech #AI #Compute #ChipStartups",
-   "disc_score": 2,
-   "checks": {
-    "24": 154
-   },
-   "promoted": true,
-   "miss": 0,
-   "added": 1788496295
-  },
   "7501523245846925312": {
    "created": 1788502513,
    "author": "WeeklyOne.co",
@@ -95,7 +82,9 @@
    "url": "https://www.linkedin.com/posts/javier-avalos-caplight_weve-added-50-companies-to-caplight-marketprice-activity-7501670823100010496-zhcU",
    "text": "We\u2019ve added 50+ companies to Caplight MarketPrice\u2122, expanding our coverage to over 550 private companies.\n\nOur latest expansion spans AI infrastructure, space, defense, fintech, and more. A few highlights:\n\n\ud83e\udde0AI & Cloud: Etched, Fireworks AI, Baseten, and Lovable\n\ud83d\ude80Space & Defense: Hadrian, Epirus, Axiom Space, and Impulse Space\n\ud83d\udcbcEnterprise Software: Automattic, Outreach, and Unqork\n\ud83d\udecd\ufe0fConsumer & Commerce: Liquid Death, Harry\u2019s, and StockX\n\ud83d\udcb3Fintech: TradingView, Betterment, and Qonto\n\ud83d\ude9bMobility: Nuro and Metropolis\n\u270d\ufe0fMedia: Patreon and Substack\n\nPrivate companies can go months or years between funding rounds, while their businesses and market conditions are ever changing. \n\nOur MarketPrice\u2122 esti",
    "disc_score": 42,
-   "checks": {},
+   "checks": {
+    "24": 66
+   },
    "promoted": false,
    "miss": 0,
    "added": 1788545568
@@ -106,7 +95,9 @@
    "url": "https://www.linkedin.com/posts/tom-de-schutter-6112431_a-bumblebee-moment-for-ai-silicon-synopsys-activity-7501664449876033537-BLJC",
    "text": "Amazing to see Etched in the news everywhere. Great success story by a passionate and talented team. Proud to be part of their story through their use of Synopsys software-defined hardware-assisted verification.",
    "disc_score": 2,
-   "checks": {},
+   "checks": {
+    "24": 10
+   },
    "promoted": false,
    "miss": 0,
    "added": 1788545568
@@ -154,6 +145,17 @@
    "promoted": false,
    "miss": 0,
    "added": 1788598547
+  },
+  "7502026947024191488": {
+   "created": 1788622605,
+   "author": "Preetham Gowda",
+   "url": "https://www.linkedin.com/posts/gowdap_taalas-is-etching-models-into-silicon-and-activity-7502026947024191488-__ey",
+   "text": "Taalas is etching models into silicon and Etched is hardwiring Transformers. We are in real-time witnessing the collapse of long-standing abstraction layers. Efficiency is eating flexibility.\n\nThe same collapse is overdue in org design. Microservice-aligned teams can turn into human equivalent of the memory wall in large organizations. When one feature spans multiple services, delivery velocity slowly dies under endless alignment time. We must collapse these team abstractions into vertically integrated, virtual teams hardwired directly to customer outcomes. In a world where code generation is fast and inexpensive, operational excellence builds the ultimate moat. So we must execute this shift",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1788624217
   }
  },
  "baseline": {
@@ -677,6 +679,14 @@
    [
     1788622174,
     51
+   ],
+   [
+    1788624217,
+    66
+   ],
+   [
+    1788624217,
+    10
    ]
   ]
  },
