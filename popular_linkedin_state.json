@@ -82,7 +82,9 @@
    "url": "https://www.linkedin.com/posts/primary-venture-partners_its-back-to-school-season-for-the-best-of-activity-7501648331551682560-b2TG",
    "text": "It\u2019s back-to-school season for the best of tech.\n\nOn September 16, Summit returns to New York City. Onstage, you\u2019ll hear from:\n\nMatthew Prince\nLance Armstrong\nGavin Uberti\nJeanne DeWitt Grosser\nShardul Shah\nParag Agrawal\nTuhin Srivastava\nApoorv Agrawal\nGabriel Stengel\nTanay Kothari\nDan Shipper\nPatrick O'Shaughnessy\nAlex Konrad\nCrist\u00f3bal Valenzuela\nKeith Enright\nLauren Makler\nAaron Rubin\n\nPlus, bespoke experiences created with Gunderson Dettmer, Hyperagent, and Replit.\n\nThe final round of applications is now open. You have one week left to join us.\nSee you there.\n\nhttps://primarysummit.vc/",
    "disc_score": 39,
-   "checks": {},
+   "checks": {
+    "24": 51
+   },
    "promoted": false,
    "miss": 0,
    "added": 1788545568
@@ -671,6 +673,10 @@
    [
     1788611372,
     5
+   ],
+   [
+    1788622174,
+    51
    ]
   ]
  },
