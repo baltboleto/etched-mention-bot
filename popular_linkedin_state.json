@@ -58,7 +58,9 @@
    "url": "https://www.linkedin.com/posts/quantfinancee_meet-gavin-uberti-robert-w-and-chris-activity-7501675734252474368-JkMA",
    "text": "\ud83d\udea8 Meet Gavin Uberti, Robert W. and Chris Zhu, three young founders who decided to build their own AI chip company.\n\nThey started Etched in 2022 after leaving Harvard.\n\nInstead of building another general-purpose AI chip, they focused on a different idea specialized hardware built for AI inference.\n\nAnd the company moved incredibly fast.\n\nIn August 2026, Etched raised $700M at a $21B valuation, in a round led by quantitative trading firm Jane Street.\n\nJane Street also became Etched's first customer and has already deployed its first rack in its data center.\n\nThe interesting part?\n\nEtched has attracted several major quant firms as investors, including Jane Street, Hudson River Trading, Two Sig",
    "disc_score": 2,
-   "checks": {},
+   "checks": {
+    "24": 2
+   },
    "promoted": false,
    "miss": 0,
    "added": 1788545568
@@ -108,7 +110,9 @@
    "url": "https://www.linkedin.com/posts/neoventures_etched-delivers-wispr-launches-notetaker-activity-7501692031329710080-Bmss",
    "text": "Etched delivers, Wispr launches Notetaker, & more | Neo & Noteworthy\n\nCheck out our August recap of learnings and announcements by Neo portfolio companies and community members.\n\nShare your thoughts and subscribe to stay posted on all things Neo! \ud83d\udc99\n\nhttps://lnkd.in/gb-wNzKB",
    "disc_score": 8,
-   "checks": {},
+   "checks": {
+    "24": 32
+   },
    "promoted": false,
    "miss": 0,
    "added": 1788545568
@@ -687,6 +691,14 @@
    [
     1788624217,
     10
+   ],
+   [
+    1788629574,
+    2
+   ],
+   [
+    1788629574,
+    32
    ]
   ]
  },
