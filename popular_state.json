@@ -6,19 +6,8 @@
    "followers": 698,
    "url": "https://x.com/breadedbenji/status/2096277410404856199",
    "disc_score": 0,
-   "checks": {},
-   "promoted": false,
-   "miss": 0,
-   "added": 1788629547
-  },
-  "2096268367837708323": {
-   "created": 1788624300,
-   "author": "PullNews",
-   "followers": 8059,
-   "url": "https://x.com/PullNews/status/2096268367837708323",
-   "disc_score": 2,
    "checks": {
-    "1": 2
+    "1": null
    },
    "promoted": false,
    "miss": 0,
