@@ -1,5 +1,30 @@
 {
- "watch": {},
+ "watch": {
+  "2096277410404856199": {
+   "created": 1788626456,
+   "author": "breadedbenji",
+   "followers": 698,
+   "url": "https://x.com/breadedbenji/status/2096277410404856199",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1788629547
+  },
+  "2096268367837708323": {
+   "created": 1788624300,
+   "author": "PullNews",
+   "followers": 8059,
+   "url": "https://x.com/PullNews/status/2096268367837708323",
+   "disc_score": 2,
+   "checks": {
+    "1": 2
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1788629547
+  }
+ },
  "baseline": {
   "1": [
    [
@@ -865,6 +890,10 @@
    [
     1788611311,
     5
+   ],
+   [
+    1788629547,
+    2
    ]
   ]
  },
