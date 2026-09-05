@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7501263165104488449": {
-   "created": 1788440505,
-   "author": "Etched Tech",
-   "url": "https://www.linkedin.com/posts/etched-tech_were-giving-away-a-team-pass-to-ideas-fest-activity-7501263165104488449-mtQV",
-   "text": "WE'RE GIVING AWAY A TEAM PASS TO IDEAS FEST \u2747\ufe0f \ud83c\udfa1\n\nIdeas Fest is dubbed \"The Glastonbury of Business\". It's where a small spark could become a big idea.\n\nWe're giving away a team pass for you, your co-founders, or anyone else who's been part of your entrepreneurial journey, to join us there next week.\n\nThe draw closes at Midday on Friday 4th September. We'll email the winner directly at 6pm that day.\n\nAnd if it's not you, you're not leaving empty-handed. Everyone who enters gets a FREE Etched account for the festival, so you can capture your ideas as they evolve in the field.\n\nEnter here:\u00a0https://lnkd.in/eEgreSTa",
-   "disc_score": 21,
-   "checks": {
-    "24": 40
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788447746
-  },
   "7501333720809984000": {
    "created": 1788457327,
    "author": "Emeka Onu",
@@ -123,8 +110,10 @@
    "url": "https://www.linkedin.com/posts/ai-chips-datacenters_aichips-semiconductors-aihardware-activity-7501489247342923776-x66D",
    "text": "Which private AI chip companies are worth the most right now? Here is the ranking by latest reported valuation, from Transformer ASICs to reconfigurable dataflow and LPUs.\n\nOn the list: Etched, SambaNova, Groq, Tenstorrent, Rebellions, d-Matrix, Positron AI, Tensordyne and FuriosaAI.\n\nFull ranking: https://lnkd.in/gSfjWx88\n\n#AIchips #Semiconductors #AIHardware #Datacenters #Inference #ChipDesign #DeepTech #AI #Compute #ChipStartups",
    "disc_score": 2,
-   "checks": {},
-   "promoted": false,
+   "checks": {
+    "24": 154
+   },
+   "promoted": true,
    "miss": 0,
    "added": 1788496295
   },
@@ -749,6 +738,10 @@
    [
     1788562240,
     3
+   ],
+   [
+    1788582380,
+    154
    ]
   ]
  },
@@ -787,6 +780,11 @@
    1788554858,
    "7501366781119258624",
    87
+  ],
+  [
+   1788582380,
+   "7501489247342923776",
+   154
   ]
  ],
  "seeded": true
