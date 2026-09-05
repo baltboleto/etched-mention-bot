@@ -1,96 +1,5 @@
 {
  "watch": {
-  "7501333720809984000": {
-   "created": 1788457327,
-   "author": "Emeka Onu",
-   "url": "https://www.linkedin.com/posts/emekaonu_39-companies-that-raised-funding-in-august-activity-7501333720809984000-zSW8",
-   "text": "39 companies that raised funding in August and hiring. Job links are in the comments.\n\n\u2022 Databricks \u2014 $5B\n\u2022 Firmus Technologies \u2014 $2B\n\u2022 Imprint \u2014 $2B\n\u2022 Hadrian \u2014 $1.37B\n\u2022 Valar Atomics \u2014 $1.2B\n\u2022 River AI \u2014 $1.1B\n\u2022 Base Power Company  \u2014 $1B\n\u2022 Castelion  \u2014 $1B\n\u2022 Lambda \u2014 $962M (debt)\n\u2022 Flexential \u2014 $800M (credit facility)\n\u2022 Form Energy \u2014 $750M\n\u2022 Rigaku \u2014 $720M\n\u2022 Lumilens \u2014 $700M+\n\u2022 Etched \u2014 $700M\n\u2022 Function Health \u2014 $450M\n\u2022 Global AI  \u2014 $441M (debt)\n\u2022 inKind \u2014 $414M\n\u2022 Lovable \u2014 $400M\n\u2022 Higgsfield AI \u2014 $400M\n\u2022 Groq \u2014 $350M\n\u2022 OLIX \u2014 $312M\n\u2022 Mariana Minerals \u2014 $310M\n\u2022 Cambridge Aerospace \u2014 $300M\n\u2022 Volta    \u2014 $300M\n\u2022 Wispr Flow \u2014 $280M\n\u2022 Ajaib \u2014 $270M\n\u2022 LifeMine Therapeutics \u2014 $263M\n\u2022 Horizon3.ai ",
-   "disc_score": 2,
-   "checks": {
-    "24": 3
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788460702
-  },
-  "7501328018196586498": {
-   "created": 1788455967,
-   "author": "ECell, NIT Silchar",
-   "url": "https://www.linkedin.com/posts/ecell-nit-silchar_ecellnitsilchar-ai-deeptech-activity-7501328018196586498-i6a3",
-   "text": "An AI Chip Startup Just Doubled Its Valuation to $21 Billion\n\nArtificial intelligence is creating opportunities far beyond chatbots and software applications.\n\nA striking example emerged this week when Etched, a San Jose-based AI chip startup, raised $700 million, taking its valuation to approximately $21 billion more than double its valuation less than a month earlier. \nThe company is developing specialised chips designed for AI inference,the stage where trained AI models generate responses and predictions.\n\nWhy does this matter?\nBecause the AI race is increasingly becoming a race for infrastructure.\nPowerful AI models require enormous computing resources.\n\nThat means demand is growing for ",
-   "disc_score": 3,
-   "checks": {
-    "24": 12
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788460702
-  },
-  "7501338054473695232": {
-   "created": 1788458360,
-   "author": "Ronak Khakhkhar",
-   "url": "https://www.linkedin.com/posts/activity-7501338054473695232-GH6u",
-   "text": "I'm hiring!\n\nEtched is building the Frontier Interference Clusters and we are looking for Silicon Validation Engineer, Software.\n\nIf you are interested Silicon Enablement, Bringup, Debug and solve a lot of technical challenges, please apply!\n\n\nWe work with a variety of technologies PCIe, HBM, Ethernet, Slow Speed Interfaces and Custom Compute Logic and more. \n\nThis position is for on-site Santa Clara only. \n\nhttps://lnkd.in/gwYCsGRh",
-   "disc_score": 1,
-   "checks": {
-    "24": 64
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788460702
-  },
-  "7501335291496935424": {
-   "created": 1788457701,
-   "author": "Levent Caglar",
-   "url": "https://www.linkedin.com/posts/levent-caglar_a-bumblebee-moment-for-ai-silicon-synopsys-activity-7501335291496935424-x081",
-   "text": "Excellent perspective on how AI silicon validation is evolving. As AI accelerators become increasingly workload-specific, success is no longer defined solely by block-level correctness. The ability to validate real workloads, hardware/software interactions, and system performance before tape-out is becoming a critical differentiator. The Etched case study demonstrates how emulation can serve as a true pre-silicon development platform, enabling software productivity and increasing confidence in both correctness and performance. #AI #Semiconductors #Verification #Emulation #ChipDesign",
-   "disc_score": 1,
-   "checks": {
-    "24": 10
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788460702
-  },
-  "7501327394125934592": {
-   "created": 1788455818,
-   "author": "Lewis Yule",
-   "url": "https://www.linkedin.com/posts/lewis-yule-b8b62982_ideasfest2026-cmsequip-cmslaw-activity-7501327394125934592-rbJH",
-   "text": "A robust intellectual property strategy can be one of a start-up's most valuable assets, helping to turn innovative ideas into sustainable commercial success.\n\nWe're delighted to be partnering with Etched Tech, a member of the CMS equIP for Start-ups community, at Ideas Fest, sharing a space where founders can drop in for practical advice on IP, innovation, and scaling their businesses.\n\nIf you are attending and have any questions about patents, feel free to reach out or come and see us in our tent! \n\nCMS Intellectual Property",
-   "disc_score": 4,
-   "checks": {
-    "24": 12
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788460702
-  },
-  "7501366781119258624": {
-   "created": 1788465209,
-   "author": "Parv Shrivastava",
-   "url": "https://www.linkedin.com/posts/parvs1_etched-just-raised-700m-at-a-21b-valuation-activity-7501366781119258624-im7U",
-   "text": "Etched just raised $700M at a $21B valuation and their CEO was doing FIRST Tech Challenge robotics the same season I was.\n\nSo was Felipe Bergerman, who was on my team back then and recruited me to Ergo last year. So was my founder Yash Dulla.\n\nFTC is a really underrated pipeline for startups, and I don't see people talk about it enough.\n\nGavin Uberti's team, 8802, was one of the teams I watched autonomous videos of senior year. One of my friends on that team, who built a huge part of their robot, went on to become one of Etched's first 25 employees. They had built one of the best robots that season.\n\nProbably not a coincidence. The skills line up almost exactly.\n\nThat photo is from Worlds 20",
-   "disc_score": 22,
-   "checks": {
-    "24": 87
-   },
-   "promoted": true,
-   "miss": 0,
-   "added": 1788470678
-  },
-  "7501343476190679040": {
-   "created": 1788459652,
-   "author": "Jacob Renard",
-   "url": "https://www.linkedin.com/posts/jacob-renard_silicon-validation-engineer-software-activity-7501343476190679040-6D4O",
-   "text": "We're hiring in my org at Etched!\n\nIf you're an engineer with experience that bridges the gap between low-level firmware, validation infrastructure, and debugging the hardware/software boundary you may be a great fit.\n\nWe're ideally looking for experience in: C/C++, Python, Computer Architecture, Embedded Systems, and a willingness to get your hands on silicon.\n\nReach out if you're interested or send them my way!\n#hiring \nhttps://lnkd.in/gjDVFsAQ",
-   "disc_score": 79,
-   "checks": {
-    "24": 79
-   },
-   "promoted": true,
-   "miss": 0,
-   "added": 1788470678
-  },
   "7501394354737926145": {
    "created": 1788471783,
    "author": "Kat H.",
@@ -136,7 +45,9 @@
    "url": "https://www.linkedin.com/posts/weeklyone_etched-yat%C4%B1r%C4%B1m-haberi-activity-7501523245846925312-zMoZ",
    "text": "Yapay zeka \u00e7\u0131kar\u0131m i\u015f y\u00fcklerine \u00f6zel donan\u0131m ve yaz\u0131l\u0131mlar geli\u015ftiren Etched; Jane Street liderli\u011finde Sequoia Capital, Andreessen Horowitz, Peter Thiel ve Venturetech Alliance LLC kat\u0131l\u0131m\u0131yla $21 milyar de\u011ferleme \u00fczerinden $700 milyon yat\u0131r\u0131m alarak toplam finansman\u0131n\u0131 $800 milyona \u00e7\u0131kard\u0131. TSMC N4P tabanl\u0131 A0 silikonunu canl\u0131 veri merkezinde do\u011frulayan \u015firket; matematiksel bloklar\u0131 yar\u0131 yar\u0131ya d\u00fc\u015f\u00fck voltajda \u00e7al\u0131\u015ft\u0131ran LVI ve payla\u015f\u0131ml\u0131 bellek alan\u0131 olu\u015fturan CSM teknolojileriyle trilyon parametreli modellerdeki termal ve bellek darbo\u011fazlar\u0131n\u0131 ortadan kald\u0131r\u0131yor. CEO Gavin Uberti liderli\u011findeki 400'\u00fc a\u015fk\u0131n m\u00fchendisle $1 milyar\u0131 a\u015fan talebi kar\u015f\u0131lamak i\u00e7in Tayvan ve San Jose'de \u00fcretim a\u011f\u0131n\u0131",
    "disc_score": 4,
-   "checks": {},
+   "checks": {
+    "24": 5
+   },
    "promoted": false,
    "miss": 0,
    "added": 1788514776
@@ -147,7 +58,9 @@
    "url": "https://www.linkedin.com/posts/kezia-owusu-yianoma_were-giving-away-a-team-pass-to-ideas-fest-activity-7501527580194291712-TUjP",
    "text": "Last few hours to enter! Win a free team pass to Ideas Fest with Etched Tech",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 1
+   },
    "promoted": false,
    "miss": 0,
    "added": 1788514776
@@ -239,6 +152,28 @@
    "promoted": false,
    "miss": 0,
    "added": 1788546202
+  },
+  "7501876776881758208": {
+   "created": 1788586801,
+   "author": "Evergreen Technologies LLC",
+   "url": "https://www.linkedin.com/posts/evergreen-tech-llc_httpszurlcosdn4b-etched-the-21-activity-7501876776881758208-HfMD",
+   "text": "https://zurl.co/SdN4b \n\ud83d\ude80Etched: The $21 Billion Bet on Transformer-Specific Silicon\nThe provided video details the rise of Etched, a semiconductor startup that has developed a specialized chip called Sohu designed exclusively ...\nRead more at https://zurl.co/1no0p",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1788598547
+  },
+  "7501876801238077442": {
+   "created": 1788586807,
+   "author": "Evergreen Technologies (USA)",
+   "url": "https://www.linkedin.com/posts/evergreen-technologies-usa-3a7422198_httpszurlcosdn4b-etched-the-21-activity-7501876801238077442-IzFx",
+   "text": "https://zurl.co/SdN4b \n\ud83d\ude80Etched: The $21 Billion Bet on Transformer-Specific Silicon\nThe provided video details the rise of Etched, a semiconductor startup that has developed a specialized chip called Sohu designed exclusively ...\nRead more at https://zurl.co/1no0p",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1788598547
   }
  },
  "baseline": {
@@ -742,6 +677,14 @@
    [
     1788582380,
     154
+   ],
+   [
+    1788598547,
+    5
+   ],
+   [
+    1788598547,
+    1
    ]
   ]
  },
