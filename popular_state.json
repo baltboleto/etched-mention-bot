@@ -1,17 +1,17 @@
 {
  "watch": {
-  "2096277410404856199": {
-   "created": 1788626456,
-   "author": "breadedbenji",
-   "followers": 698,
-   "url": "https://x.com/breadedbenji/status/2096277410404856199",
-   "disc_score": 0,
+  "2096324533032567050": {
+   "created": 1788637691,
+   "author": "KairosPraxis",
+   "followers": 5659,
+   "url": "https://x.com/KairosPraxis/status/2096324533032567050",
+   "disc_score": 1,
    "checks": {
-    "1": null
+    "1": 1
    },
    "promoted": false,
    "miss": 0,
-   "added": 1788629547
+   "added": 1788644657
   }
  },
  "baseline": {
@@ -883,6 +883,10 @@
    [
     1788629547,
     2
+   ],
+   [
+    1788644658,
+    1
    ]
   ]
  },
