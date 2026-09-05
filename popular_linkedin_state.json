@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7501240290037452800": {
-   "created": 1788435051,
-   "author": "Muhammad Arhem",
-   "url": "https://www.linkedin.com/posts/muhammad-arhem_capital-chases-infrastructure-not-softwarepdf-activity-7501240290037452800-bKCj",
-   "text": "Four AI companies raised a combined $8.7 billion in August. Databricks took $5 billion at a $190 billion valuation, led by Coatue, Blackstone, MGX, and T. Rowe Price. Firmus raised $2 billion. Castelion closed a $1 billion Series C. Etched brought in $700 million.\n\nNone of them sell a subscription.\n\nDatabricks sells a data and compute platform. Firmus sells infrastructure capacity. Castelion and Etched sell hardware. Not a single one of the four biggest AI rounds this month went to a company whose product is a login screen and a monthly invoice.\n\nI read that as a signal, not a coincidence. Software companies built on top of someone else's model are renting margin. Whoever owns the compute, t",
-   "disc_score": 0,
-   "checks": {
-    "24": 2
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788447746
-  },
   "7501263165104488449": {
    "created": 1788440505,
    "author": "Etched Tech",
