@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7501394354737926145": {
-   "created": 1788471783,
-   "author": "Kat H.",
-   "url": "https://www.linkedin.com/posts/kathsu_a-bumblebee-moment-for-ai-silicon-synopsys-activity-7501394354737926145-ANGb",
-   "text": "Congrats to Etched who extensively leveraged ZeBu emulation's performance and scalability, to run full inference workloads. Resulting in only a few weeks of software bring up after silicon is back. Engineering prowess!",
-   "disc_score": 3,
-   "checks": {
-    "24": 3
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788496295
-  },
   "7501489247342923776": {
    "created": 1788494407,
    "author": "AI Chips & Data Centers",
@@ -23,19 +10,6 @@
     "24": 154
    },
    "promoted": true,
-   "miss": 0,
-   "added": 1788496295
-  },
-  "7501398703669219328": {
-   "created": 1788472820,
-   "author": "HPCwire",
-   "url": "https://www.linkedin.com/posts/hpcwire-published-by-tabor-communications_artificialintelligence-activity-7501398703669219328-s2mJ",
-   "text": "Recent events \u2014 including AMD\u2019s acquisition of Taalas, Etched\u2019s $700 million fundraising round, and frontier AI labs developing their own chips \u2014 suggest that custom-built hardware could play a bigger role in AI\u2019s future than initially thought. https://ow.ly/HSPI50ZHXzO #artificialintelligence",
-   "disc_score": 0,
-   "checks": {
-    "24": 3
-   },
-   "promoted": false,
    "miss": 0,
    "added": 1788496295
   },
@@ -71,7 +45,9 @@
    "url": "https://www.linkedin.com/posts/brunellalupano_private-ai-chip-activity-7501570846805651456-cZ_7",
    "text": "The #private #AI #chip landscape is rapidly expanding, with over 43 active US #startups raising a combined $17.7 #billion to challenge NVIDIA's market dominance. As of 2026, leading venture-backed players like #SambaNova, #Etched, and #Groq are securing massive valuations by focusing on specialized tasks like ultra-fast Transformer inference, optical interconnects, and edge computing. \n\nDatacenter & LLM Inference Specialists\nSambaNova Systems: $11B valuation. Focuses on full-stack enterprise AI and data-center scale infrastructure, raising $1 billion in its latest July round.\u00a0\nEtched: $10.3B valuation. Builds transformer-specific ASICs (Sohu chip) designed exclusively for hardwired LLM accel",
    "disc_score": 1,
-   "checks": {},
+   "checks": {
+    "24": 1
+   },
    "promoted": false,
    "miss": 0,
    "added": 1788531678
@@ -82,7 +58,9 @@
    "url": "https://www.linkedin.com/posts/sbellamkonda_contentstrategy-b2bmarketing-aioverviews-activity-7501610073182474240-f4KO",
    "text": "The post that reached the most people wasn't the post people talked about.\n\nI ranked four weeks of LinkedIn analytics and last month's Shashi.co traffic the same way, by reach and by reaction. The winners didn't match.\n\nIt was the same pattern on both places.\n\n A post on exposure management for CISOs reached 24,394 impressions and 78 engagements.\n\nA post about being named a Distinguished Analyst for 2027 pulled 1,191 engagements on 6,211 impressions. \n\nA quarter the reach, fifteen times the interaction.\n\nImpressions follow the topic:\n\n- Identity infrastructure and AI security\n- Agentic AI in enterprise work management\n- Cloudflare's FedRAMP authorization\n- Nokia's fixed wireless access sale\n",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 5
+   },
    "promoted": false,
    "miss": 0,
    "added": 1788531678
@@ -685,6 +663,14 @@
    [
     1788598547,
     1
+   ],
+   [
+    1788611372,
+    1
+   ],
+   [
+    1788611372,
+    5
    ]
   ]
  },
