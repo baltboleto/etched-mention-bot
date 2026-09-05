@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7501570846805651456": {
-   "created": 1788513862,
-   "author": "Brunella Lupano",
-   "url": "https://www.linkedin.com/posts/brunellalupano_private-ai-chip-activity-7501570846805651456-cZ_7",
-   "text": "The #private #AI #chip landscape is rapidly expanding, with over 43 active US #startups raising a combined $17.7 #billion to challenge NVIDIA's market dominance. As of 2026, leading venture-backed players like #SambaNova, #Etched, and #Groq are securing massive valuations by focusing on specialized tasks like ultra-fast Transformer inference, optical interconnects, and edge computing. \n\nDatacenter & LLM Inference Specialists\nSambaNova Systems: $11B valuation. Focuses on full-stack enterprise AI and data-center scale infrastructure, raising $1 billion in its latest July round.\u00a0\nEtched: $10.3B valuation. Builds transformer-specific ASICs (Sohu chip) designed exclusively for hardwired LLM accel",
-   "disc_score": 1,
-   "checks": {
-    "24": 1
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788531678
-  },
   "7501610073182474240": {
    "created": 1788523214,
    "author": "Shashi Bellamkonda",
