@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7501523245846925312": {
-   "created": 1788502513,
-   "author": "WeeklyOne.co",
-   "url": "https://www.linkedin.com/posts/weeklyone_etched-yat%C4%B1r%C4%B1m-haberi-activity-7501523245846925312-zMoZ",
-   "text": "Yapay zeka \u00e7\u0131kar\u0131m i\u015f y\u00fcklerine \u00f6zel donan\u0131m ve yaz\u0131l\u0131mlar geli\u015ftiren Etched; Jane Street liderli\u011finde Sequoia Capital, Andreessen Horowitz, Peter Thiel ve Venturetech Alliance LLC kat\u0131l\u0131m\u0131yla $21 milyar de\u011ferleme \u00fczerinden $700 milyon yat\u0131r\u0131m alarak toplam finansman\u0131n\u0131 $800 milyona \u00e7\u0131kard\u0131. TSMC N4P tabanl\u0131 A0 silikonunu canl\u0131 veri merkezinde do\u011frulayan \u015firket; matematiksel bloklar\u0131 yar\u0131 yar\u0131ya d\u00fc\u015f\u00fck voltajda \u00e7al\u0131\u015ft\u0131ran LVI ve payla\u015f\u0131ml\u0131 bellek alan\u0131 olu\u015fturan CSM teknolojileriyle trilyon parametreli modellerdeki termal ve bellek darbo\u011fazlar\u0131n\u0131 ortadan kald\u0131r\u0131yor. CEO Gavin Uberti liderli\u011findeki 400'\u00fc a\u015fk\u0131n m\u00fchendisle $1 milyar\u0131 a\u015fan talebi kar\u015f\u0131lamak i\u00e7in Tayvan ve San Jose'de \u00fcretim a\u011f\u0131n\u0131",
-   "disc_score": 4,
-   "checks": {
-    "24": 5
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788514776
-  },
   "7501527580194291712": {
    "created": 1788503546,
    "author": "Kezia Owusu-Yianoma",
@@ -123,7 +110,9 @@
    "url": "https://www.linkedin.com/posts/harmanjot-kaur2003_hiring-physicaldesign-physicaldesignengineer-activity-7501700788470054912-yPj-",
    "text": "\ud83d\udea8 WE\u2019RE HIRING: Physical Design Engineer \ud83d\udea8\n\ud83d\udccd Location: Austin, TX OR San Jose, CA \u2014 Onsite\n\u23f3 Duration: 12+ Months\n\ud83d\udcb0 Candidate Pay: W2\n\n\ud83d\udd39 Key Responsibilities\n\u2022 Own the full-chip top-level floorplan, including die/partition planning, macro & memory placement, and pin/port alignment\n\u2022 Define partition abutment, repeating structures, channels, and feedthrough strategies for clean block integration\n\u2022 Drive top-level PPA optimization \u2014 Power, Performance & Area\n\u2022 Plan and review the top-level power grid / PDN in coordination with EM/IR sign-off\n\u2022 Author and maintain top-level SDC and timing budgets and partition constraints to block owners\n\u2022 Collaborate with ASIC vendors, IP partners, block-level",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1788546202
@@ -699,6 +688,10 @@
    [
     1788629574,
     32
+   ],
+   [
+    1788632221,
+    0
    ]
   ]
  },
