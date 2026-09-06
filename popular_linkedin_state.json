@@ -1,38 +1,14 @@
 {
  "watch": {
-  "7501692031329710080": {
-   "created": 1788542754,
-   "author": "Neo",
-   "url": "https://www.linkedin.com/posts/neoventures_etched-delivers-wispr-launches-notetaker-activity-7501692031329710080-Bmss",
-   "text": "Etched delivers, Wispr launches Notetaker, & more | Neo & Noteworthy\n\nCheck out our August recap of learnings and announcements by Neo portfolio companies and community members.\n\nShare your thoughts and subscribe to stay posted on all things Neo! \ud83d\udc99\n\nhttps://lnkd.in/gb-wNzKB",
-   "disc_score": 8,
-   "checks": {
-    "24": 32
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788545568
-  },
-  "7501700788470054912": {
-   "created": 1788544842,
-   "author": "Harmanjot Kaur",
-   "url": "https://www.linkedin.com/posts/harmanjot-kaur2003_hiring-physicaldesign-physicaldesignengineer-activity-7501700788470054912-yPj-",
-   "text": "\ud83d\udea8 WE\u2019RE HIRING: Physical Design Engineer \ud83d\udea8\n\ud83d\udccd Location: Austin, TX OR San Jose, CA \u2014 Onsite\n\u23f3 Duration: 12+ Months\n\ud83d\udcb0 Candidate Pay: W2\n\n\ud83d\udd39 Key Responsibilities\n\u2022 Own the full-chip top-level floorplan, including die/partition planning, macro & memory placement, and pin/port alignment\n\u2022 Define partition abutment, repeating structures, channels, and feedthrough strategies for clean block integration\n\u2022 Drive top-level PPA optimization \u2014 Power, Performance & Area\n\u2022 Plan and review the top-level power grid / PDN in coordination with EM/IR sign-off\n\u2022 Author and maintain top-level SDC and timing budgets and partition constraints to block owners\n\u2022 Collaborate with ASIC vendors, IP partners, block-level",
-   "disc_score": 0,
-   "checks": {
-    "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788546202
-  },
   "7501876776881758208": {
    "created": 1788586801,
    "author": "Evergreen Technologies LLC",
    "url": "https://www.linkedin.com/posts/evergreen-tech-llc_httpszurlcosdn4b-etched-the-21-activity-7501876776881758208-HfMD",
    "text": "https://zurl.co/SdN4b \n\ud83d\ude80Etched: The $21 Billion Bet on Transformer-Specific Silicon\nThe provided video details the rise of Etched, a semiconductor startup that has developed a specialized chip called Sohu designed exclusively ...\nRead more at https://zurl.co/1no0p",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1788598547
@@ -43,7 +19,9 @@
    "url": "https://www.linkedin.com/posts/evergreen-technologies-usa-3a7422198_httpszurlcosdn4b-etched-the-21-activity-7501876801238077442-IzFx",
    "text": "https://zurl.co/SdN4b \n\ud83d\ude80Etched: The $21 Billion Bet on Transformer-Specific Silicon\nThe provided video details the rise of Etched, a semiconductor startup that has developed a specialized chip called Sohu designed exclusively ...\nRead more at https://zurl.co/1no0p",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1788598547
@@ -600,6 +578,14 @@
    ],
    [
     1788632221,
+    0
+   ],
+   [
+    1788674619,
+    0
+   ],
+   [
+    1788674619,
     0
    ]
   ]
