@@ -1,30 +1,30 @@
 {
  "watch": {
-  "2096438926630117652": {
-   "created": 1788664964,
-   "author": "JacobESalazarS",
-   "followers": 53,
-   "url": "https://x.com/JacobESalazarS/status/2096438926630117652",
-   "disc_score": 1,
+  "2096529636863901833": {
+   "created": 1788686591,
+   "author": "WesleyBancroft",
+   "followers": 15495,
+   "url": "https://x.com/WesleyBancroft/status/2096529636863901833",
+   "disc_score": 0,
    "checks": {
-    "1": null
+    "1": 0
    },
    "promoted": false,
    "miss": 0,
-   "added": 1788674581
+   "added": 1788692363
   },
-  "2096438201913061579": {
-   "created": 1788664791,
-   "author": "JacobESalazarS",
-   "followers": 53,
-   "url": "https://x.com/JacobESalazarS/status/2096438201913061579",
-   "disc_score": 1,
+  "2096508619747381430": {
+   "created": 1788681580,
+   "author": "chenzhangreal",
+   "followers": 1056,
+   "url": "https://x.com/chenzhangreal/status/2096508619747381430",
+   "disc_score": 0,
    "checks": {
     "1": null
    },
    "promoted": false,
    "miss": 0,
-   "added": 1788674581
+   "added": 1788692363
   }
  },
  "baseline": {
@@ -904,6 +904,10 @@
    [
     1788650582,
     9
+   ],
+   [
+    1788692363,
+    0
    ]
   ]
  },
