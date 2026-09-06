@@ -1,57 +1,5 @@
 {
  "watch": {
-  "7501675734252474368": {
-   "created": 1788538869,
-   "author": "Quant Finance",
-   "url": "https://www.linkedin.com/posts/quantfinancee_meet-gavin-uberti-robert-w-and-chris-activity-7501675734252474368-JkMA",
-   "text": "\ud83d\udea8 Meet Gavin Uberti, Robert W. and Chris Zhu, three young founders who decided to build their own AI chip company.\n\nThey started Etched in 2022 after leaving Harvard.\n\nInstead of building another general-purpose AI chip, they focused on a different idea specialized hardware built for AI inference.\n\nAnd the company moved incredibly fast.\n\nIn August 2026, Etched raised $700M at a $21B valuation, in a round led by quantitative trading firm Jane Street.\n\nJane Street also became Etched's first customer and has already deployed its first rack in its data center.\n\nThe interesting part?\n\nEtched has attracted several major quant firms as investors, including Jane Street, Hudson River Trading, Two Sig",
-   "disc_score": 2,
-   "checks": {
-    "24": 2
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788545568
-  },
-  "7501648331551682560": {
-   "created": 1788532336,
-   "author": "Primary Venture Partners",
-   "url": "https://www.linkedin.com/posts/primary-venture-partners_its-back-to-school-season-for-the-best-of-activity-7501648331551682560-b2TG",
-   "text": "It\u2019s back-to-school season for the best of tech.\n\nOn September 16, Summit returns to New York City. Onstage, you\u2019ll hear from:\n\nMatthew Prince\nLance Armstrong\nGavin Uberti\nJeanne DeWitt Grosser\nShardul Shah\nParag Agrawal\nTuhin Srivastava\nApoorv Agrawal\nGabriel Stengel\nTanay Kothari\nDan Shipper\nPatrick O'Shaughnessy\nAlex Konrad\nCrist\u00f3bal Valenzuela\nKeith Enright\nLauren Makler\nAaron Rubin\n\nPlus, bespoke experiences created with Gunderson Dettmer, Hyperagent, and Replit.\n\nThe final round of applications is now open. You have one week left to join us.\nSee you there.\n\nhttps://primarysummit.vc/",
-   "disc_score": 39,
-   "checks": {
-    "24": 51
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788545568
-  },
-  "7501670823100010496": {
-   "created": 1788537698,
-   "author": "Javier Avalos",
-   "url": "https://www.linkedin.com/posts/javier-avalos-caplight_weve-added-50-companies-to-caplight-marketprice-activity-7501670823100010496-zhcU",
-   "text": "We\u2019ve added 50+ companies to Caplight MarketPrice\u2122, expanding our coverage to over 550 private companies.\n\nOur latest expansion spans AI infrastructure, space, defense, fintech, and more. A few highlights:\n\n\ud83e\udde0AI & Cloud: Etched, Fireworks AI, Baseten, and Lovable\n\ud83d\ude80Space & Defense: Hadrian, Epirus, Axiom Space, and Impulse Space\n\ud83d\udcbcEnterprise Software: Automattic, Outreach, and Unqork\n\ud83d\udecd\ufe0fConsumer & Commerce: Liquid Death, Harry\u2019s, and StockX\n\ud83d\udcb3Fintech: TradingView, Betterment, and Qonto\n\ud83d\ude9bMobility: Nuro and Metropolis\n\u270d\ufe0fMedia: Patreon and Substack\n\nPrivate companies can go months or years between funding rounds, while their businesses and market conditions are ever changing. \n\nOur MarketPrice\u2122 esti",
-   "disc_score": 42,
-   "checks": {
-    "24": 66
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788545568
-  },
-  "7501664449876033537": {
-   "created": 1788536179,
-   "author": "Tom De Schutter",
-   "url": "https://www.linkedin.com/posts/tom-de-schutter-6112431_a-bumblebee-moment-for-ai-silicon-synopsys-activity-7501664449876033537-BLJC",
-   "text": "Amazing to see Etched in the news everywhere. Great success story by a passionate and talented team. Proud to be part of their story through their use of Synopsys software-defined hardware-assisted verification.",
-   "disc_score": 2,
-   "checks": {
-    "24": 10
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788545568
-  },
   "7501692031329710080": {
    "created": 1788542754,
    "author": "Neo",
