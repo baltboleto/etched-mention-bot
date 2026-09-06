@@ -6,7 +6,9 @@
    "followers": 160,
    "url": "https://x.com/hattorisan3/status/2096699428589760854",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "1": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1788729793
@@ -900,6 +902,10 @@
    ],
    [
     1788703592,
+    0
+   ],
+   [
+    1788735595,
     0
    ]
   ]
