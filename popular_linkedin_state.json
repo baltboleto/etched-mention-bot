@@ -32,7 +32,9 @@
    "url": "https://www.linkedin.com/posts/gowdap_taalas-is-etching-models-into-silicon-and-activity-7502026947024191488-__ey",
    "text": "Taalas is etching models into silicon and Etched is hardwiring Transformers. We are in real-time witnessing the collapse of long-standing abstraction layers. Efficiency is eating flexibility.\n\nThe same collapse is overdue in org design. Microservice-aligned teams can turn into human equivalent of the memory wall in large organizations. When one feature spans multiple services, delivery velocity slowly dies under endless alignment time. We must collapse these team abstractions into vertically integrated, virtual teams hardwired directly to customer outcomes. In a world where code generation is fast and inexpensive, operational excellence builds the ultimate moat. So we must execute this shift",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 7
+   },
    "promoted": false,
    "miss": 0,
    "added": 1788624217
@@ -598,6 +600,10 @@
    [
     1788674619,
     0
+   ],
+   [
+    1788714106,
+    7
    ]
   ]
  },
