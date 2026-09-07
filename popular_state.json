@@ -1,30 +1,17 @@
 {
  "watch": {
-  "2096810010013495688": {
-   "created": 1788753437,
-   "author": "itsArjun_Patell",
-   "followers": 103,
-   "url": "https://x.com/itsArjun_Patell/status/2096810010013495688",
+  "2096901975287968094": {
+   "created": 1788775364,
+   "author": "GlobalAIforGood",
+   "followers": 9,
+   "url": "https://x.com/GlobalAIforGood/status/2096901975287968094",
    "disc_score": 0,
    "checks": {
     "1": 0
    },
    "promoted": false,
    "miss": 0,
-   "added": 1788760059
-  },
-  "2096817714237255958": {
-   "created": 1788755274,
-   "author": "eigenron",
-   "followers": 15199,
-   "url": "https://x.com/eigenron/status/2096817714237255958",
-   "disc_score": 39,
-   "checks": {
-    "1": 39
-   },
-   "promoted": true,
-   "miss": 0,
-   "added": 1788760059
+   "added": 1788781849
   }
  },
  "baseline": {
@@ -928,6 +915,10 @@
    [
     1788760060,
     39
+   ],
+   [
+    1788781850,
+    0
    ]
   ]
  },
