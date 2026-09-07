@@ -6,18 +6,9 @@
    "followers": 275,
    "url": "https://x.com/GauravGo_Games/status/2097053585368584424",
    "disc_score": 0,
-   "checks": {},
-   "promoted": false,
-   "miss": 0,
-   "added": 1788813947
-  },
-  "2097049450443153794": {
-   "created": 1788810524,
-   "author": "alf_capital",
-   "followers": 97,
-   "url": "https://x.com/alf_capital/status/2097049450443153794",
-   "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "1": null
+   },
    "promoted": false,
    "miss": 0,
    "added": 1788813947
