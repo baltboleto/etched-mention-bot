@@ -1,5 +1,32 @@
 {
- "watch": {},
+ "watch": {
+  "2096810010013495688": {
+   "created": 1788753437,
+   "author": "itsArjun_Patell",
+   "followers": 103,
+   "url": "https://x.com/itsArjun_Patell/status/2096810010013495688",
+   "disc_score": 0,
+   "checks": {
+    "1": 0
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1788760059
+  },
+  "2096817714237255958": {
+   "created": 1788755274,
+   "author": "eigenron",
+   "followers": 15199,
+   "url": "https://x.com/eigenron/status/2096817714237255958",
+   "disc_score": 39,
+   "checks": {
+    "1": 39
+   },
+   "promoted": true,
+   "miss": 0,
+   "added": 1788760059
+  }
+ },
  "baseline": {
   "1": [
    [
@@ -893,6 +920,14 @@
    [
     1788735595,
     0
+   ],
+   [
+    1788760060,
+    0
+   ],
+   [
+    1788760060,
+    39
    ]
   ]
  },
@@ -916,6 +951,11 @@
    1788460970,
    "2095554916659913076",
    230
+  ],
+  [
+   1788760060,
+   "2096817714237255958",
+   39
   ]
  ],
  "seeded": true
