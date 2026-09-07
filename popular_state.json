@@ -1,17 +1,17 @@
 {
  "watch": {
-  "2096901975287968094": {
-   "created": 1788775364,
-   "author": "GlobalAIforGood",
-   "followers": 9,
-   "url": "https://x.com/GlobalAIforGood/status/2096901975287968094",
+  "2096978402473308394": {
+   "created": 1788793585,
+   "author": "investingvc",
+   "followers": 34,
+   "url": "https://x.com/investingvc/status/2096978402473308394",
    "disc_score": 0,
    "checks": {
     "1": 0
    },
    "promoted": false,
    "miss": 0,
-   "added": 1788781849
+   "added": 1788802102
   }
  },
  "baseline": {
@@ -918,6 +918,10 @@
    ],
    [
     1788781850,
+    0
+   ],
+   [
+    1788802102,
     0
    ]
   ]
