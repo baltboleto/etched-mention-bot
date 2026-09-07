@@ -6,7 +6,9 @@
    "url": "https://www.linkedin.com/posts/yakov-s-53545a34a_%D0%BA%D0%B0%D0%BA-%D1%80%D0%B0%D1%81%D0%BF%D0%BE%D0%B7%D0%BD%D0%B0%D1%82%D1%8C-%D0%B1%D1%83%D0%B4%D1%83%D1%89%D0%B5%D0%B3%D0%BE-%D0%B5%D0%B4%D0%B8%D0%BD%D0%BE%D1%80%D0%BE%D0%B3%D0%B0-%D0%BC%D0%B0%D1%80%D0%B8%D0%BD%D0%B0-activity-7502297434971140096-eEKl",
    "text": "\u2b50 Husband & Wife Venture Fund DVC Has 7 Unicorns\n\u2728 Davidovs Venture Collective (DVC), run by Nick Davidov and Marina Davidova, has invested in seven unicorns at the early stages, including Perplexity, Higgsfield AI, and Etched. \n\u2728 DVC's $150,000 investment in Higgsfield AI in 2023 is now worth over $30 million, based on a $5 billion Series B valuation in August 2026, and could return DVC's entire first fund.\n#EF #EntrepreneurialFinance #VC #Venture #VentureCapital #Unicorn #Startups #Founders #DVC #Davidovs #Davidov #AI #AIfund #Higgsfield #Perplexity \nhttps://lnkd.in/dCEFZ-be",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1788702086
@@ -21,6 +23,17 @@
    "promoted": false,
    "miss": 0,
    "added": 1788760145
+  },
+  "7502627638247604224": {
+   "created": 1788765821,
+   "author": "Rene van Pelt",
+   "url": "https://www.linkedin.com/posts/rene-van-pelt_ai-artificialintelligence-ainews-activity-7502627638247604224-ebzw",
+   "text": "This list ranks private AI chip companies by their latest reported valuations\n\nEtched is listed at $21B as of Aug 2026, SambaNova at $11B as of Jul 2026, and Groq at $3.5B as of Aug 2026.\n\nThe figures use different dates and valuation bases, so they are not a live or like for like ranking.\n\nRead more here: https://lnkd.in/eTrHiXK2\n\n\ud83d\udce8 Subscribe to one of our AI Newsletters: https://lnkd.in/eq56P3bj\n\n#ai #artificialintelligence #ainews\n\nTenstorrent, Rebellions, d-Matrix, Positron AI, Tensordyne, FuriosaAI",
+   "disc_score": 7,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1788776249
   }
  },
  "baseline": {
@@ -576,6 +589,10 @@
    [
     1788714106,
     7
+   ],
+   [
+    1788776249,
+    0
    ]
   ]
  },
