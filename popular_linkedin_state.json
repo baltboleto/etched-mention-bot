@@ -19,7 +19,9 @@
    "url": "https://www.linkedin.com/posts/maximilian-mona_ironsite-careers-activity-7502750294569545728-CKB2",
    "text": "We're hiring! \n\nAs we scale, with some very exciting news on the horizon, I\u2019ll be highlighting three roles this week that will help shape Ironsite's next chapter.\n\nHead of Talent: The single most important hire we're making right now. This person will build the team that builds the future of Ironsite. If you've scaled talent functions at high-growth companies and want to help hire the people who redefine an industry, this is the place. This is NOT an HR role.\nhttps://lnkd.in/gG-Tm58g\n\nSr. Deployment Operator: Own the technical rollout of Ironsite on some of the largest construction sites in the country. You'll be on-site with our customers, leading device deployment, integration, and the fie",
    "disc_score": 5,
-   "checks": {},
+   "checks": {
+    "24": 54
+   },
    "promoted": false,
    "miss": 0,
    "added": 1788798478
@@ -30,7 +32,9 @@
    "url": "https://www.linkedin.com/posts/ai-funding-news_ai-artificialintelligence-ainews-activity-7502758869891403776-vf1G",
    "text": "Daily AI Brief lists private AI chip companies by latest reported valuation, offering a snapshot of firms building compute silicon for AI workloads.\n\nEtched is listed at $21B as of August 2026, followed by SambaNova at $11B as of July 2026 and Groq at $3.5B as of August 2026. The figures use different dates and bases, so they are not a like for like comparison.\n\nRead more: https://lnkd.in/gHSUYSzF\n\n\ud83d\udcf0 Subscribe to the weekly AI Funding News Newsletter: https://lnkd.in/enH99b34\n\n#ai #artificialintelligence #ainews #aifunding",
    "disc_score": 1,
-   "checks": {},
+   "checks": {
+    "24": 11
+   },
    "promoted": false,
    "miss": 0,
    "added": 1788798478
@@ -41,7 +45,9 @@
    "url": "https://www.linkedin.com/posts/investingvc_etched-aiinfrastructure-semiconductors-activity-7502744550566907904-_SYv",
    "text": "Jane Street ran a startup's hardware in its own data center, where microseconds move money. Then it led a $700M round. Etched went from $10.3B to $21B in under a month on that signal. It has over $1B in contracts and one named customer. Follow InvestingVC.\n\n#Etched #AIInfrastructure #Semiconductors #StartupFunding",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 4
+   },
    "promoted": false,
    "miss": 0,
    "added": 1788798478
@@ -52,7 +58,9 @@
    "url": "https://www.linkedin.com/posts/nitindahad_silicon-semiconductors-chips-activity-7502764438853439490-aNAm",
    "text": "The 35th CASPA Annual Conference and Dinner Banquet - the CEO Summit, has a really strong agenda and I'm really looking forward to taking part with EE Times | Electronic Engineering Times as an official media partner with the CASPA Office for this event. This year's theme is \"Silicon, Systems, and Intelligence: Designing the Next Decade,\" and the summit expects to explore what's defining the next era of technology \u2014 from advanced silicon to AI-driven systems.  While I will be moderating the session, \"The Next Semiconductor Era: FPFAs, Advanced Manufacturing, & Physical AI\" with Raghib Hussain and David Lam, there is an impressive speaker lineup (and of course several top class moderators) th",
    "disc_score": 23,
-   "checks": {},
+   "checks": {
+    "24": 60
+   },
    "promoted": false,
    "miss": 0,
    "added": 1788813268
@@ -63,7 +71,9 @@
    "url": "https://www.linkedin.com/posts/rachel-anderson-a64046107_ideasfest2026-cmsequip-cmslaw-activity-7502796066157727746-4tOz",
    "text": "Looking forward to attending Ideas Fest on Wednesday alongside Etched on behalf of CMS equIP for Start-ups.  \n\nWe\u2019ll have a dedicated area where we\u2019ll be providing advice on IP, innovation, and scaling businesses. \n\nPlease do pop by and say hello if you\u2019re attending! \n\n#cmsequip #etched #cms #ideasfest2026\n#intellectualproperty",
    "disc_score": 5,
-   "checks": {},
+   "checks": {
+    "24": 15
+   },
    "promoted": false,
    "miss": 0,
    "added": 1788813268
@@ -144,6 +154,17 @@
    "promoted": false,
    "miss": 0,
    "added": 1788877969
+  },
+  "7503139754994044928": {
+   "created": 1788887919,
+   "author": "SemiAnalysis",
+   "url": "https://www.linkedin.com/posts/semianalysis_sat-down-with-sarah-chieng-at-cerebras-supernova-activity-7503139754994044928-zRGO",
+   "text": "Sat down with Sarah Chieng at Cerebras Supernova to talk chips.\n\nEtched going from nothing to shipping a rack to Jane Street in a couple years is super sick.\n\nBut the bigger point is that everyone in inference hardware is making different bets.\n\nSome are trying to make the cheapest tokens possible.\n\nOthers are trying to be the fastest.\n\nNVIDIA is really good at throughput and you can't get that much better there.\n\nBut you can get a lot better on speed.\n\nCerebras is a yapper.\n\nThese wafers talk really fast",
+   "disc_score": 7,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1788892835
   }
  },
  "baseline": {
@@ -711,6 +732,26 @@
    [
     1788860477,
     18
+   ],
+   [
+    1788892835,
+    54
+   ],
+   [
+    1788892835,
+    11
+   ],
+   [
+    1788892835,
+    4
+   ],
+   [
+    1788892835,
+    60
+   ],
+   [
+    1788892835,
+    15
    ]
   ]
  },
