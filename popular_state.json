@@ -1,30 +1,5 @@
 {
- "watch": {
-  "2097238554925789319": {
-   "created": 1788855610,
-   "author": "ryanbrewer",
-   "followers": 8480,
-   "url": "https://x.com/ryanbrewer/status/2097238554925789319",
-   "disc_score": 1,
-   "checks": {
-    "1": null
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788865742
-  },
-  "2097266466811007196": {
-   "created": 1788862265,
-   "author": "GlobalAIforGood",
-   "followers": 9,
-   "url": "https://x.com/GlobalAIforGood/status/2097266466811007196",
-   "disc_score": 0,
-   "checks": {},
-   "promoted": false,
-   "miss": 0,
-   "added": 1788865742
-  }
- },
+ "watch": {},
  "baseline": {
   "1": [
    [
