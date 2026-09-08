@@ -1,80 +1,28 @@
 {
  "watch": {
-  "2097195565196939473": {
-   "created": 1788845361,
-   "author": "venkat_systems",
-   "followers": 845,
-   "url": "https://x.com/venkat_systems/status/2097195565196939473",
+  "2097238554925789319": {
+   "created": 1788855610,
+   "author": "ryanbrewer",
+   "followers": 8480,
+   "url": "https://x.com/ryanbrewer/status/2097238554925789319",
+   "disc_score": 1,
+   "checks": {
+    "1": null
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1788865742
+  },
+  "2097266466811007196": {
+   "created": 1788862265,
+   "author": "GlobalAIforGood",
+   "followers": 9,
+   "url": "https://x.com/GlobalAIforGood/status/2097266466811007196",
    "disc_score": 0,
    "checks": {},
    "promoted": false,
    "miss": 0,
-   "added": 1788847378
-  },
-  "2097184937950712042": {
-   "created": 1788842827,
-   "author": "jatinprajapat29",
-   "followers": 4423,
-   "url": "https://x.com/jatinprajapat29/status/2097184937950712042",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788847378
-  },
-  "2097168735144755361": {
-   "created": 1788838964,
-   "author": "g7z5e",
-   "followers": 19779,
-   "url": "https://x.com/g7z5e/status/2097168735144755361",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788847378
-  },
-  "2097185376314200241": {
-   "created": 1788842932,
-   "author": "jatinprajapat29",
-   "followers": 4423,
-   "url": "https://x.com/jatinprajapat29/status/2097185376314200241",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788847378
-  },
-  "2097185241144459514": {
-   "created": 1788842899,
-   "author": "jatinprajapat29",
-   "followers": 4423,
-   "url": "https://x.com/jatinprajapat29/status/2097185241144459514",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788847378
-  },
-  "2097172081360138530": {
-   "created": 1788839762,
-   "author": "GlobalAIforGood",
-   "followers": 9,
-   "url": "https://x.com/GlobalAIforGood/status/2097172081360138530",
-   "disc_score": 2,
-   "checks": {
-    "1": 2
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788847378
+   "added": 1788865742
   }
  },
  "baseline": {
