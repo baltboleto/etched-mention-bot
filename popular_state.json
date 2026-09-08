@@ -1,17 +1,41 @@
 {
  "watch": {
-  "2097412836209107081": {
-   "created": 1788897162,
-   "author": "willhamilogden",
-   "followers": 740,
-   "url": "https://x.com/willhamilogden/status/2097412836209107081",
-   "disc_score": 11,
+  "2097455855322943626": {
+   "created": 1788907419,
+   "author": "00000sol0",
+   "followers": 444,
+   "url": "https://x.com/00000sol0/status/2097455855322943626",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1788910481
+  },
+  "2097438236725612723": {
+   "created": 1788903218,
+   "author": "EnamelEquity",
+   "followers": 213,
+   "url": "https://x.com/EnamelEquity/status/2097438236725612723",
+   "disc_score": 0,
    "checks": {
-    "1": 11
+    "1": 0
    },
    "promoted": false,
    "miss": 0,
-   "added": 1788902841
+   "added": 1788910481
+  },
+  "2097436526682456460": {
+   "created": 1788902811,
+   "author": "balllvest",
+   "followers": 75,
+   "url": "https://x.com/balllvest/status/2097436526682456460",
+   "disc_score": 1,
+   "checks": {
+    "1": 1
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1788910481
   }
  },
  "baseline": {
@@ -951,6 +975,14 @@
    [
     1788902842,
     11
+   ],
+   [
+    1788910482,
+    0
+   ],
+   [
+    1788910482,
+    1
    ]
   ]
  },
