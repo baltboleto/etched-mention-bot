@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7502627638247604224": {
-   "created": 1788765821,
-   "author": "Rene van Pelt",
-   "url": "https://www.linkedin.com/posts/rene-van-pelt_ai-artificialintelligence-ainews-activity-7502627638247604224-ebzw",
-   "text": "This list ranks private AI chip companies by their latest reported valuations\n\nEtched is listed at $21B as of Aug 2026, SambaNova at $11B as of Jul 2026, and Groq at $3.5B as of Aug 2026.\n\nThe figures use different dates and valuation bases, so they are not a live or like for like ranking.\n\nRead more here: https://lnkd.in/eTrHiXK2\n\n\ud83d\udce8 Subscribe to one of our AI Newsletters: https://lnkd.in/eq56P3bj\n\n#ai #artificialintelligence #ainews\n\nTenstorrent, Rebellions, d-Matrix, Positron AI, Tensordyne, FuriosaAI",
-   "disc_score": 7,
-   "checks": {
-    "24": 18
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788776249
-  },
   "7502750294569545728": {
    "created": 1788795064,
    "author": "Max Mona",
@@ -95,7 +82,9 @@
    "url": "https://www.linkedin.com/posts/aaronjbenjamin_exclusive-a-21-billion-kids-in-chips-activity-7502833076922859520-bQOY",
    "text": "\u201cA $21 Billion \u2018Kids in Chips\u2019 Startup [Etched] Is Scooping Up Nvidia Talent\u201d\n\nhttps://lnkd.in/eA_Zd3Hp",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1788822207
@@ -106,7 +95,9 @@
    "url": "https://www.linkedin.com/posts/jgannon_the-best-room-in-nyc-tech-this-month-is-invite-only-activity-7502834270277865472-lrJB",
    "text": "The best room in NYC tech this month is invite-only.\n\nOn September 16, Primary Venture Partners takes over Pier Sixty in NYC for the NYC Tech Summit. 1,500 founders, operators, and investors in one room.\nThe stage is stacked: CEOs from Cloudflare, Etched, Vercel, and Runway.\nBut the reason to go is the other 1,499 people. Your next check writer, partner, or customer is somewhere in that room.\n\nThis is months of conversations packed into one afternoon. Priced by application, and approval takes time.\n\nApply now. The day-before crowd doesn't get in: https://lnkd.in/gv9cpgB7",
    "disc_score": 2,
-   "checks": {},
+   "checks": {
+    "24": 5
+   },
    "promoted": false,
    "miss": 0,
    "added": 1788822207
@@ -165,6 +156,28 @@
    "promoted": false,
    "miss": 0,
    "added": 1788892835
+  },
+  "7503165272292417536": {
+   "created": 1788894002,
+   "author": "Satya Joginipelly",
+   "url": "https://www.linkedin.com/posts/satya-joginipelly-404179281_startupjobs-aiagents-technicalcsm-activity-7503165272292417536-yzQ8",
+   "text": "Forward-deployed engineers and technical CSMs, this one's for you. \ud83d\udc40\n\nFast-growing pre-Series A AI startup ($5M seed, ex-Google founder) is hiring a Deployment Strategist to sit inside customer orgs, build webhooks, and own enablement for a usage-priced AI product.\n\nEarly customers include teams like EY, Etched, and Cognition.\n\nUpto $275K | SF, on-site | ~25% travel | Visa sponsorship\n\nNot a sales role. Not an advisory role. Hands-on, technical, customer-facing.\n\nInterested? Let's talk\n\n#StartupJobs #AIagents #TechnicalCSM #SanFrancisco #NowHiring",
+   "disc_score": 1,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1788902903
+  },
+  "7503188861334761472": {
+   "created": 1788899627,
+   "author": "Center for Innovation, Law, and Society",
+   "url": "https://www.linkedin.com/posts/center-for-innovation-law-and-society_ucdavislaw-kinghall-faculty-activity-7503188861334761472-qGKq",
+   "text": "CILS invites you to a lunchtime talk at UC Davis Law:\n\nDark Patterns: How They Are Used and Regulated on the AI-Driven Web, with Jon Fernandez, Etched, Inc.\n\nMonday, Sept. 14, 2026 | 12 \u2013 1 p.m. | King Hall, Room 1301 | MCLE Credits Available | No Registration Fee\n\nDark patterns are commonly understood as user interface designs crafted to manipulate people into making choices they wouldn\u2019t otherwise make. But the harms they cause go beyond nudging consumers to buy something they don\u2019t want or need; these designs can coax people into divulging deeply private information that can be used against them. This threat is supercharged by AI-generated, bespoke interfaces, capable of tailoring manipul",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1788902903
   }
  },
  "baseline": {
@@ -752,6 +765,14 @@
    [
     1788892835,
     15
+   ],
+   [
+    1788902903,
+    0
+   ],
+   [
+    1788902903,
+    5
    ]
   ]
  },
