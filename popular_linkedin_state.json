@@ -1,25 +1,14 @@
 {
  "watch": {
-  "7502478351929102336": {
-   "created": 1788730228,
-   "author": "LibraryJobs.org",
-   "url": "https://www.linkedin.com/posts/libraryjobs_jobseekers-jobs-libraries-activity-7502478351929102336-POty",
-   "text": "New Library Job: ECAD Librarian - Etched - San Jose, California, United States\n\nJoin Etched as an ECAD Librarian and play a pivotal role in managing and maintaining our schematic symbol and PCB footprint libraries. You'll ensure our design teams have accurate and manufacturable component data. The ideal candidate will have 5+ years of ECAD library management experience, expertise in Allegro PCB Editor, and strong collaboration skills. Enjoy benefits like generous housing subsidies, wellness programs, and daily meals. If you're looking to impact the frontier AI industry, click to learn more!\n\nhttps://lnkd.in/eDkxN3SC\n\n#jobseekers #Jobs #libraries #library #USA",
-   "disc_score": 0,
-   "checks": {
-    "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788760145
-  },
   "7502627638247604224": {
    "created": 1788765821,
    "author": "Rene van Pelt",
    "url": "https://www.linkedin.com/posts/rene-van-pelt_ai-artificialintelligence-ainews-activity-7502627638247604224-ebzw",
    "text": "This list ranks private AI chip companies by their latest reported valuations\n\nEtched is listed at $21B as of Aug 2026, SambaNova at $11B as of Jul 2026, and Groq at $3.5B as of Aug 2026.\n\nThe figures use different dates and valuation bases, so they are not a live or like for like ranking.\n\nRead more here: https://lnkd.in/eTrHiXK2\n\n\ud83d\udce8 Subscribe to one of our AI Newsletters: https://lnkd.in/eq56P3bj\n\n#ai #artificialintelligence #ainews\n\nTenstorrent, Rebellions, d-Matrix, Positron AI, Tensordyne, FuriosaAI",
    "disc_score": 7,
-   "checks": {},
+   "checks": {
+    "24": 18
+   },
    "promoted": false,
    "miss": 0,
    "added": 1788776249
@@ -111,6 +100,39 @@
    "promoted": false,
    "miss": 0,
    "added": 1788822207
+  },
+  "7502990613601067008": {
+   "created": 1788852361,
+   "author": "Vishwa Nath Jha",
+   "url": "https://www.linkedin.com/posts/activity-7502990613601067008-Ev8y",
+   "text": "The world is already looking into non-hbm alternatives like HBF or NVMs. India must take a call on its future soon before we lose it all over again. \n\n#sovereigninference #persistentintelligence #braininspiredinference #ism #aiagents #aiinference #semiconductors #computeinmemory #dcim #inference #nvm #memory #inferencechips #statefulsilicon #agentloop #residentworkingset #residentcognitiveworkspace #AIinfra #compute #rram #dram #sram #hbm #ssd #groq #sambanova #etched #dmatrix #googletpu8i #cerebras #mythic #tetramem #nvidia #agentruntime #phynomy #AgentSubstrate #energywall #memorywall #agentsilicon #computeinfra #startups #AI\n\nStartup Policy Forum Startup India MeitY Startup Hub STPI - Sof",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1788860477
+  },
+  "7502952841259462656": {
+   "created": 1788843355,
+   "author": "Nagarajan Kuppuswamy",
+   "url": "https://www.linkedin.com/posts/nagarajan-kuppuswamy-438838411_aihardware-inference-semiconductors-activity-7502952841259462656-Ad9s",
+   "text": "\u26a1 THE HARDWARE ROTATION: 67% OF GLOBAL AI CHIP VENTURE CAPITAL SHIFTS FROM TRAINING TO INFERENCE!\nA massive structural shift is reshaping semiconductor finance! According to comprehensive global venture capital data, 67% of all capital deployed in 2026 AI chip financing rounds\u2014USD 3.62 Billion out of USD 5.37 Billion across 12 major deals\u2014has pivoted directly into specialized inference acceleration hardware (led by Cerebras, Groq, SambaNova, and Etched).\nAs enterprises shift from experimental pre-training to live production agent swarms, continuous audio translation, and automated computer-use workflows, operational inference budgets are skyrocketing. Venture capital is aggressively backing ",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1788860477
+  },
+  "7502969000184762368": {
+   "created": 1788847208,
+   "author": "Matthew Barnett",
+   "url": "https://www.linkedin.com/posts/matthew-barnett-73034b312_this-wednesday-ill-be-attending-ideas-fest-activity-7502969000184762368-Xo7G",
+   "text": "This Wednesday I\u2019ll be attending Ideas Fest.\n\nI\u2019m looking forward to sharing some of the latest developments at Swing Clean Golf with fellow founders and potential investors, as well as catching up with the Etched team.\n\nA lot has developed behind the scenes over the last few months, particularly around the next stage of the business and the investment opportunity we\u2019re now building towards.\n\nIdeas Fest should be a great opportunity to get face to face with potential investors and share the same exciting information and opportunity that we believe lies ahead for Swing Clean Golf.\u26f3\ufe0f \n\nIf you\u2019re attending and would like to hear more about our investment opportunity, feel free to reach out and ",
+   "disc_score": 2,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1788860477
   }
  },
  "baseline": {
@@ -674,6 +696,10 @@
    [
     1788822207,
     0
+   ],
+   [
+    1788860477,
+    18
    ]
   ]
  },
