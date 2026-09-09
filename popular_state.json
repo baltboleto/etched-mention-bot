@@ -6,7 +6,9 @@
    "followers": 3150,
    "url": "https://x.com/misterbosquez/status/2097802440733057126",
    "disc_score": 1,
-   "checks": {},
+   "checks": {
+    "1": 1
+   },
    "promoted": false,
    "miss": 0,
    "added": 1788990686
@@ -961,6 +963,10 @@
    [
     1788955046,
     0
+   ],
+   [
+    1788997967,
+    1
    ]
   ]
  },
