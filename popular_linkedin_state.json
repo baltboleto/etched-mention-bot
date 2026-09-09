@@ -45,7 +45,9 @@
    "url": "https://www.linkedin.com/posts/center-for-innovation-law-and-society_ucdavislaw-kinghall-faculty-activity-7503188861334761472-qGKq",
    "text": "CILS invites you to a lunchtime talk at UC Davis Law:\n\nDark Patterns: How They Are Used and Regulated on the AI-Driven Web, with Jon Fernandez, Etched, Inc.\n\nMonday, Sept. 14, 2026 | 12 \u2013 1 p.m. | King Hall, Room 1301 | MCLE Credits Available | No Registration Fee\n\nDark patterns are commonly understood as user interface designs crafted to manipulate people into making choices they wouldn\u2019t otherwise make. But the harms they cause go beyond nudging consumers to buy something they don\u2019t want or need; these designs can coax people into divulging deeply private information that can be used against them. This threat is supercharged by AI-generated, bespoke interfaces, capable of tailoring manipul",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1788902903
@@ -782,6 +784,10 @@
    [
     1788981563,
     5
+   ],
+   [
+    1788990728,
+    0
    ]
   ]
  },
