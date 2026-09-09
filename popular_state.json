@@ -1,5 +1,30 @@
 {
- "watch": {},
+ "watch": {
+  "2097641350715867330": {
+   "created": 1788951644,
+   "author": "FarmerJoe0x",
+   "followers": 37402,
+   "url": "https://x.com/FarmerJoe0x/status/2097641350715867330",
+   "disc_score": 7,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1788955046
+  },
+  "2097623609279992222": {
+   "created": 1788947415,
+   "author": "GlobalAIforGood",
+   "followers": 12,
+   "url": "https://x.com/GlobalAIforGood/status/2097623609279992222",
+   "disc_score": 0,
+   "checks": {
+    "1": 0
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1788955046
+  }
+ },
  "baseline": {
   "1": [
    [
@@ -945,6 +970,10 @@
    [
     1788910482,
     1
+   ],
+   [
+    1788955046,
+    0
    ]
   ]
  },
