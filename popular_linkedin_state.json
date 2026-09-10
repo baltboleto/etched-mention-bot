@@ -56,7 +56,9 @@
    "url": "https://www.linkedin.com/posts/amichaelwinter_etcheds-valuation-doubles-to-21b-in-a-month-activity-7503428881195057152-jBE3",
    "text": "I\u2019d love to see more young founders in Atlantic Canada look at a massive global industry and say, \u201cWe\u2019re going to compete in that!\u201d\n\nEtched\u2019s founders set out to take on Nvidia in AI chips. Last month, they raised US$700M at a US$21B valuation.\n\nThey didn\u2019t start with decades of industry experience. They dug deeply into the problem, pitched ideas to experts and raised early capital. Their ambition helped attract the experience they lacked. Their leadership now includes people who built major systems at Nvidia and Google.\n\nA valuation isn\u2019t a victory. But that ambition matters.\n\nThe lesson isn\u2019t that everyone should build chips. It\u2019s that we should encourage young people to deeply understand ",
    "disc_score": 11,
-   "checks": {},
+   "checks": {
+    "24": 21
+   },
    "promoted": false,
    "miss": 0,
    "added": 1788970321
@@ -89,7 +91,9 @@
    "url": "https://www.linkedin.com/posts/the-ai-software-report_etched-has-raised-700-million-at-a-21-billion-activity-7503422031594520576-BvMN",
    "text": "Etched has raised $700 million at a $21 billion valuation and named Jane Street its first customer, giving the AI chip startup both new capital and its first disclosed production deployment.\n\nJane Street led the funding round and received Etched\u2019s first rack last month, which the quantitative trading firm is now deploying in its own workloads.\n\nThe round also included Kleiner Perkins, Sequoia, Andreessen Horowitz, Tiger Global, Bain Capital Ventures, Neo, Primary, Stripes, Positive Sum, and Blackstone.\n\nRead the full article on The AI & Software Report.",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1788970321
@@ -159,6 +163,17 @@
    "promoted": false,
    "miss": 0,
    "added": 1789039071
+  },
+  "7503789564679991296": {
+   "created": 1789042845,
+   "author": "Quant Finance",
+   "url": "https://www.linkedin.com/posts/quantfinancee_meet-rui-wang-and-michael-zhang-two-former-activity-7503789564679991296-ga_4",
+   "text": "\ud83d\udea8 Meet Rui Wang and Michael Zhang, two former quant researchers who are using financial markets to train AI agents.\n\nRui previously worked in quantitative research at G-Research and studied Applied Mathematics at ETH Z\u00fcrich.\n\nMichael worked on high-frequency options trading at TransMarket Group and later worked on LLM inference systems at Etched. \n\nInstead of building another trading firm, they decided to use the hardest part of trading constantly changing markets as a training ground for AI.\n\nThey founded EdotEnv, a quant research lab building reinforcement-learning environments from real financial market data.\n\nThe idea is pretty interesting.\n\nAI agents are given quant research tasks like:",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1789045490
   }
  },
  "baseline": {
@@ -798,6 +813,14 @@
    [
     1789039071,
     38
+   ],
+   [
+    1789045490,
+    21
+   ],
+   [
+    1789045490,
+    0
    ]
   ]
  },
