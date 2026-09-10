@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7503391764339240961": {
-   "created": 1788948002,
-   "author": "Widarto Wijaya",
-   "url": "https://www.linkedin.com/posts/widarto-wijaya-049b7151_artificialintelligence-startup-technews-activity-7503391764339240961-QxfG",
-   "text": "Drop-out Harvard kembali melahirkan gebrakan besar di industri teknologi!\n\nTrio mahasiswa DO asal Harvard\u2014Gavin Uberti, Robert Wachen, dan Chris Zhu\u2014sukses menarik perhatian dunia setelah startup chip AI mereka, Etched, meraih valuasi fantastis mencapai Rp370,2 triliun (370,2 triliun) setelah mengantongi suntikan dana segar senilai Rp12,34 triliun.\n\nApa yang membuat mereka begitu istimewa hingga berani menantang dominasi raksasa Nvidia?\n \n* Fokus pada AI Inference: Berbeda dari chip pada umumnya, Etched merancang chip yang dikhususkan secara spesifik untuk memproses jawaban AI secara jauh lebih efisien dan cepat.\n \n* Teknologi LVI & CSM: Startup ini mengandalkan teknologi mutakhir tersebut u",
-   "disc_score": 1,
-   "checks": {
-    "24": 1
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788952932
-  },
   "7503475153264250880": {
    "created": 1788967884,
    "author": "Hsin-Hung Wu",
@@ -213,6 +200,17 @@
    "promoted": false,
    "miss": 0,
    "added": 1789077441
+  },
+  "7503931416154357760": {
+   "created": 1789076665,
+   "author": "Michael T.",
+   "url": "https://www.linkedin.com/posts/activity-7503931416154357760-XvuR",
+   "text": "Compute efficiency! Not model intelligence is becoming AI\u2019s next moat.\nBen Carden breakdown shows why: even as foundational labs paused mega-rounds, nearly $10B flowed into compute, custom silicon, and infrastructure companies including Crusoe, SambaNova, and Etched.\n\nThat capital is chasing the constraint that now matters most: the cost of serving inference at scale. The next AI winners may not be the teams building the smartest models. They may be the ones that can run capable models most efficiently.",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1789079689
   }
  },
  "baseline": {
