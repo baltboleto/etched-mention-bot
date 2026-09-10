@@ -1,5 +1,41 @@
 {
- "watch": {},
+ "watch": {
+  "2098033880905457784": {
+   "created": 1789045231,
+   "author": "cardenben328",
+   "followers": 137,
+   "url": "https://x.com/cardenben328/status/2098033880905457784",
+   "disc_score": 1,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1789045450
+  },
+  "2097993266767462413": {
+   "created": 1789035548,
+   "author": "DailyAIBriefCom",
+   "followers": 127,
+   "url": "https://x.com/DailyAIBriefCom/status/2097993266767462413",
+   "disc_score": 1,
+   "checks": {
+    "1": null
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1789045450
+  },
+  "2098033892649558434": {
+   "created": 1789045234,
+   "author": "cardenben328",
+   "followers": 137,
+   "url": "https://x.com/cardenben328/status/2098033892649558434",
+   "disc_score": 1,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1789045450
+  }
+ },
  "baseline": {
   "1": [
    [
