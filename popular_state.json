@@ -1,64 +1,14 @@
 {
  "watch": {
-  "2098135774336028847": {
-   "created": 1789069524,
-   "author": "MoneyCrptBunny",
-   "followers": 278791,
-   "url": "https://x.com/MoneyCrptBunny/status/2098135774336028847",
-   "disc_score": 1,
-   "checks": {
-    "1": 1
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1789077383
-  },
-  "2098147962832699830": {
-   "created": 1789072430,
-   "author": "createdbymason",
-   "followers": 2060,
-   "url": "https://x.com/createdbymason/status/2098147962832699830",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1789077383
-  },
-  "2098147870612631859": {
-   "created": 1789072408,
-   "author": "createdbymason",
-   "followers": 2060,
-   "url": "https://x.com/createdbymason/status/2098147870612631859",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1789077383
-  },
-  "2098137205059334434": {
-   "created": 1789069865,
-   "author": "iimag",
-   "followers": 61442,
-   "url": "https://x.com/iimag/status/2098137205059334434",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1789077383
-  },
   "2098154520492618156": {
    "created": 1789073994,
    "author": "Ki9a8a9iK",
    "followers": 388,
    "url": "https://x.com/Ki9a8a9iK/status/2098154520492618156",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "1": null
+   },
    "promoted": false,
    "miss": 0,
    "added": 1789077383
