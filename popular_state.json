@@ -1,82 +1,17 @@
 {
  "watch": {
-  "2098065467696873674": {
-   "created": 1789052762,
-   "author": "monty10x",
-   "followers": 2036,
-   "url": "https://x.com/monty10x/status/2098065467696873674",
-   "disc_score": 1,
+  "2098110288838922623": {
+   "created": 1789063448,
+   "author": "ADINonline",
+   "followers": 3495,
+   "url": "https://x.com/ADINonline/status/2098110288838922623",
+   "disc_score": 3,
    "checks": {
-    "1": 1
+    "1": 3
    },
    "promoted": false,
    "miss": 0,
-   "added": 1789059796
-  },
-  "2098061131332112643": {
-   "created": 1789051728,
-   "author": "angel_hadden",
-   "followers": 1980,
-   "url": "https://x.com/angel_hadden/status/2098061131332112643",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1789059796
-  },
-  "2098057756259258868": {
-   "created": 1789050923,
-   "author": "globalainomad",
-   "followers": 46,
-   "url": "https://x.com/globalainomad/status/2098057756259258868",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1789059796
-  },
-  "2098053373497156060": {
-   "created": 1789049878,
-   "author": "kseniam0s",
-   "followers": 4361,
-   "url": "https://x.com/kseniam0s/status/2098053373497156060",
-   "disc_score": 16,
-   "checks": {
-    "1": null
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1789059796
-  },
-  "2098062450595643765": {
-   "created": 1789052042,
-   "author": "maxibestofone",
-   "followers": 4440,
-   "url": "https://x.com/maxibestofone/status/2098062450595643765",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1789059796
-  },
-  "2098078247602778398": {
-   "created": 1789055809,
-   "author": "g_kasten",
-   "followers": 3415,
-   "url": "https://x.com/g_kasten/status/2098078247602778398",
-   "disc_score": 7,
-   "checks": {
-    "1": 7
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1789059796
+   "added": 1789068917
   }
  },
  "baseline": {
@@ -1052,6 +987,10 @@
    [
     1789059796,
     7
+   ],
+   [
+    1789068917,
+    3
    ]
   ]
  },
