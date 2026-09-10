@@ -26,19 +26,6 @@
    "miss": 0,
    "added": 1788952932
   },
-  "7503332174062931968": {
-   "created": 1788933795,
-   "author": "Andrew Siropiatov",
-   "url": "https://www.linkedin.com/posts/andrew-siropiatov_the-intake-who-raised-this-week-and-what-activity-7503332174062931968-lHD2",
-   "text": "\ud83c\udfc6 The Podium \u2014 which startup idea more than one company is chasing\n\n26 ideas drew more than one company each between 17 Jul and 8 Sep. Ranked by how many COMPANIES, not how much money. The leading three:\n\n\ud83e\udd47 Chips built for AI \u2014 11 companies \u00b7 $3.9bn reported\nFirmus, OLIX, Etched, Xsight Labs, Callosum, DeepX, Velatir, Solinide, Embedd, HexSeed Technology, Groq\n\n\ud83e\udd48 Grid & energy storage \u2014 7 companies \u00b7 $793.6m reported\nAntora, Nexeon, Ore Energy, Yuma Energy, Certain Energy, Octave.energy, Boldr\n\n\ud83e\udd49 Defence & national security \u2014 7 companies \u00b7 $396.6m reported\nCambridge Aerospace, Greenjets, Agon, INLEAP Photonics, FuVeX, Monava, SpaceAM\n\nJoined these lanes in the last seven days: Octave.energy.",
-   "disc_score": 0,
-   "checks": {
-    "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788952932
-  },
   "7503475153264250880": {
    "created": 1788967884,
    "author": "Hsin-Hung Wu",
@@ -123,7 +110,9 @@
    "url": "https://www.linkedin.com/posts/chloejianma_coding-has-taken-off-as-the-first-agentic-activity-7503512161403650048-iT_G",
    "text": "Coding has taken off as the first agentic AI success. To the semiconductor industry, it is using AI to accelerate chip design beyond building chips to accelerate AI. Very much look forward to hearing Anna Goldie, CEO of Ricursive Intelligence, Gavin Uberti, CEO of Etched, and Ankur Gupta, Head of EDA IC at Siemens, share their insights at the CASPA - Chinese American Semiconductor Professional Assoc. CEO Summit!\n\nOct 23-24th, don't miss it!\nJimmy Cheng, Ge (Gary) Wang, Danny Hua, Haitao (Tony) Xia, Catherine Que, Iris S., Suri Sun, Keming B.,",
    "disc_score": 12,
-   "checks": {},
+   "checks": {
+    "24": 28
+   },
    "promoted": false,
    "miss": 0,
    "added": 1788981563
@@ -204,6 +193,17 @@
    "promoted": false,
    "miss": 0,
    "added": 1789057455
+  },
+  "7503888794614566912": {
+   "created": 1789066504,
+   "author": "Manasva Katyal",
+   "url": "https://www.linkedin.com/posts/manasva-katyal_thrilled-to-share-that-ill-be-spending-summer-activity-7503888794614566912-3fUV",
+   "text": "Thrilled to share that I\u2019ll be spending Summer 2027 at Etched as an Embedded Software Engineer Intern!\n\nI\u2019m excited for the opportunity to work on the embedded software and firmware behind Etched\u2019s novel inference chip architecture, and to dive deep into the intersection of low-level software and cutting-edge hardware.\n\nThanks to everyone at Etched who made the recruiting process such a smooth and enjoyable experience. Looking forward to learning from an incredible team and helping build the future of AI inference hardware!",
+   "disc_score": 24,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1789068989
   }
  },
  "baseline": {
@@ -867,6 +867,10 @@
    [
     1789057456,
     31
+   ],
+   [
+    1789068989,
+    28
    ]
   ]
  },
