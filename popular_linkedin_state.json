@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7503139754994044928": {
-   "created": 1788887919,
-   "author": "SemiAnalysis",
-   "url": "https://www.linkedin.com/posts/semianalysis_sat-down-with-sarah-chieng-at-cerebras-supernova-activity-7503139754994044928-zRGO",
-   "text": "Sat down with Sarah Chieng at Cerebras Supernova to talk chips.\n\nEtched going from nothing to shipping a rack to Jane Street in a couple years is super sick.\n\nBut the bigger point is that everyone in inference hardware is making different bets.\n\nSome are trying to make the cheapest tokens possible.\n\nOthers are trying to be the fastest.\n\nNVIDIA is really good at throughput and you can't get that much better there.\n\nBut you can get a lot better on speed.\n\nCerebras is a yapper.\n\nThese wafers talk really fast",
-   "disc_score": 7,
-   "checks": {
-    "24": 39
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788892835
-  },
   "7503165272292417536": {
    "created": 1788894002,
    "author": "Satya Joginipelly",
