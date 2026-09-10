@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7503165272292417536": {
-   "created": 1788894002,
-   "author": "Satya Joginipelly",
-   "url": "https://www.linkedin.com/posts/satya-joginipelly-404179281_startupjobs-aiagents-technicalcsm-activity-7503165272292417536-yzQ8",
-   "text": "Forward-deployed engineers and technical CSMs, this one's for you. \ud83d\udc40\n\nFast-growing pre-Series A AI startup ($5M seed, ex-Google founder) is hiring a Deployment Strategist to sit inside customer orgs, build webhooks, and own enablement for a usage-priced AI product.\n\nEarly customers include teams like EY, Etched, and Cognition.\n\nUpto $275K | SF, on-site | ~25% travel | Visa sponsorship\n\nNot a sales role. Not an advisory role. Hands-on, technical, customer-facing.\n\nInterested? Let's talk\n\n#StartupJobs #AIagents #TechnicalCSM #SanFrancisco #NowHiring",
-   "disc_score": 1,
-   "checks": {
-    "24": 5
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788902903
-  },
   "7503188861334761472": {
    "created": 1788899627,
    "author": "Center for Innovation, Law, and Society",
@@ -54,7 +41,9 @@
    "url": "https://www.linkedin.com/posts/andrew-siropiatov_the-intake-who-raised-this-week-and-what-activity-7503332174062931968-lHD2",
    "text": "\ud83c\udfc6 The Podium \u2014 which startup idea more than one company is chasing\n\n26 ideas drew more than one company each between 17 Jul and 8 Sep. Ranked by how many COMPANIES, not how much money. The leading three:\n\n\ud83e\udd47 Chips built for AI \u2014 11 companies \u00b7 $3.9bn reported\nFirmus, OLIX, Etched, Xsight Labs, Callosum, DeepX, Velatir, Solinide, Embedd, HexSeed Technology, Groq\n\n\ud83e\udd48 Grid & energy storage \u2014 7 companies \u00b7 $793.6m reported\nAntora, Nexeon, Ore Energy, Yuma Energy, Certain Energy, Octave.energy, Boldr\n\n\ud83e\udd49 Defence & national security \u2014 7 companies \u00b7 $396.6m reported\nCambridge Aerospace, Greenjets, Agon, INLEAP Photonics, FuVeX, Monava, SpaceAM\n\nJoined these lanes in the last seven days: Octave.energy.",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1788952932
@@ -783,6 +772,10 @@
    ],
    [
     1788990728,
+    0
+   ],
+   [
+    1789028829,
     0
    ]
   ]
