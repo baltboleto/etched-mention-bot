@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7503755084561055744": {
-   "created": 1789034625,
-   "author": "CMS equIP for Start-ups",
-   "url": "https://www.linkedin.com/posts/cms-equip-for-start-ups_yesterday-we-opened-up-the-ideas-oasis-at-activity-7503755084561055744-jh5l",
-   "text": "Great first day at Ideas Fest, collaborating with equIP member, Etched Tech. \n\nNow kicking off day two at Ideas Fest. \ud83d\ude80 If you're a startup looking to protect and maximise the value of your IP, drop by our Ideas Oasis in the Star-Up Village and chat with the CMS UK team. Whether you're developing new technology, building a brand, or preparing for investment, we'd be delighted to discuss how to safeguard and commercialise your innovation.\n\nBen Hitchens Sarah Wright Samuel Downing Alex Epstein Lewis Yule Hareni Ayadurai Victoria Mitchell, PhD",
-   "disc_score": 4,
-   "checks": {
-    "24": 15
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1789039071
-  },
   "7503789564679991296": {
    "created": 1789042845,
    "author": "Quant Finance",
@@ -121,7 +108,9 @@
    "url": "https://www.linkedin.com/posts/raja-m-_jensen-huang-explains-why-nvidia-will-grow-activity-7503939032318541824-a-g9",
    "text": "Jensen Huang explains why Nvidia will grow an astounding 70% next year \n\nFounder, CEO, and tireless Nvidia hype man Jensen Huang told attendees at the Goldman Sachs Communicopia + Technology conference on Thursday why his company\u2019s AI domination \u2014 and revenues \u2014 will continue its record-breaking growth streak through the end of next year.\n\nHe can see the future. \n\nThere\u2019s been endless hand-wringing over whether Nvidia\u2019s party will end as it faces increasing competition for GPUs and AI chips from all directions: the hyperscalers (Amazon, Microsoft, and Google, each building their own) and the AI labs (Anthropic and OpenAI, which are building their own) as well as from newly public competitor ",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1789097517
@@ -880,6 +869,10 @@
    [
     1789163961,
     1
+   ],
+   [
+    1789166071,
+    0
    ]
   ]
  },
