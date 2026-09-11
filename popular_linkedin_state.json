@@ -1,31 +1,5 @@
 {
  "watch": {
-  "7503648019922317312": {
-   "created": 1789009098,
-   "author": "Yeab H.",
-   "url": "https://www.linkedin.com/posts/yeabsra-hailu_aihardware-inferenceprocessingunits-worldmodels-activity-7503648019922317312-mXK8",
-   "text": "Excited to share and showcase my first research draft on Inference Processing Units (IPUs) at Hot Chips Symposium in Stanford University.\n\nBeyond the von Neumann Bottleneck: Architectural Foundations for Standalone Multi-Modal World Model Inference Processing Units (IPUs)\n\nAs AI transitions from discrete text LLMs to continuous, spatial-temporal World Models, traditional GPU architectures are running into a physical and energy brick wall\u2014expending over 80% of their power just moving weight matrices across memory interconnects.\n\nTo solve this, we propose The Hardware-Model Duality (\"The Flippening\"): \"The computer is no longer running the model; the computer IS the model, and the model IS the",
-   "disc_score": 5,
-   "checks": {
-    "24": 22
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1789011217
-  },
-  "7503630419305771009": {
-   "created": 1789004902,
-   "author": "Kevin Wang",
-   "url": "https://www.linkedin.com/posts/kevinhaoyuwang_mit-mri-team-activity-7503630419305771009--_kp",
-   "text": "Hey everyone, I\u2019m excited to announce the MIT MRI Team (mitmri.com), where we\u2019ll be researching, prototyping, and building a state-of-the-art low-field MRI this semester!\n\nAffordable medical imaging is one of the biggest bottlenecks to the future of human health. For diseases like breast cancer, five-year relative survival rates dip from near-100% to 33% depending on the stage at diagnosis. Unfortunately, many high-fidelity imaging devices utilize ionizing radiation, which damages DNA, or are limited, like ultrasound. The exception is the MRI, quite possibly the most versatile, powerful, and safe imaging technology we have, but its prohibitive cost prevents it from reaching the people who ne",
-   "disc_score": 6,
-   "checks": {
-    "24": 29
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1789011217
-  },
   "7503755084561055744": {
    "created": 1789034625,
    "author": "CMS equIP for Start-ups",
@@ -189,6 +163,17 @@
    "promoted": false,
    "miss": 0,
    "added": 1789125579
+  },
+  "7504207155923914752": {
+   "created": 1789142407,
+   "author": "Aesso",
+   "url": "https://www.linkedin.com/posts/aessostudio_details-from-etchedcom-aessocomworketched-activity-7504207155923914752-uStz",
+   "text": "Details from Etched.com\n\naesso.com/work/etched",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1789144065
   }
  },
  "baseline": {
