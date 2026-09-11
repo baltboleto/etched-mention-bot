@@ -71,8 +71,10 @@
    "url": "https://www.linkedin.com/posts/manasva-katyal_thrilled-to-share-that-ill-be-spending-summer-activity-7503888794614566912-3fUV",
    "text": "Thrilled to share that I\u2019ll be spending Summer 2027 at Etched as an Embedded Software Engineer Intern!\n\nI\u2019m excited for the opportunity to work on the embedded software and firmware behind Etched\u2019s novel inference chip architecture, and to dive deep into the intersection of low-level software and cutting-edge hardware.\n\nThanks to everyone at Etched who made the recruiting process such a smooth and enjoyable experience. Looking forward to learning from an incredible team and helping build the future of AI inference hardware!",
    "disc_score": 24,
-   "checks": {},
-   "promoted": false,
+   "checks": {
+    "24": 229
+   },
+   "promoted": true,
    "miss": 0,
    "added": 1789068989
   },
@@ -869,6 +871,10 @@
    [
     1789131626,
     0
+   ],
+   [
+    1789155281,
+    229
    ]
   ]
  },
@@ -917,6 +923,11 @@
    1789131626,
    "7503799547719004160",
    81
+  ],
+  [
+   1789155281,
+   "7503888794614566912",
+   229
   ]
  ],
  "seeded": true
