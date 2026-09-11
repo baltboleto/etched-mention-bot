@@ -1,31 +1,5 @@
 {
  "watch": {
-  "7503482786717134850": {
-   "created": 1788969704,
-   "author": "Jason Goodison",
-   "url": "https://www.linkedin.com/posts/jasonlevigoodison_openai-unveiled-their-own-silicon-chip-last-activity-7503482786717134850-1tqT",
-   "text": "OpenAI unveiled their own silicon chip last month. Anthropic are in the process of co-designing their own. \n\nThere's a good reason for them both to be doing it.\n\nLast month, there were reports that Anthropic were co-designing an inference accelerator with Samsung, and just last week, it was reported that they are co-designing a chip with MatX. \n\nThe largest model labs are increasingly treating inference hardware as part of the product, rather than purely rented capacity.\n\nOpenAI also made the case with their Jalape\u00f1o chip at Hot Chips. \n\nThe chip is designed specifically around inference workloads, with OpenAI showing significant improvements in cost per token, memory bandwidth and power eff",
-   "disc_score": 4,
-   "checks": {
-    "24": 31
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788971820
-  },
-  "7503512161403650048": {
-   "created": 1788976707,
-   "author": "Chloe Jian Ma",
-   "url": "https://www.linkedin.com/posts/chloejianma_coding-has-taken-off-as-the-first-agentic-activity-7503512161403650048-iT_G",
-   "text": "Coding has taken off as the first agentic AI success. To the semiconductor industry, it is using AI to accelerate chip design beyond building chips to accelerate AI. Very much look forward to hearing Anna Goldie, CEO of Ricursive Intelligence, Gavin Uberti, CEO of Etched, and Ankur Gupta, Head of EDA IC at Siemens, share their insights at the CASPA - Chinese American Semiconductor Professional Assoc. CEO Summit!\n\nOct 23-24th, don't miss it!\nJimmy Cheng, Ge (Gary) Wang, Danny Hua, Haitao (Tony) Xia, Catherine Que, Iris S., Suri Sun, Keming B.,",
-   "disc_score": 12,
-   "checks": {
-    "24": 28
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1788981563
-  },
   "7503648019922317312": {
    "created": 1789009098,
    "author": "Yeab H.",
