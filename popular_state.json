@@ -1,15 +1,17 @@
 {
  "watch": {
-  "2098394652273758670": {
-   "created": 1789131246,
-   "author": "saboorscales",
-   "followers": 382,
-   "url": "https://x.com/saboorscales/status/2098394652273758670",
+  "2098441458173071430": {
+   "created": 1789142405,
+   "author": "aessostudio",
+   "followers": 14,
+   "url": "https://x.com/aessostudio/status/2098441458173071430",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "1": 0
+   },
    "promoted": false,
    "miss": 0,
-   "added": 1789131552
+   "added": 1789146013
   }
  },
  "baseline": {
@@ -1016,6 +1018,10 @@
    ],
    [
     1789114711,
+    0
+   ],
+   [
+    1789146014,
     0
    ]
   ]
