@@ -95,7 +95,9 @@
    "url": "https://www.linkedin.com/posts/muhammad-hashir-2b825b123_ai-semiconductors-privatemarkets-activity-7503900300152360960-3Fgy",
    "text": "The race to make AI inference faster, cheaper and more efficient is getting increasingly competitive.\n\nEtched is building chips specifically for transformer inference. Positron AI is taking a memory-first approach. Tensordyne is betting on a different mathematical architecture. Then you have Tenstorrent, SambaNova, Groq and Cerebras approaching AI compute in their own ways, while Lightmatter is tackling the connectivity bottleneck through photonics.\n\nPositron AI  has now raised $875 million at a $5 billion valuation. Seven months ago, it was valued at around $1 billion.\n\nOne detail I find particularly interesting: its next-generation systems are designed around commodity LPDDR5X memory rathe",
    "disc_score": 10,
-   "checks": {},
+   "checks": {
+    "24": 34
+   },
    "promoted": false,
    "miss": 0,
    "added": 1789077441
@@ -875,6 +877,10 @@
    [
     1789155281,
     229
+   ],
+   [
+    1789155713,
+    34
    ]
   ]
  },
