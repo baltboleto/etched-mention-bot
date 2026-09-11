@@ -1,17 +1,30 @@
 {
  "watch": {
-  "2098154520492618156": {
-   "created": 1789073994,
-   "author": "Ki9a8a9iK",
-   "followers": 388,
-   "url": "https://x.com/Ki9a8a9iK/status/2098154520492618156",
-   "disc_score": 0,
+  "2098226813809950963": {
+   "created": 1789091230,
+   "author": "twtlinks",
+   "followers": 11639,
+   "url": "https://x.com/twtlinks/status/2098226813809950963",
+   "disc_score": 1,
    "checks": {
-    "1": null
+    "1": 1
    },
    "promoted": false,
    "miss": 0,
-   "added": 1789077383
+   "added": 1789097432
+  },
+  "2098222511867449445": {
+   "created": 1789090204,
+   "author": "got",
+   "followers": 1235,
+   "url": "https://x.com/got/status/2098222511867449445",
+   "disc_score": 0,
+   "checks": {
+    "1": 0
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1789097432
   }
  },
  "baseline": {
@@ -1006,6 +1019,14 @@
    ],
    [
     1789077384,
+    0
+   ],
+   [
+    1789097432,
+    1
+   ],
+   [
+    1789097432,
     0
    ]
   ]
