@@ -13,19 +13,6 @@
    "miss": 0,
    "added": 1789039071
   },
-  "7503753383443492864": {
-   "created": 1789034219,
-   "author": "\u912d\u5b87\u5b8f",
-   "url": "https://www.linkedin.com/posts/%E5%AE%87%E5%AE%8F-%E9%84%AD-60a1423b7_ai-etched-aihardware-activity-7503753383443492864-tmj2",
-   "text": "Had a fantastic time visiting Etched! As an AI engineer focused on deep learning architectures, seeing their approach to specialized AI accelerators and how they are pushing the boundaries of Transformer model inference was truly eye-opening. The future of AI isn't just about larger models; it's about the hardware-software co-design that makes them efficient and scalable. Excited to see how these hardware innovations will continue to drive our field forward. \ud83d\ude80\n\n#AI #Etched #AIHardware #DeepLearning #MachineLearning #TechInnovation",
-   "disc_score": 3,
-   "checks": {
-    "24": 3
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1789039071
-  },
   "7503789564679991296": {
    "created": 1789042845,
    "author": "Quant Finance",
@@ -84,7 +71,9 @@
    "url": "https://www.linkedin.com/posts/activity-7503903854183325696-oToh",
    "text": "Big Phinomics News:  Mark Ross has joined Phinomics as Chief Data Engineering Officer, and Guido Mathews as Chief Business Officer.\nMark has spent his career building systems. He developed RISC architectures at NeXT with Steve Jobs, was the CTO of Cypress Semiconductor, CTO of Zing, co-founder and VP of Engineering at Striiv, and most recently CTO of Etched. \nGuido brings more than two decades in global top-tier pharmaceutical R&D and commercialization. He has led product development through to market launch, and worked on FDA breakthrough designation programs. Before joining us he was VP and Head of the Center of Excellence for Imaging, Data and AI Research at Bayer AG. [for more details, s",
    "disc_score": 23,
-   "checks": {},
+   "checks": {
+    "24": 50
+   },
    "promoted": false,
    "miss": 0,
    "added": 1789077441
@@ -108,7 +97,9 @@
    "url": "https://www.linkedin.com/posts/activity-7503931416154357760-XvuR",
    "text": "Compute efficiency! Not model intelligence is becoming AI\u2019s next moat.\nBen Carden breakdown shows why: even as foundational labs paused mega-rounds, nearly $10B flowed into compute, custom silicon, and infrastructure companies including Crusoe, SambaNova, and Etched.\n\nThat capital is chasing the constraint that now matters most: the cost of serving inference at scale. The next AI winners may not be the teams building the smartest models. They may be the ones that can run capable models most efficiently.",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 1
+   },
    "promoted": false,
    "miss": 0,
    "added": 1789079689
@@ -881,6 +872,14 @@
    [
     1789155713,
     34
+   ],
+   [
+    1789163961,
+    50
+   ],
+   [
+    1789163961,
+    1
    ]
   ]
  },
