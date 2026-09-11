@@ -32,7 +32,9 @@
    "url": "https://www.linkedin.com/posts/cms-equip-for-start-ups_yesterday-we-opened-up-the-ideas-oasis-at-activity-7503755084561055744-jh5l",
    "text": "Great first day at Ideas Fest, collaborating with equIP member, Etched Tech. \n\nNow kicking off day two at Ideas Fest. \ud83d\ude80 If you're a startup looking to protect and maximise the value of your IP, drop by our Ideas Oasis in the Star-Up Village and chat with the CMS UK team. Whether you're developing new technology, building a brand, or preparing for investment, we'd be delighted to discuss how to safeguard and commercialise your innovation.\n\nBen Hitchens Sarah Wright Samuel Downing Alex Epstein Lewis Yule Hareni Ayadurai Victoria Mitchell, PhD",
    "disc_score": 4,
-   "checks": {},
+   "checks": {
+    "24": 15
+   },
    "promoted": false,
    "miss": 0,
    "added": 1789039071
@@ -43,7 +45,9 @@
    "url": "https://www.linkedin.com/posts/%E5%AE%87%E5%AE%8F-%E9%84%AD-60a1423b7_ai-etched-aihardware-activity-7503753383443492864-tmj2",
    "text": "Had a fantastic time visiting Etched! As an AI engineer focused on deep learning architectures, seeing their approach to specialized AI accelerators and how they are pushing the boundaries of Transformer model inference was truly eye-opening. The future of AI isn't just about larger models; it's about the hardware-software co-design that makes them efficient and scalable. Excited to see how these hardware innovations will continue to drive our field forward. \ud83d\ude80\n\n#AI #Etched #AIHardware #DeepLearning #MachineLearning #TechInnovation",
    "disc_score": 3,
-   "checks": {},
+   "checks": {
+    "24": 3
+   },
    "promoted": false,
    "miss": 0,
    "added": 1789039071
@@ -168,6 +172,17 @@
    "promoted": false,
    "miss": 0,
    "added": 1789114819
+  },
+  "7504102052474699777": {
+   "created": 1789117348,
+   "author": "Jack Hopwood",
+   "url": "https://www.linkedin.com/posts/jack-hopwood_%F0%9D%90%88%F0%9D%90%AD%F0%9D%90%AC-%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB-%F0%9D%90%AD%F0%9D%90%A8%F0%9D%90%A8-%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%A5%F0%9D%90%B2-%F0%9D%90%AD%F0%9D%90%A8-activity-7504102052474699777-RLZt",
+   "text": "\ud835\udc08\ud835\udc2d\u2019\ud835\udc2c \ud835\udc27\ud835\udc1e\ud835\udc2f\ud835\udc1e\ud835\udc2b \ud835\udc2d\ud835\udc28\ud835\udc28 \ud835\udc1e\ud835\udc1a\ud835\udc2b\ud835\udc25\ud835\udc32 \ud835\udc2d\ud835\udc28 \ud835\udc2c\ud835\udc2d\ud835\udc1a\ud835\udc2b\ud835\udc2d \ud835\udc29\ud835\udc2b\ud835\udc1e\ud835\udc29\ud835\udc1a\ud835\udc2b\ud835\udc22\ud835\udc27\ud835\udc20 \ud835\udc1f\ud835\udc28\ud835\udc2b \ud835\udc1a\ud835\udc27 \ud835\udc1e\ud835\udc31\ud835\udc22\ud835\udc2d, \ud835\udc1e\ud835\udc2f\ud835\udc1e\ud835\udc27 \ud835\udc22\ud835\udc1f \ud835\udc2c\ud835\udc1e\ud835\udc25\ud835\udc25\ud835\udc22\ud835\udc27\ud835\udc20 \ud835\udc1f\ud835\udc1e\ud835\udc1e\ud835\udc25\ud835\udc2c \ud835\udc1a \ud835\udc25\ud835\udc28\ud835\udc27\ud835\udc20 \ud835\udc30\ud835\udc1a\ud835\udc32 \ud835\udc28\ud835\udc1f\ud835\udc1f.  \n\nSome great conversations yesterday at Ideas Fest 2026 with founders, inventors and tech businesses reinforced this for me. The decisions made early on around IP can have a real bearing on what a buyer is willing to pay later.  \n\nCan you demonstrate ownership of the technology? Is valuable know-how being captured, or does it sit in a few people\u2019s heads? What stops a competitor replicating what makes the business successful?  \n\nAddressing these questions early helps build a stronger business today and a clearer investment case when the time comes.  \n\nThanks to Ben Scott and the Etched Tech team for th",
+   "disc_score": 10,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1789125579
   }
  },
  "baseline": {
@@ -843,6 +858,14 @@
    [
     1789097517,
     29
+   ],
+   [
+    1789125579,
+    15
+   ],
+   [
+    1789125579,
+    3
    ]
   ]
  },
