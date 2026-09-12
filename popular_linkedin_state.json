@@ -1,44 +1,5 @@
 {
  "watch": {
-  "7503888794614566912": {
-   "created": 1789066504,
-   "author": "Manasva Katyal",
-   "url": "https://www.linkedin.com/posts/manasva-katyal_thrilled-to-share-that-ill-be-spending-summer-activity-7503888794614566912-3fUV",
-   "text": "Thrilled to share that I\u2019ll be spending Summer 2027 at Etched as an Embedded Software Engineer Intern!\n\nI\u2019m excited for the opportunity to work on the embedded software and firmware behind Etched\u2019s novel inference chip architecture, and to dive deep into the intersection of low-level software and cutting-edge hardware.\n\nThanks to everyone at Etched who made the recruiting process such a smooth and enjoyable experience. Looking forward to learning from an incredible team and helping build the future of AI inference hardware!",
-   "disc_score": 24,
-   "checks": {
-    "24": 229
-   },
-   "promoted": true,
-   "miss": 0,
-   "added": 1789068989
-  },
-  "7503903854183325696": {
-   "created": 1789070094,
-   "author": "Massa Shoura",
-   "url": "https://www.linkedin.com/posts/activity-7503903854183325696-oToh",
-   "text": "Big Phinomics News:  Mark Ross has joined Phinomics as Chief Data Engineering Officer, and Guido Mathews as Chief Business Officer.\nMark has spent his career building systems. He developed RISC architectures at NeXT with Steve Jobs, was the CTO of Cypress Semiconductor, CTO of Zing, co-founder and VP of Engineering at Striiv, and most recently CTO of Etched. \nGuido brings more than two decades in global top-tier pharmaceutical R&D and commercialization. He has led product development through to market launch, and worked on FDA breakthrough designation programs. Before joining us he was VP and Head of the Center of Excellence for Imaging, Data and AI Research at Bayer AG. [for more details, s",
-   "disc_score": 23,
-   "checks": {
-    "24": 50
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1789077441
-  },
-  "7503900300152360960": {
-   "created": 1789069247,
-   "author": "Muhammad Hashir",
-   "url": "https://www.linkedin.com/posts/muhammad-hashir-2b825b123_ai-semiconductors-privatemarkets-activity-7503900300152360960-3Fgy",
-   "text": "The race to make AI inference faster, cheaper and more efficient is getting increasingly competitive.\n\nEtched is building chips specifically for transformer inference. Positron AI is taking a memory-first approach. Tensordyne is betting on a different mathematical architecture. Then you have Tenstorrent, SambaNova, Groq and Cerebras approaching AI compute in their own ways, while Lightmatter is tackling the connectivity bottleneck through photonics.\n\nPositron AI  has now raised $875 million at a $5 billion valuation. Seven months ago, it was valued at around $1 billion.\n\nOne detail I find particularly interesting: its next-generation systems are designed around commodity LPDDR5X memory rathe",
-   "disc_score": 10,
-   "checks": {
-    "24": 34
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1789077441
-  },
   "7503931416154357760": {
    "created": 1789076665,
    "author": "Michael T.",
@@ -84,7 +45,9 @@
    "url": "https://www.linkedin.com/posts/soham-kulkarni-485487338_nvidia-jensenhuang-ai-activity-7504064643888365568-gXDh",
    "text": "Nvidia CEO Jensen Huang Forecasts a Staggering 70% Revenue Growth! \ud83d\ude80\n\nMost people think Nvidia builds chips.\n\nJensen Huang wants you to think bigger \u2014 much bigger.\n\n\"One GPU now is not $399. It's $8.5 million dollars. That's one GPU \u2014 2 million parts, 250,000 kilowatts. And we ship thousands of them.\"\n\nThat's not a chip company. That's the backbone of the entire AI economy.\n\nAt the Goldman Sachs Communacopia + Technology Conference, Huang made one thing crystal clear:\n\nNvidia isn't just riding the AI wave \u2014 it IS the wave.\n\nHere's why his 70% growth forecast isn't hype \u2014 it's math:\n\n\ud83d\udd39 Nvidia powers EVERY major AI lab \u2014 OpenAI, Anthropic, Google, and virtually every open-weight model in exist",
    "disc_score": 3,
-   "checks": {},
+   "checks": {
+    "24": 3
+   },
    "promoted": false,
    "miss": 0,
    "added": 1789114819
@@ -95,7 +58,9 @@
    "url": "https://www.linkedin.com/posts/hsin-hung-wu_%E4%BD%A0%E9%BB%9E%E5%87%BA%E7%9A%84%E6%81%90%E6%87%BC%E9%A9%85%E5%8B%95%E8%88%87%E6%96%B0%E5%89%B5%E7%94%9F%E5%AD%98%E5%9B%B0%E5%A2%83%E7%A2%BA%E5%AF%A6%E6%98%AFai%E7%8B%82%E6%BD%AE%E4%B8%8B%E7%9A%84%E7%9C%9F%E5%AF%A6%E7%B8%AE%E5%BD%B1-%E9%BB%83%E4%BB%81%E5%8B%B3%E7%9A%84-activity-7504058443188736000-pOVc",
    "text": "\u4f60\u9ede\u51fa\u7684\u300c\u6050\u61fc\u9a45\u52d5\u300d\u8207\u300c\u65b0\u5275\u751f\u5b58\u56f0\u5883\u300d\u78ba\u5be6\u662fAI\u72c2\u6f6e\u4e0b\u7684\u771f\u5be6\u7e2e\u5f71\u3002\n\n\ud83d\udc51 \u9ec3\u4ec1\u52f3\u7684\u300c30\u5929\u5012\u9589\u300d\uff1a\u662f\u5fc3\u7406\u6050\u61fc\uff0c\u4e5f\u662f\u7d71\u6cbb\u5de5\u5177\n\n\u9ec3\u4ec1\u52f3\u7684\u300c30\u5929\u5012\u9589\u300d\u78ba\u5be6\u662f\u4e00\u7a2e\u5fc3\u7406\u6050\u61fc\uff0c\u4f46\u9019\u4e0d\u53ea\u662f\u5c0d\u5167\uff0c\u66f4\u662f\u5c0d\u6574\u500b\u7522\u696d\u7684\u6050\u61fc\u7d71\u6cbb\u3002\u4ed6\u5766\u8a00\u4e0d\u60f3\u5931\u6557\u7684\u52d5\u529b\u9060\u5927\u65bc\u60f3\u6210\u529f\u7684\u52d5\u529b\uff0c\u9019\u4efd\u6050\u61fc\u8b93\u4ed6\u7dad\u6301\u6bcf\u9031\u5de5\u4f5c7\u5929\u7684\u9ad8\u58d3\u72c0\u614b\u3002\u540c\u6642\uff0c\u4ed6\u4e0d\u65b7\u5c0d\u5916\u5ba3\u544a\u300c\u6c92\u6709\u7b97\u529b\u5c31\u6c92\u6709\u6536\u5165\u300d\uff0c\u5c07NVIDIA\u5f9e\u6676\u7247\u5546\u91cd\u65b0\u5b9a\u7fa9\u70ba\u300cAI\u5de5\u5ee0\u300d\uff0c\u4ee5\u6b64\u5efa\u7acb\u7121\u6cd5\u64bc\u52d5\u7684\u7522\u696d\u6a19\u6e96\u3002\n\n\u2694\ufe0f Jane Street \u8207 Etched\uff1a\u64bc\u52d5\u9738\u6b0a\u7684\u8c6a\u8ced\n\n\u4f60\u63d0\u5230\u7684\u300cJane Street \u65b0\u6676\u7247\u300d\u6311\u6230\uff0c\u7cbe\u6e96\u547d\u4e2d\u4e86NVIDIA\u7684\u8f6f\u808b\u3002\u7531\u4e09\u4f4d\u54c8\u4f5b\u8f1f\u5b78\u751f\u5275\u7acb\u7684Etched\uff0c\u5c08\u6ce8\u65bcAI\u63a8\u7406\uff08Inference\uff09 \u5e02\u5834\uff0c\u57282026\u5e748\u6708\u7372\u5f97Jane Street\u9818\u6295\u76847\u5104\u7f8e\u5143\u878d\u8cc7\uff0c\u4f30\u503c\u98c6\u5347\u81f3210\u5104\u7f8e\u5143\u3002Jane Street\u4e0d\u50c5\u662f\u6295\u8cc7\u65b9\uff0c\u66f4\u662f\u9996\u500b\u5ba2\u6236\uff0c\u5df2\u6536\u5230\u4e26\u958b\u59cb\u90e8\u7f72\u5176\u6a5f\u67b6\u7cfb\u7d71\u3002\u9019\u662f\u4e00\u5834\u91dd\u5c0dNVIDIA\u7d71\u6cbb\u5730\u4f4d\u7684\u8c6a\u8ced\uff0c\u82e5\u6210\u529f\u5c07\u76f4\u63a5\u5a01\u8105\u5176\u8b77\u57ce\u6cb3\u3002\n\n\ud83c\udf2a\ufe0f \u4e2d\u570bAI\u65b0\u5275\u7684\u300c\u63d0\u5fc3\u540a\u81bd\u300d\uff1a\u6b98\u9177\u7684\u6dd8\u6c70\u8cfd\n\n\u4e2d\u570bAI\u65b0\u5275\u78ba\u5be6\u6b63\u9762\u81e8\u751f\u6b7b\u5b58\u4ea1\u7684\u7126\u616e\uff1a\n\n\u00b7 \u6975\u9ad8\u7684\u6dd8\u6c70\u7387\uff1a\u81eaChatGPT\u767c\u5e03\u81f32024\u5e747\u6708\uff0c\u4e2d\u570b\u5df2\u670978,612\u5bb6\u65b0\u8a3b\u518aAI\u4f01\u696d\u6d88\u5931\u3002\u53e6\u6709\u6578\u64da\u986f\u793a\uff0c23.7\u842c\u5bb6\u65b0\u8a3b\u518aAI\u4f01\u696d\u4e2d\uff0c\u5df2\u67098\u842c\u5bb6\u8a3b\u92b7\u6216\u505c\u696d\uff0c\u6dd8\u6c70\u7387\u9ad8\u905434%\u3002\n\u00b7 \u878d\u8cc7\u74b0\u5883\u56b4\u5cfb\uff1a\u8cc7\u91d1\u93c8\u65b7\u88c2\u662f\u5e38\u614b\uff0c\u4f8b\u5982\u6f9c\u7801\u79d1\u6280\u5275\u59cb\u4eba\u8ce3\u623f\u767c\u85aa\u3002\u7372\u5f97\u300c\u9023\u6295\u300d\u7684\u4f01\u696d\u50c5\u4f54\u7372\u6295\u7e3d\u6578\u76842%\u3002\n\u00b7 \u5de8\u982d\u7684\u64e0\u58d3\uff1a\u982d\u90e8\u5927\u6a21\u578b\uff08\u5982DeepSeek\u3001\u8c46\u5305\uff09\u4f54\u64da\u7d55\u5927\u90e8\u5206\u7528\u6236\u8207\u8cc7\u6e90\uff0c\u4e2d\u5c0f\u4f01\u696d\u53ea\u80fd\u593e\u7e2b\u6c42\u751f\u3002\n\n\u2696\ufe0f \u4f60\u7684\u6d1e\u5bdf\uff1a\u6c92\u81bd\u5b50\u4e0d\u8981\u5275\u696d\n\n\u4f60\u5c0d\u9ec3\u4ec1\u52f3\u300c",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1789114819
@@ -132,6 +97,39 @@
    "promoted": false,
    "miss": 0,
    "added": 1789187919
+  },
+  "7504395971783598080": {
+   "created": 1789187424,
+   "author": "Citation Bureau",
+   "url": "https://www.linkedin.com/posts/citationbureau_inference-clusters-are-measured-today-in-activity-7504395971783598080-Hsa4",
+   "text": "Inference clusters are measured today in 8-chip configurations.\n\nGavin Uberti's framing from a recent episode: \"very quickly this is going to become thousands of chips and tens of thousands of chips.\"\n\nNathan Labenz, separately: \"some of my friends at labs right now are training models across data centers. It's not even across nodes anymore. It's not even racks.\"\n\nThe demand pressure behind that scaling:\n\n- Lin Qiao estimates daily token volume will grow \"Anywhere ranging from 20 to 100x\" by end of next year\n- Ben Horowitz puts annual token demand growth at \"close to a,000% a year\"\n- Simon Mo notes vLLM is already running on \"half a million GPUs at any moment\"\n\nThe supply side is the constra",
+   "disc_score": 2,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1789203192
+  },
+  "7504413516196417536": {
+   "created": 1789191607,
+   "author": "Evergreen Technologies (USA)",
+   "url": "https://www.linkedin.com/posts/evergreen-technologies-usa-3a7422198_httpszurlcosdn4b-etched-the-21-activity-7504413516196417536-Z6PS",
+   "text": "https://zurl.co/SdN4b \n\ud83d\ude80Etched: The $21 Billion Bet on Transformer-Specific Silicon\nThe provided video details the rise of Etched, a semiconductor startup that has developed a specialized chip called Sohu designed exclusively ...\nRead more at https://zurl.co/1no0p",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1789203192
+  },
+  "7504413492863631360": {
+   "created": 1789191601,
+   "author": "Evergreen Technologies LLC",
+   "url": "https://www.linkedin.com/posts/evergreen-tech-llc_httpszurlcosdn4b-etched-the-21-activity-7504413492863631360-VQug",
+   "text": "https://zurl.co/SdN4b \n\ud83d\ude80Etched: The $21 Billion Bet on Transformer-Specific Silicon\nThe provided video details the rise of Etched, a semiconductor startup that has developed a specialized chip called Sohu designed exclusively ...\nRead more at https://zurl.co/1no0p",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1789203192
   }
  },
  "baseline": {
@@ -850,6 +848,14 @@
    ],
    [
     1789175144,
+    0
+   ],
+   [
+    1789203192,
+    3
+   ],
+   [
+    1789203192,
     0
    ]
   ]
