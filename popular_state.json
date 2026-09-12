@@ -6,7 +6,9 @@
    "followers": 923,
    "url": "https://x.com/hellenomania/status/2098871284742652057",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "1": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1789245323
@@ -1032,6 +1034,10 @@
    ],
    [
     1789203135,
+    0
+   ],
+   [
+    1789252456,
     0
    ]
   ]
