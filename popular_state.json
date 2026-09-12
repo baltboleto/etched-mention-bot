@@ -1,32 +1,5 @@
 {
- "watch": {
-  "2098538001542287671": {
-   "created": 1789165423,
-   "author": "twtlinks",
-   "followers": 11642,
-   "url": "https://x.com/twtlinks/status/2098538001542287671",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1789171436
-  },
-  "2098532275415900324": {
-   "created": 1789164057,
-   "author": "IamJ_meeee",
-   "followers": 411,
-   "url": "https://x.com/IamJ_meeee/status/2098532275415900324",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1789171436
-  }
- },
+ "watch": {},
  "baseline": {
   "1": [
    [
