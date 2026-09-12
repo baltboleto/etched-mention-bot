@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7503931416154357760": {
-   "created": 1789076665,
-   "author": "Michael T.",
-   "url": "https://www.linkedin.com/posts/activity-7503931416154357760-XvuR",
-   "text": "Compute efficiency! Not model intelligence is becoming AI\u2019s next moat.\nBen Carden breakdown shows why: even as foundational labs paused mega-rounds, nearly $10B flowed into compute, custom silicon, and infrastructure companies including Crusoe, SambaNova, and Etched.\n\nThat capital is chasing the constraint that now matters most: the cost of serving inference at scale. The next AI winners may not be the teams building the smartest models. They may be the ones that can run capable models most efficiently.",
-   "disc_score": 0,
-   "checks": {
-    "24": 1
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1789079689
-  },
   "7503969869772607488": {
    "created": 1789085833,
    "author": "DailyNewsNBlog",
@@ -25,19 +12,6 @@
    "promoted": false,
    "miss": 0,
    "added": 1789088637
-  },
-  "7503939032318541824": {
-   "created": 1789078481,
-   "author": "Raja M.",
-   "url": "https://www.linkedin.com/posts/raja-m-_jensen-huang-explains-why-nvidia-will-grow-activity-7503939032318541824-a-g9",
-   "text": "Jensen Huang explains why Nvidia will grow an astounding 70% next year \n\nFounder, CEO, and tireless Nvidia hype man Jensen Huang told attendees at the Goldman Sachs Communicopia + Technology conference on Thursday why his company\u2019s AI domination \u2014 and revenues \u2014 will continue its record-breaking growth streak through the end of next year.\n\nHe can see the future. \n\nThere\u2019s been endless hand-wringing over whether Nvidia\u2019s party will end as it faces increasing competition for GPUs and AI chips from all directions: the hyperscalers (Amazon, Microsoft, and Google, each building their own) and the AI labs (Anthropic and OpenAI, which are building their own) as well as from newly public competitor ",
-   "disc_score": 0,
-   "checks": {
-    "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1789097517
   },
   "7504064643888365568": {
    "created": 1789108429,
@@ -71,7 +45,9 @@
    "url": "https://www.linkedin.com/posts/jack-hopwood_%F0%9D%90%88%F0%9D%90%AD%F0%9D%90%AC-%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB-%F0%9D%90%AD%F0%9D%90%A8%F0%9D%90%A8-%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%A5%F0%9D%90%B2-%F0%9D%90%AD%F0%9D%90%A8-activity-7504102052474699777-RLZt",
    "text": "\ud835\udc08\ud835\udc2d\u2019\ud835\udc2c \ud835\udc27\ud835\udc1e\ud835\udc2f\ud835\udc1e\ud835\udc2b \ud835\udc2d\ud835\udc28\ud835\udc28 \ud835\udc1e\ud835\udc1a\ud835\udc2b\ud835\udc25\ud835\udc32 \ud835\udc2d\ud835\udc28 \ud835\udc2c\ud835\udc2d\ud835\udc1a\ud835\udc2b\ud835\udc2d \ud835\udc29\ud835\udc2b\ud835\udc1e\ud835\udc29\ud835\udc1a\ud835\udc2b\ud835\udc22\ud835\udc27\ud835\udc20 \ud835\udc1f\ud835\udc28\ud835\udc2b \ud835\udc1a\ud835\udc27 \ud835\udc1e\ud835\udc31\ud835\udc22\ud835\udc2d, \ud835\udc1e\ud835\udc2f\ud835\udc1e\ud835\udc27 \ud835\udc22\ud835\udc1f \ud835\udc2c\ud835\udc1e\ud835\udc25\ud835\udc25\ud835\udc22\ud835\udc27\ud835\udc20 \ud835\udc1f\ud835\udc1e\ud835\udc1e\ud835\udc25\ud835\udc2c \ud835\udc1a \ud835\udc25\ud835\udc28\ud835\udc27\ud835\udc20 \ud835\udc30\ud835\udc1a\ud835\udc32 \ud835\udc28\ud835\udc1f\ud835\udc1f.  \n\nSome great conversations yesterday at Ideas Fest 2026 with founders, inventors and tech businesses reinforced this for me. The decisions made early on around IP can have a real bearing on what a buyer is willing to pay later.  \n\nCan you demonstrate ownership of the technology? Is valuable know-how being captured, or does it sit in a few people\u2019s heads? What stops a competitor replicating what makes the business successful?  \n\nAddressing these questions early helps build a stronger business today and a clearer investment case when the time comes.  \n\nThanks to Ben Scott and the Etched Tech team for th",
    "disc_score": 10,
-   "checks": {},
+   "checks": {
+    "24": 14
+   },
    "promoted": false,
    "miss": 0,
    "added": 1789125579
@@ -857,6 +833,10 @@
    [
     1789203192,
     0
+   ],
+   [
+    1789209827,
+    14
    ]
   ]
  },
