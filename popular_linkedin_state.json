@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7504064643888365568": {
-   "created": 1789108429,
-   "author": "Soham Kulkarni",
-   "url": "https://www.linkedin.com/posts/soham-kulkarni-485487338_nvidia-jensenhuang-ai-activity-7504064643888365568-gXDh",
-   "text": "Nvidia CEO Jensen Huang Forecasts a Staggering 70% Revenue Growth! \ud83d\ude80\n\nMost people think Nvidia builds chips.\n\nJensen Huang wants you to think bigger \u2014 much bigger.\n\n\"One GPU now is not $399. It's $8.5 million dollars. That's one GPU \u2014 2 million parts, 250,000 kilowatts. And we ship thousands of them.\"\n\nThat's not a chip company. That's the backbone of the entire AI economy.\n\nAt the Goldman Sachs Communacopia + Technology Conference, Huang made one thing crystal clear:\n\nNvidia isn't just riding the AI wave \u2014 it IS the wave.\n\nHere's why his 70% growth forecast isn't hype \u2014 it's math:\n\n\ud83d\udd39 Nvidia powers EVERY major AI lab \u2014 OpenAI, Anthropic, Google, and virtually every open-weight model in exist",
-   "disc_score": 3,
-   "checks": {
-    "24": 3
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1789114819
-  },
   "7504102052474699777": {
    "created": 1789117348,
    "author": "Jack Hopwood",
@@ -93,6 +80,17 @@
    "promoted": false,
    "miss": 0,
    "added": 1789232912
+  },
+  "7504607468266676226": {
+   "created": 1789237849,
+   "author": "Marco Mezger",
+   "url": "https://www.linkedin.com/posts/marcomezger_ai-chips-asic-activity-7504607468266676226-p_7T",
+   "text": "Beyond HBM: AI Inference Reshapes the Memory Hierarchy - KV Cache brings new capacity and bandwidth challenges. Unpack how HBF and SSD POD are filling the gap!\n\nAs test-time scaling takes hold, the focus of the AI industry is quickly shifting from training to inference. NVIDIA, Google, and other major #AI players rolled out inference-specific #chips in the first half of 2026, while AI #ASIC #startups such as Cerebras, SambaNova, and Etched have announced new products and strategic partnerships. Alongside this shift, the memory hierarchy is undergoing structural change, with vendors turning to #HBF, #SSD POD, and #SRAM to push past the capacity and bandwidth limits of conventional #HBM.\n\nThan",
+   "disc_score": 2,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1789240820
   }
  },
  "baseline": {
