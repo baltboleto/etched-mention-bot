@@ -45,7 +45,9 @@
    "url": "https://www.linkedin.com/posts/aessostudio_details-from-etchedcom-aessocomworketched-activity-7504207155923914752-uStz",
    "text": "Details from Etched.com\n\naesso.com/work/etched",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 3
+   },
    "promoted": false,
    "miss": 0,
    "added": 1789144065
@@ -93,6 +95,17 @@
    "promoted": false,
    "miss": 0,
    "added": 1789203192
+  },
+  "7504576802414047234": {
+   "created": 1789230537,
+   "author": "Bay Area Jobs",
+   "url": "https://www.linkedin.com/posts/bay-area-jobs_httpsjobsrminecomjobusdeveloper-experience-engineer-activity-7504576802414047234-_MaU",
+   "text": "#hiring Developer Experience Engineer\n\nApply here: https://lnkd.in/gZaXBqwV\n\nJob DescriptionJob DescriptionAbout EtchedEtched is building hardware for frontier intelligence. We co-design chips, racks, software, and manufacturing to deliver best-in-class throughput and latency across both prefill and decode workloads. Our first products are heavily focused on inference. Backed by hundreds of millions from top-tier investors and staffed by leading engineers, Etched is redefining the infrastructure layer for the fastest growing industry in history.Job SummaryWe are looking for a Developer Experience Engineer to enhance developer productivity, automation, and infrastructure across our hardware a",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1789232912
   }
  },
  "baseline": {
@@ -824,6 +837,10 @@
    [
     1789209827,
     14
+   ],
+   [
+    1789232913,
+    3
    ]
   ]
  },
