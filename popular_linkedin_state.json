@@ -1,31 +1,5 @@
 {
  "watch": {
-  "7503789564679991296": {
-   "created": 1789042845,
-   "author": "Quant Finance",
-   "url": "https://www.linkedin.com/posts/quantfinancee_meet-rui-wang-and-michael-zhang-two-former-activity-7503789564679991296-ga_4",
-   "text": "\ud83d\udea8 Meet Rui Wang and Michael Zhang, two former quant researchers who are using financial markets to train AI agents.\n\nRui previously worked in quantitative research at G-Research and studied Applied Mathematics at ETH Z\u00fcrich.\n\nMichael worked on high-frequency options trading at TransMarket Group and later worked on LLM inference systems at Etched. \n\nInstead of building another trading firm, they decided to use the hardest part of trading constantly changing markets as a training ground for AI.\n\nThey founded EdotEnv, a quant research lab building reinforcement-learning environments from real financial market data.\n\nThe idea is pretty interesting.\n\nAI agents are given quant research tasks like:",
-   "disc_score": 0,
-   "checks": {
-    "24": 1
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1789045490
-  },
-  "7503799547719004160": {
-   "created": 1789045226,
-   "author": "Ben Carden",
-   "url": "https://www.linkedin.com/posts/ben-carden-aa4a92329_the-20-biggest-ai-rounds-of-the-summer-raised-activity-7503799547719004160-bdZN",
-   "text": "The 20 biggest AI rounds of the summer raised $35B between them. Not one went to OpenAI, Anthropic or xAI.\nThirteen cleared $1B. Nvidia wrote the whole cheque on two of them and was in four more.\nHere's every round, ranked by size:\n\n1. Databricks, $5B. At $190B.\n2. Safe Superintelligence, $5B. Nvidia, sole investor.\n3. Moonshot AI, $3.5B. At $35B, reported.\n4. Crusoe, $3B+. At $30B.\n5. Kling AI, $3B. AI video.\n6. Firmus, $2B. AI factories.\n7. Helsing, $1.8B. At $18B.\n8. Atoms, $1.7B. Travis Kalanick's robots.\n9. Fireworks AI, $1.5B. At $17.5B.\n10. Quantum Systems, $1.2B. Defense drones.\n11. River AI, $1.1B. Two months old.\n12. SambaNova, $1B. First close.\n13. Poolside, $1B. Reported.\n14. XPe",
-   "disc_score": 3,
-   "checks": {
-    "24": 81
-   },
-   "promoted": true,
-   "miss": 0,
-   "added": 1789057455
-  },
   "7503888794614566912": {
    "created": 1789066504,
    "author": "Manasva Katyal",
@@ -84,7 +58,9 @@
    "url": "https://www.linkedin.com/posts/dailynewsnblog_jensen-huang-explains-why-nvidia-will-grow-activity-7503969869772607488-wox8",
    "text": "Jensen Huang explains why Nvidia will grow an astounding 70% next\u00a0year\n\nFounder, CEO, and tireless Nvidia hype man Jensen Huang told attendees at the Goldman Sachs Communacopia + Technology conference on Thursday why his company\u2019s AI domination \u2014 and revenues \u2014 will continue its record-breaking growth streak through the end of next year. He can see the future. There\u2019s been endless hand-wringing over whether Nvidia\u2019s party will end as it faces increasing competition for GPUs and AI chips from all directions: the hyperscalers (Amazon, Microsoft, and Google, each building their own) and the AI labs (Anthropic and OpenAI, which are building their own), as well as from newly public competitor Cer",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1789088637
@@ -859,6 +835,10 @@
    ],
    [
     1789166071,
+    0
+   ],
+   [
+    1789175144,
     0
    ]
   ]
