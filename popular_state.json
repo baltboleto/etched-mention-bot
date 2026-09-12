@@ -1,43 +1,5 @@
 {
- "watch": {
-  "2098687769363014046": {
-   "created": 1789201130,
-   "author": "WWTLitee",
-   "followers": 68092,
-   "url": "https://x.com/WWTLitee/status/2098687769363014046",
-   "disc_score": 6,
-   "checks": {},
-   "promoted": false,
-   "miss": 0,
-   "added": 1789203135
-  },
-  "2098657831276749221": {
-   "created": 1789193992,
-   "author": "twtlinks",
-   "followers": 11651,
-   "url": "https://x.com/twtlinks/status/2098657831276749221",
-   "disc_score": 0,
-   "checks": {
-    "1": null
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1789203135
-  },
-  "2098674687538610268": {
-   "created": 1789198011,
-   "author": "Just_FaisalI",
-   "followers": 4788,
-   "url": "https://x.com/Just_FaisalI/status/2098674687538610268",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1789203135
-  }
- },
+ "watch": {},
  "baseline": {
   "1": [
    [
