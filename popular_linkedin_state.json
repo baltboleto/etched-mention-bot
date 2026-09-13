@@ -1,25 +1,14 @@
 {
  "watch": {
-  "7504207155923914752": {
-   "created": 1789142407,
-   "author": "Aesso",
-   "url": "https://www.linkedin.com/posts/aessostudio_details-from-etchedcom-aessocomworketched-activity-7504207155923914752-uStz",
-   "text": "Details from Etched.com\n\naesso.com/work/etched",
-   "disc_score": 0,
-   "checks": {
-    "24": 3
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1789144065
-  },
   "7504343184806862848": {
    "created": 1789174839,
    "author": "Maiko Resente",
    "url": "https://www.linkedin.com/posts/maiko-resente-55075b1b5_ai-artificialintelligence-ainews-activity-7504343184806862848-m7G2",
    "text": "Etched reached a reported $21B valuation in August 2026, leading a snapshot of private AI chip companies and their latest reported valuations, which matter because the figures show where private funding is concentrating across AI compute.\n\nSambaNova is listed at $11B, Groq at $3.5B, Tenstorrent at $2.7B, Rebellions at $2.34B, and d-Matrix at $2B. The figures are reported on different dates and bases, so they are not a like for like ranking.\n\nRead more here: https://lnkd.in/gUefT3tN\n\n\ud83d\udce8 Subscribe to one of our AI Newsletters: https://lnkd.in/g-U2U9UM\n\n#ai #artificialintelligence #ainews",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 1
+   },
    "promoted": false,
    "miss": 0,
    "added": 1789187919
@@ -30,7 +19,9 @@
    "url": "https://www.linkedin.com/posts/citationbureau_inference-clusters-are-measured-today-in-activity-7504395971783598080-Hsa4",
    "text": "Inference clusters are measured today in 8-chip configurations.\n\nGavin Uberti's framing from a recent episode: \"very quickly this is going to become thousands of chips and tens of thousands of chips.\"\n\nNathan Labenz, separately: \"some of my friends at labs right now are training models across data centers. It's not even across nodes anymore. It's not even racks.\"\n\nThe demand pressure behind that scaling:\n\n- Lin Qiao estimates daily token volume will grow \"Anywhere ranging from 20 to 100x\" by end of next year\n- Ben Horowitz puts annual token demand growth at \"close to a,000% a year\"\n- Simon Mo notes vLLM is already running on \"half a million GPUs at any moment\"\n\nThe supply side is the constra",
    "disc_score": 2,
-   "checks": {},
+   "checks": {
+    "24": 2
+   },
    "promoted": false,
    "miss": 0,
    "added": 1789203192
@@ -857,6 +848,14 @@
    [
     1789232913,
     3
+   ],
+   [
+    1789276456,
+    1
+   ],
+   [
+    1789276456,
+    2
    ]
   ]
  },
