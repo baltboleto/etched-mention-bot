@@ -19,7 +19,9 @@
    "url": "https://www.linkedin.com/posts/marcomezger_ai-chips-asic-activity-7504607468266676226-p_7T",
    "text": "Beyond HBM: AI Inference Reshapes the Memory Hierarchy - KV Cache brings new capacity and bandwidth challenges. Unpack how HBF and SSD POD are filling the gap!\n\nAs test-time scaling takes hold, the focus of the AI industry is quickly shifting from training to inference. NVIDIA, Google, and other major #AI players rolled out inference-specific #chips in the first half of 2026, while AI #ASIC #startups such as Cerebras, SambaNova, and Etched have announced new products and strategic partnerships. Alongside this shift, the memory hierarchy is undergoing structural change, with vendors turning to #HBF, #SSD POD, and #SRAM to push past the capacity and bandwidth limits of conventional #HBM.\n\nThan",
    "disc_score": 2,
-   "checks": {},
+   "checks": {
+    "24": 46
+   },
    "promoted": false,
    "miss": 0,
    "added": 1789240820
@@ -846,6 +848,10 @@
    [
     1789321342,
     0
+   ],
+   [
+    1789327636,
+    46
    ]
   ]
  },
