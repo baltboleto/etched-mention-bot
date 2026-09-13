@@ -6,10 +6,25 @@
    "followers": 384,
    "url": "https://x.com/marisummerss/status/2099220722841452680",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "1": null
+   },
    "promoted": false,
    "miss": 0,
    "added": 1789329055
+  },
+  "2099226140649144810": {
+   "created": 1789329488,
+   "author": "DanielMeows",
+   "followers": 1839,
+   "url": "https://x.com/DanielMeows/status/2099226140649144810",
+   "disc_score": 2,
+   "checks": {
+    "1": 2
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1789337498
   }
  },
  "baseline": {
@@ -1049,6 +1064,10 @@
    [
     1789294826,
     1
+   ],
+   [
+    1789337499,
+    2
    ]
   ]
  },
