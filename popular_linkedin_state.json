@@ -1,51 +1,14 @@
 {
  "watch": {
-  "7504395971783598080": {
-   "created": 1789187424,
-   "author": "Citation Bureau",
-   "url": "https://www.linkedin.com/posts/citationbureau_inference-clusters-are-measured-today-in-activity-7504395971783598080-Hsa4",
-   "text": "Inference clusters are measured today in 8-chip configurations.\n\nGavin Uberti's framing from a recent episode: \"very quickly this is going to become thousands of chips and tens of thousands of chips.\"\n\nNathan Labenz, separately: \"some of my friends at labs right now are training models across data centers. It's not even across nodes anymore. It's not even racks.\"\n\nThe demand pressure behind that scaling:\n\n- Lin Qiao estimates daily token volume will grow \"Anywhere ranging from 20 to 100x\" by end of next year\n- Ben Horowitz puts annual token demand growth at \"close to a,000% a year\"\n- Simon Mo notes vLLM is already running on \"half a million GPUs at any moment\"\n\nThe supply side is the constra",
-   "disc_score": 2,
-   "checks": {
-    "24": 2
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1789203192
-  },
-  "7504413516196417536": {
-   "created": 1789191607,
-   "author": "Evergreen Technologies (USA)",
-   "url": "https://www.linkedin.com/posts/evergreen-technologies-usa-3a7422198_httpszurlcosdn4b-etched-the-21-activity-7504413516196417536-Z6PS",
-   "text": "https://zurl.co/SdN4b \n\ud83d\ude80Etched: The $21 Billion Bet on Transformer-Specific Silicon\nThe provided video details the rise of Etched, a semiconductor startup that has developed a specialized chip called Sohu designed exclusively ...\nRead more at https://zurl.co/1no0p",
-   "disc_score": 0,
-   "checks": {
-    "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1789203192
-  },
-  "7504413492863631360": {
-   "created": 1789191601,
-   "author": "Evergreen Technologies LLC",
-   "url": "https://www.linkedin.com/posts/evergreen-tech-llc_httpszurlcosdn4b-etched-the-21-activity-7504413492863631360-VQug",
-   "text": "https://zurl.co/SdN4b \n\ud83d\ude80Etched: The $21 Billion Bet on Transformer-Specific Silicon\nThe provided video details the rise of Etched, a semiconductor startup that has developed a specialized chip called Sohu designed exclusively ...\nRead more at https://zurl.co/1no0p",
-   "disc_score": 0,
-   "checks": {
-    "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1789203192
-  },
   "7504576802414047234": {
    "created": 1789230537,
    "author": "Bay Area Jobs",
    "url": "https://www.linkedin.com/posts/bay-area-jobs_httpsjobsrminecomjobusdeveloper-experience-engineer-activity-7504576802414047234-_MaU",
    "text": "#hiring Developer Experience Engineer\n\nApply here: https://lnkd.in/gZaXBqwV\n\nJob DescriptionJob DescriptionAbout EtchedEtched is building hardware for frontier intelligence. We co-design chips, racks, software, and manufacturing to deliver best-in-class throughput and latency across both prefill and decode workloads. Our first products are heavily focused on inference. Backed by hundreds of millions from top-tier investors and staffed by leading engineers, Etched is redefining the infrastructure layer for the fastest growing industry in history.Job SummaryWe are looking for a Developer Experience Engineer to enhance developer productivity, automation, and infrastructure across our hardware a",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1789232912
@@ -878,6 +841,10 @@
    ],
    [
     1789316110,
+    0
+   ],
+   [
+    1789321342,
     0
    ]
   ]
