@@ -1,30 +1,37 @@
 {
  "watch": {
-  "2099220722841452680": {
-   "created": 1789328196,
-   "author": "marisummerss",
-   "followers": 384,
-   "url": "https://x.com/marisummerss/status/2099220722841452680",
+  "2099279424327954602": {
+   "created": 1789342192,
+   "author": "mtave0128",
+   "followers": 16620,
+   "url": "https://x.com/mtave0128/status/2099279424327954602",
    "disc_score": 0,
-   "checks": {
-    "1": null
-   },
+   "checks": {},
    "promoted": false,
    "miss": 0,
-   "added": 1789329055
+   "added": 1789344842
   },
-  "2099226140649144810": {
-   "created": 1789329488,
-   "author": "DanielMeows",
-   "followers": 1839,
-   "url": "https://x.com/DanielMeows/status/2099226140649144810",
-   "disc_score": 2,
-   "checks": {
-    "1": 2
-   },
+  "2099278034218148040": {
+   "created": 1789341860,
+   "author": "destinydou_",
+   "followers": 16524,
+   "url": "https://x.com/destinydou_/status/2099278034218148040",
+   "disc_score": 0,
+   "checks": {},
    "promoted": false,
    "miss": 0,
-   "added": 1789337498
+   "added": 1789344842
+  },
+  "2099278764593258995": {
+   "created": 1789342034,
+   "author": "waybeyondthesky",
+   "followers": 230,
+   "url": "https://x.com/waybeyondthesky/status/2099278764593258995",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1789344842
   }
  },
  "baseline": {
