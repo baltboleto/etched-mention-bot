@@ -1,41 +1,28 @@
 {
  "watch": {
-  "2099447522016006469": {
-   "created": 1789382269,
-   "author": "kwnorton1",
-   "followers": 801,
-   "url": "https://x.com/kwnorton1/status/2099447522016006469",
+  "2099499776764969320": {
+   "created": 1789394728,
+   "author": "Garmange88",
+   "followers": 534,
+   "url": "https://x.com/Garmange88/status/2099499776764969320",
+   "disc_score": 1,
+   "checks": {
+    "1": null
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1789403889
+  },
+  "2099530764870152658": {
+   "created": 1789402116,
+   "author": "dylan2045ad",
+   "followers": 342,
+   "url": "https://x.com/dylan2045ad/status/2099530764870152658",
    "disc_score": 0,
    "checks": {},
    "promoted": false,
    "miss": 0,
-   "added": 1789382531
-  },
-  "2099431549267771409": {
-   "created": 1789378461,
-   "author": "tysn_dev",
-   "followers": 66,
-   "url": "https://x.com/tysn_dev/status/2099431549267771409",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1789382531
-  },
-  "2099412737017434125": {
-   "created": 1789373976,
-   "author": "eshankaul02",
-   "followers": 22,
-   "url": "https://x.com/eshankaul02/status/2099412737017434125",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1789382531
+   "added": 1789403889
   }
  },
  "baseline": {
