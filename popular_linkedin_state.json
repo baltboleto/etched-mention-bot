@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7504607468266676226": {
-   "created": 1789237849,
-   "author": "Marco Mezger",
-   "url": "https://www.linkedin.com/posts/marcomezger_ai-chips-asic-activity-7504607468266676226-p_7T",
-   "text": "Beyond HBM: AI Inference Reshapes the Memory Hierarchy - KV Cache brings new capacity and bandwidth challenges. Unpack how HBF and SSD POD are filling the gap!\n\nAs test-time scaling takes hold, the focus of the AI industry is quickly shifting from training to inference. NVIDIA, Google, and other major #AI players rolled out inference-specific #chips in the first half of 2026, while AI #ASIC #startups such as Cerebras, SambaNova, and Etched have announced new products and strategic partnerships. Alongside this shift, the memory hierarchy is undergoing structural change, with vendors turning to #HBF, #SSD POD, and #SRAM to push past the capacity and bandwidth limits of conventional #HBM.\n\nThan",
-   "disc_score": 2,
-   "checks": {
-    "24": 46
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1789240820
-  },
   "7504990783737864192": {
    "created": 1789329238,
    "author": "Mark Jones",
@@ -67,6 +54,17 @@
    "promoted": false,
    "miss": 0,
    "added": 1789366567
+  },
+  "7505176847345946624": {
+   "created": 1789373599,
+   "author": "Eshan Kaul",
+   "url": "https://www.linkedin.com/posts/activity-7505176847345946624-I_Hi",
+   "text": "A quantitative explanation for why NVIDIA's P/E multiples may be compressed. \n\nNVIDIA's(and GPUs like AMD/Intel) dominance in AI training is unquestionable. This is because AI model training is heavy on matrix multiplications (FLOPs) and NVIDIA has a CUDA moat on training. I expect the same dominance to continue in the next few years too. \n\nBut the problem is that compute workload is of two kinds: TRAINING and INFERENCE. The share of TRAINING as a proportion of total compute workload has gradually been going down in the last few quarters. \nTo give an analogy, model TRAINING is when the AI model(Like ChatGPT) learns how to be smart, and TRAINING is like the AI giving an exam where we humans a",
+   "disc_score": 2,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1789382650
   }
  },
  "baseline": {
