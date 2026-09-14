@@ -1,37 +1,41 @@
 {
  "watch": {
-  "2099279424327954602": {
-   "created": 1789342192,
-   "author": "mtave0128",
-   "followers": 16620,
-   "url": "https://x.com/mtave0128/status/2099279424327954602",
+  "2099355688744956390": {
+   "created": 1789360374,
+   "author": "infrapapi",
+   "followers": 100,
+   "url": "https://x.com/infrapapi/status/2099355688744956390",
    "disc_score": 0,
    "checks": {},
    "promoted": false,
    "miss": 0,
-   "added": 1789344842
+   "added": 1789362225
   },
-  "2099278034218148040": {
-   "created": 1789341860,
-   "author": "destinydou_",
-   "followers": 16524,
-   "url": "https://x.com/destinydou_/status/2099278034218148040",
-   "disc_score": 0,
-   "checks": {},
+  "2099329964579377569": {
+   "created": 1789354241,
+   "author": "infrapapi",
+   "followers": 100,
+   "url": "https://x.com/infrapapi/status/2099329964579377569",
+   "disc_score": 2,
+   "checks": {
+    "1": 2
+   },
    "promoted": false,
    "miss": 0,
-   "added": 1789344842
+   "added": 1789362225
   },
-  "2099278764593258995": {
-   "created": 1789342034,
-   "author": "waybeyondthesky",
-   "followers": 230,
-   "url": "https://x.com/waybeyondthesky/status/2099278764593258995",
-   "disc_score": 0,
-   "checks": {},
+  "2099344747651330300": {
+   "created": 1789357766,
+   "author": "siliconhillstx",
+   "followers": 28,
+   "url": "https://x.com/siliconhillstx/status/2099344747651330300",
+   "disc_score": 1,
+   "checks": {
+    "1": 1
+   },
    "promoted": false,
    "miss": 0,
-   "added": 1789344842
+   "added": 1789362225
   }
  },
  "baseline": {
@@ -1075,6 +1079,14 @@
    [
     1789337499,
     2
+   ],
+   [
+    1789362225,
+    2
+   ],
+   [
+    1789362225,
+    1
    ]
   ]
  },
