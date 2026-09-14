@@ -6,7 +6,9 @@
    "url": "https://www.linkedin.com/posts/markqjones_the-leading-web-search-apis-for-ai-activity-7504990783737864192-feHv",
    "text": "Which of these brands have you used? What are they used for \ud83d\ude00 what are your top 3 and why?\n\n**Labs and models**\nOpenAI, Anthropic, Google DeepMind, Meta AI, xAI, Mistral AI, Cohere, AI21 Labs, Reka, Stability AI, EleutherAI, Sakana AI, Liquid AI, DeepSeek, Alibaba Qwen, Moonshot Kimi, Zhipu GLM, Baidu Ernie, ByteDance Doubao, Tencent Hunyuan, 01.AI, MiniMax, Naver HyperClova, LG Exaone, Upstage Solar, TII Falcon, IBM Granite, Microsoft Phi, Nvidia Nemotron, Databricks DBRX, Snowflake Arctic, Amazon Nova, Writer Palmyra.\nModel brands: GPT, Claude, Gemini, Llama, Grok, Mixtral, Command R, Jamba, Titan.\n\n**Coding**\nGitHub Copilot, Cursor, Claude Code, Windsurf, Codeium, Replit, Tabnine, Sourceg",
    "disc_score": 3,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1789337566
@@ -190,6 +192,17 @@
    "promoted": false,
    "miss": 0,
    "added": 1789413685
+  },
+  "7505355130997747712": {
+   "created": 1789416105,
+   "author": "Jason Gelman",
+   "url": "https://www.linkedin.com/posts/jasongelman_the-nyc-tech-summit-activity-7505355130997747712-uxZl",
+   "text": "We at Primary are gearing up for our annual Summit this week. Our amazing marketing team has been hard at work preparing to host thousands of members of the NYC tech community. \n\nIt'll be our best one yet, featuring a great lineup of guest speakers including the founders of Cloudflare, Rogo, Runway, Etched, Parallel Web Systems, Standard Bots, and Baseten, C-Suite execs from Harvey and Vercel, top VCs, and special closing session featuring Lance Armstrong. \n\nLook forward to reconnecting with lots of old friends and meeting new people in our broader NYC tech community. See ya there! // Primary Venture Partners\n\nhttps://primarysummit.vc/",
+   "disc_score": 6,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1789418377
   }
  },
  "baseline": {
@@ -969,6 +982,10 @@
    [
     1789403967,
     5
+   ],
+   [
+    1789418377,
+    0
    ]
   ]
  },
