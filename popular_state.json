@@ -1,41 +1,41 @@
 {
  "watch": {
-  "2099355688744956390": {
-   "created": 1789360374,
-   "author": "infrapapi",
-   "followers": 100,
-   "url": "https://x.com/infrapapi/status/2099355688744956390",
+  "2099447522016006469": {
+   "created": 1789382269,
+   "author": "kwnorton1",
+   "followers": 801,
+   "url": "https://x.com/kwnorton1/status/2099447522016006469",
    "disc_score": 0,
    "checks": {},
    "promoted": false,
    "miss": 0,
-   "added": 1789362225
+   "added": 1789382531
   },
-  "2099329964579377569": {
-   "created": 1789354241,
-   "author": "infrapapi",
-   "followers": 100,
-   "url": "https://x.com/infrapapi/status/2099329964579377569",
-   "disc_score": 2,
+  "2099431549267771409": {
+   "created": 1789378461,
+   "author": "tysn_dev",
+   "followers": 66,
+   "url": "https://x.com/tysn_dev/status/2099431549267771409",
+   "disc_score": 0,
    "checks": {
-    "1": 2
+    "1": 0
    },
    "promoted": false,
    "miss": 0,
-   "added": 1789362225
+   "added": 1789382531
   },
-  "2099344747651330300": {
-   "created": 1789357766,
-   "author": "siliconhillstx",
-   "followers": 28,
-   "url": "https://x.com/siliconhillstx/status/2099344747651330300",
-   "disc_score": 1,
+  "2099412737017434125": {
+   "created": 1789373976,
+   "author": "eshankaul02",
+   "followers": 22,
+   "url": "https://x.com/eshankaul02/status/2099412737017434125",
+   "disc_score": 0,
    "checks": {
-    "1": 1
+    "1": 0
    },
    "promoted": false,
    "miss": 0,
-   "added": 1789362225
+   "added": 1789382531
   }
  },
  "baseline": {
@@ -1087,6 +1087,14 @@
    [
     1789362225,
     1
+   ],
+   [
+    1789382531,
+    0
+   ],
+   [
+    1789382531,
+    0
    ]
   ]
  },
