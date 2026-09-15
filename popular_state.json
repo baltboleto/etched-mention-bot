@@ -1,43 +1,17 @@
 {
  "watch": {
-  "2099894947281518677": {
-   "created": 1789488944,
-   "author": "CammyLizz",
-   "followers": 299,
-   "url": "https://x.com/CammyLizz/status/2099894947281518677",
-   "disc_score": 0,
+  "2099941785007202732": {
+   "created": 1789500111,
+   "author": "AgentYuri",
+   "followers": 191,
+   "url": "https://x.com/AgentYuri/status/2099941785007202732",
+   "disc_score": 1,
    "checks": {
-    "1": 0
+    "1": 1
    },
    "promoted": false,
    "miss": 0,
-   "added": 1789493833
-  },
-  "2099886034095898811": {
-   "created": 1789486819,
-   "author": "NatalieFratto",
-   "followers": 7500,
-   "url": "https://x.com/NatalieFratto/status/2099886034095898811",
-   "disc_score": 24,
-   "checks": {
-    "1": 27
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1789493833
-  },
-  "2099889264360300808": {
-   "created": 1789487589,
-   "author": "stevenha75",
-   "followers": 36,
-   "url": "https://x.com/stevenha75/status/2099889264360300808",
-   "disc_score": 5,
-   "checks": {
-    "1": 5
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1789493833
+   "added": 1789503989
   }
  },
  "baseline": {
@@ -1113,6 +1087,10 @@
    [
     1789493833,
     5
+   ],
+   [
+    1789503990,
+    1
    ]
   ]
  },
