@@ -71,7 +71,9 @@
    "url": "https://www.linkedin.com/posts/theinvestorsociety_the-bays-ten-largest-venture-rounds-of-august-activity-7505255311276974080-rqAK",
    "text": "The Bay's ten largest venture rounds of August 2026 \ud83c\uddfa\ud83c\uddf8 \ud83d\ude80 \n\nLumilens and Etched tied at the top with US$700 M each, a Series C and a Series D closed twelve days apart. Higgsfield AI took US$400 M at Series B. Below them, seven rounds between US$80 M and US$280 M, six of which were Series B. The month's capital concentrated early: eight of the ten rounds were Series B or C. \n\nOur desk is watching how fast these companies return to market.",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1789394539
@@ -266,6 +268,17 @@
    "promoted": false,
    "miss": 0,
    "added": 1789476928
+  },
+  "7505611986848620545": {
+   "created": 1789477345,
+   "author": "Emily Airey",
+   "url": "https://www.linkedin.com/posts/emilyaireyuk_ideasfest-entrepreneurship-founders-activity-7505611986848620545-lXOb",
+   "text": "Here's how my time at Ideas Fest went last week... \nAnd after two glorious days at Champneys in Tring, I can absolutely see why they call it the Glastonbury for entrepreneurs. \ud83c\udfaa Feelings of pure joy and nostalgia could be felt across the site!\n\nFor me, this year wasn\u2019t so much about going there to network.\u00a0It was about going there to support people I believe in.\n\nFour of the businesses I\u2019ve been lucky enough to have as our AI Match partners were there, and it was brilliant to see them doing their thing in person:\n\u2728 Etched Tech\n\u2728 Datumra\n\u2728 Implement AI\n\u2728 Vidonary\n\nFrom main stages to panel discussions, these people and other great business leaders were sharing what they\u2019re building, the probl",
+   "disc_score": 1,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1789479125
   }
  },
  "baseline": {
@@ -1069,6 +1082,10 @@
    [
     1789476928,
     7
+   ],
+   [
+    1789479125,
+    0
    ]
   ]
  },
