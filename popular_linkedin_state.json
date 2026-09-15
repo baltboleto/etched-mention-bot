@@ -214,6 +214,28 @@
    "promoted": false,
    "miss": 0,
    "added": 1789427259
+  },
+  "7505418006559092737": {
+   "created": 1789431096,
+   "author": "Vanessa Ho",
+   "url": "https://www.linkedin.com/posts/activity-7505418006559092737-OtMJ",
+   "text": "Looking to buy and sell share allocation for family offices.\n\nList incoming.\n\nBUY request:\n\n* Anduril\n* Anthropic\n* Blue Origin\n* Boring Company\n* ByteDance\n* ClickHouse\n* Databricks\n* Discovery Loop\n* ElevenLabs\n* Etched\n* Fanatics\n* Figure\n* Fireworks AI\n* Hadrian\n* Harvey AI\n* Helsing\n* ICEYE\n* Isomorphic Labs\n* Kalshi\n* Moonshot AI / Kimi\n* Neuralink\n* Nscale\n* OpenAI\n* OpenEvidence\n* Physical Intelligence\n* Polymarket\n* Project Prometheus\n* Revolut\n* Saronic\n* Shield AI\n* Stripe\n* Tenstorrent\n* Waymo\n\nSELL request:\n\n* Aalo Atomics\n* Aire\n* Anthropic\n* Atoms\n* Blue Origin\n* ByteDance\n* Canva\n* CesiumAstro\n* Crusoe AI\n* Databricks\n* Dawn Aerospace\n* Deel\n* Eight Sleep\n* Enigma\n* Erebor\n* ",
+   "disc_score": 1,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1789435650
+  },
+  "7505399833713881088": {
+   "created": 1789426763,
+   "author": "Akole Peter",
+   "url": "https://www.linkedin.com/posts/akole-peter-773803198_etched-just-announced-a-700m-raise-at-a-activity-7505399833713881088-5iCb",
+   "text": "Etched just announced a $700M raise at a $21B valuation, a testament to Etched's fast rise as one of the most promising companies in AI infrastructure. Galaxy has been proud to back Etched since its Series A in 2024. \n\nFrom the start, Etched was an early bet on a contrarian thesis: that inference, not training, would become the defining compute challenge of the AI era. Today, that thesis has become real hardware, shipping into production at some of the most demanding customers in the industry.\n\nCongrats to the entire Etched team. We're excited to keep supporting you as you build the infrastructure layer for fast, cheap AI inference.",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1789435650
   }
  },
  "baseline": {
