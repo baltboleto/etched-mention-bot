@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7505138159010258944": {
-   "created": 1789364375,
-   "author": "Avery Lu",
-   "url": "https://www.linkedin.com/posts/averylu_caspa-ceo-summit-activity-7505138159010258944-_z9v",
-   "text": "\ud83d\ude80 CASPA 35th Annual Conference & Dinner Banquet \u2014 The CEO Summit\n\nAn expanded lineup is taking shape for CASPA\u2019s 35th anniversary \u2014 bringing together 35+ CEOs, 8 keynotes, 9 panels, and 2 fireside chats on one historic stage.\n\n\ud83d\udcc5 Oct. 23\u201324, 2026\n\ud83d\udccd Santa Clara Convention Center\n\n\ud83d\udd25 Featured Fireside Chats\nLip-Bu Tan, CEO of Intel \u2014 Dinner Fireside Chat\nAndrew Feldman, CEO of Cerebras \u2014 Afternoon Fireside Chat\n\nBoth conversations will be hosted by Jimmy Cheng, CASPA President for 2026\u201327.\n\n\ud83c\udf1f Industry Leaders\nCEOs from Synopsys \u00b7 Western Digital \u00b7 Fortinet \u00b7 Lumentum \u00b7 Cerebras \u00b7 Credo\n\n\ud83c\udfc6 Industry Pioneers\nDavid Lam \u2014 Founder & First CEO of Lam Research\nChenming Hu \u2014 Inventor of the FinFET and p",
-   "disc_score": 11,
-   "checks": {
-    "24": 15
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1789366567
-  },
   "7505176847345946624": {
    "created": 1789373599,
    "author": "Eshan Kaul",
@@ -136,7 +123,9 @@
    "url": "https://www.linkedin.com/posts/caspa-office-595263a_caspa-ceosummit-semiconductors-activity-7505320815140216832-94K0",
    "text": "\ud83d\ude80 CASPA 35th Annual Conference & Dinner Banquet \u2014 The CEO Summit\nAn expanded lineup is taking shape for CASPA\u2019s 35th anniversary \u2014 bringing together 35+ CEOs, 8 keynotes, 9 panels, and 2 fireside chats on one historic stage.\n\n\ud83d\udcc5 Oct. 23\u201324, 2026\n\ud83d\udccd Santa Clara Convention Center\n\n\ud83d\udd25 Featured Fireside Chats\nLip-Bu Tan, CEO of Intel \u2014 Dinner Fireside Chat\nAndrew Feldman, CEO of Cerebras \u2014 Afternoon Fireside Chat\n\nBoth conversations will be hosted by Jimmy Cheng, CASPA President for 2026\u201327.\n\n\ud83c\udf1f Industry Leaders\nCEOs from Synopsys Inc \u00b7 Western Digital Solution \u00b7 Fortinet \u00b7 Lumentum \u00b7 Cerebras \u00b7 Credo\n\n\ud83c\udfc6 Industry Pioneers\nDavid Lam \u2014 Founder & First CEO of Lam Research\nChenming Hu \u2014 Inventor of the ",
    "disc_score": 21,
-   "checks": {},
+   "checks": {
+    "24": 54
+   },
    "promoted": false,
    "miss": 0,
    "added": 1789413685
@@ -1124,6 +1113,10 @@
    [
     1789493917,
     11
+   ],
+   [
+    1789495873,
+    54
    ]
   ]
  },
