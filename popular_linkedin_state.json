@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7504990783737864192": {
-   "created": 1789329238,
-   "author": "Mark Jones",
-   "url": "https://www.linkedin.com/posts/markqjones_the-leading-web-search-apis-for-ai-activity-7504990783737864192-feHv",
-   "text": "Which of these brands have you used? What are they used for \ud83d\ude00 what are your top 3 and why?\n\n**Labs and models**\nOpenAI, Anthropic, Google DeepMind, Meta AI, xAI, Mistral AI, Cohere, AI21 Labs, Reka, Stability AI, EleutherAI, Sakana AI, Liquid AI, DeepSeek, Alibaba Qwen, Moonshot Kimi, Zhipu GLM, Baidu Ernie, ByteDance Doubao, Tencent Hunyuan, 01.AI, MiniMax, Naver HyperClova, LG Exaone, Upstage Solar, TII Falcon, IBM Granite, Microsoft Phi, Nvidia Nemotron, Databricks DBRX, Snowflake Arctic, Amazon Nova, Writer Palmyra.\nModel brands: GPT, Claude, Gemini, Llama, Grok, Mixtral, Command R, Jamba, Titan.\n\n**Coding**\nGitHub Copilot, Cursor, Claude Code, Windsurf, Codeium, Replit, Tabnine, Sourceg",
-   "disc_score": 3,
-   "checks": {
-    "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1789337566
-  },
   "7505082165223641090": {
    "created": 1789351025,
    "author": "Chunlin W.",
@@ -58,7 +45,9 @@
    "url": "https://www.linkedin.com/posts/activity-7505176847345946624-I_Hi",
    "text": "A quantitative explanation for why NVIDIA's P/E multiples may be compressed. \n\nNVIDIA's(and GPUs like AMD/Intel) dominance in AI training is unquestionable. This is because AI model training is heavy on matrix multiplications (FLOPs) and NVIDIA has a CUDA moat on training. I expect the same dominance to continue in the next few years too. \n\nBut the problem is that compute workload is of two kinds: TRAINING and INFERENCE. The share of TRAINING as a proportion of total compute workload has gradually been going down in the last few quarters. \nTo give an analogy, model TRAINING is when the AI model(Like ChatGPT) learns how to be smart, and TRAINING is like the AI giving an exam where we humans a",
    "disc_score": 2,
-   "checks": {},
+   "checks": {
+    "24": 4
+   },
    "promoted": false,
    "miss": 0,
    "added": 1789382650
@@ -69,7 +58,9 @@
    "url": "https://www.linkedin.com/posts/electronics-industry-forecast_aicomputing-developers-aiinference-activity-7505223049789538304-agxz",
    "text": "\ud83e\udd16 AI Inference Chip Market is Powering Real-Time Intelligent Computing Across Devices with a CAGR of 19.2% | \ud83d\udce5 Download Free PDF Brochure:  https://lnkd.in/dQTecmhT\n\n\ud83e\udd16 Core AI Inference Chip Market Solutions\n\u27a4 AI Inference Accelerators & Processors\n\u27a4 Neural Processing Units (NPUs)\n\u27a4 Edge AI Inference Chips\n\u27a4 Data Center AI Inference Accelerators\n\u27a4 Low-Power & High-Performance #AIComputing Solutions\n\n\ud83d\udcca Market Highlights\n\ud83d\udd39 Rapid growth in generative AI, computer vision, natural language processing, and intelligent automation is accelerating demand for high-performance inference computing.\n\ud83d\udd39 Cloud providers, enterprises, automotive manufacturers, smartphone companies, and edge-device #developer",
    "disc_score": 6,
-   "checks": {},
+   "checks": {
+    "24": 7
+   },
    "promoted": false,
    "miss": 0,
    "added": 1789394539
@@ -253,6 +244,28 @@
    "promoted": false,
    "miss": 0,
    "added": 1789457015
+  },
+  "7505601728898129920": {
+   "created": 1789474899,
+   "author": "LEBIGDATA.FR",
+   "url": "https://www.linkedin.com/posts/le-big-data-%2Efr_puce-ia-asic-les-21-milliards-detched-activity-7505601728898129920-O4-n",
+   "text": "La startup Etched r\u00e9volutionne le march\u00e9 des puces pour l'IA avec une lev\u00e9e de fonds record de 700 millions de dollars, valorisant l'entreprise \u00e0 21 milliards. Cette avanc\u00e9e promet de concurrencer les GPU polyvalents de Nvidia en proposant une puce IA ASIC hyper-optimis\u00e9e, capable de r\u00e9duire drastiquement les co\u00fbts \u00e9nerg\u00e9tiques et de calcul. Pour les directions informatiques, c'est un signal fort qui pourrait transformer les infrastructures IA. Mais cette sp\u00e9cialisation extr\u00eame pose aussi la question de la flexibilit\u00e9 face \u00e0 l'\u00e9volution rapide des algorithmes. D\u00e9couvrez pourquoi cette innovation compte pour l'avenir du hardware IA. #InnovationTechnologique #IA #DataCenter",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1789476928
+  },
+  "7505571588788912128": {
+   "created": 1789467713,
+   "author": "Naomi Grant",
+   "url": "https://www.linkedin.com/posts/naomi-grant-98b7a3129_contentstrategy-socialfirstcontent-socialmediamarketing-activity-7505571588788912128-4n31",
+   "text": "A good content day starts before you pick up the camera.\n\nWe spent the day at Ideas Fest with one of our clients Etched Tech, capturing their experience across an event bringing together 4,000+ founders, creatives and entrepreneurs.\n\nBefore a shoot, we plan the stories, moments and formats we want to capture. It means that once we\u2019re there, we have direction but still enough flexibility to catch the things we couldn\u2019t have planned for.\n\nThis one was also a same-day turnaround, so we were shooting, editing and getting content out as the day unfolded.\n\nA busy one, but a good one. \ud83c\udfa5\n\n#ContentStrategy #SocialFirstContent #socialmediamarketing",
+   "disc_score": 4,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1789476928
   }
  },
  "baseline": {
@@ -1048,6 +1061,14 @@
    [
     1789457015,
     15
+   ],
+   [
+    1789476928,
+    4
+   ],
+   [
+    1789476928,
+    7
    ]
   ]
  },
