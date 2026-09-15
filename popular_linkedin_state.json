@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7505176847345946624": {
-   "created": 1789373599,
-   "author": "Eshan Kaul",
-   "url": "https://www.linkedin.com/posts/activity-7505176847345946624-I_Hi",
-   "text": "A quantitative explanation for why NVIDIA's P/E multiples may be compressed. \n\nNVIDIA's(and GPUs like AMD/Intel) dominance in AI training is unquestionable. This is because AI model training is heavy on matrix multiplications (FLOPs) and NVIDIA has a CUDA moat on training. I expect the same dominance to continue in the next few years too. \n\nBut the problem is that compute workload is of two kinds: TRAINING and INFERENCE. The share of TRAINING as a proportion of total compute workload has gradually been going down in the last few quarters. \nTo give an analogy, model TRAINING is when the AI model(Like ChatGPT) learns how to be smart, and TRAINING is like the AI giving an exam where we humans a",
-   "disc_score": 2,
-   "checks": {
-    "24": 4
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1789382650
-  },
   "7505223049789538304": {
    "created": 1789384615,
    "author": "Electronics Industry Forecast",
@@ -162,7 +149,9 @@
    "url": "https://www.linkedin.com/posts/jasongelman_the-nyc-tech-summit-activity-7505355130997747712-uxZl",
    "text": "We at Primary are gearing up for our annual Summit this week. Our amazing marketing team has been hard at work preparing to host thousands of members of the NYC tech community. \n\nIt'll be our best one yet, featuring a great lineup of guest speakers including the founders of Cloudflare, Rogo, Runway, Etched, Parallel Web Systems, Standard Bots, and Baseten, C-Suite execs from Harvey and Vercel, top VCs, and special closing session featuring Lance Armstrong. \n\nLook forward to reconnecting with lots of old friends and meeting new people in our broader NYC tech community. See ya there! // Primary Venture Partners\n\nhttps://primarysummit.vc/",
    "disc_score": 6,
-   "checks": {},
+   "checks": {
+    "24": 84
+   },
    "promoted": false,
    "miss": 0,
    "added": 1789418377
@@ -278,6 +267,17 @@
    "promoted": false,
    "miss": 0,
    "added": 1789493917
+  },
+  "7505717487284584448": {
+   "created": 1789502498,
+   "author": "Anna-Katrina Shedletsky",
+   "url": "https://www.linkedin.com/posts/annakatrinashedletsky_every-production-system-has-a-limiting-factor-activity-7505717487284584448-xKsT",
+   "text": "Every production system has a limiting factor. The best leaders systematically identify it, eliminate it, and move on to the next one.\n\nWhat does it take to achieve \u201cspeed-of-light production\u201d? How do the best teams ramp quickly while continuously improving yield and throughput?\n\nAt Build Better, we\u2019re bringing together three leaders who excel at ramping and scaling complex hardware:\n\n\u21d2 Tony Aghazarian, CEO @ BuildQM and former Senior Director @ Apple who built one of the world\u2019s most complex test data infrastructures and has since advised defense and wearables companies in rapid ramps\n\n\u21d2 J.P. Chen , Senior Director, Quality & Automation @ Supermicro, who is known for some of the fastest PO-",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1789504030
   }
  },
  "baseline": {
@@ -1117,6 +1117,10 @@
    [
     1789495873,
     54
+   ],
+   [
+    1789504030,
+    84
    ]
   ]
  },
