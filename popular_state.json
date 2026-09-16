@@ -1,52 +1,28 @@
 {
  "watch": {
-  "2100299366020026861": {
-   "created": 1789585365,
-   "author": "BrendanBurkeX",
-   "followers": 1220,
-   "url": "https://x.com/BrendanBurkeX/status/2100299366020026861",
-   "disc_score": 1,
-   "checks": {},
-   "promoted": false,
-   "miss": 0,
-   "added": 1789587905
-  },
-  "2100284452685623650": {
-   "created": 1789581809,
-   "author": "mvernal",
-   "followers": 22601,
-   "url": "https://x.com/mvernal/status/2100284452685623650",
-   "disc_score": 251,
+  "2100318072611713462": {
+   "created": 1789589825,
+   "author": "Altcoinist",
+   "followers": 103478,
+   "url": "https://x.com/Altcoinist/status/2100318072611713462",
+   "disc_score": 691,
    "checks": {
-    "1": 254
+    "1": 695
    },
    "promoted": true,
    "miss": 0,
-   "added": 1789587905
+   "added": 1789597465
   },
-  "2100297148046946653": {
-   "created": 1789584836,
-   "author": "sumersao",
-   "followers": 1648,
-   "url": "https://x.com/sumersao/status/2100297148046946653",
+  "2100342965994508648": {
+   "created": 1789595760,
+   "author": "financespotnews",
+   "followers": 2419,
+   "url": "https://x.com/financespotnews/status/2100342965994508648",
    "disc_score": 0,
    "checks": {},
    "promoted": false,
    "miss": 0,
-   "added": 1789587905
-  },
-  "2100267218067976563": {
-   "created": 1789577700,
-   "author": "SamSugarman3",
-   "followers": 354,
-   "url": "https://x.com/SamSugarman3/status/2100267218067976563",
-   "disc_score": 0,
-   "checks": {
-    "1": null
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1789587905
+   "added": 1789597465
   }
  },
  "baseline": {
@@ -1170,6 +1146,10 @@
    [
     1789587906,
     254
+   ],
+   [
+    1789597465,
+    695
    ]
   ]
  },
@@ -1213,6 +1193,11 @@
    1789587906,
    "2100284452685623650",
    254
+  ],
+  [
+   1789597465,
+   "2100318072611713462",
+   695
   ]
  ],
  "seeded": true
