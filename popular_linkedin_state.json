@@ -1,31 +1,5 @@
 {
  "watch": {
-  "7505418006559092737": {
-   "created": 1789431096,
-   "author": "Vanessa Ho",
-   "url": "https://www.linkedin.com/posts/activity-7505418006559092737-OtMJ",
-   "text": "Looking to buy and sell share allocation for family offices.\n\nList incoming.\n\nBUY request:\n\n* Anduril\n* Anthropic\n* Blue Origin\n* Boring Company\n* ByteDance\n* ClickHouse\n* Databricks\n* Discovery Loop\n* ElevenLabs\n* Etched\n* Fanatics\n* Figure\n* Fireworks AI\n* Hadrian\n* Harvey AI\n* Helsing\n* ICEYE\n* Isomorphic Labs\n* Kalshi\n* Moonshot AI / Kimi\n* Neuralink\n* Nscale\n* OpenAI\n* OpenEvidence\n* Physical Intelligence\n* Polymarket\n* Project Prometheus\n* Revolut\n* Saronic\n* Shield AI\n* Stripe\n* Tenstorrent\n* Waymo\n\nSELL request:\n\n* Aalo Atomics\n* Aire\n* Anthropic\n* Atoms\n* Blue Origin\n* ByteDance\n* Canva\n* CesiumAstro\n* Crusoe AI\n* Databricks\n* Dawn Aerospace\n* Deel\n* Eight Sleep\n* Enigma\n* Erebor\n* ",
-   "disc_score": 1,
-   "checks": {
-    "24": 2
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1789435650
-  },
-  "7505451598358167552": {
-   "created": 1789439105,
-   "author": "vivek trivedi",
-   "url": "https://www.linkedin.com/posts/activity-7505451598358167552-C6u0",
-   "text": "After 25+ years building silicon, I\u2019m joining Etched to help build the systems that will run the world\u2019s inference.\n\nI\u2019ve been fortunate to work on hard problems with exceptional people at Juniper, Cavium, and Astera Labs. Helping build Astera from its early days was a chapter I\u2019ll always be proud of, and I\u2019m grateful to the colleagues who made it possible.\n\nThat experience gives me an appreciation for what Etched has already accomplished. Getting complex silicon right on the first tapeout is hard. Turning it into a complete rack-scale system running production workloads at Jane Street takes an extraordinary team.\n\nJane Street isn't the only believer. Sequoia. a16z. SK Hynix. $1B in customer",
-   "disc_score": 106,
-   "checks": {
-    "24": 106
-   },
-   "promoted": true,
-   "miss": 0,
-   "added": 1789457015
-  },
   "7505508209982435328": {
    "created": 1789452602,
    "author": "Zubair A.",
@@ -45,7 +19,9 @@
    "url": "https://www.linkedin.com/posts/le-big-data-%2Efr_puce-ia-asic-les-21-milliards-detched-activity-7505601728898129920-O4-n",
    "text": "La startup Etched r\u00e9volutionne le march\u00e9 des puces pour l'IA avec une lev\u00e9e de fonds record de 700 millions de dollars, valorisant l'entreprise \u00e0 21 milliards. Cette avanc\u00e9e promet de concurrencer les GPU polyvalents de Nvidia en proposant une puce IA ASIC hyper-optimis\u00e9e, capable de r\u00e9duire drastiquement les co\u00fbts \u00e9nerg\u00e9tiques et de calcul. Pour les directions informatiques, c'est un signal fort qui pourrait transformer les infrastructures IA. Mais cette sp\u00e9cialisation extr\u00eame pose aussi la question de la flexibilit\u00e9 face \u00e0 l'\u00e9volution rapide des algorithmes. D\u00e9couvrez pourquoi cette innovation compte pour l'avenir du hardware IA. #InnovationTechnologique #IA #DataCenter",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1789476928
@@ -69,7 +45,9 @@
    "url": "https://www.linkedin.com/posts/emilyaireyuk_ideasfest-entrepreneurship-founders-activity-7505611986848620545-lXOb",
    "text": "Here's how my time at Ideas Fest went last week... \nAnd after two glorious days at Champneys in Tring, I can absolutely see why they call it the Glastonbury for entrepreneurs. \ud83c\udfaa Feelings of pure joy and nostalgia could be felt across the site!\n\nFor me, this year wasn\u2019t so much about going there to network.\u00a0It was about going there to support people I believe in.\n\nFour of the businesses I\u2019ve been lucky enough to have as our AI Match partners were there, and it was brilliant to see them doing their thing in person:\n\u2728 Etched Tech\n\u2728 Datumra\n\u2728 Implement AI\n\u2728 Vidonary\n\nFrom main stages to panel discussions, these people and other great business leaders were sharing what they\u2019re building, the probl",
    "disc_score": 1,
-   "checks": {},
+   "checks": {
+    "24": 40
+   },
    "promoted": false,
    "miss": 0,
    "added": 1789479125
@@ -80,7 +58,9 @@
    "url": "https://www.linkedin.com/posts/nataliefratto_etched-venturecapital-startups-activity-7505643483081396225-9y8J",
    "text": "Three 24-year-old Harvard dropouts are going after NVIDIA. They just raised at a $21B valuation.\n \nThis is part one of Moonshots \u2014 a new Charts & Crafts series in partnership with Smartsheet where each company is taking a massive swing. They're either going to totally change the world\u2026or not.\n \nEtched isn't only making chips. They're making whole data center racks built specifically for AI inference, which is way, way harder.\n \nHere's why it's a prize worth shooting for: \n \nThere's two kinds of AI compute: training and inference. Training is the upfront work to build the model. Inference is the ongoing work of interacting with it. Training costs eventually end. Inference never does.\n \nIn 202",
    "disc_score": 18,
-   "checks": {},
+   "checks": {
+    "24": 87
+   },
    "promoted": false,
    "miss": 0,
    "added": 1789493917
@@ -91,7 +71,9 @@
    "url": "https://www.linkedin.com/posts/activity-7505634119805116416-O23Z",
    "text": "#Etched is hiring a Security Engineer .\nEtched is seeking an experienced Security Engineer to protect the systems, networks, applications, and high-performance computing environments powering the future of AI hardware.\nYou\u2019ll build scalable security infrastructure across cloud and on-prem environments, strengthen identity and network security, improve threat detection and incident response, and automate security workflows\u2014without slowing down engineering innovation.\nLocation :San Jose, CA \u2014 Santana Row\n$2,000 monthly housing subsidy for those living within walking distance\n Daily lunch and dinner\nRelocation support available\nIdeal candidates bring 5\u20137+ years of experience across security eng",
    "disc_score": 4,
-   "checks": {},
+   "checks": {
+    "24": 10
+   },
    "promoted": false,
    "miss": 0,
    "added": 1789493917
@@ -172,6 +154,39 @@
    "promoted": false,
    "miss": 0,
    "added": 1789558337
+  },
+  "7506012035072180227": {
+   "created": 1789572724,
+   "author": "Jack Statza, CFA",
+   "url": "https://www.linkedin.com/posts/jackstatza_one-point-from-gavin-uberti-co-founder-activity-7506012035072180227-1DoU",
+   "text": "One point from Gavin Uberti, co-founder & CEO of Etched, at Primary Venture Summit really stood out to me: inference may increasingly consolidate into \u201cgigafactories,\u201d where scale can drive better economics and higher utilization.\n\nThat is an interesting datapoint for one of our portfolio companies, Lambda.\n\nLambda and Stephen Balaban have spent years building AI-native infrastructure around large, dense GPU clusters. If inference continues moving in this direction, competitive advantage may increasingly come from securing power, deploying dense compute, and operating it efficiently at massive scale.\n\nIt\u2019s also been great working with Stephen, Stacey Finerman and Jake Hansen and the broader ",
+   "disc_score": 3,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1789577214
+  },
+  "7505989379107020800": {
+   "created": 1789567322,
+   "author": "Jason Goodison",
+   "url": "https://www.linkedin.com/posts/jasonlevigoodison_nvidias-cuda-used-to-be-a-good-reason-to-activity-7505989379107020800-YsOF",
+   "text": "NVIDIA's CUDA used to be a good reason to not consider alternative silicon.\n\nIt was a real moat for NVIDIA for the past few years. \n\nIf you wanted alternative silicon to run training, you had to rebuild years of software from scratch before your first model.\n\nOver the past 6 months, that has changed: \n\n1/ You can write your own compiler now, and AI coding gets you to something quickly that is at the very least workable. \n\n2/ The chip companies have stopped treating software as an afterthought.\n\nThe teams at Cerebras, SambaNova, d-Matrix, Positron AI, Etched and many more all know that making the switch seamless (like integrating with vLLM and SGLang) is life or death for the business, and th",
+   "disc_score": 29,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1789577214
+  },
+  "7505986366476836865": {
+   "created": 1789566604,
+   "author": "Equidam",
+   "url": "https://www.linkedin.com/posts/equidam_venture-capitals-late-summer-surge-continued-activity-7505986366476836865-Vy7U",
+   "text": "Venture capital\u2019s late-summer surge continued over the past four weeks, but the market is becoming even more concentrated around a relatively small group of AI, infrastructure and defense companies. August still produced $42B of global venture funding across just over 1,500 startups - 122% more than August 2025 - despite falling 25% from July. Seven companies raised billion-dollar rounds during the month, led by Databricks\u2019 $5B financing at a $190B valuation.\r\n\r\nThe defining feature of the period was the speed at which leading AI companies repriced upward. Etched raised $700M at a $21B valuation only a month after being valued at $10.3B; Wonderful more than doubled to $5B in roughly six mont",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1789577214
   }
  },
  "baseline": {
@@ -1035,6 +1050,22 @@
    [
     1789558337,
     13
+   ],
+   [
+    1789577214,
+    0
+   ],
+   [
+    1789577214,
+    40
+   ],
+   [
+    1789577214,
+    87
+   ],
+   [
+    1789577214,
+    10
    ]
   ]
  },
