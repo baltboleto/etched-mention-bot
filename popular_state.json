@@ -1,30 +1,143 @@
 {
  "watch": {
-  "2100155889680629792": {
-   "created": 1789551157,
-   "author": "geofflangdale",
-   "followers": 4110,
-   "url": "https://x.com/geofflangdale/status/2100155889680629792",
+  "2100260591005020192": {
+   "created": 1789576120,
+   "author": "chrisbarber",
+   "followers": 14058,
+   "url": "https://x.com/chrisbarber/status/2100260591005020192",
+   "disc_score": 2,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1789577076
+  },
+  "2100257238266884138": {
+   "created": 1789575321,
+   "author": "eliasmufa",
+   "followers": 611,
+   "url": "https://x.com/eliasmufa/status/2100257238266884138",
    "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1789577076
+  },
+  "2100240518387028186": {
+   "created": 1789571334,
+   "author": "jackstatza",
+   "followers": 252,
+   "url": "https://x.com/jackstatza/status/2100240518387028186",
+   "disc_score": 1,
    "checks": {
-    "1": null
+    "1": 1
    },
    "promoted": false,
    "miss": 0,
-   "added": 1789560194
+   "added": 1789577076
   },
-  "2100161554906026484": {
-   "created": 1789552508,
-   "author": "hellenomania",
-   "followers": 937,
-   "url": "https://x.com/hellenomania/status/2100161554906026484",
+  "2100232971433197636": {
+   "created": 1789569535,
+   "author": "ychernova",
+   "followers": 11669,
+   "url": "https://x.com/ychernova/status/2100232971433197636",
+   "disc_score": 0,
+   "checks": {
+    "1": 0
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1789577076
+  },
+  "2100231789297988045": {
+   "created": 1789569253,
+   "author": "PeterBordes",
+   "followers": 43081,
+   "url": "https://x.com/PeterBordes/status/2100231789297988045",
+   "disc_score": 22,
+   "checks": {
+    "1": 22
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1789577076
+  },
+  "2100231250271220147": {
+   "created": 1789569125,
+   "author": "stephenmruiz",
+   "followers": 2824,
+   "url": "https://x.com/stephenmruiz/status/2100231250271220147",
+   "disc_score": 9,
+   "checks": {
+    "1": 9
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1789577076
+  },
+  "2100234017492672949": {
+   "created": 1789569784,
+   "author": "ychernova",
+   "followers": 11669,
+   "url": "https://x.com/ychernova/status/2100234017492672949",
+   "disc_score": 0,
+   "checks": {
+    "1": 0
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1789577076
+  },
+  "2100238277760647618": {
+   "created": 1789570800,
+   "author": "JIQQYJONES",
+   "followers": 44595,
+   "url": "https://x.com/JIQQYJONES/status/2100238277760647618",
+   "disc_score": 0,
+   "checks": {
+    "1": 0
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1789577076
+  },
+  "2100242554491126242": {
+   "created": 1789571820,
+   "author": "financespotnews",
+   "followers": 2417,
+   "url": "https://x.com/financespotnews/status/2100242554491126242",
+   "disc_score": 0,
+   "checks": {
+    "1": 0
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1789577076
+  },
+  "2100244694487949745": {
+   "created": 1789572330,
+   "author": "FrostbytHitsuG",
+   "followers": 606,
+   "url": "https://x.com/FrostbytHitsuG/status/2100244694487949745",
    "disc_score": 2,
    "checks": {
     "1": 2
    },
    "promoted": false,
    "miss": 0,
-   "added": 1789560194
+   "added": 1789577076
+  },
+  "2100229940117492136": {
+   "created": 1789568812,
+   "author": "Joelc_eth",
+   "followers": 1979,
+   "url": "https://x.com/Joelc_eth/status/2100229940117492136",
+   "disc_score": 3,
+   "checks": {
+    "1": 3
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1789577076
   }
  },
  "baseline": {
@@ -1108,6 +1221,42 @@
    [
     1789560214,
     2
+   ],
+   [
+    1789577080,
+    1
+   ],
+   [
+    1789577080,
+    0
+   ],
+   [
+    1789577080,
+    22
+   ],
+   [
+    1789577080,
+    9
+   ],
+   [
+    1789577080,
+    0
+   ],
+   [
+    1789577080,
+    0
+   ],
+   [
+    1789577080,
+    0
+   ],
+   [
+    1789577080,
+    2
+   ],
+   [
+    1789577080,
+    3
    ]
   ]
  },
