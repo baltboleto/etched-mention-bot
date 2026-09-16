@@ -13,19 +13,6 @@
    "miss": 0,
    "added": 1789476928
   },
-  "7505571588788912128": {
-   "created": 1789467713,
-   "author": "Naomi Grant",
-   "url": "https://www.linkedin.com/posts/naomi-grant-98b7a3129_contentstrategy-socialfirstcontent-socialmediamarketing-activity-7505571588788912128-4n31",
-   "text": "A good content day starts before you pick up the camera.\n\nWe spent the day at Ideas Fest with one of our clients Etched Tech, capturing their experience across an event bringing together 4,000+ founders, creatives and entrepreneurs.\n\nBefore a shoot, we plan the stories, moments and formats we want to capture. It means that once we\u2019re there, we have direction but still enough flexibility to catch the things we couldn\u2019t have planned for.\n\nThis one was also a same-day turnaround, so we were shooting, editing and getting content out as the day unfolded.\n\nA busy one, but a good one. \ud83c\udfa5\n\n#ContentStrategy #SocialFirstContent #socialmediamarketing",
-   "disc_score": 4,
-   "checks": {
-    "24": 13
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1789476928
-  },
   "7505611986848620545": {
    "created": 1789477345,
    "author": "Emily Airey",
@@ -95,8 +82,10 @@
    "url": "https://www.linkedin.com/posts/usmanalidogar_aiinfrasummit2026-meta-cerabras-activity-7505735592312311808-Xyt5",
    "text": "I\u2019ll be on stage tomorrow at AI Infra Summit, 2026 for the panel discussion along with Andy Hock from Cerebras, Jonathan Pearce from AheadComputing, and Robert W. from Etched. \n\nSandeep Mehndiratta from Synopsys Inc will be moderating the session. \n\nWe will be talking about the state of AI for silicon design, AI Chip startups, the real challenges at scale, and the self-improving loop where AI designs novel chips and those chips, in turn, improve AI itself.\n\nLocation: Compute track, tomorrow (Wednesday), 11:20 AM, Santa Clara Convention Center, San Jose. \n\n#AIInfraSummit2026 #Meta #Cerabras #AheadComputing #Etched #Synopsys",
    "disc_score": 61,
-   "checks": {},
-   "promoted": false,
+   "checks": {
+    "24": 89
+   },
+   "promoted": true,
    "miss": 0,
    "added": 1789538463
   },
@@ -106,7 +95,9 @@
    "url": "https://www.linkedin.com/posts/sandeepmehndiratta_what-does-it-take-to-build-a-winning-ai-chip-activity-7505742259880099842-6oMT",
    "text": "What does it take to build a winning AI chip startup in today's market? \n\nI\u2019ll be moderating a panel tomorrow at AI Infra Summit where we'll explore everything from customer validation, and scaling challenges to one of the industry's biggest questions: can AI meaningfully accelerate the design of next-generation AI chips?\n\nI\u2019m looking forward to hearing perspectives from Jonathan Pearce (AheadComputing),   Andy Hock (Cerebras), Robert W. (Etched), and Usman Ali, Ph.D. (Meta).\n\nIf you're interested in AI infrastructure, silicon innovation, or the future of chip design, please join us !",
    "disc_score": 59,
-   "checks": {},
+   "checks": {
+    "24": 87
+   },
    "promoted": false,
    "miss": 0,
    "added": 1789538463
@@ -198,6 +189,17 @@
    "promoted": false,
    "miss": 0,
    "added": 1789587965
+  },
+  "7506090459216125952": {
+   "created": 1789591421,
+   "author": "Emily W Chang",
+   "url": "https://www.linkedin.com/posts/emily-w-chang_primarynyctechsummit-ai-companybuilding-activity-7506090459216125952-9127",
+   "text": "Customer obsession, no matter how big you become.\n\nAt Primary Venture Partners 9th NYC Tech Summit, Etched co-founder and CEO Gavin Uberti credited TSMC\u2019s relentless service as a major reason it wins. A trillion-dollar company, still willing to experiment and adapt to help a small customer succeed.\n\nI really enjoyed his session. His examples came from hardware, but the company-building lessons apply much more broadly.\n\n1. Customer obsession shows up in how you solve customers\u2019 problems.\n\nGavin described how TSMC would investigate technical issues and run its own experiments at no charge. When Etched proposed an unusual production approach that would allow packaging development and wafer fabr",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1789597504
   }
  },
  "baseline": {
@@ -1081,6 +1083,14 @@
    [
     1789589199,
     44
+   ],
+   [
+    1789597504,
+    89
+   ],
+   [
+    1789597504,
+    87
    ]
   ]
  },
@@ -1159,6 +1169,11 @@
    1789493917,
    "7505305053197627392",
    171
+  ],
+  [
+   1789597504,
+   "7505735592312311808",
+   89
   ]
  ],
  "seeded": true
