@@ -71,7 +71,9 @@
    "url": "https://www.linkedin.com/posts/annakatrinashedletsky_every-production-system-has-a-limiting-factor-activity-7505717487284584448-xKsT",
    "text": "Every production system has a limiting factor. The best leaders systematically identify it, eliminate it, and move on to the next one.\n\nWhat does it take to achieve \u201cspeed-of-light production\u201d? How do the best teams ramp quickly while continuously improving yield and throughput?\n\nAt Build Better, we\u2019re bringing together three leaders who excel at ramping and scaling complex hardware:\n\n\u21d2 Tony Aghazarian, CEO @ BuildQM and former Senior Director @ Apple who built one of the world\u2019s most complex test data infrastructures and has since advised defense and wearables companies in rapid ramps\n\n\u21d2 J.P. Chen , Senior Director, Quality & Automation @ Supermicro, who is known for some of the fastest PO-",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 44
+   },
    "promoted": false,
    "miss": 0,
    "added": 1789504030
@@ -1075,6 +1077,10 @@
    [
     1789577214,
     10
+   ],
+   [
+    1789589199,
+    44
    ]
   ]
  },
