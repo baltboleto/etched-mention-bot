@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7505508209982435328": {
-   "created": 1789452602,
-   "author": "Zubair A.",
-   "url": "https://www.linkedin.com/posts/zubairafzel_etched-just-hit-a-5b-valuation-with-1b-activity-7505508209982435328-0lWH",
-   "text": "Etched just hit a $5B valuation with $1B in sales booked for their AI chip.\n\nAnother hardware company betting everything on inference performance.\n\nHere's the pattern I keep seeing: everyone wants to be the next NVIDIA, but nobody wants NVIDIA's margin pressure.\n\nBecause when you own the hardware, you own the unit economics. And when the market turns, you own the inventory risk too.\n\nThis is exactly why I stay as far from silicon as possible.\n\nNo chips. No servers. No manufacturing. Just software that makes *their* hardware more useful.\n\nThe founders building profitably in 2026 aren't competing with Etched or NVIDIA. They're building workflows that make inference cheaper, smarter, and more a",
-   "disc_score": 0,
-   "checks": {
-    "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1789457015
-  },
   "7505601728898129920": {
    "created": 1789474899,
    "author": "LEBIGDATA.FR",
@@ -187,6 +174,28 @@
    "promoted": false,
    "miss": 0,
    "added": 1789577214
+  },
+  "7506034677137383424": {
+   "created": 1789578122,
+   "author": "Chris Rodriguez",
+   "url": "https://www.linkedin.com/posts/chrisexcel_nyctech-activity-7506034677137383424-wSMy",
+   "text": "Primary Venture Partners, #NYCTech Summit\n\nSpeakers and presenters were excellent:\nGavin Uberti, Etched\nPatrick O'Shaughnessy, Colussus\nJeanne DeWitt Grosser, Vercel\nDan Shipper, Every\nParag Agrawal, Parallel\nShardul Shah, Index Ventures\nMatthew Prince, Cloudflare\nGabriel Stengel, Rogo\nEvan Beard, Standard Bots\nCrist\u00f3bal Valenzuela, Runway\nKeith Enright, Harvey\nAaron Rubin, Gunderson Dettmer\nTuhin Srivastava, Baseten\nApoorv Agrawal, Altimeter Capital\nLauren Makler, Cofertility\n...and Lance Armstrong! (yes that Lance Armstrong).\n\nGreat to reconnect with, and meet, so many awesome founders building great companies.\n\nDane Atkinson / Odeko\nMark L. Pederson & Jason Diamond / Orbiter\nIlia Litviak ",
+   "disc_score": 2,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1789587965
+  },
+  "7506043777640239105": {
+   "created": 1789580292,
+   "author": "Center for Innovation, Law, and Society",
+   "url": "https://www.linkedin.com/posts/center-for-innovation-law-and-society_ucdavislaw-kinghall-faculty-activity-7506043777640239105-kVQP",
+   "text": "Jon Fernandez, Counsel at Etched, Inc., discussed user interface designs crafted to manipulate people and how AI supercharges that threat.\n\nDark Patterns: How They Are Used and Regulated on the AI-Driven Web\n\nWatch the video: https://lnkd.in/g5Ue9AjP\n\nUpcoming CILS events and videos of past events: https://lnkd.in/g-gFNdFb.\n\n#UCDavisLaw #KingHall #Faculty #InnovationLaw",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1789587965
   }
  },
  "baseline": {
