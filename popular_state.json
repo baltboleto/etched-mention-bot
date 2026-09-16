@@ -1,26 +1,30 @@
 {
  "watch": {
-  "2100108549095322045": {
-   "created": 1789539870,
-   "author": "twtlinks",
-   "followers": 11651,
-   "url": "https://x.com/twtlinks/status/2100108549095322045",
+  "2100155889680629792": {
+   "created": 1789551157,
+   "author": "geofflangdale",
+   "followers": 4110,
+   "url": "https://x.com/geofflangdale/status/2100155889680629792",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "1": null
+   },
    "promoted": false,
    "miss": 0,
-   "added": 1789540349
+   "added": 1789560194
   },
-  "2100099325422686235": {
-   "created": 1789537671,
-   "author": "BeatingOfficial",
-   "followers": 11443,
-   "url": "https://x.com/BeatingOfficial/status/2100099325422686235",
-   "disc_score": 7,
-   "checks": {},
+  "2100161554906026484": {
+   "created": 1789552508,
+   "author": "hellenomania",
+   "followers": 937,
+   "url": "https://x.com/hellenomania/status/2100161554906026484",
+   "disc_score": 2,
+   "checks": {
+    "1": 2
+   },
    "promoted": false,
    "miss": 0,
-   "added": 1789540349
+   "added": 1789560194
   }
  },
  "baseline": {
@@ -1100,6 +1104,10 @@
    [
     1789503990,
     1
+   ],
+   [
+    1789560214,
+    2
    ]
   ]
  },
