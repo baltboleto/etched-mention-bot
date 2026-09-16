@@ -1,31 +1,5 @@
 {
  "watch": {
-  "7505355130997747712": {
-   "created": 1789416105,
-   "author": "Jason Gelman",
-   "url": "https://www.linkedin.com/posts/jasongelman_the-nyc-tech-summit-activity-7505355130997747712-uxZl",
-   "text": "We at Primary are gearing up for our annual Summit this week. Our amazing marketing team has been hard at work preparing to host thousands of members of the NYC tech community. \n\nIt'll be our best one yet, featuring a great lineup of guest speakers including the founders of Cloudflare, Rogo, Runway, Etched, Parallel Web Systems, Standard Bots, and Baseten, C-Suite execs from Harvey and Vercel, top VCs, and special closing session featuring Lance Armstrong. \n\nLook forward to reconnecting with lots of old friends and meeting new people in our broader NYC tech community. See ya there! // Primary Venture Partners\n\nhttps://primarysummit.vc/",
-   "disc_score": 6,
-   "checks": {
-    "24": 84
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1789418377
-  },
-  "7505389112816844802": {
-   "created": 1789424207,
-   "author": "Jose Kont",
-   "url": "https://www.linkedin.com/posts/jose-kont_everyone-talks-about-silicon-valley-but-activity-7505389112816844802-_jM5",
-   "text": "Everyone talks about Silicon Valley. But what is happening across the Bay Area beyond the companies that dominate the headlines? \ud83e\udd14 \n\n\nThe answer lies in the flow of capital. Behind the mega-rounds is an ecosystem that continues to fund new layers of technology infrastructure, enterprise software, healthcare, defense, and AI applications built for specific industries.\n\nThese were the 10 largest VC rounds publicly announced in San Francisco and the Bay Area during August:\n\n1. Lumilens, Series C $700M\n2. Etched, Series D $700M\n3. Higgsfield AI, Series B $400M\n4. Wispr Flow, Series B $280M\n5. Horizon3.ai, Series E $250M\n6. Instinct, Series B $250M\n7. HappyRobot, Series C $150M\n8. CodeRabbit, Ser",
-   "disc_score": 5,
-   "checks": {
-    "24": 7
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1789427259
-  },
   "7505418006559092737": {
    "created": 1789431096,
    "author": "Vanessa Ho",
@@ -34,19 +8,6 @@
    "disc_score": 1,
    "checks": {
     "24": 2
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1789435650
-  },
-  "7505399833713881088": {
-   "created": 1789426763,
-   "author": "Akole Peter",
-   "url": "https://www.linkedin.com/posts/akole-peter-773803198_etched-just-announced-a-700m-raise-at-a-activity-7505399833713881088-5iCb",
-   "text": "Etched just announced a $700M raise at a $21B valuation, a testament to Etched's fast rise as one of the most promising companies in AI infrastructure. Galaxy has been proud to back Etched since its Series A in 2024. \n\nFrom the start, Etched was an early bet on a contrarian thesis: that inference, not training, would become the defining compute challenge of the AI era. Today, that thesis has become real hardware, shipping into production at some of the most demanding customers in the industry.\n\nCongrats to the entire Etched team. We're excited to keep supporting you as you build the infrastructure layer for fast, cheap AI inference.",
-   "disc_score": 0,
-   "checks": {
-    "24": 0
    },
    "promoted": false,
    "miss": 0,
@@ -71,7 +32,9 @@
    "url": "https://www.linkedin.com/posts/zubairafzel_etched-just-hit-a-5b-valuation-with-1b-activity-7505508209982435328-0lWH",
    "text": "Etched just hit a $5B valuation with $1B in sales booked for their AI chip.\n\nAnother hardware company betting everything on inference performance.\n\nHere's the pattern I keep seeing: everyone wants to be the next NVIDIA, but nobody wants NVIDIA's margin pressure.\n\nBecause when you own the hardware, you own the unit economics. And when the market turns, you own the inventory risk too.\n\nThis is exactly why I stay as far from silicon as possible.\n\nNo chips. No servers. No manufacturing. Just software that makes *their* hardware more useful.\n\nThe founders building profitably in 2026 aren't competing with Etched or NVIDIA. They're building workflows that make inference cheaper, smarter, and more a",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1789457015
@@ -93,7 +56,9 @@
    "url": "https://www.linkedin.com/posts/naomi-grant-98b7a3129_contentstrategy-socialfirstcontent-socialmediamarketing-activity-7505571588788912128-4n31",
    "text": "A good content day starts before you pick up the camera.\n\nWe spent the day at Ideas Fest with one of our clients Etched Tech, capturing their experience across an event bringing together 4,000+ founders, creatives and entrepreneurs.\n\nBefore a shoot, we plan the stories, moments and formats we want to capture. It means that once we\u2019re there, we have direction but still enough flexibility to catch the things we couldn\u2019t have planned for.\n\nThis one was also a same-day turnaround, so we were shooting, editing and getting content out as the day unfolded.\n\nA busy one, but a good one. \ud83c\udfa5\n\n#ContentStrategy #SocialFirstContent #socialmediamarketing",
    "disc_score": 4,
-   "checks": {},
+   "checks": {
+    "24": 13
+   },
    "promoted": false,
    "miss": 0,
    "added": 1789476928
@@ -174,6 +139,39 @@
    "promoted": false,
    "miss": 0,
    "added": 1789538463
+  },
+  "7505910805968781312": {
+   "created": 1789548589,
+   "author": "Peter Noszek",
+   "url": "https://www.linkedin.com/posts/petergnoszek_in-sf-kaleidoscope-ventures-hosted-compute-activity-7505910805968781312-kp99",
+   "text": "In SF Kaleidoscope Ventures hosted Compute & Caviar with General Compute, APAC Compute, and AI Plus (AI+). On 1 October we're bringing it to Singapore \u2013 momentum in compute is shifting East.\n\nOur main takeaways from the night: the chipmakers (SambaNova, Cerebras, d-Matrix, Etched), the clouds & labs (Fireworks, Prometheus, Sail Research, AWS, Ricursive, Exa), the smart money (a16z, SemiAnalysis, Theory, ICONIQ, Temasek) converged on 3 bottlenecks:\n\n\u2022 Power\n\u2022 Land\n\u2022 Allocation\n\nAsia is the frontier. That's why we're bringing everyone together in a few weeks. Lots to come from APAC Compute. \n\nMessage me / Cindy Leow if you should be in the room.",
+   "disc_score": 34,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1789558337
+  },
+  "7505883300918648832": {
+   "created": 1789542031,
+   "author": "Adrian Escabias",
+   "url": "https://www.linkedin.com/posts/adrian-escabias_etched-acaba-de-levantar-300-millones-de-activity-7505883300918648832-MkMl",
+   "text": "Etched acaba de levantar 300 millones de d\u00f3lares y ya vale 10.300 millones.\n \nHacen chips para IA.\n \nY noticias como esta me recuerdan algo que intento aplicar tambi\u00e9n cuando miro startups: cuando aparece una ola enorme, no hay que mirar \u00fanicamente lo que todo el mundo est\u00e1 mirando.\n \nLa conversaci\u00f3n de IA est\u00e1 dominada por modelos y aplicaciones. OpenAI, Anthropic, Claude, agentes, herramientas de productividad\u2026\n \nPero si todo esto realmente crece como pensamos, por debajo hacen falta cantidades absurdas de chips, centros de datos, energ\u00eda, refrigeraci\u00f3n, redes, seguridad y capacidad de inferencia.\n \nEs decir, hay un segundo orden de negocios que crecen inevitablemente si la primera tesis e",
+   "disc_score": 1,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1789558337
+  },
+  "7505864054951870465": {
+   "created": 1789537442,
+   "author": "Electronics Industry Forecast",
+   "url": "https://www.linkedin.com/posts/electronics-industry-forecast_processors-machinelearning-cloudinfrastructure-activity-7505864054951870465-cKUt",
+   "text": "Data Center CPU Market is projected to grow at a CAGR of [CAGR]\n\ud835\uddd7\ud835\uddfc\ud835\ude04\ud835\uddfb\ud835\uddf9\ud835\uddfc\ud835\uddee\ud835\uddf1 \ud835\udde3\ud835\uddd7\ud835\uddd9 \ud835\uddd5\ud835\uddff\ud835\uddfc\ud835\uddf0\ud835\uddf5\ud835\ude02\ud835\uddff\ud835\udc1e: [https://lnkd.in/dvi4JGnh]\n\n\ud83d\udda5\ufe0f Core Data Center CPU Market Segments & Products\n\u2705 Server CPUs\n\u2705 Data Center #Processors\n\u2705 x86 CPUs\n\u2705 ARM-Based Server CPUs\n\u2705 High-Performance Computing CPUs\n\u2705 AI & Cloud Computing CPUs\n\n\ud835\udc0c\ud835\udc1a\ud835\udc2b\ud835\udc24\ud835\udc1e\ud835\udc2d \ud835\udc07\ud835\udc22\ud835\udc20\ud835\udc21\ud835\udc25\ud835\udc22\ud835\udc20\ud835\udc21\ud835\udc2d\ud835\udc2c\n\ud83d\udcc8 Growing cloud computing, hyperscale data centers, and enterprise workloads are driving demand for high-performance data center CPUs.\n\ud83e\udd16 Increasing AI, #machinelearning, and high-performance computing workloads are accelerating demand for processors with greater computational performance and efficiency.\n\u2601\ufe0f Expansion of #cloudinfrastructure and data-intensive applications is s",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1789558337
   }
  },
  "baseline": {
@@ -1029,6 +1027,14 @@
    [
     1789517896,
     2
+   ],
+   [
+    1789558337,
+    0
+   ],
+   [
+    1789558337,
+    13
    ]
   ]
  },
