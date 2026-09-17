@@ -1,30 +1,15 @@
 {
  "watch": {
-  "2100433658398310516": {
-   "created": 1789617382,
-   "author": "apartovi",
-   "followers": 39366,
-   "url": "https://x.com/apartovi/status/2100433658398310516",
-   "disc_score": 1,
-   "checks": {
-    "1": 1
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1789624351
-  },
-  "2100433730179305739": {
-   "created": 1789617400,
-   "author": "IsaacJLiu",
-   "followers": 919,
-   "url": "https://x.com/IsaacJLiu/status/2100433730179305739",
+  "2100540271817535993": {
+   "created": 1789642801,
+   "author": "hsebe_m",
+   "followers": 189,
+   "url": "https://x.com/hsebe_m/status/2100540271817535993",
    "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
+   "checks": {},
    "promoted": false,
    "miss": 0,
-   "added": 1789624351
+   "added": 1789643498
   }
  },
  "baseline": {
