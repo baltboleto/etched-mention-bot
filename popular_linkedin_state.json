@@ -69,7 +69,9 @@
    "url": "https://www.linkedin.com/posts/adrian-escabias_etched-acaba-de-levantar-300-millones-de-activity-7505883300918648832-MkMl",
    "text": "Etched acaba de levantar 300 millones de d\u00f3lares y ya vale 10.300 millones.\n \nHacen chips para IA.\n \nY noticias como esta me recuerdan algo que intento aplicar tambi\u00e9n cuando miro startups: cuando aparece una ola enorme, no hay que mirar \u00fanicamente lo que todo el mundo est\u00e1 mirando.\n \nLa conversaci\u00f3n de IA est\u00e1 dominada por modelos y aplicaciones. OpenAI, Anthropic, Claude, agentes, herramientas de productividad\u2026\n \nPero si todo esto realmente crece como pensamos, por debajo hacen falta cantidades absurdas de chips, centros de datos, energ\u00eda, refrigeraci\u00f3n, redes, seguridad y capacidad de inferencia.\n \nEs decir, hay un segundo orden de negocios que crecen inevitablemente si la primera tesis e",
    "disc_score": 1,
-   "checks": {},
+   "checks": {
+    "24": 2
+   },
    "promoted": false,
    "miss": 0,
    "added": 1789558337
@@ -1073,6 +1075,10 @@
    [
     1789624427,
     0
+   ],
+   [
+    1789630688,
+    2
    ]
   ]
  },
