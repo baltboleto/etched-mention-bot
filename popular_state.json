@@ -1,15 +1,43 @@
 {
  "watch": {
-  "2100540271817535993": {
-   "created": 1789642801,
-   "author": "hsebe_m",
-   "followers": 189,
-   "url": "https://x.com/hsebe_m/status/2100540271817535993",
+  "2100571766880195055": {
+   "created": 1789650310,
+   "author": "Aditya__50",
+   "followers": 87,
+   "url": "https://x.com/Aditya__50/status/2100571766880195055",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "1": 0
+   },
    "promoted": false,
    "miss": 0,
-   "added": 1789643498
+   "added": 1789659270
+  },
+  "2100570494454161416": {
+   "created": 1789650007,
+   "author": "aessostudio",
+   "followers": 15,
+   "url": "https://x.com/aessostudio/status/2100570494454161416",
+   "disc_score": 4,
+   "checks": {
+    "1": null
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1789659270
+  },
+  "2100569602119897462": {
+   "created": 1789649794,
+   "author": "bertwitt",
+   "followers": 4627,
+   "url": "https://x.com/bertwitt/status/2100569602119897462",
+   "disc_score": 1,
+   "checks": {
+    "1": null
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1789659270
   }
  },
  "baseline": {
@@ -1148,6 +1176,10 @@
    ],
    [
     1789624351,
+    0
+   ],
+   [
+    1789659272,
     0
    ]
   ]
