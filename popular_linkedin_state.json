@@ -13,19 +13,6 @@
    "miss": 0,
    "added": 1789558337
   },
-  "7505883300918648832": {
-   "created": 1789542031,
-   "author": "Adrian Escabias",
-   "url": "https://www.linkedin.com/posts/adrian-escabias_etched-acaba-de-levantar-300-millones-de-activity-7505883300918648832-MkMl",
-   "text": "Etched acaba de levantar 300 millones de d\u00f3lares y ya vale 10.300 millones.\n \nHacen chips para IA.\n \nY noticias como esta me recuerdan algo que intento aplicar tambi\u00e9n cuando miro startups: cuando aparece una ola enorme, no hay que mirar \u00fanicamente lo que todo el mundo est\u00e1 mirando.\n \nLa conversaci\u00f3n de IA est\u00e1 dominada por modelos y aplicaciones. OpenAI, Anthropic, Claude, agentes, herramientas de productividad\u2026\n \nPero si todo esto realmente crece como pensamos, por debajo hacen falta cantidades absurdas de chips, centros de datos, energ\u00eda, refrigeraci\u00f3n, redes, seguridad y capacidad de inferencia.\n \nEs decir, hay un segundo orden de negocios que crecen inevitablemente si la primera tesis e",
-   "disc_score": 1,
-   "checks": {
-    "24": 2
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1789558337
-  },
   "7506012035072180227": {
    "created": 1789572724,
    "author": "Jack Statza, CFA",
@@ -156,6 +143,28 @@
    "promoted": false,
    "miss": 0,
    "added": 1789651620
+  },
+  "7506417614877814784": {
+   "created": 1789669421,
+   "author": "Kabir Samtani",
+   "url": "https://www.linkedin.com/posts/kabir-samtani_a-few-takeaways-from-yesterdays-primary-activity-7506417614877814784-ak4H",
+   "text": "A few takeaways from yesterday's Primary Venture Partners Summit on how AI is changing work, research and the internet:\n- Parag Agrawal (Parallel) and Matthew Prince (Cloudflare): the web's ad model depends on human attention, but agents need useful information. If publishers get paid for original facts instead of clicks, we could be heading into a golden age of journalism where the economics reward better reporting.\n- Dan Shipper (Every) and Jeanne DeWitt Grosser (Vercel): vibe coding gets you a prototype, but useful software still needs engineers maintaining and improving it. With a shared company agent, one person's improvements can help the whole team. We're thinking about both at Kosa a",
+   "disc_score": 2,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1789672735
+  },
+  "7506418904718626817": {
+   "created": 1789669729,
+   "author": "Gregory Kantor",
+   "url": "https://www.linkedin.com/posts/gregory-k-omniux_venturecapital-vc-startup-activity-7506418904718626817-TiGN",
+   "text": "Spent yesterday representing OMNIUX at the Primary Venture Partners Summit, and the energy across the NYC ecosystem was electric. Gathering right on the Hudson water at Pier 60 provided an incredible backdrop for candid, high-signal conversations with the Primary Venture Partners team, leading VCs, and peer founders across the ecosystem.\n\nGavin Uberti (Etched) made a compelling case for how specialized ASIC architecture will fundamentally redefine the economics and performance ceiling of AI compute (in my opinion, he was the highlight of the speakers; really incredible foresight into where AI as a whole is going). Matthew Prince (Cloudflare) delivered sharp insights on how automated agent tr",
+   "disc_score": 61,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1789672735
   }
  },
  "baseline": {
