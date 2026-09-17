@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7505717487284584448": {
-   "created": 1789502498,
-   "author": "Anna-Katrina Shedletsky",
-   "url": "https://www.linkedin.com/posts/annakatrinashedletsky_every-production-system-has-a-limiting-factor-activity-7505717487284584448-xKsT",
-   "text": "Every production system has a limiting factor. The best leaders systematically identify it, eliminate it, and move on to the next one.\n\nWhat does it take to achieve \u201cspeed-of-light production\u201d? How do the best teams ramp quickly while continuously improving yield and throughput?\n\nAt Build Better, we\u2019re bringing together three leaders who excel at ramping and scaling complex hardware:\n\n\u21d2 Tony Aghazarian, CEO @ BuildQM and former Senior Director @ Apple who built one of the world\u2019s most complex test data infrastructures and has since advised defense and wearables companies in rapid ramps\n\n\u21d2 J.P. Chen , Senior Director, Quality & Automation @ Supermicro, who is known for some of the fastest PO-",
-   "disc_score": 0,
-   "checks": {
-    "24": 44
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1789504030
-  },
   "7505804554261655553": {
    "created": 1789523256,
    "author": "Mohamed Fouda",
@@ -26,39 +13,15 @@
    "miss": 0,
    "added": 1789538463
   },
-  "7505735592312311808": {
-   "created": 1789506815,
-   "author": "Usman Ali, Ph.D.",
-   "url": "https://www.linkedin.com/posts/usmanalidogar_aiinfrasummit2026-meta-cerabras-activity-7505735592312311808-Xyt5",
-   "text": "I\u2019ll be on stage tomorrow at AI Infra Summit, 2026 for the panel discussion along with Andy Hock from Cerebras, Jonathan Pearce from AheadComputing, and Robert W. from Etched. \n\nSandeep Mehndiratta from Synopsys Inc will be moderating the session. \n\nWe will be talking about the state of AI for silicon design, AI Chip startups, the real challenges at scale, and the self-improving loop where AI designs novel chips and those chips, in turn, improve AI itself.\n\nLocation: Compute track, tomorrow (Wednesday), 11:20 AM, Santa Clara Convention Center, San Jose. \n\n#AIInfraSummit2026 #Meta #Cerabras #AheadComputing #Etched #Synopsys",
-   "disc_score": 61,
-   "checks": {
-    "24": 89
-   },
-   "promoted": true,
-   "miss": 0,
-   "added": 1789538463
-  },
-  "7505742259880099842": {
-   "created": 1789508404,
-   "author": "Sandeep Mehndiratta",
-   "url": "https://www.linkedin.com/posts/sandeepmehndiratta_what-does-it-take-to-build-a-winning-ai-chip-activity-7505742259880099842-6oMT",
-   "text": "What does it take to build a winning AI chip startup in today's market? \n\nI\u2019ll be moderating a panel tomorrow at AI Infra Summit where we'll explore everything from customer validation, and scaling challenges to one of the industry's biggest questions: can AI meaningfully accelerate the design of next-generation AI chips?\n\nI\u2019m looking forward to hearing perspectives from Jonathan Pearce (AheadComputing),   Andy Hock (Cerebras), Robert W. (Etched), and Usman Ali, Ph.D. (Meta).\n\nIf you're interested in AI infrastructure, silicon innovation, or the future of chip design, please join us !",
-   "disc_score": 59,
-   "checks": {
-    "24": 87
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1789538463
-  },
   "7505910805968781312": {
    "created": 1789548589,
    "author": "Peter Noszek",
    "url": "https://www.linkedin.com/posts/petergnoszek_in-sf-kaleidoscope-ventures-hosted-compute-activity-7505910805968781312-kp99",
    "text": "In SF Kaleidoscope Ventures hosted Compute & Caviar with General Compute, APAC Compute, and AI Plus (AI+). On 1 October we're bringing it to Singapore \u2013 momentum in compute is shifting East.\n\nOur main takeaways from the night: the chipmakers (SambaNova, Cerebras, d-Matrix, Etched), the clouds & labs (Fireworks, Prometheus, Sail Research, AWS, Ricursive, Exa), the smart money (a16z, SemiAnalysis, Theory, ICONIQ, Temasek) converged on 3 bottlenecks:\n\n\u2022 Power\n\u2022 Land\n\u2022 Allocation\n\nAsia is the frontier. That's why we're bringing everyone together in a few weeks. Lots to come from APAC Compute. \n\nMessage me / Cindy Leow if you should be in the room.",
    "disc_score": 34,
-   "checks": {},
+   "checks": {
+    "24": 82
+   },
    "promoted": false,
    "miss": 0,
    "added": 1789558337
@@ -1079,6 +1042,10 @@
    [
     1789630688,
     2
+   ],
+   [
+    1789643578,
+    82
    ]
   ]
  },
