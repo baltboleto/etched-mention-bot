@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7505804554261655553": {
-   "created": 1789523256,
-   "author": "Mohamed Fouda",
-   "url": "https://www.linkedin.com/posts/mohamedfouda_ai-deeptech-semiconductors-activity-7505804554261655553-MssO",
-   "text": "\ud83c\udf10 THE INFERENCE INFLECTION POINT: Why the AI Hardware Playbook Just Flipped\n\nThe global AI landscape has officially shifted from training massive models to executing real-time inference processing. As autonomous agentic workflows and chain-of-thought models run 24/7, standard GPUs are hitting a massive memory-bandwidth bottleneck. This computational strain is forcing Nvidia, AWS, and emerging silicon startups to completely re-engineer the data center.\nHere is how the industry is redesigning hardware to survive the inference explosion:\n\n\ud83d\udd0d THE CHIP CONGESTION CRISIS\n\ud83d\udd39 The idle processor bottleneck: Because modern LLMs are autoregressive, predicting every single token requires reading tens or h",
-   "disc_score": 1,
-   "checks": {
-    "24": 3
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1789538463
-  },
   "7505910805968781312": {
    "created": 1789548589,
    "author": "Peter Noszek",
@@ -58,7 +45,9 @@
    "url": "https://www.linkedin.com/posts/jackstatza_one-point-from-gavin-uberti-co-founder-activity-7506012035072180227-1DoU",
    "text": "One point from Gavin Uberti, co-founder & CEO of Etched, at Primary Venture Summit really stood out to me: inference may increasingly consolidate into \u201cgigafactories,\u201d where scale can drive better economics and higher utilization.\n\nThat is an interesting datapoint for one of our portfolio companies, Lambda.\n\nLambda and Stephen Balaban have spent years building AI-native infrastructure around large, dense GPU clusters. If inference continues moving in this direction, competitive advantage may increasingly come from securing power, deploying dense compute, and operating it efficiently at massive scale.\n\nIt\u2019s also been great working with Stephen, Stacey Finerman and Jake Hansen and the broader ",
    "disc_score": 3,
-   "checks": {},
+   "checks": {
+    "24": 12
+   },
    "promoted": false,
    "miss": 0,
    "added": 1789577214
@@ -69,7 +58,9 @@
    "url": "https://www.linkedin.com/posts/jasonlevigoodison_nvidias-cuda-used-to-be-a-good-reason-to-activity-7505989379107020800-YsOF",
    "text": "NVIDIA's CUDA used to be a good reason to not consider alternative silicon.\n\nIt was a real moat for NVIDIA for the past few years. \n\nIf you wanted alternative silicon to run training, you had to rebuild years of software from scratch before your first model.\n\nOver the past 6 months, that has changed: \n\n1/ You can write your own compiler now, and AI coding gets you to something quickly that is at the very least workable. \n\n2/ The chip companies have stopped treating software as an afterthought.\n\nThe teams at Cerebras, SambaNova, d-Matrix, Positron AI, Etched and many more all know that making the switch seamless (like integrating with vLLM and SGLang) is life or death for the business, and th",
    "disc_score": 29,
-   "checks": {},
+   "checks": {
+    "24": 46
+   },
    "promoted": false,
    "miss": 0,
    "added": 1789577214
@@ -80,7 +71,9 @@
    "url": "https://www.linkedin.com/posts/equidam_venture-capitals-late-summer-surge-continued-activity-7505986366476836865-Vy7U",
    "text": "Venture capital\u2019s late-summer surge continued over the past four weeks, but the market is becoming even more concentrated around a relatively small group of AI, infrastructure and defense companies. August still produced $42B of global venture funding across just over 1,500 startups - 122% more than August 2025 - despite falling 25% from July. Seven companies raised billion-dollar rounds during the month, led by Databricks\u2019 $5B financing at a $190B valuation.\r\n\r\nThe defining feature of the period was the speed at which leading AI companies repriced upward. Etched raised $700M at a $21B valuation only a month after being valued at $10.3B; Wonderful more than doubled to $5B in roughly six mont",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1789577214
@@ -1079,6 +1072,18 @@
    [
     1789643578,
     82
+   ],
+   [
+    1789659347,
+    12
+   ],
+   [
+    1789659347,
+    46
+   ],
+   [
+    1789659347,
+    0
    ]
   ]
  },
