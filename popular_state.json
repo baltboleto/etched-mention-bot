@@ -1,30 +1,30 @@
 {
  "watch": {
-  "2100342965994508648": {
-   "created": 1789595760,
-   "author": "financespotnews",
-   "followers": 2419,
-   "url": "https://x.com/financespotnews/status/2100342965994508648",
-   "disc_score": 0,
+  "2100433658398310516": {
+   "created": 1789617382,
+   "author": "apartovi",
+   "followers": 39366,
+   "url": "https://x.com/apartovi/status/2100433658398310516",
+   "disc_score": 1,
    "checks": {
-    "1": null
+    "1": 1
    },
    "promoted": false,
    "miss": 0,
-   "added": 1789597465
+   "added": 1789624351
   },
-  "2100353825018417278": {
-   "created": 1789598349,
-   "author": "HotAisle",
-   "followers": 6051,
-   "url": "https://x.com/HotAisle/status/2100353825018417278",
+  "2100433730179305739": {
+   "created": 1789617400,
+   "author": "IsaacJLiu",
+   "followers": 919,
+   "url": "https://x.com/IsaacJLiu/status/2100433730179305739",
    "disc_score": 0,
    "checks": {
     "1": 0
    },
    "promoted": false,
    "miss": 0,
-   "added": 1789606071
+   "added": 1789624351
   }
  },
  "baseline": {
@@ -1155,6 +1155,14 @@
    ],
    [
     1789606071,
+    0
+   ],
+   [
+    1789624351,
+    1
+   ],
+   [
+    1789624351,
     0
    ]
   ]
