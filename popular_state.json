@@ -1,45 +1,5 @@
 {
- "watch": {
-  "2100623915802386460": {
-   "created": 1789662743,
-   "author": "DevanshShajw",
-   "followers": 54,
-   "url": "https://x.com/DevanshShajw/status/2100623915802386460",
-   "disc_score": 0,
-   "checks": {
-    "1": null
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1789672702
-  },
-  "2100622679124640121": {
-   "created": 1789662449,
-   "author": "zebriez",
-   "followers": 15951,
-   "url": "https://x.com/zebriez/status/2100622679124640121",
-   "disc_score": 114,
-   "checks": {
-    "1": null
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1789672702
-  },
-  "2100646036897153175": {
-   "created": 1789668017,
-   "author": "Abhigyawangoo",
-   "followers": 1012,
-   "url": "https://x.com/Abhigyawangoo/status/2100646036897153175",
-   "disc_score": 3,
-   "checks": {
-    "1": 3
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1789672702
-  }
- },
+ "watch": {},
  "baseline": {
   "1": [
    [
