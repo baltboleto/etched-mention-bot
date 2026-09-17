@@ -1,43 +1,43 @@
 {
  "watch": {
-  "2100571766880195055": {
-   "created": 1789650310,
-   "author": "Aditya__50",
-   "followers": 87,
-   "url": "https://x.com/Aditya__50/status/2100571766880195055",
+  "2100623915802386460": {
+   "created": 1789662743,
+   "author": "DevanshShajw",
+   "followers": 54,
+   "url": "https://x.com/DevanshShajw/status/2100623915802386460",
    "disc_score": 0,
    "checks": {
-    "1": 0
+    "1": null
    },
    "promoted": false,
    "miss": 0,
-   "added": 1789659270
+   "added": 1789672702
   },
-  "2100570494454161416": {
-   "created": 1789650007,
-   "author": "aessostudio",
-   "followers": 15,
-   "url": "https://x.com/aessostudio/status/2100570494454161416",
-   "disc_score": 4,
+  "2100622679124640121": {
+   "created": 1789662449,
+   "author": "zebriez",
+   "followers": 15951,
+   "url": "https://x.com/zebriez/status/2100622679124640121",
+   "disc_score": 114,
    "checks": {
     "1": null
    },
    "promoted": false,
    "miss": 0,
-   "added": 1789659270
+   "added": 1789672702
   },
-  "2100569602119897462": {
-   "created": 1789649794,
-   "author": "bertwitt",
-   "followers": 4627,
-   "url": "https://x.com/bertwitt/status/2100569602119897462",
-   "disc_score": 1,
+  "2100646036897153175": {
+   "created": 1789668017,
+   "author": "Abhigyawangoo",
+   "followers": 1012,
+   "url": "https://x.com/Abhigyawangoo/status/2100646036897153175",
+   "disc_score": 3,
    "checks": {
-    "1": null
+    "1": 3
    },
    "promoted": false,
    "miss": 0,
-   "added": 1789659270
+   "added": 1789672702
   }
  },
  "baseline": {
@@ -1181,6 +1181,10 @@
    [
     1789659272,
     0
+   ],
+   [
+    1789672703,
+    3
    ]
   ]
  },
