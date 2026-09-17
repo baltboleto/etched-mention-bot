@@ -1,31 +1,5 @@
 {
  "watch": {
-  "7505643483081396225": {
-   "created": 1789484854,
-   "author": "Natalie Fratto",
-   "url": "https://www.linkedin.com/posts/nataliefratto_etched-venturecapital-startups-activity-7505643483081396225-9y8J",
-   "text": "Three 24-year-old Harvard dropouts are going after NVIDIA. They just raised at a $21B valuation.\n \nThis is part one of Moonshots \u2014 a new Charts & Crafts series in partnership with Smartsheet where each company is taking a massive swing. They're either going to totally change the world\u2026or not.\n \nEtched isn't only making chips. They're making whole data center racks built specifically for AI inference, which is way, way harder.\n \nHere's why it's a prize worth shooting for: \n \nThere's two kinds of AI compute: training and inference. Training is the upfront work to build the model. Inference is the ongoing work of interacting with it. Training costs eventually end. Inference never does.\n \nIn 202",
-   "disc_score": 18,
-   "checks": {
-    "24": 87
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1789493917
-  },
-  "7505634119805116416": {
-   "created": 1789482622,
-   "author": "Shayema Rahim",
-   "url": "https://www.linkedin.com/posts/activity-7505634119805116416-O23Z",
-   "text": "#Etched is hiring a Security Engineer .\nEtched is seeking an experienced Security Engineer to protect the systems, networks, applications, and high-performance computing environments powering the future of AI hardware.\nYou\u2019ll build scalable security infrastructure across cloud and on-prem environments, strengthen identity and network security, improve threat detection and incident response, and automate security workflows\u2014without slowing down engineering innovation.\nLocation :San Jose, CA \u2014 Santana Row\n$2,000 monthly housing subsidy for those living within walking distance\n Daily lunch and dinner\nRelocation support available\nIdeal candidates bring 5\u20137+ years of experience across security eng",
-   "disc_score": 4,
-   "checks": {
-    "24": 10
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1789493917
-  },
   "7505717487284584448": {
    "created": 1789502498,
    "author": "Anna-Katrina Shedletsky",
@@ -45,7 +19,9 @@
    "url": "https://www.linkedin.com/posts/mohamedfouda_ai-deeptech-semiconductors-activity-7505804554261655553-MssO",
    "text": "\ud83c\udf10 THE INFERENCE INFLECTION POINT: Why the AI Hardware Playbook Just Flipped\n\nThe global AI landscape has officially shifted from training massive models to executing real-time inference processing. As autonomous agentic workflows and chain-of-thought models run 24/7, standard GPUs are hitting a massive memory-bandwidth bottleneck. This computational strain is forcing Nvidia, AWS, and emerging silicon startups to completely re-engineer the data center.\nHere is how the industry is redesigning hardware to survive the inference explosion:\n\n\ud83d\udd0d THE CHIP CONGESTION CRISIS\n\ud83d\udd39 The idle processor bottleneck: Because modern LLMs are autoregressive, predicting every single token requires reading tens or h",
    "disc_score": 1,
-   "checks": {},
+   "checks": {
+    "24": 3
+   },
    "promoted": false,
    "miss": 0,
    "added": 1789538463
@@ -104,7 +80,9 @@
    "url": "https://www.linkedin.com/posts/electronics-industry-forecast_processors-machinelearning-cloudinfrastructure-activity-7505864054951870465-cKUt",
    "text": "Data Center CPU Market is projected to grow at a CAGR of [CAGR]\n\ud835\uddd7\ud835\uddfc\ud835\ude04\ud835\uddfb\ud835\uddf9\ud835\uddfc\ud835\uddee\ud835\uddf1 \ud835\udde3\ud835\uddd7\ud835\uddd9 \ud835\uddd5\ud835\uddff\ud835\uddfc\ud835\uddf0\ud835\uddf5\ud835\ude02\ud835\uddff\ud835\udc1e: [https://lnkd.in/dvi4JGnh]\n\n\ud83d\udda5\ufe0f Core Data Center CPU Market Segments & Products\n\u2705 Server CPUs\n\u2705 Data Center #Processors\n\u2705 x86 CPUs\n\u2705 ARM-Based Server CPUs\n\u2705 High-Performance Computing CPUs\n\u2705 AI & Cloud Computing CPUs\n\n\ud835\udc0c\ud835\udc1a\ud835\udc2b\ud835\udc24\ud835\udc1e\ud835\udc2d \ud835\udc07\ud835\udc22\ud835\udc20\ud835\udc21\ud835\udc25\ud835\udc22\ud835\udc20\ud835\udc21\ud835\udc2d\ud835\udc2c\n\ud83d\udcc8 Growing cloud computing, hyperscale data centers, and enterprise workloads are driving demand for high-performance data center CPUs.\n\ud83e\udd16 Increasing AI, #machinelearning, and high-performance computing workloads are accelerating demand for processors with greater computational performance and efficiency.\n\u2601\ufe0f Expansion of #cloudinfrastructure and data-intensive applications is s",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1789558337
@@ -185,6 +163,17 @@
    "promoted": false,
    "miss": 0,
    "added": 1789606097
+  },
+  "7506174447180144640": {
+   "created": 1789611446,
+   "author": "James Ashton",
+   "url": "https://www.linkedin.com/posts/james-ashton-43335b11_thank-you-to-primary-venture-partners-for-activity-7506174447180144640-hrlF",
+   "text": "Thank you to Primary Venture Partners for the invite to today's NY Summit. Every talk I listened to had \ud83e\udd2f or \ud83d\udca1 moments. Some takeouts:\n\nFrom Etched: the entire AI revolution is still fundamentally constrained by a lack of compute. Lots of smart people are working on solving this\nFrom Jeanne DeWitt Grosser: slightly counter-intuitively, the greatest value of AI in the workplace is in making more time for human to human relationships, by automating drudgery. \"Time with customer\" should perhaps become a KPI \nParallel Web Systems is building web search and browsing for agents from the ground up. The agentic internet is in its infancy but growing very fast\nFrom Cloudflare pairing well with the Pa",
+   "disc_score": 3,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1789624427
   }
  },
  "baseline": {
@@ -1076,6 +1065,14 @@
    [
     1789597504,
     87
+   ],
+   [
+    1789624427,
+    3
+   ],
+   [
+    1789624427,
+    0
    ]
   ]
  },
