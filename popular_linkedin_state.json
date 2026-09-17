@@ -26,19 +26,6 @@
    "miss": 0,
    "added": 1789558337
   },
-  "7505864054951870465": {
-   "created": 1789537442,
-   "author": "Electronics Industry Forecast",
-   "url": "https://www.linkedin.com/posts/electronics-industry-forecast_processors-machinelearning-cloudinfrastructure-activity-7505864054951870465-cKUt",
-   "text": "Data Center CPU Market is projected to grow at a CAGR of [CAGR]\n\ud835\uddd7\ud835\uddfc\ud835\ude04\ud835\uddfb\ud835\uddf9\ud835\uddfc\ud835\uddee\ud835\uddf1 \ud835\udde3\ud835\uddd7\ud835\uddd9 \ud835\uddd5\ud835\uddff\ud835\uddfc\ud835\uddf0\ud835\uddf5\ud835\ude02\ud835\uddff\ud835\udc1e: [https://lnkd.in/dvi4JGnh]\n\n\ud83d\udda5\ufe0f Core Data Center CPU Market Segments & Products\n\u2705 Server CPUs\n\u2705 Data Center #Processors\n\u2705 x86 CPUs\n\u2705 ARM-Based Server CPUs\n\u2705 High-Performance Computing CPUs\n\u2705 AI & Cloud Computing CPUs\n\n\ud835\udc0c\ud835\udc1a\ud835\udc2b\ud835\udc24\ud835\udc1e\ud835\udc2d \ud835\udc07\ud835\udc22\ud835\udc20\ud835\udc21\ud835\udc25\ud835\udc22\ud835\udc20\ud835\udc21\ud835\udc2d\ud835\udc2c\n\ud83d\udcc8 Growing cloud computing, hyperscale data centers, and enterprise workloads are driving demand for high-performance data center CPUs.\n\ud83e\udd16 Increasing AI, #machinelearning, and high-performance computing workloads are accelerating demand for processors with greater computational performance and efficiency.\n\u2601\ufe0f Expansion of #cloudinfrastructure and data-intensive applications is s",
-   "disc_score": 0,
-   "checks": {
-    "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1789558337
-  },
   "7506012035072180227": {
    "created": 1789572724,
    "author": "Jack Statza, CFA",
@@ -84,7 +71,9 @@
    "url": "https://www.linkedin.com/posts/chrisexcel_nyctech-activity-7506034677137383424-wSMy",
    "text": "Primary Venture Partners, #NYCTech Summit\n\nSpeakers and presenters were excellent:\nGavin Uberti, Etched\nPatrick O'Shaughnessy, Colussus\nJeanne DeWitt Grosser, Vercel\nDan Shipper, Every\nParag Agrawal, Parallel\nShardul Shah, Index Ventures\nMatthew Prince, Cloudflare\nGabriel Stengel, Rogo\nEvan Beard, Standard Bots\nCrist\u00f3bal Valenzuela, Runway\nKeith Enright, Harvey\nAaron Rubin, Gunderson Dettmer\nTuhin Srivastava, Baseten\nApoorv Agrawal, Altimeter Capital\nLauren Makler, Cofertility\n...and Lance Armstrong! (yes that Lance Armstrong).\n\nGreat to reconnect with, and meet, so many awesome founders building great companies.\n\nDane Atkinson / Odeko\nMark L. Pederson & Jason Diamond / Orbiter\nIlia Litviak ",
    "disc_score": 2,
-   "checks": {},
+   "checks": {
+    "24": 9
+   },
    "promoted": false,
    "miss": 0,
    "added": 1789587965
@@ -95,7 +84,9 @@
    "url": "https://www.linkedin.com/posts/center-for-innovation-law-and-society_ucdavislaw-kinghall-faculty-activity-7506043777640239105-kVQP",
    "text": "Jon Fernandez, Counsel at Etched, Inc., discussed user interface designs crafted to manipulate people and how AI supercharges that threat.\n\nDark Patterns: How They Are Used and Regulated on the AI-Driven Web\n\nWatch the video: https://lnkd.in/g5Ue9AjP\n\nUpcoming CILS events and videos of past events: https://lnkd.in/g-gFNdFb.\n\n#UCDavisLaw #KingHall #Faculty #InnovationLaw",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 1
+   },
    "promoted": false,
    "miss": 0,
    "added": 1789587965
@@ -1084,6 +1075,14 @@
    [
     1789659347,
     0
+   ],
+   [
+    1789668763,
+    9
+   ],
+   [
+    1789668763,
+    1
    ]
   ]
  },
