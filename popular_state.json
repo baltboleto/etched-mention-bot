@@ -1,28 +1,30 @@
 {
  "watch": {
-  "2100318072611713462": {
-   "created": 1789589825,
-   "author": "Altcoinist",
-   "followers": 103478,
-   "url": "https://x.com/Altcoinist/status/2100318072611713462",
-   "disc_score": 691,
-   "checks": {
-    "1": 695
-   },
-   "promoted": true,
-   "miss": 0,
-   "added": 1789597465
-  },
   "2100342965994508648": {
    "created": 1789595760,
    "author": "financespotnews",
    "followers": 2419,
    "url": "https://x.com/financespotnews/status/2100342965994508648",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "1": null
+   },
    "promoted": false,
    "miss": 0,
    "added": 1789597465
+  },
+  "2100353825018417278": {
+   "created": 1789598349,
+   "author": "HotAisle",
+   "followers": 6051,
+   "url": "https://x.com/HotAisle/status/2100353825018417278",
+   "disc_score": 0,
+   "checks": {
+    "1": 0
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1789606071
   }
  },
  "baseline": {
@@ -1150,6 +1152,10 @@
    [
     1789597465,
     695
+   ],
+   [
+    1789606071,
+    0
    ]
   ]
  },
