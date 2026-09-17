@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7505601728898129920": {
-   "created": 1789474899,
-   "author": "LEBIGDATA.FR",
-   "url": "https://www.linkedin.com/posts/le-big-data-%2Efr_puce-ia-asic-les-21-milliards-detched-activity-7505601728898129920-O4-n",
-   "text": "La startup Etched r\u00e9volutionne le march\u00e9 des puces pour l'IA avec une lev\u00e9e de fonds record de 700 millions de dollars, valorisant l'entreprise \u00e0 21 milliards. Cette avanc\u00e9e promet de concurrencer les GPU polyvalents de Nvidia en proposant une puce IA ASIC hyper-optimis\u00e9e, capable de r\u00e9duire drastiquement les co\u00fbts \u00e9nerg\u00e9tiques et de calcul. Pour les directions informatiques, c'est un signal fort qui pourrait transformer les infrastructures IA. Mais cette sp\u00e9cialisation extr\u00eame pose aussi la question de la flexibilit\u00e9 face \u00e0 l'\u00e9volution rapide des algorithmes. D\u00e9couvrez pourquoi cette innovation compte pour l'avenir du hardware IA. #InnovationTechnologique #IA #DataCenter",
-   "disc_score": 0,
-   "checks": {
-    "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1789476928
-  },
   "7505611986848620545": {
    "created": 1789477345,
    "author": "Emily Airey",
@@ -200,6 +187,17 @@
    "promoted": false,
    "miss": 0,
    "added": 1789597504
+  },
+  "7506141543569883137": {
+   "created": 1789603601,
+   "author": "Rajeev Rajan",
+   "url": "https://www.linkedin.com/posts/rajeevrajan2_aiinfrasummit-synopsys-agenticai-activity-7506141543569883137-RTsn",
+   "text": "\u26a1\ufe0f Great day at the AI Infra Summit in Santa Clara! Team Synopsys hosted a startup panel \u201cBuild a Winning AI Chip Startup from Scratch,\u201d\u00a0featuring cutting-edge co-founders and leaders - Robert W. from Etched, Andy Hock from Cerebras, Jonathan Pearce from AheadComputing, Usman Ali, Ph.D. from Meta, and moderated by Sandeep Mehndiratta from Synopsys Inc. \ud83d\udca1 The most compelling part of the conversations was hearing the real challenges they faced\u2014and overcame\u2014building and scaling AI chip businesses in a rapidly evolving era. It wasn\u2019t about how they started; it's their ability to adapt and figure it out as they grow and keep building \ud83e\udd16 ! \n\n#AIInfraSummit #Synopsys #AgenticAI #CustomSilicon #Physi",
+   "disc_score": 4,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1789606097
   }
  },
  "baseline": {
