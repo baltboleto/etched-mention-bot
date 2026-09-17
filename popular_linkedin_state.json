@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7505910805968781312": {
-   "created": 1789548589,
-   "author": "Peter Noszek",
-   "url": "https://www.linkedin.com/posts/petergnoszek_in-sf-kaleidoscope-ventures-hosted-compute-activity-7505910805968781312-kp99",
-   "text": "In SF Kaleidoscope Ventures hosted Compute & Caviar with General Compute, APAC Compute, and AI Plus (AI+). On 1 October we're bringing it to Singapore \u2013 momentum in compute is shifting East.\n\nOur main takeaways from the night: the chipmakers (SambaNova, Cerebras, d-Matrix, Etched), the clouds & labs (Fireworks, Prometheus, Sail Research, AWS, Ricursive, Exa), the smart money (a16z, SemiAnalysis, Theory, ICONIQ, Temasek) converged on 3 bottlenecks:\n\n\u2022 Power\n\u2022 Land\n\u2022 Allocation\n\nAsia is the frontier. That's why we're bringing everyone together in a few weeks. Lots to come from APAC Compute. \n\nMessage me / Cindy Leow if you should be in the room.",
-   "disc_score": 34,
-   "checks": {
-    "24": 82
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1789558337
-  },
   "7506012035072180227": {
    "created": 1789572724,
    "author": "Jack Statza, CFA",
@@ -84,7 +71,9 @@
    "url": "https://www.linkedin.com/posts/emily-w-chang_primarynyctechsummit-ai-companybuilding-activity-7506090459216125952-9127",
    "text": "Customer obsession, no matter how big you become.\n\nAt Primary Venture Partners 9th NYC Tech Summit, Etched co-founder and CEO Gavin Uberti credited TSMC\u2019s relentless service as a major reason it wins. A trillion-dollar company, still willing to experiment and adapt to help a small customer succeed.\n\nI really enjoyed his session. His examples came from hardware, but the company-building lessons apply much more broadly.\n\n1. Customer obsession shows up in how you solve customers\u2019 problems.\n\nGavin described how TSMC would investigate technical issues and run its own experiments at no charge. When Etched proposed an unusual production approach that would allow packaging development and wafer fabr",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 6
+   },
    "promoted": false,
    "miss": 0,
    "added": 1789597504
@@ -165,6 +154,17 @@
    "promoted": false,
    "miss": 0,
    "added": 1789672735
+  },
+  "7506410014555770880": {
+   "created": 1789667609,
+   "author": "Joshua Scott",
+   "url": "https://www.linkedin.com/posts/joshua-scott-100js_i-have-had-a-week-to-recover-from-ideas-fest-activity-7506410014555770880-llZ6",
+   "text": "I have had a week to recover from Ideas Fest now, a full week was certainly needed.\n\nIt was incredible to finally get Etched Tech properly out in the wild. (If you can call Tring wild!)\n\nWe had a brilliant setup with CMS in a slightly over-the-top, yet suave, Moroccan-style tent, which turned out to be a pretty great place to talk to founders about ideas, ownership and how messy the early stages of building something often are.\n\nBeing able to demo Etched live was probably the highlight for me. There\u2019s a big difference between explaining what the product does and watching people see their own use cases in it straight away.\n\nWe met some really interesting founders too. Lots of smart questions,",
+   "disc_score": 11,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1789680418
   }
  },
  "baseline": {
@@ -1092,6 +1092,10 @@
    [
     1789668763,
     1
+   ],
+   [
+    1789680418,
+    6
    ]
   ]
  },
