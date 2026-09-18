@@ -58,7 +58,9 @@
    "url": "https://www.linkedin.com/posts/gregory-k-omniux_venturecapital-vc-startup-activity-7506418904718626817-TiGN",
    "text": "Spent yesterday representing OMNIUX at the Primary Venture Partners Summit, and the energy across the NYC ecosystem was electric. Gathering right on the Hudson water at Pier 60 provided an incredible backdrop for candid, high-signal conversations with the Primary Venture Partners team, leading VCs, and peer founders across the ecosystem.\n\nGavin Uberti (Etched) made a compelling case for how specialized ASIC architecture will fundamentally redefine the economics and performance ceiling of AI compute (in my opinion, he was the highlight of the speakers; really incredible foresight into where AI as a whole is going). Matthew Prince (Cloudflare) delivered sharp insights on how automated agent tr",
    "disc_score": 61,
-   "checks": {},
+   "checks": {
+    "24": 92
+   },
    "promoted": false,
    "miss": 0,
    "added": 1789672735
@@ -130,6 +132,28 @@
    "promoted": false,
    "miss": 0,
    "added": 1789753404
+  },
+  "7506794467891273728": {
+   "created": 1789759270,
+   "author": "Aaron Dillon",
+   "url": "https://www.linkedin.com/posts/aarondillonnyc_pre-ipo-stock-secondary-market-update-as-activity-7506794467891273728-XCry",
+   "text": "Pre-IPO Stock Secondary Market Update | as of Sep 15, 2026 | OpenAI vs Apple Hardware, Positron\u2019s AI Chips & MetaMuse\nWatch the full video = https://lnkd.in/ejZ-xjEy\n\nThe AI inference chip market just produced two very different price tags for the same thesis, and the spread is the most instructive data point in private semis right now. Positron AI raised $875 million at a $5 billion post-money valuation on September 10, roughly five times its approximately $1 billion February mark, and it did so with product in the field: more than 50 first-generation Atlas racks deployed at Oracle Cloud Infrastructure, production customers including Parasail, Jump Trading and i3D, a next-generation Asimov ",
+   "disc_score": 1,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1789761556
+  },
+  "7506794545746198528": {
+   "created": 1789759289,
+   "author": "Pre-IPO Stocks for Financial Advisors | AG Dillon & Co",
+   "url": "https://www.linkedin.com/posts/ag-dillon-co_pre-ipo-stock-secondary-market-update-as-activity-7506794545746198528-fUv4",
+   "text": "Pre-IPO Stock Secondary Market Update | as of Sep 15, 2026 | OpenAI vs Apple Hardware, Positron\u2019s AI Chips & MetaMuse\nWatch the full video = https://lnkd.in/ei4Z92rD\n\nThe AI inference chip market just produced two very different price tags for the same thesis, and the spread is the most instructive data point in private semis right now. Positron AI raised $875 million at a $5 billion post-money valuation on September 10, roughly five times its approximately $1 billion February mark, and it did so with product in the field: more than 50 first-generation Atlas racks deployed at Oracle Cloud Infrastructure, production customers including Parasail, Jump Trading and i3D, a next-generation Asimov ",
+   "disc_score": 1,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1789761556
   }
  },
  "baseline": {
@@ -1089,6 +1113,10 @@
    [
     1789756055,
     25
+   ],
+   [
+    1789761556,
+    92
    ]
   ]
  },
