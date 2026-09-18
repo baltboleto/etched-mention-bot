@@ -1,15 +1,37 @@
 {
  "watch": {
-  "2100940796333592875": {
-   "created": 1789738294,
-   "author": "batagonx",
-   "followers": 214,
-   "url": "https://x.com/batagonx/status/2100940796333592875",
+  "2100999575397913039": {
+   "created": 1789752308,
+   "author": "PineapplesDev",
+   "followers": 329,
+   "url": "https://x.com/PineapplesDev/status/2100999575397913039",
    "disc_score": 0,
    "checks": {},
    "promoted": false,
    "miss": 0,
-   "added": 1789740659
+   "added": 1789753357
+  },
+  "2101002742164787418": {
+   "created": 1789753063,
+   "author": "nathoham",
+   "followers": 694,
+   "url": "https://x.com/nathoham/status/2101002742164787418",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1789753357
+  },
+  "2100989250707542264": {
+   "created": 1789749846,
+   "author": "jessemchen",
+   "followers": 11,
+   "url": "https://x.com/jessemchen/status/2100989250707542264",
+   "disc_score": 8,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1789753357
   }
  },
  "baseline": {
