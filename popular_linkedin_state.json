@@ -84,7 +84,9 @@
    "url": "https://www.linkedin.com/posts/rajeevrajan2_aiinfrasummit-synopsys-agenticai-activity-7506141543569883137-RTsn",
    "text": "\u26a1\ufe0f Great day at the AI Infra Summit in Santa Clara! Team Synopsys hosted a startup panel \u201cBuild a Winning AI Chip Startup from Scratch,\u201d\u00a0featuring cutting-edge co-founders and leaders - Robert W. from Etched, Andy Hock from Cerebras, Jonathan Pearce from AheadComputing, Usman Ali, Ph.D. from Meta, and moderated by Sandeep Mehndiratta from Synopsys Inc. \ud83d\udca1 The most compelling part of the conversations was hearing the real challenges they faced\u2014and overcame\u2014building and scaling AI chip businesses in a rapidly evolving era. It wasn\u2019t about how they started; it's their ability to adapt and figure it out as they grow and keep building \ud83e\udd16 ! \n\n#AIInfraSummit #Synopsys #AgenticAI #CustomSilicon #Physi",
    "disc_score": 4,
-   "checks": {},
+   "checks": {
+    "24": 66
+   },
    "promoted": false,
    "miss": 0,
    "added": 1789606097
@@ -1096,6 +1098,10 @@
    [
     1789680418,
     6
+   ],
+   [
+    1789690599,
+    66
    ]
   ]
  },
