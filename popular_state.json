@@ -1,43 +1,17 @@
 {
  "watch": {
-  "2100720258432782356": {
-   "created": 1789685713,
-   "author": "itschrisestrada",
-   "followers": 21,
-   "url": "https://x.com/itschrisestrada/status/2100720258432782356",
-   "disc_score": 0,
+  "2100773640296190130": {
+   "created": 1789698440,
+   "author": "FinanceYF5",
+   "followers": 190391,
+   "url": "https://x.com/FinanceYF5/status/2100773640296190130",
+   "disc_score": 1,
    "checks": {
-    "1": 0
+    "1": null
    },
    "promoted": false,
    "miss": 0,
-   "added": 1789691963
-  },
-  "2100719813639496054": {
-   "created": 1789685607,
-   "author": "itschrisestrada",
-   "followers": 21,
-   "url": "https://x.com/itschrisestrada/status/2100719813639496054",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1789691963
-  },
-  "2100724704155668790": {
-   "created": 1789686773,
-   "author": "MichaelSmolkin",
-   "followers": 6,
-   "url": "https://x.com/MichaelSmolkin/status/2100724704155668790",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1789691963
+   "added": 1789708538
   }
  },
  "baseline": {
