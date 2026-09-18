@@ -1,5 +1,45 @@
 {
- "watch": {},
+ "watch": {
+  "2100720258432782356": {
+   "created": 1789685713,
+   "author": "itschrisestrada",
+   "followers": 21,
+   "url": "https://x.com/itschrisestrada/status/2100720258432782356",
+   "disc_score": 0,
+   "checks": {
+    "1": 0
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1789691963
+  },
+  "2100719813639496054": {
+   "created": 1789685607,
+   "author": "itschrisestrada",
+   "followers": 21,
+   "url": "https://x.com/itschrisestrada/status/2100719813639496054",
+   "disc_score": 0,
+   "checks": {
+    "1": 0
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1789691963
+  },
+  "2100724704155668790": {
+   "created": 1789686773,
+   "author": "MichaelSmolkin",
+   "followers": 6,
+   "url": "https://x.com/MichaelSmolkin/status/2100724704155668790",
+   "disc_score": 0,
+   "checks": {
+    "1": 0
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1789691963
+  }
+ },
  "baseline": {
   "1": [
    [
@@ -1145,6 +1185,18 @@
    [
     1789672703,
     3
+   ],
+   [
+    1789691964,
+    0
+   ],
+   [
+    1789691964,
+    0
+   ],
+   [
+    1789691964,
+    0
    ]
   ]
  },
