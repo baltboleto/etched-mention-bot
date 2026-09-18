@@ -6,7 +6,9 @@
    "followers": 329,
    "url": "https://x.com/PineapplesDev/status/2100999575397913039",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "1": null
+   },
    "promoted": false,
    "miss": 0,
    "added": 1789753357
@@ -17,18 +19,9 @@
    "followers": 694,
    "url": "https://x.com/nathoham/status/2101002742164787418",
    "disc_score": 0,
-   "checks": {},
-   "promoted": false,
-   "miss": 0,
-   "added": 1789753357
-  },
-  "2100989250707542264": {
-   "created": 1789749846,
-   "author": "jessemchen",
-   "followers": 11,
-   "url": "https://x.com/jessemchen/status/2100989250707542264",
-   "disc_score": 8,
-   "checks": {},
+   "checks": {
+    "1": 1
+   },
    "promoted": false,
    "miss": 0,
    "added": 1789753357
@@ -1195,6 +1188,10 @@
    [
     1789725156,
     0
+   ],
+   [
+    1789761525,
+    1
    ]
   ]
  },
