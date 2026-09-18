@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7506090459216125952": {
-   "created": 1789591421,
-   "author": "Emily W Chang",
-   "url": "https://www.linkedin.com/posts/emily-w-chang_primarynyctechsummit-ai-companybuilding-activity-7506090459216125952-9127",
-   "text": "Customer obsession, no matter how big you become.\n\nAt Primary Venture Partners 9th NYC Tech Summit, Etched co-founder and CEO Gavin Uberti credited TSMC\u2019s relentless service as a major reason it wins. A trillion-dollar company, still willing to experiment and adapt to help a small customer succeed.\n\nI really enjoyed his session. His examples came from hardware, but the company-building lessons apply much more broadly.\n\n1. Customer obsession shows up in how you solve customers\u2019 problems.\n\nGavin described how TSMC would investigate technical issues and run its own experiments at no charge. When Etched proposed an unusual production approach that would allow packaging development and wafer fabr",
-   "disc_score": 0,
-   "checks": {
-    "24": 6
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1789597504
-  },
   "7506141543569883137": {
    "created": 1789603601,
    "author": "Rajeev Rajan",
@@ -104,6 +91,17 @@
    "promoted": false,
    "miss": 0,
    "added": 1789680418
+  },
+  "7506629658340253697": {
+   "created": 1789719976,
+   "author": "Robert Lee-Green",
+   "url": "https://www.linkedin.com/posts/robert-lee-green-3013a349_it-was-a-pleasure-to-host-a-panel-earlier-activity-7506629658340253697-nBm_",
+   "text": "Great discussion earlier this week on a topic that is only becoming more important.\n\nAs AI becomes embedded into the way ideas, content and innovation are created, questions around ownership are only part of the challenge. Being able to evidence how something was developed, who contributed, what tools were used and when key decisions were made is becoming just as important.\n\nThat is exactly the infrastructure we are building at Etched Tech.\n\nThank you Alexander Taylor for hosting, and to everyone who contributed to the discussion. Great to see such a strong conversation developing around evidence, provenance and IP in the AI era.\n\nGina Bibby David Goodman Melissa Max-Macarthy Ben Scott",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1789725233
   }
  },
  "baseline": {
