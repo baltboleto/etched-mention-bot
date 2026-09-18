@@ -45,7 +45,9 @@
    "url": "https://www.linkedin.com/posts/kabir-samtani_a-few-takeaways-from-yesterdays-primary-activity-7506417614877814784-ak4H",
    "text": "A few takeaways from yesterday's Primary Venture Partners Summit on how AI is changing work, research and the internet:\n- Parag Agrawal (Parallel) and Matthew Prince (Cloudflare): the web's ad model depends on human attention, but agents need useful information. If publishers get paid for original facts instead of clicks, we could be heading into a golden age of journalism where the economics reward better reporting.\n- Dan Shipper (Every) and Jeanne DeWitt Grosser (Vercel): vibe coding gets you a prototype, but useful software still needs engineers maintaining and improving it. With a shared company agent, one person's improvements can help the whole team. We're thinking about both at Kosa a",
    "disc_score": 2,
-   "checks": {},
+   "checks": {
+    "24": 8
+   },
    "promoted": false,
    "miss": 0,
    "added": 1789672735
@@ -67,7 +69,9 @@
    "url": "https://www.linkedin.com/posts/joshua-scott-100js_i-have-had-a-week-to-recover-from-ideas-fest-activity-7506410014555770880-llZ6",
    "text": "I have had a week to recover from Ideas Fest now, a full week was certainly needed.\n\nIt was incredible to finally get Etched Tech properly out in the wild. (If you can call Tring wild!)\n\nWe had a brilliant setup with CMS in a slightly over-the-top, yet suave, Moroccan-style tent, which turned out to be a pretty great place to talk to founders about ideas, ownership and how messy the early stages of building something often are.\n\nBeing able to demo Etched live was probably the highlight for me. There\u2019s a big difference between explaining what the product does and watching people see their own use cases in it straight away.\n\nWe met some really interesting founders too. Lots of smart questions,",
    "disc_score": 11,
-   "checks": {},
+   "checks": {
+    "24": 25
+   },
    "promoted": false,
    "miss": 0,
    "added": 1789680418
@@ -1077,6 +1081,14 @@
    [
     1789740764,
     7
+   ],
+   [
+    1789756055,
+    8
+   ],
+   [
+    1789756055,
+    25
    ]
   ]
  },
