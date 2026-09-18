@@ -1,17 +1,28 @@
 {
  "watch": {
-  "2100773640296190130": {
-   "created": 1789698440,
-   "author": "FinanceYF5",
-   "followers": 190391,
-   "url": "https://x.com/FinanceYF5/status/2100773640296190130",
-   "disc_score": 1,
+  "2100882166376964335": {
+   "created": 1789724315,
+   "author": "txt4everandever",
+   "followers": 146,
+   "url": "https://x.com/txt4everandever/status/2100882166376964335",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1789725153
+  },
+  "2100853204929896498": {
+   "created": 1789717410,
+   "author": "Ki9a8a9iK",
+   "followers": 390,
+   "url": "https://x.com/Ki9a8a9iK/status/2100853204929896498",
+   "disc_score": 0,
    "checks": {
-    "1": null
+    "1": 0
    },
    "promoted": false,
    "miss": 0,
-   "added": 1789708538
+   "added": 1789725153
   }
  },
  "baseline": {
@@ -1170,6 +1181,10 @@
    ],
    [
     1789691964,
+    0
+   ],
+   [
+    1789725156,
     0
    ]
   ]
