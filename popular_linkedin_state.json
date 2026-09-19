@@ -1,31 +1,5 @@
 {
  "watch": {
-  "7506329054132789249": {
-   "created": 1789648307,
-   "author": "Rachel ten Brink",
-   "url": "https://www.linkedin.com/posts/rachel-ten-brink_primary-venture-partners-summit-is-like-back-activity-7506329054132789249-hKhb",
-   "text": "Primary Venture Partners Summit is like back to school for NYC VC. It's great to see the out of towners, but for the NYC ecosystem it feels like a reunion. Frankly I spent most of the time catching up with LPs, GPs and founders, but did hear a few presentations. Topics were pretty far reaching. Will AI end humanity? That one I'm going to let play out.\n Gavin Uberti, Etched Patrick O'Shaughnessy, Colossus\n\nParticularly enjoyed the most human of panels with Lance Armstrong. He was \"fired from the world\", and the work has been going on ever since. A nonlinear life. Some lines that stuck:\n\n\"You have to be made to do a sport. A donkey will never win the Kentucky Derby.\"\n\"Life moved so fast I was ",
-   "disc_score": 8,
-   "checks": {
-    "24": 106
-   },
-   "promoted": true,
-   "miss": 0,
-   "added": 1789651620
-  },
-  "7506327376478404608": {
-   "created": 1789647907,
-   "author": "Jessica Radow",
-   "url": "https://www.linkedin.com/posts/jessica-radow-69b431_nyc-was-looking-particularly-good-yesterday-activity-7506327376478404608-fVqI",
-   "text": "NYC was looking particularly good yesterday! Perfect weather and even better tech momentum!\n\nGreat day at Primary Venture Partners NYC Tech Summit. Exciting to see so many founders, investors, and operators  coming together in one place.\n\nTruly a treat to hear from so many incredible founders Gavin Uberti, Matthew Prince, Crist\u00f3bal Valenzuela, Dan Shipper, Evan Beard, including the legendary Lance Armstrong, with conversations spanning AI and compute to robotics, and the broader reindustrialization happening in the US.\n\nLet's keep it going! And thank you again to the awesome Primary Venture Partners team!",
-   "disc_score": 1,
-   "checks": {
-    "24": 32
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1789651620
-  },
   "7506417614877814784": {
    "created": 1789669421,
    "author": "Kabir Samtani",
@@ -163,6 +137,17 @@
    "promoted": false,
    "miss": 0,
    "added": 1789777217
+  },
+  "7506914181607129088": {
+   "created": 1789787812,
+   "author": "Fahad Najam",
+   "url": "https://www.linkedin.com/posts/fahadnajam_inference-tax-in-high-performance-trading-activity-7506914181607129088-7ys0",
+   "text": "The Inference Tax: What Trading Systems Reveal About Energy-Aware AI\n\nThe fastest accelerator in a two-minute benchmark can become a completely different system forty-five minutes into a live session.\nAverage latency might hold steady, and mean power may even drop. But the true warning signals show up where it hurts: p99.99 latency, useful output rate, thermal margin, and clock-limit exposure.\nThat performance gap is the inference tax.\nMy latest technical white paper introduces two testable operating concepts:\n * Energy-Aware Computing: Measuring energy per useful output\u2014never power in isolation.\n * Power-Thermal-Aware Scheduling: Keeping latency-sensitive inference strictly inside a validat",
+   "disc_score": 7,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1789794506
   }
  },
  "baseline": {
