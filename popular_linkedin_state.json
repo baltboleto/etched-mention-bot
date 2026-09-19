@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7506629658340253697": {
-   "created": 1789719976,
-   "author": "Robert Lee-Green",
-   "url": "https://www.linkedin.com/posts/robert-lee-green-3013a349_it-was-a-pleasure-to-host-a-panel-earlier-activity-7506629658340253697-nBm_",
-   "text": "Great discussion earlier this week on a topic that is only becoming more important.\n\nAs AI becomes embedded into the way ideas, content and innovation are created, questions around ownership are only part of the challenge. Being able to evidence how something was developed, who contributed, what tools were used and when key decisions were made is becoming just as important.\n\nThat is exactly the infrastructure we are building at Etched Tech.\n\nThank you Alexander Taylor for hosting, and to everyone who contributed to the discussion. Great to see such a strong conversation developing around evidence, provenance and IP in the AI era.\n\nGina Bibby David Goodman Melissa Max-Macarthy Ben Scott",
-   "disc_score": 0,
-   "checks": {
-    "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1789725233
-  },
   "7506685625786408960": {
    "created": 1789733320,
    "author": "Chris Ross",
@@ -71,7 +58,9 @@
    "url": "https://www.linkedin.com/posts/aarondillonnyc_pre-ipo-stock-secondary-market-update-as-activity-7506794467891273728-XCry",
    "text": "Pre-IPO Stock Secondary Market Update | as of Sep 15, 2026 | OpenAI vs Apple Hardware, Positron\u2019s AI Chips & MetaMuse\nWatch the full video = https://lnkd.in/ejZ-xjEy\n\nThe AI inference chip market just produced two very different price tags for the same thesis, and the spread is the most instructive data point in private semis right now. Positron AI raised $875 million at a $5 billion post-money valuation on September 10, roughly five times its approximately $1 billion February mark, and it did so with product in the field: more than 50 first-generation Atlas racks deployed at Oracle Cloud Infrastructure, production customers including Parasail, Jump Trading and i3D, a next-generation Asimov ",
    "disc_score": 1,
-   "checks": {},
+   "checks": {
+    "24": 5
+   },
    "promoted": false,
    "miss": 0,
    "added": 1789761556
@@ -82,7 +71,9 @@
    "url": "https://www.linkedin.com/posts/ag-dillon-co_pre-ipo-stock-secondary-market-update-as-activity-7506794545746198528-fUv4",
    "text": "Pre-IPO Stock Secondary Market Update | as of Sep 15, 2026 | OpenAI vs Apple Hardware, Positron\u2019s AI Chips & MetaMuse\nWatch the full video = https://lnkd.in/ei4Z92rD\n\nThe AI inference chip market just produced two very different price tags for the same thesis, and the spread is the most instructive data point in private semis right now. Positron AI raised $875 million at a $5 billion post-money valuation on September 10, roughly five times its approximately $1 billion February mark, and it did so with product in the field: more than 50 first-generation Atlas racks deployed at Oracle Cloud Infrastructure, production customers including Parasail, Jump Trading and i3D, a next-generation Asimov ",
    "disc_score": 1,
-   "checks": {},
+   "checks": {
+    "24": 1
+   },
    "promoted": false,
    "miss": 0,
    "added": 1789761556
@@ -1141,6 +1132,14 @@
    [
     1789844305,
     53
+   ],
+   [
+    1789850294,
+    5
+   ],
+   [
+    1789850294,
+    1
    ]
   ]
  },
