@@ -104,7 +104,9 @@
    "url": "https://www.linkedin.com/posts/codimccommon_serial-entrepreneurs-mike-and-kass-lazerow-activity-7506778084587798529-njnR",
    "text": "I'm excited to officially share what we've been building! \n \nMerraine Growth \n\nFounded 25 years ago, Merraine is now owned and led by serial entrepreneurs and active venture investors Mike & Kass Lazerow (Buddy Media, Liquid Death, Etched AI, Carda Health).\n\nWe partner with founders, leadership teams, and boards on the critical hires that shape a company\u2019s next stage of growth\u2026from executive leadership and go-to-market to finance, product, and engineering.\n\nBut we don\u2019t measure success by filling seats. \nWe measure it by helping founders build the teams that make their companies better.\n \nHuge shout-out to the best team: Dina Ufberg Michael Lazerow Kass Lazerow \ud83d\ude80\n\nInterested in learning more",
    "disc_score": 31,
-   "checks": {},
+   "checks": {
+    "24": 53
+   },
    "promoted": false,
    "miss": 0,
    "added": 1789777217
@@ -1135,6 +1137,10 @@
    [
     1789836189,
     0
+   ],
+   [
+    1789844305,
+    53
    ]
   ]
  },
