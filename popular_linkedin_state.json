@@ -84,8 +84,10 @@
    "url": "https://www.linkedin.com/posts/primary-venture-partners_this-week-was-electric-more-than-1500-activity-7506836475926253568-KKN5",
    "text": "This week was electric.\n\nMore than 1,500 of tech\u2019s leading builders and investors filled the halls for Primary\u2019s biggest NYC Tech Summit yet.\n\nOnstage, Gavin Uberti, Patrick O'Shaughnessy, Jeanne DeWitt Grosser, Shardul Shah, Parag Agrawal, Crist\u00f3bal Valenzuela, Matthew Prince, Apoorv Agrawal, Tuhin Srivastava, Lauren Makler, Gabriel Stengel, Keith Enright, Aaron Rubin, Dan Shipper and Lance Armstrong shared their insights on this consequential moment in tech.\n\nAcross the venue, our partners Replit, Gunderson Dettmer, and Hyperagent created hands-on experiences, while some of tech\u2019s most exceptional companies were represented throughout the room.\n\nWe also sealed the community\u2019s boldest predi",
    "disc_score": 46,
-   "checks": {},
-   "promoted": false,
+   "checks": {
+    "24": 119
+   },
+   "promoted": true,
    "miss": 0,
    "added": 1789777217
   },
@@ -1140,6 +1142,10 @@
    [
     1789850294,
     1
+   ],
+   [
+    1789858984,
+    119
    ]
   ]
  },
@@ -1228,6 +1234,11 @@
    1789740764,
    "7506329054132789249",
    106
+  ],
+  [
+   1789858984,
+   "7506836475926253568",
+   119
   ]
  ],
  "seeded": true
