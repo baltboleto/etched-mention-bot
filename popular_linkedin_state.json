@@ -1,51 +1,14 @@
 {
  "watch": {
-  "7506417614877814784": {
-   "created": 1789669421,
-   "author": "Kabir Samtani",
-   "url": "https://www.linkedin.com/posts/kabir-samtani_a-few-takeaways-from-yesterdays-primary-activity-7506417614877814784-ak4H",
-   "text": "A few takeaways from yesterday's Primary Venture Partners Summit on how AI is changing work, research and the internet:\n- Parag Agrawal (Parallel) and Matthew Prince (Cloudflare): the web's ad model depends on human attention, but agents need useful information. If publishers get paid for original facts instead of clicks, we could be heading into a golden age of journalism where the economics reward better reporting.\n- Dan Shipper (Every) and Jeanne DeWitt Grosser (Vercel): vibe coding gets you a prototype, but useful software still needs engineers maintaining and improving it. With a shared company agent, one person's improvements can help the whole team. We're thinking about both at Kosa a",
-   "disc_score": 2,
-   "checks": {
-    "24": 8
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1789672735
-  },
-  "7506418904718626817": {
-   "created": 1789669729,
-   "author": "Gregory Kantor",
-   "url": "https://www.linkedin.com/posts/gregory-k-omniux_venturecapital-vc-startup-activity-7506418904718626817-TiGN",
-   "text": "Spent yesterday representing OMNIUX at the Primary Venture Partners Summit, and the energy across the NYC ecosystem was electric. Gathering right on the Hudson water at Pier 60 provided an incredible backdrop for candid, high-signal conversations with the Primary Venture Partners team, leading VCs, and peer founders across the ecosystem.\n\nGavin Uberti (Etched) made a compelling case for how specialized ASIC architecture will fundamentally redefine the economics and performance ceiling of AI compute (in my opinion, he was the highlight of the speakers; really incredible foresight into where AI as a whole is going). Matthew Prince (Cloudflare) delivered sharp insights on how automated agent tr",
-   "disc_score": 61,
-   "checks": {
-    "24": 92
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1789672735
-  },
-  "7506410014555770880": {
-   "created": 1789667609,
-   "author": "Joshua Scott",
-   "url": "https://www.linkedin.com/posts/joshua-scott-100js_i-have-had-a-week-to-recover-from-ideas-fest-activity-7506410014555770880-llZ6",
-   "text": "I have had a week to recover from Ideas Fest now, a full week was certainly needed.\n\nIt was incredible to finally get Etched Tech properly out in the wild. (If you can call Tring wild!)\n\nWe had a brilliant setup with CMS in a slightly over-the-top, yet suave, Moroccan-style tent, which turned out to be a pretty great place to talk to founders about ideas, ownership and how messy the early stages of building something often are.\n\nBeing able to demo Etched live was probably the highlight for me. There\u2019s a big difference between explaining what the product does and watching people see their own use cases in it straight away.\n\nWe met some really interesting founders too. Lots of smart questions,",
-   "disc_score": 11,
-   "checks": {
-    "24": 25
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1789680418
-  },
   "7506629658340253697": {
    "created": 1789719976,
    "author": "Robert Lee-Green",
    "url": "https://www.linkedin.com/posts/robert-lee-green-3013a349_it-was-a-pleasure-to-host-a-panel-earlier-activity-7506629658340253697-nBm_",
    "text": "Great discussion earlier this week on a topic that is only becoming more important.\n\nAs AI becomes embedded into the way ideas, content and innovation are created, questions around ownership are only part of the challenge. Being able to evidence how something was developed, who contributed, what tools were used and when key decisions were made is becoming just as important.\n\nThat is exactly the infrastructure we are building at Etched Tech.\n\nThank you Alexander Taylor for hosting, and to everyone who contributed to the discussion. Great to see such a strong conversation developing around evidence, provenance and IP in the AI era.\n\nGina Bibby David Goodman Melissa Max-Macarthy Ben Scott",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1789725233
@@ -148,6 +111,39 @@
    "promoted": false,
    "miss": 0,
    "added": 1789794506
+  },
+  "7506950231511728128": {
+   "created": 1789796407,
+   "author": "Evergreen Technologies LLC",
+   "url": "https://www.linkedin.com/posts/evergreen-tech-llc_httpszurlcosdn4b-etched-the-21-activity-7506950231511728128-grKy",
+   "text": "https://zurl.co/SdN4b \n\ud83d\ude80Etched: The $21 Billion Bet on Transformer-Specific Silicon\nThe provided video details the rise of Etched, a semiconductor startup that has developed a specialized chip called Sohu designed exclusively ...\nRead more at https://zurl.co/1no0p",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1789810472
+  },
+  "7507000651302805504": {
+   "created": 1789808428,
+   "author": "Arman Mkhitaryan",
+   "url": "https://www.linkedin.com/posts/arman-mkhitaryan-22273733b_the-ai-hardware-race-just-got-a-lot-more-activity-7507000651302805504-SVM9",
+   "text": "The AI hardware race just got a lot more interesting.\n\nEtched is building the world's first transformer-specific ASIC, the Sohu chip, and their progress update reads like a masterclass in contrarian bets.\n\nThe core thesis: GPUs are flexible by design, but that flexibility comes at a cost. Transformers now dominate modern AI, yet we're running them on general-purpose silicon. Etched's answer is to hard-wire the transformer algorithm directly into the chip.\n\nThe claim is striking. A single Sohu chip can outperform an entire rack of NVIDIA H100s for inference. Orders of magnitude in performance and energy efficiency, not incremental gains.\n\nBut here's what makes this story worth watching beyond",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1789810472
+  },
+  "7506950231566118913": {
+   "created": 1789796407,
+   "author": "Evergreen Technologies (USA)",
+   "url": "https://www.linkedin.com/posts/evergreen-technologies-usa-3a7422198_httpszurlcosdn4b-etched-the-21-activity-7506950231566118913-5EIv",
+   "text": "https://zurl.co/SdN4b \n\ud83d\ude80Etched: The $21 Billion Bet on Transformer-Specific Silicon\nThe provided video details the rise of Etched, a semiconductor startup that has developed a specialized chip called Sohu designed exclusively ...\nRead more at https://zurl.co/1no0p",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1789810472
   }
  },
  "baseline": {
@@ -1111,6 +1107,10 @@
    [
     1789761556,
     92
+   ],
+   [
+    1789810472,
+    0
    ]
   ]
  },
