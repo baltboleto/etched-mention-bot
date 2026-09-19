@@ -1,17 +1,37 @@
 {
  "watch": {
-  "2101211054885978568": {
-   "created": 1789802728,
-   "author": "hellenomania",
-   "followers": 939,
-   "url": "https://x.com/hellenomania/status/2101211054885978568",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
+  "2101293011246399539": {
+   "created": 1789822268,
+   "author": "k_koga555",
+   "followers": 1671,
+   "url": "https://x.com/k_koga555/status/2101293011246399539",
+   "disc_score": 2,
+   "checks": {},
    "promoted": false,
    "miss": 0,
-   "added": 1789810401
+   "added": 1789824451
+  },
+  "2101291885814046809": {
+   "created": 1789822000,
+   "author": "slycure_",
+   "followers": 10311,
+   "url": "https://x.com/slycure_/status/2101291885814046809",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1789824451
+  },
+  "2101291756096831610": {
+   "created": 1789821969,
+   "author": "slycure_",
+   "followers": 10311,
+   "url": "https://x.com/slycure_/status/2101291756096831610",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1789824451
   }
  },
  "baseline": {
