@@ -6,7 +6,9 @@
    "followers": 590,
    "url": "https://x.com/765yoshi/status/2101072730716090754",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "1": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1789770527
@@ -1177,6 +1179,10 @@
    [
     1789761525,
     1
+   ],
+   [
+    1789777985,
+    0
    ]
   ]
  },
