@@ -1,17 +1,17 @@
 {
  "watch": {
-  "2101659555188875404": {
-   "created": 1789909659,
-   "author": "edwardbenson",
-   "followers": 3914,
-   "url": "https://x.com/edwardbenson/status/2101659555188875404",
-   "disc_score": 5,
+  "2101708098041958770": {
+   "created": 1789921233,
+   "author": "destinydou_",
+   "followers": 17559,
+   "url": "https://x.com/destinydou_/status/2101708098041958770",
+   "disc_score": 0,
    "checks": {
-    "1": null
+    "1": 0
    },
    "promoted": false,
    "miss": 0,
-   "added": 1789918682
+   "added": 1789928346
   }
  },
  "baseline": {
@@ -1191,6 +1191,10 @@
    [
     1789886782,
     1
+   ],
+   [
+    1789928346,
+    0
    ]
   ]
  },
