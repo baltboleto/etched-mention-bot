@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7506914181607129088": {
-   "created": 1789787812,
-   "author": "Fahad Najam",
-   "url": "https://www.linkedin.com/posts/fahadnajam_inference-tax-in-high-performance-trading-activity-7506914181607129088-7ys0",
-   "text": "The Inference Tax: What Trading Systems Reveal About Energy-Aware AI\n\nThe fastest accelerator in a two-minute benchmark can become a completely different system forty-five minutes into a live session.\nAverage latency might hold steady, and mean power may even drop. But the true warning signals show up where it hurts: p99.99 latency, useful output rate, thermal margin, and clock-limit exposure.\nThat performance gap is the inference tax.\nMy latest technical white paper introduces two testable operating concepts:\n * Energy-Aware Computing: Measuring energy per useful output\u2014never power in isolation.\n * Power-Thermal-Aware Scheduling: Keeping latency-sensitive inference strictly inside a validat",
-   "disc_score": 7,
-   "checks": {
-    "24": 7
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1789794506
-  },
   "7506950231511728128": {
    "created": 1789796407,
    "author": "Evergreen Technologies LLC",
