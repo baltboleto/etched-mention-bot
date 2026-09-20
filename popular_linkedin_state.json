@@ -1,36 +1,10 @@
 {
  "watch": {
-  "7506950231511728128": {
-   "created": 1789796407,
-   "author": "Evergreen Technologies LLC",
-   "url": "https://www.linkedin.com/posts/evergreen-tech-llc_httpszurlcosdn4b-etched-the-21-activity-7506950231511728128-grKy",
-   "text": "https://zurl.co/SdN4b \n\ud83d\ude80Etched: The $21 Billion Bet on Transformer-Specific Silicon\nThe provided video details the rise of Etched, a semiconductor startup that has developed a specialized chip called Sohu designed exclusively ...\nRead more at https://zurl.co/1no0p",
-   "disc_score": 0,
-   "checks": {
-    "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1789810472
-  },
   "7507000651302805504": {
    "created": 1789808428,
    "author": "Arman Mkhitaryan",
    "url": "https://www.linkedin.com/posts/arman-mkhitaryan-22273733b_the-ai-hardware-race-just-got-a-lot-more-activity-7507000651302805504-SVM9",
    "text": "The AI hardware race just got a lot more interesting.\n\nEtched is building the world's first transformer-specific ASIC, the Sohu chip, and their progress update reads like a masterclass in contrarian bets.\n\nThe core thesis: GPUs are flexible by design, but that flexibility comes at a cost. Transformers now dominate modern AI, yet we're running them on general-purpose silicon. Etched's answer is to hard-wire the transformer algorithm directly into the chip.\n\nThe claim is striking. A single Sohu chip can outperform an entire rack of NVIDIA H100s for inference. Orders of magnitude in performance and energy efficiency, not incremental gains.\n\nBut here's what makes this story worth watching beyond",
-   "disc_score": 0,
-   "checks": {
-    "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1789810472
-  },
-  "7506950231566118913": {
-   "created": 1789796407,
-   "author": "Evergreen Technologies (USA)",
-   "url": "https://www.linkedin.com/posts/evergreen-technologies-usa-3a7422198_httpszurlcosdn4b-etched-the-21-activity-7506950231566118913-5EIv",
-   "text": "https://zurl.co/SdN4b \n\ud83d\ude80Etched: The $21 Billion Bet on Transformer-Specific Silicon\nThe provided video details the rise of Etched, a semiconductor startup that has developed a specialized chip called Sohu designed exclusively ...\nRead more at https://zurl.co/1no0p",
    "disc_score": 0,
    "checks": {
     "24": 0
