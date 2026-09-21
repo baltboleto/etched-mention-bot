@@ -1,30 +1,15 @@
 {
  "watch": {
-  "2102084500482326625": {
-   "created": 1790010974,
-   "author": "NFTAutoGarage",
-   "followers": 4444,
-   "url": "https://x.com/NFTAutoGarage/status/2102084500482326625",
+  "2102150249682764245": {
+   "created": 1790026650,
+   "author": "venturemanny",
+   "followers": 337,
+   "url": "https://x.com/venturemanny/status/2102150249682764245",
    "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
+   "checks": {},
    "promoted": false,
    "miss": 0,
-   "added": 1790016328
-  },
-  "2102098573827428852": {
-   "created": 1790014329,
-   "author": "Grayscale",
-   "followers": 681110,
-   "url": "https://x.com/Grayscale/status/2102098573827428852",
-   "disc_score": 66,
-   "checks": {
-    "1": 74
-   },
-   "promoted": true,
-   "miss": 0,
-   "added": 1790016328
+   "added": 1790029116
   }
  },
  "baseline": {
