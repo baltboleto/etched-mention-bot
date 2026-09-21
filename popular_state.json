@@ -1,56 +1,30 @@
 {
  "watch": {
-  "2101984773581521193": {
-   "created": 1789987197,
-   "author": "1YA50",
-   "followers": 28977,
-   "url": "https://x.com/1YA50/status/2101984773581521193",
+  "2102084500482326625": {
+   "created": 1790010974,
+   "author": "NFTAutoGarage",
+   "followers": 4444,
+   "url": "https://x.com/NFTAutoGarage/status/2102084500482326625",
    "disc_score": 0,
    "checks": {
-    "1": null
+    "1": 0
    },
    "promoted": false,
    "miss": 0,
-   "added": 1789996369
+   "added": 1790016328
   },
-  "2101984752190558399": {
-   "created": 1789987192,
-   "author": "1YA50",
-   "followers": 28977,
-   "url": "https://x.com/1YA50/status/2101984752190558399",
-   "disc_score": 0,
+  "2102098573827428852": {
+   "created": 1790014329,
+   "author": "Grayscale",
+   "followers": 681110,
+   "url": "https://x.com/Grayscale/status/2102098573827428852",
+   "disc_score": 66,
    "checks": {
-    "1": null
+    "1": 74
    },
-   "promoted": false,
+   "promoted": true,
    "miss": 0,
-   "added": 1789996369
-  },
-  "2101984700273483913": {
-   "created": 1789987180,
-   "author": "1YA50",
-   "followers": 28977,
-   "url": "https://x.com/1YA50/status/2101984700273483913",
-   "disc_score": 0,
-   "checks": {
-    "1": null
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1789996369
-  },
-  "2101984611802739126": {
-   "created": 1789987159,
-   "author": "1YA50",
-   "followers": 28977,
-   "url": "https://x.com/1YA50/status/2101984611802739126",
-   "disc_score": 0,
-   "checks": {
-    "1": null
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1789996369
+   "added": 1790016328
   }
  },
  "baseline": {
@@ -1238,6 +1212,10 @@
    [
     1789945812,
     2
+   ],
+   [
+    1790016330,
+    0
    ]
   ]
  },
@@ -1286,6 +1264,11 @@
    1789597465,
    "2100318072611713462",
    695
+  ],
+  [
+   1790016330,
+   "2102098573827428852",
+   74
   ]
  ],
  "seeded": true
