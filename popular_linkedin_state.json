@@ -6,7 +6,9 @@
    "url": "https://www.linkedin.com/posts/paulhealy862_in-his-2026-cio-symposium-keynote-jon-gray-activity-7507808225178574848-brvG",
    "text": "In his 2026 CIO Symposium keynote, Jon Gray highlighted the impact that Norm Ai has had on Blackstone's legal and compliance operations: 50% more efficient marketing document reviews, which directly accelerates the pace of fundraising and investor communications. The whole presentation (linked below) is worth watching for Blackstone's current thinking on macro trends relevant to AI.\n\nAs we've shared recently, Norm's long-term partnership with Blackstone has expanded significantly beyond compliance reviews. For instance, Norm Law has represented Blackstone on equity investments, such as BX's investment into Etched in August (press release below).",
    "disc_score": 30,
-   "checks": {},
+   "checks": {
+    "24": 51
+   },
    "promoted": false,
    "miss": 0,
    "added": 1790016432
@@ -39,7 +41,9 @@
    "url": "https://www.linkedin.com/posts/activity-7507804902392446976-0su4",
    "text": "The most interesting question at AI Infra Summit: what does it take to turn impressive technology into a business customers can rely on?\n\nLast week\u2019s summit provided quite a few answers and perspectives. could not attend all but very enlightning sessions.\n\nIn \u201cThe Making of an AI-Era Semiconductor Company,\u201d Mitesh Agrawal, CEO of Positron AI, shared a telling example: performance benchmarking took days, while security and networking validation took months. For me, that captured how much adoption depends on fitting into a customer\u2019s existing environment.\n\n\u201cBuild a Winning AI Chip Startup from Scratch\u201d brought together Jonathan Pearce of AheadComputing, Robert W.of Etched, Andy Hock of Cerebra",
    "disc_score": 1,
-   "checks": {},
+   "checks": {
+    "24": 1
+   },
    "promoted": false,
    "miss": 0,
    "added": 1790016432
@@ -87,6 +91,30 @@
    "promoted": false,
    "miss": 0,
    "added": 1790077837
+  },
+  "7508143674372026370": {
+   "created": 1790080946,
+   "author": "EWOR",
+   "url": "https://www.linkedin.com/posts/ewor_we-went-to-san-francisco-for-the-first-time-activity-7508143674372026370-k4d6",
+   "text": "We went to San Francisco for the first time 1.5 years ago and saw our Fellows raise $2M on average. Today, they raise $10M. As a result, our US applications - purely driven by word of mouth - spiked 237%.\n\nWhen we first arrived in SF, we realised, without a doubt, that this city has the best ecosystem for raising capital. It still concentrates 25% of global VC today despite being a city of only 800K.\n\nSoon after, it became obvious that we needed a kickass US team on the ground, which Forbes announced today: \n\nCharles Ferguson sold FrontPage to Microsoft and won an Oscar for Inside Job, his account of the 2008 financial crisis. He was among the first to invest in Etched, Perplexity, CopilotKi",
+   "disc_score": 192,
+   "checks": {
+    "24": 192
+   },
+   "promoted": true,
+   "miss": 0,
+   "added": 1790088816
+  },
+  "7508107679572176896": {
+   "created": 1790072364,
+   "author": "Lore Studio",
+   "url": "https://www.linkedin.com/posts/lorestudio_last-month-etched-shipped-its-first-inference-activity-7508107679572176896-3QFT",
+   "text": "Last month, Etched shipped its first inference rack to Jane Street and announced a $700M round at a $21B valuation.\n\nAesso, our design and engineering studio, built Etched's marketing website. Hardware photography anchors the site design, with a restrained typographic system that lets the work speak for itself.\n\nCongratulations to the Etched team on the milestone.\n\nhttps://lnkd.in/eRNwakRh",
+   "disc_score": 6,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1790088816
   }
  },
  "baseline": {
@@ -1114,6 +1142,14 @@
    [
     1790029162,
     7
+   ],
+   [
+    1790088816,
+    51
+   ],
+   [
+    1790088816,
+    1
    ]
   ]
  },
@@ -1207,6 +1243,11 @@
    1789858984,
    "7506836475926253568",
    119
+  ],
+  [
+   1790088816,
+   "7508143674372026370",
+   192
   ]
  ],
  "seeded": true
