@@ -71,7 +71,9 @@
    "url": "https://www.linkedin.com/posts/vinayak-grover-930399148_got-back-to-new-york-last-week-and-started-activity-7507907112547758082-d_Yl",
    "text": "Got back to New York last week and started with a FOUNDER\u25cfORG dinner with Zack B. and Maya, then the NYC Tech Summit by Primary Venture Partners\n\nBrad Svrluga opened with a prediction attendees had submitted six weeks earlier that AI would produce mathematics worthy of a Fields Medal within a few years, then pointed to work announced the week before that had arguably already reached that level.\n\nSide note- I think parts of physics could see a similar shift. Math went first because its answers can often be rigorously verified. AI can generate hypotheses and test them against existing data in parallel, making more of the search process computational. In Solve Everything, Alex Wissner-Gross and",
    "disc_score": 4,
-   "checks": {},
+   "checks": {
+    "24": 35
+   },
    "promoted": false,
    "miss": 0,
    "added": 1790029162
@@ -1190,6 +1192,10 @@
    [
     1790103233,
     1
+   ],
+   [
+    1790114884,
+    35
    ]
   ]
  },
