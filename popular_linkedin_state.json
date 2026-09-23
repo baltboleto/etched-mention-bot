@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7507907112547758082": {
-   "created": 1790024545,
-   "author": "Vinayak Grover",
-   "url": "https://www.linkedin.com/posts/vinayak-grover-930399148_got-back-to-new-york-last-week-and-started-activity-7507907112547758082-d_Yl",
-   "text": "Got back to New York last week and started with a FOUNDER\u25cfORG dinner with Zack B. and Maya, then the NYC Tech Summit by Primary Venture Partners\n\nBrad Svrluga opened with a prediction attendees had submitted six weeks earlier that AI would produce mathematics worthy of a Fields Medal within a few years, then pointed to work announced the week before that had arguably already reached that level.\n\nSide note- I think parts of physics could see a similar shift. Math went first because its answers can often be rigorously verified. AI can generate hypotheses and test them against existing data in parallel, making more of the search process computational. In Solve Everything, Alex Wissner-Gross and",
-   "disc_score": 4,
-   "checks": {
-    "24": 35
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1790029162
-  },
   "7508000833251323904": {
    "created": 1790046890,
    "author": "Joshua Thong",
@@ -32,8 +19,10 @@
    "url": "https://www.linkedin.com/posts/danieldippold_oscar-winner-exited-founder-and-multi-decacorn-activity-7508122887589982209-hg0E",
    "text": "Oscar winner, exited founder, and multi-decacorn investor Charles Ferguson alongside ex-Adjust CPO Katie Madding, and 3x founder Gigi Brett are joining the EWOR US team after our US applications surged by 237%.\n\n001 Charles is a real OG. He sold FrontPage to Microsoft in 1996, did his undergrad in math at Berkeley, holds a PhD in political science from MIT, published five books, and won an Academy Award for his documentary Inside Job, an account of the 2008 financial crisis. He invested in Etched, Perplexity, CopilotKit, Higgsfield AI and Paradigm. \n\n002 Katie was CPO and the third US hire at Adjust, which Palo Alto-based AppLovin bought for $1B in 2021. She then led Emhance as CEO, Google\u2019s",
    "disc_score": 60,
-   "checks": {},
-   "promoted": false,
+   "checks": {
+    "24": 719
+   },
+   "promoted": true,
    "miss": 0,
    "added": 1790077837
   },
@@ -56,7 +45,9 @@
    "url": "https://www.linkedin.com/posts/lorestudio_last-month-etched-shipped-its-first-inference-activity-7508107679572176896-3QFT",
    "text": "Last month, Etched shipped its first inference rack to Jane Street and announced a $700M round at a $21B valuation.\n\nAesso, our design and engineering studio, built Etched's marketing website. Hardware photography anchors the site design, with a restrained typographic system that lets the work speak for itself.\n\nCongratulations to the Etched team on the milestone.\n\nhttps://lnkd.in/eRNwakRh",
    "disc_score": 6,
-   "checks": {},
+   "checks": {
+    "24": 6
+   },
    "promoted": false,
    "miss": 0,
    "added": 1790088816
@@ -1137,6 +1128,14 @@
    [
     1790143104,
     287
+   ],
+   [
+    1790163273,
+    719
+   ],
+   [
+    1790163273,
+    6
    ]
   ]
  },
@@ -1240,6 +1239,11 @@
    1790143104,
    "7508000833251323904",
    287
+  ],
+  [
+   1790163273,
+   "7508122887589982209",
+   719
   ]
  ],
  "seeded": true
