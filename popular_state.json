@@ -1,17 +1,28 @@
 {
  "watch": {
-  "2102761212085711147": {
-   "created": 1790172315,
-   "author": "skymoneyvic",
-   "followers": 190,
-   "url": "https://x.com/skymoneyvic/status/2102761212085711147",
-   "disc_score": 0,
+  "2102823057836650641": {
+   "created": 1790187060,
+   "author": "BASES",
+   "followers": 2787,
+   "url": "https://x.com/BASES/status/2102823057836650641",
+   "disc_score": 1,
    "checks": {
-    "1": null
+    "1": 1
    },
    "promoted": false,
    "miss": 0,
-   "added": 1790181967
+   "added": 1790193169
+  },
+  "2102843899744235664": {
+   "created": 1790192029,
+   "author": "hackradios",
+   "followers": 350,
+   "url": "https://x.com/hackradios/status/2102843899744235664",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1790193169
   }
  },
  "baseline": {
@@ -1215,6 +1226,10 @@
    [
     1790144801,
     0
+   ],
+   [
+    1790193170,
+    1
    ]
   ]
  },
