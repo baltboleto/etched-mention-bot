@@ -58,7 +58,9 @@
    "url": "https://www.linkedin.com/posts/andrew-siropiatov_the-intake-who-raised-this-week-and-what-activity-7508244727033528320-ULjs",
    "text": "\ud83c\udfc6 The Podium \u2014 which startup idea more than one company is chasing\n\n26 ideas drew more than one company each between 17 Jul and 22 Sep. Ranked by how many COMPANIES, not how much money \u2014 one huge round can make any lane look like the story of the quarter. The leading three:\n\n\ud83e\udd47 Chips built for AI \u2014 12 companies \u00b7 $4.1bn reported\nFirmus, OLIX, Etched, Xsight Labs, EUCLYD, Callosum, DeepX, Velatir, Solinide, Embedd, HexSeed Technology, Groq\n\n\ud83e\udd48 Grid & energy storage \u2014 12 companies \u00b7 $864.7m reported\nAntora, Nexeon, Amber, Ore Energy, Yuma Energy, Certain Energy, Octave.energy, Boldr, Metris Energy, Rebaba, Furo, AcouBatt\n\n\ud83e\udd49 AI agents doing the work \u2014 10 companies \u00b7 $323.8m reported\nOnyx, Freehan",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 1
+   },
    "promoted": false,
    "miss": 0,
    "added": 1790106717
@@ -73,6 +75,17 @@
    "promoted": false,
    "miss": 0,
    "added": 1790182096
+  },
+  "7508588891503910912": {
+   "created": 1790187094,
+   "author": "Rachel Bergman",
+   "url": "https://www.linkedin.com/posts/rachelbergman_conferences-can-be-hard-to-walk-into-alone-activity-7508588891503910912-FvwD",
+   "text": "Conferences can be hard to walk into alone. I've done it too many times to count, and I've definitely been the person in the corner acting like what's going on on their phone is so important that they can't possibly talk to anyone \ud83d\ude0a.\n\nI was fortunate to be surrounded by awesomeness last week. The content, the people, the conversations (the weather!). I attended 3 events hosted by Primary Venture Partners (thank you!), all different but with common themes (ahem, AI). Each event was perfectly curated to stand alone and build on the others. \n\n4 Cool things I learned:\n\n1. I have a new favorite Harvard dropout, Gavin Uberti, the CEO of Etched. Not only is he young enough to be my kid, but he also",
+   "disc_score": 15,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1790193210
   }
  },
  "baseline": {
@@ -1140,6 +1153,10 @@
    [
     1790182096,
     76
+   ],
+   [
+    1790193210,
+    1
    ]
   ]
  },
