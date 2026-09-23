@@ -26,19 +26,6 @@
    "miss": 0,
    "added": 1790088816
   },
-  "7508107679572176896": {
-   "created": 1790072364,
-   "author": "Lore Studio",
-   "url": "https://www.linkedin.com/posts/lorestudio_last-month-etched-shipped-its-first-inference-activity-7508107679572176896-3QFT",
-   "text": "Last month, Etched shipped its first inference rack to Jane Street and announced a $700M round at a $21B valuation.\n\nAesso, our design and engineering studio, built Etched's marketing website. Hardware photography anchors the site design, with a restrained typographic system that lets the work speak for itself.\n\nCongratulations to the Etched team on the milestone.\n\nhttps://lnkd.in/eRNwakRh",
-   "disc_score": 6,
-   "checks": {
-    "24": 6
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1790088816
-  },
   "7508173043077414913": {
    "created": 1790087948,
    "author": "Kaidlyne G\u00f6pfrich",
@@ -86,6 +73,17 @@
    "promoted": false,
    "miss": 0,
    "added": 1790193210
+  },
+  "7508650153885650944": {
+   "created": 1790201700,
+   "author": "Alex Pisanov",
+   "url": "https://www.linkedin.com/posts/alexpisanov_virtually-all-makers-of-cloud-ai-chips-are-activity-7508650153885650944-0wxr",
+   "text": "Virtually all makers of cloud AI chips are using off-die memory \ud83d\udd75\ufe0f\u200d\u2642\ufe0f Most of them make inference ASICs.\n\nThis explains why in 2026 computer memory prices went up +100% and more in some cases \ud83d\udcc8 Let's dig a little deeper.\n\nAt a higher level, chip architectures differ in how they approach compute cores and memory (the latter also influences memory bandwidth). Two major paradigms:\n\n\ud83d\udcbbCores: general-purpose (can run both AI training and inference, and even non-AI workflows) vs. application-specific (aka ASICs; typically can run either training or inference, and are incapable of running non-AI tasks). Regardless, almost all are electronic rather than photonic (an emerging technology - developed, f",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1790203646
   }
  },
  "baseline": {
