@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7508122887589982209": {
-   "created": 1790075990,
-   "author": "Daniel W. Dippold",
-   "url": "https://www.linkedin.com/posts/danieldippold_oscar-winner-exited-founder-and-multi-decacorn-activity-7508122887589982209-hg0E",
-   "text": "Oscar winner, exited founder, and multi-decacorn investor Charles Ferguson alongside ex-Adjust CPO Katie Madding, and 3x founder Gigi Brett are joining the EWOR US team after our US applications surged by 237%.\n\n001 Charles is a real OG. He sold FrontPage to Microsoft in 1996, did his undergrad in math at Berkeley, holds a PhD in political science from MIT, published five books, and won an Academy Award for his documentary Inside Job, an account of the 2008 financial crisis. He invested in Etched, Perplexity, CopilotKit, Higgsfield AI and Paradigm. \n\n002 Katie was CPO and the third US hire at Adjust, which Palo Alto-based AppLovin bought for $1B in 2021. She then led Emhance as CEO, Google\u2019s",
-   "disc_score": 60,
-   "checks": {
-    "24": 719
-   },
-   "promoted": true,
-   "miss": 0,
-   "added": 1790077837
-  },
   "7508143674372026370": {
    "created": 1790080946,
    "author": "EWOR",
@@ -84,6 +71,17 @@
    "promoted": false,
    "miss": 0,
    "added": 1790203646
+  },
+  "7508659316061728768": {
+   "created": 1790203885,
+   "author": "Kally M.",
+   "url": "https://www.linkedin.com/posts/kallyink_artificialintelligence-agenticai-aiinfrastructure-activity-7508659316061728768-HWiW",
+   "text": "Back when I started developing websites, it was a straightforward process involving tables and basic HTML.\n\nAs the technology advanced, the work splintered into new roles: front-end and back-end development, user experience, user interface and more, all creating better websites and greater capabilities.\n\nI see AI following the same path, only much faster. Web development took years to specialize. AI seems to sprout a new specialty every Tuesday.\n\nTake the Agentic AI course I\u2019m currently taking.\n\nGenerative AI \u2013 the kind most of us encountered first \u2013 creates things: answers, articles, images and code. Agentic AI goes further, planning and executing multi-step workflows to accomplish broader ",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1790206852
   }
  },
  "baseline": {
