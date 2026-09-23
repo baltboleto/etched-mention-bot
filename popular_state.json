@@ -1,15 +1,17 @@
 {
  "watch": {
-  "2102721813398929470": {
-   "created": 1790162921,
-   "author": "Mars_DeFi",
-   "followers": 27493,
-   "url": "https://x.com/Mars_DeFi/status/2102721813398929470",
-   "disc_score": 14,
-   "checks": {},
+  "2102761212085711147": {
+   "created": 1790172315,
+   "author": "skymoneyvic",
+   "followers": 190,
+   "url": "https://x.com/skymoneyvic/status/2102761212085711147",
+   "disc_score": 0,
+   "checks": {
+    "1": null
+   },
    "promoted": false,
    "miss": 0,
-   "added": 1790164749
+   "added": 1790181967
   }
  },
  "baseline": {
