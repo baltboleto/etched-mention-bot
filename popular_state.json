@@ -1,17 +1,17 @@
 {
  "watch": {
-  "2102485708426408064": {
-   "created": 1790106629,
-   "author": "SovGlobalMag",
-   "followers": 32,
-   "url": "https://x.com/SovGlobalMag/status/2102485708426408064",
-   "disc_score": 0,
+  "2102552259788001429": {
+   "created": 1790122496,
+   "author": "createdbymason",
+   "followers": 2058,
+   "url": "https://x.com/createdbymason/status/2102552259788001429",
+   "disc_score": 2,
    "checks": {
-    "1": null
+    "1": 2
    },
    "promoted": false,
    "miss": 0,
-   "added": 1790117241
+   "added": 1790126288
   }
  },
  "baseline": {
@@ -1207,6 +1207,10 @@
    [
     1790106691,
     1
+   ],
+   [
+    1790126288,
+    2
    ]
   ]
  },
