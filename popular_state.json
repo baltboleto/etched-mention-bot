@@ -1,28 +1,15 @@
 {
  "watch": {
-  "2102823057836650641": {
-   "created": 1790187060,
-   "author": "BASES",
-   "followers": 2787,
-   "url": "https://x.com/BASES/status/2102823057836650641",
-   "disc_score": 1,
-   "checks": {
-    "1": 1
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1790193169
-  },
-  "2102843899744235664": {
-   "created": 1790192029,
-   "author": "hackradios",
-   "followers": 350,
-   "url": "https://x.com/hackradios/status/2102843899744235664",
+  "2102887010629570665": {
+   "created": 1790202307,
+   "author": "abs_return",
+   "followers": 31,
+   "url": "https://x.com/abs_return/status/2102887010629570665",
    "disc_score": 0,
    "checks": {},
    "promoted": false,
    "miss": 0,
-   "added": 1790193169
+   "added": 1790203607
   }
  },
  "baseline": {
