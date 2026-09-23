@@ -1,17 +1,17 @@
 {
  "watch": {
-  "2102552259788001429": {
-   "created": 1790122496,
-   "author": "createdbymason",
-   "followers": 2058,
-   "url": "https://x.com/createdbymason/status/2102552259788001429",
-   "disc_score": 2,
+  "2102615253712592903": {
+   "created": 1790137515,
+   "author": "saenxz",
+   "followers": 83,
+   "url": "https://x.com/saenxz/status/2102615253712592903",
+   "disc_score": 0,
    "checks": {
-    "1": 2
+    "1": 0
    },
    "promoted": false,
    "miss": 0,
-   "added": 1790126288
+   "added": 1790144801
   }
  },
  "baseline": {
@@ -1211,6 +1211,10 @@
    [
     1790126288,
     2
+   ],
+   [
+    1790144801,
+    0
    ]
   ]
  },
