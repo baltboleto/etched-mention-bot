@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7508000833251323904": {
-   "created": 1790046890,
-   "author": "Joshua Thong",
-   "url": "https://www.linkedin.com/posts/joshua-thong_excited-to-join-etched-as-a-member-of-technical-activity-7508000833251323904-viM9",
-   "text": "Excited to join Etched as a Member of Technical Staff. Thanks to Jayadev Velagandula, Santosh Kumar, Siddharth Krishna Kumar, Jake Glazer, and others for a smooth process. Excited for what's to come!",
-   "disc_score": 73,
-   "checks": {
-    "24": 287
-   },
-   "promoted": true,
-   "miss": 0,
-   "added": 1790052853
-  },
   "7508122887589982209": {
    "created": 1790075990,
    "author": "Daniel W. Dippold",
@@ -58,7 +45,9 @@
    "url": "https://www.linkedin.com/posts/kaidlyne-goepfrich_as-an-american-living-in-europe-and-working-activity-7508173043077414913-q_21",
    "text": "As an American living in Europe and working in tech, I get asked all the time why I chose to live here instead of the US.\n\nFor me, it was never about picking sides, US vs. Europe. It was simply about where the best opportunities were, personally and professionally. That's why today's Forbes announcement of EWOR's new US Leadership team feels personal.\n\nWhat I love about EWOR is that our team always does what's best for our fellows, full stop. Right now, and going forward, that means building out our US presence: closer support for our founders there, and a way in for EWOR Fellows building everywhere else.\n\nAnd we couldn't have picked better people to lead the charge!\n\nCharles Ferguson sold F",
    "disc_score": 52,
-   "checks": {},
+   "checks": {
+    "24": 76
+   },
    "promoted": false,
    "miss": 0,
    "added": 1790103232
@@ -73,6 +62,17 @@
    "promoted": false,
    "miss": 0,
    "added": 1790106717
+  },
+  "7508560674843832321": {
+   "created": 1790180367,
+   "author": "Jeremy Boss",
+   "url": "https://www.linkedin.com/posts/jeremy-boss_im-told-that-even-just-a-few-years-ago-activity-7508560674843832321-c_rA",
+   "text": "I'm told that even just a few years ago, you wouldn't have seen too many Israelis at the Primary Summit. \ud83c\uddee\ud83c\uddf1 \n\nThis year was my first, and well... that certainly isn't true anymore. \n\n(There were many.)  \n\nAt 97212 Ventures, we're incredibly lucky to support many of these founders as they take advantage of one of the strongest markets and opportunities in the world. And NY's strength, in no small part, comes from gatherings exactly like last week's Summit.\n\nWhich, by the way, was everything people say it is...  \ud83d\udd25 \n\nFrom Lance Armstrong (NEXT Ventures+ \ud83d\udeb4) to the leaders at Etched, Vercel, and Cloudflare (plus more founders & investors than I could count), it was a rare opportunity to discuss t",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1790182096
   }
  },
  "baseline": {
@@ -1136,6 +1136,10 @@
    [
     1790163273,
     6
+   ],
+   [
+    1790182096,
+    76
    ]
   ]
  },
