@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7508244727033528320": {
-   "created": 1790105039,
-   "author": "Andrew Siropiatov",
-   "url": "https://www.linkedin.com/posts/andrew-siropiatov_the-intake-who-raised-this-week-and-what-activity-7508244727033528320-ULjs",
-   "text": "\ud83c\udfc6 The Podium \u2014 which startup idea more than one company is chasing\n\n26 ideas drew more than one company each between 17 Jul and 22 Sep. Ranked by how many COMPANIES, not how much money \u2014 one huge round can make any lane look like the story of the quarter. The leading three:\n\n\ud83e\udd47 Chips built for AI \u2014 12 companies \u00b7 $4.1bn reported\nFirmus, OLIX, Etched, Xsight Labs, EUCLYD, Callosum, DeepX, Velatir, Solinide, Embedd, HexSeed Technology, Groq\n\n\ud83e\udd48 Grid & energy storage \u2014 12 companies \u00b7 $864.7m reported\nAntora, Nexeon, Amber, Ore Energy, Yuma Energy, Certain Energy, Octave.energy, Boldr, Metris Energy, Rebaba, Furo, AcouBatt\n\n\ud83e\udd49 AI agents doing the work \u2014 10 companies \u00b7 $323.8m reported\nOnyx, Freehan",
-   "disc_score": 0,
-   "checks": {
-    "24": 1
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1790106717
-  },
   "7508560674843832321": {
    "created": 1790180367,
    "author": "Jeremy Boss",
@@ -56,6 +43,17 @@
    "promoted": false,
    "miss": 0,
    "added": 1790206852
+  },
+  "7508805037545144321": {
+   "created": 1790238627,
+   "author": "Mario Di Girolamo",
+   "url": "https://www.linkedin.com/posts/digirolamomario_artificialintelligence-generativeai-machinelearning-activity-7508805037545144321-nmBy",
+   "text": "AI Daily Wrap\n\nLe principali novit\u00e0 AI di oggi:\n\n\ud83d\udcc4 **Claude 3.5 Sonnet analizza i PDF via API**  \nAnthropic introduce il supporto alla comprensione di testo, immagini, grafici e tabelle nei PDF. Limiti: 32 MB e fino a 100 pagine.  \n\ud83d\udd17 https://lnkd.in/eSS4XGfZ\n\n\ud83e\udde9 **Grok API in public beta**  \nxAI apre l\u2019accesso alla Grok API con 25 $ di crediti mensili per ricercatori e sviluppatori interessati a integrazioni multimodali.  \n\ud83d\udd17 https://lnkd.in/efMGM4vA\n\n\ud83c\udfae **Oasis: videogiochi open world generati dall\u2019AI**  \nEtched presenta un progetto open source capace di creare mondi di gioco a partire dagli input degli utenti.  \n\ud83d\udd17 https://lnkd.in/e6Hci7_X\n\n\ud83c\udf99\ufe0f **Nuovi strumenti per l\u2019audio generativo**  \nStand",
+   "disc_score": 1,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1790244066
   }
  },
  "baseline": {
