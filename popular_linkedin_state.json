@@ -32,7 +32,9 @@
    "url": "https://www.linkedin.com/posts/alexpisanov_virtually-all-makers-of-cloud-ai-chips-are-activity-7508650153885650944-0wxr",
    "text": "Virtually all makers of cloud AI chips are using off-die memory \ud83d\udd75\ufe0f\u200d\u2642\ufe0f Most of them make inference ASICs.\n\nThis explains why in 2026 computer memory prices went up +100% and more in some cases \ud83d\udcc8 Let's dig a little deeper.\n\nAt a higher level, chip architectures differ in how they approach compute cores and memory (the latter also influences memory bandwidth). Two major paradigms:\n\n\ud83d\udcbbCores: general-purpose (can run both AI training and inference, and even non-AI workflows) vs. application-specific (aka ASICs; typically can run either training or inference, and are incapable of running non-AI tasks). Regardless, almost all are electronic rather than photonic (an emerging technology - developed, f",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 3
+   },
    "promoted": false,
    "miss": 0,
    "added": 1790203646
@@ -1192,6 +1194,10 @@
    [
     1790276964,
     40
+   ],
+   [
+    1790288649,
+    3
    ]
   ]
  },
