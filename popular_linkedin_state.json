@@ -6,7 +6,9 @@
    "url": "https://www.linkedin.com/posts/jeremy-boss_im-told-that-even-just-a-few-years-ago-activity-7508560674843832321-c_rA",
    "text": "I'm told that even just a few years ago, you wouldn't have seen too many Israelis at the Primary Summit. \ud83c\uddee\ud83c\uddf1 \n\nThis year was my first, and well... that certainly isn't true anymore. \n\n(There were many.)  \n\nAt 97212 Ventures, we're incredibly lucky to support many of these founders as they take advantage of one of the strongest markets and opportunities in the world. And NY's strength, in no small part, comes from gatherings exactly like last week's Summit.\n\nWhich, by the way, was everything people say it is...  \ud83d\udd25 \n\nFrom Lance Armstrong (NEXT Ventures+ \ud83d\udeb4) to the leaders at Etched, Vercel, and Cloudflare (plus more founders & investors than I could count), it was a rare opportunity to discuss t",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 26
+   },
    "promoted": false,
    "miss": 0,
    "added": 1790182096
@@ -76,6 +78,17 @@
    "promoted": false,
    "miss": 0,
    "added": 1790262355
+  },
+  "7508916489832382464": {
+   "created": 1790265200,
+   "author": "Rahul Khamkar",
+   "url": "https://www.linkedin.com/posts/rahul-khamkar_excited-to-share-that-im-starting-a-new-activity-7508916489832382464-Bc8n",
+   "text": "Excited to share that I\u2019m starting a new role at Etched  as an MTS, Physical Design!\n\nLooking forward to the journey ahead and to building some exciting silicon. \ud83d\ude80",
+   "disc_score": 18,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1790268127
   }
  },
  "baseline": {
@@ -1147,6 +1160,10 @@
    [
     1790193210,
     1
+   ],
+   [
+    1790268128,
+    26
    ]
   ]
  },
