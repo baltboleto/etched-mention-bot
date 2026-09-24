@@ -6,7 +6,9 @@
    "followers": 31,
    "url": "https://x.com/abs_return/status/2102887010629570665",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "1": null
+   },
    "promoted": false,
    "miss": 0,
    "added": 1790203607
