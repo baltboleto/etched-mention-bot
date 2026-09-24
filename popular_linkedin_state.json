@@ -19,7 +19,9 @@
    "url": "https://www.linkedin.com/posts/rachelbergman_conferences-can-be-hard-to-walk-into-alone-activity-7508588891503910912-FvwD",
    "text": "Conferences can be hard to walk into alone. I've done it too many times to count, and I've definitely been the person in the corner acting like what's going on on their phone is so important that they can't possibly talk to anyone \ud83d\ude0a.\n\nI was fortunate to be surrounded by awesomeness last week. The content, the people, the conversations (the weather!). I attended 3 events hosted by Primary Venture Partners (thank you!), all different but with common themes (ahem, AI). Each event was perfectly curated to stand alone and build on the others. \n\n4 Cool things I learned:\n\n1. I have a new favorite Harvard dropout, Gavin Uberti, the CEO of Etched. Not only is he young enough to be my kid, but he also",
    "disc_score": 15,
-   "checks": {},
+   "checks": {
+    "24": 40
+   },
    "promoted": false,
    "miss": 0,
    "added": 1790193210
@@ -89,6 +91,28 @@
    "promoted": false,
    "miss": 0,
    "added": 1790268127
+  },
+  "7508958786401771520": {
+   "created": 1790275284,
+   "author": "Waqas Ali",
+   "url": "https://www.linkedin.com/posts/waqasali2_electrical-engineer-hardware-systems-activity-7508958786401771520-pSiC",
+   "text": "At Etched, we\u2019re pushing the frontier of AI inference hardware, from custom silicon to complete rack-scale systems, and executing at an incredible pace.\nWe\u2019re growing our Platform team! If you love tackling hard engineering problems and moving fast, come help us build the next generation of inference hardware. Feel free to reach out or apply below.\n\n\ud83d\udd39 Electrical Engineer, Hardware Systems\nhttps://lnkd.in/gBtRvDMm\n\ud83d\udd39 SI/PI Engineer\nhttps://lnkd.in/g3bCeRWY\n\ud83d\udd39 Optical Systems Engineer\nhttps://lnkd.in/geJwUNBe\n\ud83d\udd39 Additional Platform opening\nhttps://lnkd.in/gvtG5mWU",
+   "disc_score": 3,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1790276963
+  },
+  "7508925180153589760": {
+   "created": 1790267272,
+   "author": "Carl Fudge",
+   "url": "https://www.linkedin.com/posts/carl-fudge-storytelling_october-is-shaping-up-to-be-a-big-month-for-activity-7508925180153589760-ShAz",
+   "text": "October is shaping up to be a big month for SF TECH WEEK by a16z and Pitch Garage is right at the center of it.\n\nThis workshop, hosted together with NFX, exists for one reason: to make sure founders walk into their next investor meeting with the confidence that comes from knowing their pitch is ready. \n\nToday, I'm excited to welcome Sam Cates, Venture Partner at Virta Ventures as to join our expert panel.\n\nSam spent his career at the crossroads of deep tech and company building, not just writing checks from the sidelines. \n\nHe co-founded Positive Sum, closed three funds, and backed names like Vanta, Etched, Skyryse, and Base Power Company, before joining Virta to back deep tech at seed and e",
+   "disc_score": 2,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1790276963
   }
  },
  "baseline": {
@@ -1164,6 +1188,10 @@
    [
     1790268128,
     26
+   ],
+   [
+    1790276964,
+    40
    ]
   ]
  },
