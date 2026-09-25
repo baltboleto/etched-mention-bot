@@ -19,8 +19,10 @@
    "url": "https://www.linkedin.com/posts/tejas-bharadwaj_the-founders-of-cognition-etched-cursor-activity-7508889400504705024-yjwH",
    "text": "The founders of Cognition, Etched, Cursor, and Mercor were all in a room at Harvard listening to Cory Levy speak a few years ago. Working on \u201cside projects\u201d.\n\nLast week, I hosted a fireside with him at CMU. \n\nCory was a part of the very inception of Presonance as we were figuring out what we were building and helped shape how we thought about making ourselves recognized talent.\n\nThe whole talk last week was about how he viewed unrecognized talent, what traits he looks for (and what he believes others don\u2019t look for enough), and how he makes this talent recognized. \n\nCMU is a lab that creates some of the most technically cracked but (arguably) the least recognized talent. The whole point of t",
    "disc_score": 17,
-   "checks": {},
-   "promoted": false,
+   "checks": {
+    "24": 172
+   },
+   "promoted": true,
    "miss": 0,
    "added": 1790262355
   },
@@ -30,7 +32,9 @@
    "url": "https://www.linkedin.com/posts/vc26_why-would-we-build-a-global-venture-competition-activity-7508894772502142976-niyJ",
    "text": "Why would we build a global venture competition and give it away for free?\n\nBecause giving back should be built into every business\n\nDatumra committed 10% to doing good and VC26 is one of the ways we are turning that commitment into something real.\n\nThen something amazing happened...\n\nMore people started saying yes! Including:\n\nBoardy\nSolo Founders\nDrop Dead Generous\nFreshmango\nBean Gill\nidentity.vc \ud83c\udff3\ufe0f\u200d\ud83c\udf08 Backing LGBTQ+ Founders\nFuuse\nEtched Tech\nScale Story\nGrow Through Story\nFundraising101\u2122\nFhunded\n\nEach one helping us create more access, support and opportunity for founders all around the world\n\nVC26 started with this question of what could happen if enough people came together to open mor",
    "disc_score": 9,
-   "checks": {},
+   "checks": {
+    "24": 22
+   },
    "promoted": false,
    "miss": 0,
    "added": 1790262355
@@ -41,8 +45,10 @@
    "url": "https://www.linkedin.com/posts/rahul-khamkar_excited-to-share-that-im-starting-a-new-activity-7508916489832382464-Bc8n",
    "text": "Excited to share that I\u2019m starting a new role at Etched  as an MTS, Physical Design!\n\nLooking forward to the journey ahead and to building some exciting silicon. \ud83d\ude80",
    "disc_score": 18,
-   "checks": {},
-   "promoted": false,
+   "checks": {
+    "24": 177
+   },
+   "promoted": true,
    "miss": 0,
    "added": 1790268127
   },
@@ -63,7 +69,9 @@
    "url": "https://www.linkedin.com/posts/carl-fudge-storytelling_october-is-shaping-up-to-be-a-big-month-for-activity-7508925180153589760-ShAz",
    "text": "October is shaping up to be a big month for SF TECH WEEK by a16z and Pitch Garage is right at the center of it.\n\nThis workshop, hosted together with NFX, exists for one reason: to make sure founders walk into their next investor meeting with the confidence that comes from knowing their pitch is ready. \n\nToday, I'm excited to welcome Sam Cates, Venture Partner at Virta Ventures as to join our expert panel.\n\nSam spent his career at the crossroads of deep tech and company building, not just writing checks from the sidelines. \n\nHe co-founded Positive Sum, closed three funds, and backed names like Vanta, Etched, Skyryse, and Base Power Company, before joining Virta to back deep tech at seed and e",
    "disc_score": 2,
-   "checks": {},
+   "checks": {
+    "24": 23
+   },
    "promoted": false,
    "miss": 0,
    "added": 1790276963
@@ -111,6 +119,17 @@
    "promoted": false,
    "miss": 0,
    "added": 1790338793
+  },
+  "7509285642237984768": {
+   "created": 1790353212,
+   "author": "Alina Gegamova",
+   "url": "https://www.linkedin.com/posts/alina-gegamova_dear-founders-heres-your-2026-cheat-sheet-activity-7509285642237984768-jbub",
+   "text": "Dear founders, here\u2019s your 2026 cheat sheet for where you actually want to see your name.\n\nAnd no, I don\u2019t mean just big logos. Quite the opposite!\n\nYesterday, Inc. Magazine published a fascinating look at the \u201cdelightfully messy new media landscape,\u201d and I took a while to analyze the list.\n\nSo, if you\u2019re an early-stage startup founder in 2026, here are some names I\u2019d know:\n\n1. Upstarts \u2014 Alex Konrad (if the words \"Midas List\" tell you something, you know exactly what I'm talking about here)\n2. Sourcery \u2014 Molly O'Shea (platforms like Sourcery are creating more opportunities for younger companies as traditional tech publications downsize)\n3. 20VC \u2014 Harry Stebbings (judging by the episodes fro",
+   "disc_score": 13,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1790357421
   }
  },
  "baseline": {
@@ -1202,6 +1221,22 @@
    [
     1790338793,
     1
+   ],
+   [
+    1790357421,
+    172
+   ],
+   [
+    1790357421,
+    22
+   ],
+   [
+    1790357421,
+    177
+   ],
+   [
+    1790357421,
+    23
    ]
   ]
  },
@@ -1310,6 +1345,16 @@
    1790163273,
    "7508122887589982209",
    719
+  ],
+  [
+   1790357421,
+   "7508889400504705024",
+   172
+  ],
+  [
+   1790357421,
+   "7508916489832382464",
+   177
   ]
  ],
  "seeded": true
