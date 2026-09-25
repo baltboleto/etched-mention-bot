@@ -1,38 +1,14 @@
 {
  "watch": {
-  "7508650153885650944": {
-   "created": 1790201700,
-   "author": "Alex Pisanov",
-   "url": "https://www.linkedin.com/posts/alexpisanov_virtually-all-makers-of-cloud-ai-chips-are-activity-7508650153885650944-0wxr",
-   "text": "Virtually all makers of cloud AI chips are using off-die memory \ud83d\udd75\ufe0f\u200d\u2642\ufe0f Most of them make inference ASICs.\n\nThis explains why in 2026 computer memory prices went up +100% and more in some cases \ud83d\udcc8 Let's dig a little deeper.\n\nAt a higher level, chip architectures differ in how they approach compute cores and memory (the latter also influences memory bandwidth). Two major paradigms:\n\n\ud83d\udcbbCores: general-purpose (can run both AI training and inference, and even non-AI workflows) vs. application-specific (aka ASICs; typically can run either training or inference, and are incapable of running non-AI tasks). Regardless, almost all are electronic rather than photonic (an emerging technology - developed, f",
-   "disc_score": 0,
-   "checks": {
-    "24": 3
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1790203646
-  },
-  "7508659316061728768": {
-   "created": 1790203885,
-   "author": "Kally M.",
-   "url": "https://www.linkedin.com/posts/kallyink_artificialintelligence-agenticai-aiinfrastructure-activity-7508659316061728768-HWiW",
-   "text": "Back when I started developing websites, it was a straightforward process involving tables and basic HTML.\n\nAs the technology advanced, the work splintered into new roles: front-end and back-end development, user experience, user interface and more, all creating better websites and greater capabilities.\n\nI see AI following the same path, only much faster. Web development took years to specialize. AI seems to sprout a new specialty every Tuesday.\n\nTake the Agentic AI course I\u2019m currently taking.\n\nGenerative AI \u2013 the kind most of us encountered first \u2013 creates things: answers, articles, images and code. Agentic AI goes further, planning and executing multi-step workflows to accomplish broader ",
-   "disc_score": 0,
-   "checks": {
-    "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1790206852
-  },
   "7508805037545144321": {
    "created": 1790238627,
    "author": "Mario Di Girolamo",
    "url": "https://www.linkedin.com/posts/digirolamomario_artificialintelligence-generativeai-machinelearning-activity-7508805037545144321-nmBy",
    "text": "AI Daily Wrap\n\nLe principali novit\u00e0 AI di oggi:\n\n\ud83d\udcc4 **Claude 3.5 Sonnet analizza i PDF via API**  \nAnthropic introduce il supporto alla comprensione di testo, immagini, grafici e tabelle nei PDF. Limiti: 32 MB e fino a 100 pagine.  \n\ud83d\udd17 https://lnkd.in/eSS4XGfZ\n\n\ud83e\udde9 **Grok API in public beta**  \nxAI apre l\u2019accesso alla Grok API con 25 $ di crediti mensili per ricercatori e sviluppatori interessati a integrazioni multimodali.  \n\ud83d\udd17 https://lnkd.in/efMGM4vA\n\n\ud83c\udfae **Oasis: videogiochi open world generati dall\u2019AI**  \nEtched presenta un progetto open source capace di creare mondi di gioco a partire dagli input degli utenti.  \n\ud83d\udd17 https://lnkd.in/e6Hci7_X\n\n\ud83c\udf99\ufe0f **Nuovi strumenti per l\u2019audio generativo**  \nStand",
    "disc_score": 1,
-   "checks": {},
+   "checks": {
+    "24": 1
+   },
    "promoted": false,
    "miss": 0,
    "added": 1790244066
@@ -124,6 +100,17 @@
    "promoted": false,
    "miss": 0,
    "added": 1790318471
+  },
+  "7509137982369685504": {
+   "created": 1790318008,
+   "author": "\u4faf\u51f1\u6587",
+   "url": "https://www.linkedin.com/posts/kevin0728-tw_etched-activity-7509137982369685504-IHWy",
+   "text": "#\u7576AI\u4e0d\u518d\u8ffd\u6c42\u300c#\u842c\u7528\u300d/ #\u5c08\u7528\u5316\u6b63\u5728\u91cd\u5beb\u8edf\u786c\u9ad4\u6548\u7387/ #OrganizedbyKevinHouandAI \n\n\u6700\u8fd1 Etched \u7684\u9032\u5c55\uff0c\u8b93\u6211\u60f3\u5230\u4e00\u500b\u6b63\u5728\u540c\u6642\u767c\u751f\u65bc\u8edf\u9ad4\u8207\u786c\u9ad4\u5c64\u7684\u8b8a\u5316\uff1a\n\n> \u7576\u5de5\u4f5c\u8ca0\u8f09\u8db3\u5920\u660e\u78ba\uff0c\u4e0b\u4e00\u500b\u6578\u91cf\u7d1a\u7684\u6548\u7387\u63d0\u5347\uff0c\u672a\u5fc5\u4f86\u81ea\u66f4\u5927\u7684\u901a\u7528\u6a21\u578b\u6216\u66f4\u591a GPU\uff0c\u800c\u662f\u4f86\u81ea\u79fb\u9664\u300c\u70ba\u901a\u7528\u6027\u800c\u5b58\u5728\u7684\u5197\u9918\u300d\u3002\n\nEtched \u6700\u521d\u56e0 Sohu \u53d7\u5230\u95dc\u6ce8\uff1a\u5b83\u4e0d\u662f\u8981\u505a\u53e6\u4e00\u5f35\u901a\u7528 GPU\uff0c\u800c\u662f\u628a\u91cd\u9ede\u653e\u5728 Transformer \u63a8\u8ad6\u7684\u5c08\u7528\u5316\u3002\n\n\u4f46 Etched \u73fe\u5728\u7684\u7b56\u7565\uff0c\u5df2\u4e0d\u53ea\u662f\u505a\u4e00\u9846 ASIC\u3002\n\n\u5b83\u628a\u7522\u54c1\u5b9a\u7fa9\u70ba **Frontier Inference Clusters/ \u524d\u6cbf\u63a8\u7406\u53e2\u96c6**\uff1a\n\n\u5f9e\u6676\u7247\u3001\u8a18\u61b6\u9ad4\u3001\u4e92\u9023\u3001\u6a5f\u6ac3\u3001\u4f9b\u96fb\u6563\u71b1\uff0c\u5230\u8edf\u9ad4\u8207\u88fd\u9020\u6d41\u7a0b\u4e00\u8d77\u8a2d\u8a08\u3002\n\n\u771f\u6b63\u7af6\u722d\u7684\uff0c\u4e0d\u518d\u53ea\u662f\u55ae\u6676\u7247 FLOPS\uff0c\u800c\u662f\u6574\u500b\u63a8\u8ad6\u7cfb\u7d71\u7684\uff1a\n\n\u30fb\u541e\u5410\u91cf\uff08throughput\uff09  \n\u30fb\u4e92\u52d5\u5ef6\u9072\uff08latency\uff09  \n\u30fb\u6bcf token \u6210\u672c  \n\u30fb\u6bcf\u74e6\u6548\u80fd\uff08tokens per watt\uff09  \n\u30fb\u53ef\u91cf\u7522\u3001\u53ef\u4ea4\u4ed8\u3001\u53ef\u7dad\u904b\u7684\u80fd\u529b  \n\nEtched  \u6700\u65b0\u516c\u958b\u7684\u5169\u500b\u4e3b\u8981\u67b6\u69cb\u4e26\u65b9\u5411\u5c24\u5176\u503c\u5f97\u95dc\u6ce8\uff1a\n\n**1. Low Voltage Inference\uff08LVI\uff09/ \u4f4e\u96fb\u58d3\u63a8\u7406\uff08LVI\uff09**\n\n\u91dd\u5c0d\u9ad8\u541e\u5410\u63a8\u8ad6\u7684\u529f\u8017\u8207\u71b1\u9650\u5236\u3002\n\nEtched \u7684\u8ad6\u9ede\u662f\uff1a\n\n\u5982\u679c\u6676\u7247\u5728\u6eff\u8f09\u6642\u56e0\u767c\u71b1\u800c\u964d\u983b\uff0c\u518d\u9ad8\u7684\u7406\u8ad6\u5cf0\u503c\u4e5f\u6c92\u6709\u610f\u7fa9\u3002\n\n\u56e0\u6b64\uff0c\u5b83\u5f9e\u904b\u7b97\u9663\u5217\u3001\u4f9b\u96fb\u3001\u5c01\u88dd\u5230\u51b7\u537b\u5171\u540c\u8a2d\u8a08\uff0c\u8a66\u5716\u5728\u9ad8\u5229\u7528\u7387\u4e0b\u7dad\u6301\u6301\u7e8c\u6027\u80fd\u3002\n\n**2. Cluster Scale Memory\uff08CSM\uff09/ \u53e2\u96c6\u898f\u6a21\u8a18\u61b6\u9ad4\uff08CSM\uff09**\n\n\u91dd\u5c0d\u4f4e\u5ef6\u9072\u63a8\u8ad6",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1790338793
   }
  },
  "baseline": {
@@ -1211,6 +1198,10 @@
    [
     1790299757,
     0
+   ],
+   [
+    1790338793,
+    1
    ]
   ]
  },
