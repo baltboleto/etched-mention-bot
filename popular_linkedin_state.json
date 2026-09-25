@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7508805037545144321": {
-   "created": 1790238627,
-   "author": "Mario Di Girolamo",
-   "url": "https://www.linkedin.com/posts/digirolamomario_artificialintelligence-generativeai-machinelearning-activity-7508805037545144321-nmBy",
-   "text": "AI Daily Wrap\n\nLe principali novit\u00e0 AI di oggi:\n\n\ud83d\udcc4 **Claude 3.5 Sonnet analizza i PDF via API**  \nAnthropic introduce il supporto alla comprensione di testo, immagini, grafici e tabelle nei PDF. Limiti: 32 MB e fino a 100 pagine.  \n\ud83d\udd17 https://lnkd.in/eSS4XGfZ\n\n\ud83e\udde9 **Grok API in public beta**  \nxAI apre l\u2019accesso alla Grok API con 25 $ di crediti mensili per ricercatori e sviluppatori interessati a integrazioni multimodali.  \n\ud83d\udd17 https://lnkd.in/efMGM4vA\n\n\ud83c\udfae **Oasis: videogiochi open world generati dall\u2019AI**  \nEtched presenta un progetto open source capace di creare mondi di gioco a partire dagli input degli utenti.  \n\ud83d\udd17 https://lnkd.in/e6Hci7_X\n\n\ud83c\udf99\ufe0f **Nuovi strumenti per l\u2019audio generativo**  \nStand",
-   "disc_score": 1,
-   "checks": {
-    "24": 1
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1790244066
-  },
   "7508889400504705024": {
    "created": 1790258741,
    "author": "Tejas Bharadwaj",
@@ -58,7 +45,9 @@
    "url": "https://www.linkedin.com/posts/waqasali2_electrical-engineer-hardware-systems-activity-7508958786401771520-pSiC",
    "text": "At Etched, we\u2019re pushing the frontier of AI inference hardware, from custom silicon to complete rack-scale systems, and executing at an incredible pace.\nWe\u2019re growing our Platform team! If you love tackling hard engineering problems and moving fast, come help us build the next generation of inference hardware. Feel free to reach out or apply below.\n\n\ud83d\udd39 Electrical Engineer, Hardware Systems\nhttps://lnkd.in/gBtRvDMm\n\ud83d\udd39 SI/PI Engineer\nhttps://lnkd.in/g3bCeRWY\n\ud83d\udd39 Optical Systems Engineer\nhttps://lnkd.in/geJwUNBe\n\ud83d\udd39 Additional Platform opening\nhttps://lnkd.in/gvtG5mWU",
    "disc_score": 3,
-   "checks": {},
+   "checks": {
+    "24": 104
+   },
    "promoted": false,
    "miss": 0,
    "added": 1790276963
@@ -1237,6 +1226,10 @@
    [
     1790357421,
     23
+   ],
+   [
+    1790368988,
+    104
    ]
   ]
  },
