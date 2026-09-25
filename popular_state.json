@@ -1,17 +1,168 @@
 {
  "watch": {
-  "2103517755391516714": {
-   "created": 1790352689,
-   "author": "Just_FaisalI",
-   "followers": 4902,
-   "url": "https://x.com/Just_FaisalI/status/2103517755391516714",
-   "disc_score": 52,
+  "2103585393094627752": {
+   "created": 1790368815,
+   "author": "hopes_revenge",
+   "followers": 243157,
+   "url": "https://x.com/hopes_revenge/status/2103585393094627752",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1790368927
+  },
+  "2103574249453785320": {
+   "created": 1790366158,
+   "author": "ElliotGlazer",
+   "followers": 7961,
+   "url": "https://x.com/ElliotGlazer/status/2103574249453785320",
+   "disc_score": 1,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1790368927
+  },
+  "2103573792475984301": {
+   "created": 1790366049,
+   "author": "katiekirsch",
+   "followers": 18449,
+   "url": "https://x.com/katiekirsch/status/2103573792475984301",
+   "disc_score": 3,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1790368927
+  },
+  "2103573706601910667": {
+   "created": 1790366028,
+   "author": "Shiiv_Shankar",
+   "followers": 45,
+   "url": "https://x.com/Shiiv_Shankar/status/2103573706601910667",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1790368927
+  },
+  "2103573678848094551": {
+   "created": 1790366022,
+   "author": "ElliotGlazer",
+   "followers": 7961,
+   "url": "https://x.com/ElliotGlazer/status/2103573678848094551",
+   "disc_score": 4,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1790368927
+  },
+  "2103573078337019969": {
+   "created": 1790365879,
+   "author": "katiekirsch",
+   "followers": 18449,
+   "url": "https://x.com/katiekirsch/status/2103573078337019969",
+   "disc_score": 3,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1790368927
+  },
+  "2103572974704243064": {
+   "created": 1790365854,
+   "author": "Sauers_",
+   "followers": 15224,
+   "url": "https://x.com/Sauers_/status/2103572974704243064",
+   "disc_score": 5,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1790368927
+  },
+  "2103572946279436792": {
+   "created": 1790365847,
+   "author": "katiekirsch",
+   "followers": 18449,
+   "url": "https://x.com/katiekirsch/status/2103572946279436792",
+   "disc_score": 2,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1790368927
+  },
+  "2103572534906294544": {
+   "created": 1790365749,
+   "author": "ElliotGlazer",
+   "followers": 7961,
+   "url": "https://x.com/ElliotGlazer/status/2103572534906294544",
+   "disc_score": 5,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1790368927
+  },
+  "2103570630847414443": {
+   "created": 1790365295,
+   "author": "ElliotGlazer",
+   "followers": 7961,
+   "url": "https://x.com/ElliotGlazer/status/2103570630847414443",
+   "disc_score": 5,
    "checks": {
-    "1": 56
+    "1": 6
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1790368927
+  },
+  "2103567375027388515": {
+   "created": 1790364519,
+   "author": "Aizkmusic",
+   "followers": 6777,
+   "url": "https://x.com/Aizkmusic/status/2103567375027388515",
+   "disc_score": 2,
+   "checks": {
+    "1": 2
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1790368927
+  },
+  "2103565960284119359": {
+   "created": 1790364181,
+   "author": "foombler",
+   "followers": 488,
+   "url": "https://x.com/foombler/status/2103565960284119359",
+   "disc_score": 2,
+   "checks": {
+    "1": 2
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1790368927
+  },
+  "2103564604173643867": {
+   "created": 1790363858,
+   "author": "katiekirsch",
+   "followers": 18449,
+   "url": "https://x.com/katiekirsch/status/2103564604173643867",
+   "disc_score": 46,
+   "checks": {
+    "1": 48
    },
    "promoted": true,
    "miss": 0,
-   "added": 1790357314
+   "added": 1790368927
+  },
+  "2103552365257281731": {
+   "created": 1790360940,
+   "author": "kafkaup",
+   "followers": 14697,
+   "url": "https://x.com/kafkaup/status/2103552365257281731",
+   "disc_score": 3,
+   "checks": {
+    "1": 3
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1790368927
   }
  },
  "baseline": {
@@ -1227,6 +1378,26 @@
    [
     1790357315,
     56
+   ],
+   [
+    1790368928,
+    6
+   ],
+   [
+    1790368928,
+    2
+   ],
+   [
+    1790368928,
+    2
+   ],
+   [
+    1790368928,
+    48
+   ],
+   [
+    1790368928,
+    3
    ]
   ]
  },
@@ -1285,6 +1456,11 @@
    1790357315,
    "2103517755391516714",
    56
+  ],
+  [
+   1790368928,
+   "2103564604173643867",
+   48
   ]
  ],
  "seeded": true
