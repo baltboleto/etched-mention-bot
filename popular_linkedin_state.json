@@ -45,7 +45,9 @@
    "url": "https://www.linkedin.com/posts/kallyink_artificialintelligence-agenticai-aiinfrastructure-activity-7508659316061728768-HWiW",
    "text": "Back when I started developing websites, it was a straightforward process involving tables and basic HTML.\n\nAs the technology advanced, the work splintered into new roles: front-end and back-end development, user experience, user interface and more, all creating better websites and greater capabilities.\n\nI see AI following the same path, only much faster. Web development took years to specialize. AI seems to sprout a new specialty every Tuesday.\n\nTake the Agentic AI course I\u2019m currently taking.\n\nGenerative AI \u2013 the kind most of us encountered first \u2013 creates things: answers, articles, images and code. Agentic AI goes further, planning and executing multi-step workflows to accomplish broader ",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1790206852
@@ -1198,6 +1200,10 @@
    [
     1790288649,
     3
+   ],
+   [
+    1790299757,
+    0
    ]
   ]
  },
