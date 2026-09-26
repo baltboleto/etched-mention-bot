@@ -1,32 +1,5 @@
 {
- "watch": {
-  "2103721228582478128": {
-   "created": 1790401200,
-   "author": "tech_evergreen",
-   "followers": 121,
-   "url": "https://x.com/tech_evergreen/status/2103721228582478128",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1790408631
-  },
-  "2103719138145497589": {
-   "created": 1790400702,
-   "author": "jessiedong_",
-   "followers": 1768,
-   "url": "https://x.com/jessiedong_/status/2103719138145497589",
-   "disc_score": 41,
-   "checks": {
-    "1": 41
-   },
-   "promoted": true,
-   "miss": 0,
-   "added": 1790408631
-  }
- },
+ "watch": {},
  "baseline": {
   "1": [
    [
