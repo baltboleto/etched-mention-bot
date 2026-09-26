@@ -13,19 +13,6 @@
    "miss": 0,
    "added": 1790318471
   },
-  "7509056857781567488": {
-   "created": 1790298666,
-   "author": "Nick Tsai",
-   "url": "https://www.linkedin.com/posts/nick-tsai-a8448bb8_a-bumblebee-moment-for-ai-silicon-synopsys-activity-7509056857781567488-Qxre",
-   "text": "I recently came across Synopsys\u2019 article about Etched using ZeBu Server 5 to develop and validate Sohu, and it felt like a meaningful full-circle moment in my career.\n\nDuring my years at Synopsys, I worked on PCB design for the ZeBu product family, contributing to the hardware emulation platforms used for complex silicon verification and pre-silicon development.\n\nYears later, I joined Etched.\n\nToday, Etched is using ZeBu to help develop and validate Sohu, including running real AI workloads before the actual silicon is available.\n\nIt is especially meaningful to see the AI silicon I am now helping build being developed with a platform that I once helped develop.\n\nIn the past, I worked on buil",
-   "disc_score": 1,
-   "checks": {
-    "24": 1
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1790318471
-  },
   "7509133480497332224": {
    "created": 1790316934,
    "author": "Saasverse",
@@ -58,7 +45,9 @@
    "url": "https://www.linkedin.com/posts/alina-gegamova_dear-founders-heres-your-2026-cheat-sheet-activity-7509285642237984768-jbub",
    "text": "Dear founders, here\u2019s your 2026 cheat sheet for where you actually want to see your name.\n\nAnd no, I don\u2019t mean just big logos. Quite the opposite!\n\nYesterday, Inc. Magazine published a fascinating look at the \u201cdelightfully messy new media landscape,\u201d and I took a while to analyze the list.\n\nSo, if you\u2019re an early-stage startup founder in 2026, here are some names I\u2019d know:\n\n1. Upstarts \u2014 Alex Konrad (if the words \"Midas List\" tell you something, you know exactly what I'm talking about here)\n2. Sourcery \u2014 Molly O'Shea (platforms like Sourcery are creating more opportunities for younger companies as traditional tech publications downsize)\n3. 20VC \u2014 Harry Stebbings (judging by the episodes fro",
    "disc_score": 13,
-   "checks": {},
+   "checks": {
+    "24": 22
+   },
    "promoted": false,
    "miss": 0,
    "added": 1790357421
@@ -1233,6 +1222,10 @@
    [
     1790408394,
     0
+   ],
+   [
+    1790441013,
+    22
    ]
   ]
  },
