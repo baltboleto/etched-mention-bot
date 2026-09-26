@@ -82,7 +82,9 @@
    "url": "https://www.linkedin.com/posts/nick-tsai-a8448bb8_a-bumblebee-moment-for-ai-silicon-synopsys-activity-7509056857781567488-Qxre",
    "text": "I recently came across Synopsys\u2019 article about Etched using ZeBu Server 5 to develop and validate Sohu, and it felt like a meaningful full-circle moment in my career.\n\nDuring my years at Synopsys, I worked on PCB design for the ZeBu product family, contributing to the hardware emulation platforms used for complex silicon verification and pre-silicon development.\n\nYears later, I joined Etched.\n\nToday, Etched is using ZeBu to help develop and validate Sohu, including running real AI workloads before the actual silicon is available.\n\nIt is especially meaningful to see the AI silicon I am now helping build being developed with a platform that I once helped develop.\n\nIn the past, I worked on buil",
    "disc_score": 1,
-   "checks": {},
+   "checks": {
+    "24": 1
+   },
    "promoted": false,
    "miss": 0,
    "added": 1790318471
@@ -1230,6 +1232,10 @@
    [
     1790368988,
     104
+   ],
+   [
+    1790386312,
+    1
    ]
   ]
  },
