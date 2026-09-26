@@ -1,15 +1,17 @@
 {
  "watch": {
-  "2103880050479346077": {
-   "created": 1790439066,
-   "author": "Cyxielaoban",
-   "followers": 8452,
-   "url": "https://x.com/Cyxielaoban/status/2103880050479346077",
-   "disc_score": 0,
-   "checks": {},
+  "2103900839702311100": {
+   "created": 1790444023,
+   "author": "FrostbytHitsuG",
+   "followers": 711,
+   "url": "https://x.com/FrostbytHitsuG/status/2103900839702311100",
+   "disc_score": 4,
+   "checks": {
+    "1": 4
+   },
    "promoted": false,
    "miss": 0,
-   "added": 1790440969
+   "added": 1790450767
   }
  },
  "baseline": {
@@ -1257,6 +1259,10 @@
    [
     1790408631,
     41
+   ],
+   [
+    1790450767,
+    4
    ]
   ]
  },
