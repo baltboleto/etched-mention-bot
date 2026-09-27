@@ -52,7 +52,9 @@
    "url": "https://www.linkedin.com/posts/hardware-fpga-embedded-jobs_applied-ai-engineer-hardware-activity-7509401372828741633-yy9D",
    "text": "\ud83c\uddfa\ud83c\uddf8 New Job Post: Applied AI Engineer - Hardware\n\nCompany: Etched, San Jose, CA\n\nJob Summary: Etched is seeking an innovative engineer to develop AI systems that transform engineering requirements into verified electrical and mechanical designs. This role involves creating agents that utilize CAD, EDA, and simulation tools to generate designs, conduct experiments, and collaborate with engineering teams. Responsibilities include developing workflows for schematic capture, PCB layout, and thermal analysis, while ensuring designs meet manufacturability and performance standards. Candidates should possess strong software engineering skills, particularly in Python, and have experience with LLM-bas",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1790408394
@@ -1187,6 +1189,10 @@
    [
     1790441013,
     22
+   ],
+   [
+    1790469473,
+    0
    ]
   ]
  },
