@@ -1,25 +1,14 @@
 {
  "watch": {
-  "7509285642237984768": {
-   "created": 1790353212,
-   "author": "Alina Gegamova",
-   "url": "https://www.linkedin.com/posts/alina-gegamova_dear-founders-heres-your-2026-cheat-sheet-activity-7509285642237984768-jbub",
-   "text": "Dear founders, here\u2019s your 2026 cheat sheet for where you actually want to see your name.\n\nAnd no, I don\u2019t mean just big logos. Quite the opposite!\n\nYesterday, Inc. Magazine published a fascinating look at the \u201cdelightfully messy new media landscape,\u201d and I took a while to analyze the list.\n\nSo, if you\u2019re an early-stage startup founder in 2026, here are some names I\u2019d know:\n\n1. Upstarts \u2014 Alex Konrad (if the words \"Midas List\" tell you something, you know exactly what I'm talking about here)\n2. Sourcery \u2014 Molly O'Shea (platforms like Sourcery are creating more opportunities for younger companies as traditional tech publications downsize)\n3. 20VC \u2014 Harry Stebbings (judging by the episodes fro",
-   "disc_score": 13,
-   "checks": {
-    "24": 22
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1790357421
-  },
   "7509486945694138368": {
    "created": 1790401207,
    "author": "Evergreen Technologies LLC",
    "url": "https://www.linkedin.com/posts/evergreen-tech-llc_httpszurlcosdn4b-etched-the-21-activity-7509486945694138368-49lL",
    "text": "https://zurl.co/SdN4b \n\ud83d\ude80Etched: The $21 Billion Bet on Transformer-Specific Silicon\nThe provided video details the rise of Etched, a semiconductor startup that has developed a specialized chip called Sohu designed exclusively ...\nRead more at https://zurl.co/1no0p",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1790408394
@@ -30,7 +19,9 @@
    "url": "https://www.linkedin.com/posts/evergreen-technologies-usa-3a7422198_httpszurlcosdn4b-etched-the-21-activity-7509486971677917184-tOsi",
    "text": "https://zurl.co/SdN4b \n\ud83d\ude80Etched: The $21 Billion Bet on Transformer-Specific Silicon\nThe provided video details the rise of Etched, a semiconductor startup that has developed a specialized chip called Sohu designed exclusively ...\nRead more at https://zurl.co/1no0p",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1790408394
@@ -41,7 +32,9 @@
    "url": "https://www.linkedin.com/posts/li-liu-7ab700236_physical-ai-just-crossed-474-billion-in-activity-7509457852609007617-ZqS8",
    "text": "physical AI just crossed $47.4 billion in the first half of 2026 alone\n\nNvidia licensed Poolside's Model Factory for $7 billion, valuing the company at $12 billion.\n\nAlibaba raised $10.2 billion and committed another HK$80 billion for AI infrastructure.\n\nXPENG Robotics closed a $900 million+ round at a $6.3 billion post-money valuation.\n\nGeneral Intuition is targeting a $6 billion pre-money for physical AI training, a 161% jump.\n\nEtched doubled its valuation to $21 billion.\n\n521 deals in H1 2026, median Series A robotics check sitting at $5.2 million.\n\nTexas paused new AI data-center approvals, gas-turbine backlogs are projected to hit 2031.\n\nThe money moved from chatbots to things that move",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1790408394
@@ -1192,6 +1185,18 @@
    ],
    [
     1790469473,
+    0
+   ],
+   [
+    1790488247,
+    0
+   ],
+   [
+    1790488247,
+    0
+   ],
+   [
+    1790488247,
     0
    ]
   ]
