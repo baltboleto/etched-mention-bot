@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7509883138010083328": {
-   "created": 1790495666,
-   "author": "Ben Scott",
-   "url": "https://www.linkedin.com/posts/benscott22_lawyer-preference-for-ai-grounded-in-legal-activity-7509883138010083328-3jlQ",
-   "text": "The headline isn't simply that 94% of lawyers now use AI. It\u2019s that as adoption becomes normal so trust, transparency and human oversight are becoming buying criteria!\n\nThat raises an evidential question we\u2019re focused on at Etched:\n\nWhat does \u201chuman oversight\u201d actually look like if somebody needs to prove it later?\n\nWhich source material went in, which AI system was used, what came back, what was verified, what the lawyer changed and who ultimately approved the work? Well put Laura Halls and Dylan Brown\n\nA policy can require oversight. The creation record can evidence that it happened.\n\n\nhttps://lnkd.in/e9SP6DqS\n\nWell put Laura Halls and Dylan Brown",
-   "disc_score": 5,
-   "checks": {
-    "24": 17
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1790496658
-  },
   "7510224609821204480": {
    "created": 1790577080,
    "author": "Multiples",
@@ -45,6 +32,61 @@
    "promoted": false,
    "miss": 0,
    "added": 1790608916
+  },
+  "7510389491598180352": {
+   "created": 1790616391,
+   "author": "Sheena White",
+   "url": "https://www.linkedin.com/posts/sheenamoodywhite_i-had-the-pleasure-of-attending-primary-venture-activity-7510389491598180352-aTTj",
+   "text": "I had the pleasure of attending Primary Venture Partners\u2019 NYC Tech Summit, reconnecting with familiar faces and meeting dynamic  founders, operators, CFOs, and VC principals. Between sessions, we traded notes on what's working and where they see the next opportunities.\n\nMy biggest takeaway: partnerships reward operators willing to roll up their sleeves and decision-makers who can stay patient, both while choosing a partner and after the agreement is signed. Two founders on stage made a strong case.\n\nGavin Uberti, co-founder and CEO of Etched, talked about a key supplier that fell behind schedule. Switching suppliers would have cost him about six months and so would waiting it out. Instead, h",
+   "disc_score": 12,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1790630565
+  },
+  "7510375952418250752": {
+   "created": 1790613163,
+   "author": "Shoichi Kudo",
+   "url": "https://www.linkedin.com/feed/update/urn:li:groupPost:46460-7510375950950514689",
+   "text": "Hardware Deep Tech Can Scale Again\n\nMany investors know AI software companies, but fewer know Etched.\n\nEtched is a U.S. semiconductor and deep-tech company developing purpose-built infrastructure for AI inference. Its rise demonstrates an important shift: major investment is no longer limited to AI models, software, and cloud services.\n\nInvestors are also prepared to support ambitious hardware companies when they solve a clear computing bottleneck, possess meaningful technical differentiation, and turn complex engineering into a scalable platform.\n\nPositive One Corporation is not trying to become another Etched or develop a competing data-center AI processor.\n\nThe connection is more fundamen",
+   "disc_score": 1,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1790630565
+  },
+  "7510395763332530176": {
+   "created": 1790617886,
+   "author": "POSITIVE ONE CORPORATION",
+   "url": "https://www.linkedin.com/posts/positiveone_physicalai-deeptech-edgeai-activity-7510395763332530176-I-id",
+   "text": "Hardware Deep Tech Can Scale Again\n\nMany investors know AI software companies, but fewer know Etched.\n\nEtched is a U.S. semiconductor and deep-tech company developing purpose-built infrastructure for AI inference. Its rise demonstrates an important shift: major investment is no longer limited to AI models, software, and cloud services.\n\nInvestors are also prepared to support ambitious hardware companies when they solve a clear computing bottleneck, possess meaningful technical differentiation, and turn complex engineering into a scalable platform.\n\nPositive One Corporation is not trying to become another Etched or develop a competing data-center AI processor.\n\nThe connection is more fundamen",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1790630565
+  },
+  "7510395562295312384": {
+   "created": 1790617838,
+   "author": "Chinchilla Smart Computing Inc.",
+   "url": "https://www.linkedin.com/posts/chinchillasmart_physicalai-deeptech-edgeai-activity-7510395562295312384-y8Od",
+   "text": "Hardware Deep Tech Can Scale Again\n\nMany investors know AI software companies, but fewer know Etched.\n\nEtched is a U.S. semiconductor and deep-tech company developing purpose-built infrastructure for AI inference. Its rise demonstrates an important shift: major investment is no longer limited to AI models, software, and cloud services.\n\nInvestors are also prepared to support ambitious hardware companies when they solve a clear computing bottleneck, possess meaningful technical differentiation, and turn complex engineering into a scalable platform.\n\nPositive One Corporation is not trying to become another Etched or develop a competing data-center AI processor.\n\nThe connection is more fundamen",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1790630565
+  },
+  "7510395307290013696": {
+   "created": 1790617777,
+   "author": "Shoichi Kudo",
+   "url": "https://www.linkedin.com/posts/shoichi-kudo-24641148_physicalai-deeptech-edgeai-activity-7510395307290013696-AykX",
+   "text": "Hardware Deep Tech Can Scale Again\nMany investors know AI software companies, but fewer know Etched.\nEtched is a U.S. semiconductor and deep-tech company developing purpose-built infrastructure for AI inference. Its rise demonstrates an important shift: major investment is no longer limited to AI models, software, and cloud services.\nInvestors are also prepared to support ambitious hardware companies when they solve a clear computing bottleneck, possess meaningful technical differentiation, and turn complex engineering into a scalable platform.\nPositive One Corporation is not trying to become another Etched or develop a competing data-center AI processor.\nThe connection is more fundamental:\n",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1790630565
   }
  },
  "baseline": {
