@@ -1,15 +1,17 @@
 {
  "watch": {
-  "2104463174343049502": {
-   "created": 1790578094,
-   "author": "RealHanyaHu",
-   "followers": 27406,
-   "url": "https://x.com/RealHanyaHu/status/2104463174343049502",
-   "disc_score": 5,
-   "checks": {},
+  "2104558351967261054": {
+   "created": 1790600786,
+   "author": "nanohity",
+   "followers": 17,
+   "url": "https://x.com/nanohity/status/2104558351967261054",
+   "disc_score": 3,
+   "checks": {
+    "1": 3
+   },
    "promoted": false,
    "miss": 0,
-   "added": 1790578808
+   "added": 1790608755
   }
  },
  "baseline": {
@@ -1265,6 +1267,10 @@
    [
     1790524156,
     1
+   ],
+   [
+    1790608756,
+    3
    ]
   ]
  },
