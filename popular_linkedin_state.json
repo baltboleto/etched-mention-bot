@@ -6,7 +6,9 @@
    "url": "https://www.linkedin.com/posts/benscott22_lawyer-preference-for-ai-grounded-in-legal-activity-7509883138010083328-3jlQ",
    "text": "The headline isn't simply that 94% of lawyers now use AI. It\u2019s that as adoption becomes normal so trust, transparency and human oversight are becoming buying criteria!\n\nThat raises an evidential question we\u2019re focused on at Etched:\n\nWhat does \u201chuman oversight\u201d actually look like if somebody needs to prove it later?\n\nWhich source material went in, which AI system was used, what came back, what was verified, what the lawyer changed and who ultimately approved the work? Well put Laura Halls and Dylan Brown\n\nA policy can require oversight. The creation record can evidence that it happened.\n\n\nhttps://lnkd.in/e9SP6DqS\n\nWell put Laura Halls and Dylan Brown",
    "disc_score": 5,
-   "checks": {},
+   "checks": {
+    "24": 17
+   },
    "promoted": false,
    "miss": 0,
    "added": 1790496658
@@ -21,6 +23,28 @@
    "promoted": false,
    "miss": 0,
    "added": 1790578348
+  },
+  "7510244060612251648": {
+   "created": 1790581717,
+   "author": "BK. Minh Duc",
+   "url": "https://www.linkedin.com/feed/update/urn:li:groupPost:16222018-7510244059207188480",
+   "text": "These are the VCs that made\u00a0the\u00a0most AI investments from 2025 until now:\n\nSource: Multiples, data as of 28 Sep 2026\n\n1. Andreessen Horowitz \u2014 122 AI investments, 40% of all deals 2025-26 \u2014  key AI holdings include OpenAI, Databricks, Cognition and Safe Superintelligence. Famously missed Anthropic\n2. General Catalyst \u2014 122 AI investments, 38% of all deals 2025-26 \u2014 backer of Anthropic, Mistral, Cognition and defence AI software Helsing.\n3. Sequoia Capital \u2014 116 AI investments, 47% of all deals 2025-26 \u2014 positions in Anthropic, OpenAI, chip designer Etched and Fireworks AI.\n4. Khosla Ventures \u2014 102 AI investments, 50% of all deals 2025-26 \u2014 holdings include Cognition, Lovable, Abridge and Fact",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1790608916
+  },
+  "7510329748116418562": {
+   "created": 1790602147,
+   "author": "Lawal Abdulbaqi",
+   "url": "https://www.linkedin.com/posts/lawalabdulbaqi_hiring-africa-remotejob-activity-7510329748116418562-OoFw",
+   "text": "They're #Hiring \u2014 3 Remote Security roles open now!\n\n1. Security Engineer (Remote) \u2014 Etched\n   \ud83d\udccd Remote \u00b7 Worldwide\n   \ud83d\udcb0 $150k-$250k/yr\n   Etched is currently looking for a Security Engineer (Remote).\n   Apply here: https://lnkd.in/eE-diu9j\n\n2. Security Engineer (SIEM / EL3 Logging) \u2014 PingWind\n   \ud83d\udccd Remote \u00b7 Worldwide\n   \ud83d\udcb0 $93k-$128k/yr\n   PingWind is currently looking for a Security Engineer (SIEM / EL3 Logging).\n   Apply here: https://lnkd.in/evpYuFee\n\n3. Staff Security Engineer \u2014 Beyond Finance\n   \ud83d\udccd Remote\n   \ud83d\udcb0 $169k-$231k/yr\n   Beyond Finance is currently looking for a Staff Security Engineer.\n   Apply here: https://lnkd.in/e9a6_TWD\n\n#Africa #RemoteJob #Security #Nigeria #SouthAfrica #Egy",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1790608916
   }
  },
  "baseline": {
@@ -1168,6 +1192,10 @@
    [
     1790488247,
     0
+   ],
+   [
+    1790608916,
+    17
    ]
   ]
  },
