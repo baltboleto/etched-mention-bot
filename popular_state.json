@@ -1,82 +1,15 @@
 {
  "watch": {
-  "2104976210958926065": {
-   "created": 1790700411,
-   "author": "christiansafka",
-   "followers": 178,
-   "url": "https://x.com/christiansafka/status/2104976210958926065",
+  "2105068019965993004": {
+   "created": 1790722300,
+   "author": "shyamlee_r",
+   "followers": 1827,
+   "url": "https://x.com/shyamlee_r/status/2105068019965993004",
    "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
+   "checks": {},
    "promoted": false,
    "miss": 0,
-   "added": 1790709089
-  },
-  "2104976145158398078": {
-   "created": 1790700396,
-   "author": "christiansafka",
-   "followers": 178,
-   "url": "https://x.com/christiansafka/status/2104976145158398078",
-   "disc_score": 1,
-   "checks": {
-    "1": 1
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1790709089
-  },
-  "2104970918309376235": {
-   "created": 1790699150,
-   "author": "chrisbarber",
-   "followers": 15376,
-   "url": "https://x.com/chrisbarber/status/2104970918309376235",
-   "disc_score": 6,
-   "checks": {
-    "1": null
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1790709089
-  },
-  "2104994347578224824": {
-   "created": 1790704736,
-   "author": "rohanpaul_ai",
-   "followers": 158175,
-   "url": "https://x.com/rohanpaul_ai/status/2104994347578224824",
-   "disc_score": 2,
-   "checks": {
-    "1": 3
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1790709089
-  },
-  "2104974512446222361": {
-   "created": 1790700006,
-   "author": "Meer_AIIT",
-   "followers": 46317,
-   "url": "https://x.com/Meer_AIIT/status/2104974512446222361",
-   "disc_score": 21,
-   "checks": {
-    "1": null
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1790709089
-  },
-  "2104981278659625007": {
-   "created": 1790701620,
-   "author": "financialsamura",
-   "followers": 42625,
-   "url": "https://x.com/financialsamura/status/2104981278659625007",
-   "disc_score": 6,
-   "checks": {
-    "1": 6
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1790709089
+   "added": 1790722748
   }
  },
  "baseline": {
