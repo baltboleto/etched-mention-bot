@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7510224609821204480": {
-   "created": 1790577080,
-   "author": "Multiples",
-   "url": "https://www.linkedin.com/posts/multiples-vc_these-are-the-vcs-that-madethemost-ai-investments-activity-7510224609821204480-ELwh",
-   "text": "These are the VCs that made\u00a0the\u00a0most AI investments from 2025 until now:\n\nSource: Multiples, data as of 28 Sep 2026\n\n1. Andreessen Horowitz \u2014 122 AI investments, 40% of all deals 2025-26 \u2014  key AI holdings include OpenAI, Databricks, Cognition and Safe Superintelligence. Famously missed Anthropic\n2. General Catalyst \u2014 122 AI investments, 38% of all deals 2025-26 \u2014 backer of Anthropic, Mistral, Cognition and defence AI software Helsing.\n3. Sequoia Capital \u2014 116 AI investments, 47% of all deals 2025-26 \u2014 positions in Anthropic, OpenAI, chip designer Etched and Fireworks AI.\n4. Khosla Ventures \u2014 102 AI investments, 50% of all deals 2025-26 \u2014 holdings include Cognition, Lovable, Abridge and Fact",
-   "disc_score": 4,
-   "checks": {
-    "24": 43
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1790578348
-  },
   "7510329748116418562": {
    "created": 1790602147,
    "author": "Lawal Abdulbaqi",
@@ -32,7 +19,9 @@
    "url": "https://www.linkedin.com/posts/sheenamoodywhite_i-had-the-pleasure-of-attending-primary-venture-activity-7510389491598180352-aTTj",
    "text": "I had the pleasure of attending Primary Venture Partners\u2019 NYC Tech Summit, reconnecting with familiar faces and meeting dynamic  founders, operators, CFOs, and VC principals. Between sessions, we traded notes on what's working and where they see the next opportunities.\n\nMy biggest takeaway: partnerships reward operators willing to roll up their sleeves and decision-makers who can stay patient, both while choosing a partner and after the agreement is signed. Two founders on stage made a strong case.\n\nGavin Uberti, co-founder and CEO of Etched, talked about a key supplier that fell behind schedule. Switching suppliers would have cost him about six months and so would waiting it out. Instead, h",
    "disc_score": 12,
-   "checks": {},
+   "checks": {
+    "24": 30
+   },
    "promoted": false,
    "miss": 0,
    "added": 1790630565
@@ -45,7 +34,7 @@
    "disc_score": 1,
    "checks": {},
    "promoted": false,
-   "miss": 0,
+   "miss": 1,
    "added": 1790630565
   },
   "7510395763332530176": {
@@ -54,7 +43,9 @@
    "url": "https://www.linkedin.com/posts/positiveone_physicalai-deeptech-edgeai-activity-7510395763332530176-I-id",
    "text": "Hardware Deep Tech Can Scale Again\n\nMany investors know AI software companies, but fewer know Etched.\n\nEtched is a U.S. semiconductor and deep-tech company developing purpose-built infrastructure for AI inference. Its rise demonstrates an important shift: major investment is no longer limited to AI models, software, and cloud services.\n\nInvestors are also prepared to support ambitious hardware companies when they solve a clear computing bottleneck, possess meaningful technical differentiation, and turn complex engineering into a scalable platform.\n\nPositive One Corporation is not trying to become another Etched or develop a competing data-center AI processor.\n\nThe connection is more fundamen",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1790630565
@@ -65,7 +56,9 @@
    "url": "https://www.linkedin.com/posts/chinchillasmart_physicalai-deeptech-edgeai-activity-7510395562295312384-y8Od",
    "text": "Hardware Deep Tech Can Scale Again\n\nMany investors know AI software companies, but fewer know Etched.\n\nEtched is a U.S. semiconductor and deep-tech company developing purpose-built infrastructure for AI inference. Its rise demonstrates an important shift: major investment is no longer limited to AI models, software, and cloud services.\n\nInvestors are also prepared to support ambitious hardware companies when they solve a clear computing bottleneck, possess meaningful technical differentiation, and turn complex engineering into a scalable platform.\n\nPositive One Corporation is not trying to become another Etched or develop a competing data-center AI processor.\n\nThe connection is more fundamen",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1790630565
@@ -76,7 +69,9 @@
    "url": "https://www.linkedin.com/posts/shoichi-kudo-24641148_physicalai-deeptech-edgeai-activity-7510395307290013696-AykX",
    "text": "Hardware Deep Tech Can Scale Again\nMany investors know AI software companies, but fewer know Etched.\nEtched is a U.S. semiconductor and deep-tech company developing purpose-built infrastructure for AI inference. Its rise demonstrates an important shift: major investment is no longer limited to AI models, software, and cloud services.\nInvestors are also prepared to support ambitious hardware companies when they solve a clear computing bottleneck, possess meaningful technical differentiation, and turn complex engineering into a scalable platform.\nPositive One Corporation is not trying to become another Etched or develop a competing data-center AI processor.\nThe connection is more fundamental:\n",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1790630565
@@ -91,6 +86,28 @@
    "promoted": false,
    "miss": 0,
    "added": 1790665087
+  },
+  "7510740080072867840": {
+   "created": 1790699977,
+   "author": "Justin Kinsey",
+   "url": "https://www.linkedin.com/posts/justinkinseysbt_aiinfrasummit-semiconductorindustry-artificialintelligence-activity-7510740080072867840-s8GL",
+   "text": "The #AIInfraSummit keeps delivering insights even weeks after wrapping up. Watching the session recordings and poring over our panel discussions, a few gems stood out especially when I reflected on our Investor Panel.\n\nThe past few years in AI have been a gold rush. Investment rounds have swelled to such highs that it feels like were getting used to seeing B after the numbers. But with every investment, there's a team ensuring responsible capital allocation. That requires an extraordinary level of discernment, especially in semiconductors and deep tech.\n\nThis is why I invited Srini Ananth (Intel Capital), Josh Miner, (Maverick Silicon) and Siddharth Gupta (Samsung Ventures). These three expe",
+   "disc_score": 37,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1790709153
+  },
+  "7510756601427824642": {
+   "created": 1790703916,
+   "author": "Aarav Wattal",
+   "url": "https://www.linkedin.com/posts/aarav-wattal_excited-to-share-that-after-wrapping-up-my-activity-7510756601427824642-Ea1Y",
+   "text": "Excited to share that after wrapping up my internship at NVIDIA, I\u2019m joining Etched as a Member of Technical Staff (ASIC) to help build the future of AI inference systems.\n\nThis summer at NVIDIA, I worked on design verification for high-bandwidth chip-to-chip interconnects for next-generation GPU systems. Huge thanks to my manager Deepaksrivats Thirumalai, mentor Ajeeth V, and everyone across the C2C team who I had the privilege of learning from and working alongside.\n\nI\u2019m incredibly grateful for everything I learned, and even more excited to keep pushing the frontier of AI hardware at Etched.",
+   "disc_score": 3,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1790709153
   }
  },
  "baseline": {
@@ -1249,6 +1266,22 @@
    ],
    [
     1790690022,
+    0
+   ],
+   [
+    1790709153,
+    30
+   ],
+   [
+    1790709153,
+    0
+   ],
+   [
+    1790709153,
+    0
+   ],
+   [
+    1790709153,
     0
    ]
   ]
