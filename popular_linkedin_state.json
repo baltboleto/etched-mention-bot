@@ -26,17 +26,6 @@
    "miss": 0,
    "added": 1790630565
   },
-  "7510375952418250752": {
-   "created": 1790613163,
-   "author": "Shoichi Kudo",
-   "url": "https://www.linkedin.com/feed/update/urn:li:groupPost:46460-7510375950950514689",
-   "text": "Hardware Deep Tech Can Scale Again\n\nMany investors know AI software companies, but fewer know Etched.\n\nEtched is a U.S. semiconductor and deep-tech company developing purpose-built infrastructure for AI inference. Its rise demonstrates an important shift: major investment is no longer limited to AI models, software, and cloud services.\n\nInvestors are also prepared to support ambitious hardware companies when they solve a clear computing bottleneck, possess meaningful technical differentiation, and turn complex engineering into a scalable platform.\n\nPositive One Corporation is not trying to become another Etched or develop a competing data-center AI processor.\n\nThe connection is more fundamen",
-   "disc_score": 1,
-   "checks": {},
-   "promoted": false,
-   "miss": 2,
-   "added": 1790630565
-  },
   "7510395763332530176": {
    "created": 1790617886,
    "author": "POSITIVE ONE CORPORATION",
@@ -108,6 +97,17 @@
    "promoted": false,
    "miss": 0,
    "added": 1790709153
+  },
+  "7510818087437295616": {
+   "created": 1790718576,
+   "author": "Daniil Sergeev",
+   "url": "https://www.linkedin.com/posts/daniil-sergeev_branding-and-web-design-for-dvc-a-fund-that-activity-7510818087437295616-u-_H",
+   "text": "Branding and web design for DVC, a fund that brings together 190+ investors and has backed 120 AI startups, including Perplexity AI, Etched, and Thinking Machines Lab. Made by daniilsergeev.com\n\nTypeface\nStabil Grotesk by Kometa",
+   "disc_score": 5,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1790722793
   }
  },
  "baseline": {
