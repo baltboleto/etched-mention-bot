@@ -6,7 +6,9 @@
    "url": "https://www.linkedin.com/posts/multiples-vc_these-are-the-vcs-that-madethemost-ai-investments-activity-7510224609821204480-ELwh",
    "text": "These are the VCs that made\u00a0the\u00a0most AI investments from 2025 until now:\n\nSource: Multiples, data as of 28 Sep 2026\n\n1. Andreessen Horowitz \u2014 122 AI investments, 40% of all deals 2025-26 \u2014  key AI holdings include OpenAI, Databricks, Cognition and Safe Superintelligence. Famously missed Anthropic\n2. General Catalyst \u2014 122 AI investments, 38% of all deals 2025-26 \u2014 backer of Anthropic, Mistral, Cognition and defence AI software Helsing.\n3. Sequoia Capital \u2014 116 AI investments, 47% of all deals 2025-26 \u2014 positions in Anthropic, OpenAI, chip designer Etched and Fireworks AI.\n4. Khosla Ventures \u2014 102 AI investments, 50% of all deals 2025-26 \u2014 holdings include Cognition, Lovable, Abridge and Fact",
    "disc_score": 4,
-   "checks": {},
+   "checks": {
+    "24": 43
+   },
    "promoted": false,
    "miss": 0,
    "added": 1790578348
@@ -87,6 +89,17 @@
    "promoted": false,
    "miss": 0,
    "added": 1790630565
+  },
+  "7510569280342581250": {
+   "created": 1790659256,
+   "author": "Grace Gong",
+   "url": "https://www.linkedin.com/posts/gracegong_aicompute-semiconductors-ai-activity-7510569280342581250-yo9C",
+   "text": "AI COMPUTE COMPANIES (HIRING LIST)\n\nHere are 35 AI compute startups that are actively hiring right now, ranked by percentage headcount growth in the past 90 days. This is Week 67 of On My Radar, my weekly list of the companies I can't stop watching:\n\nPaleBlueDot AI - AI compute platform for enterprise-scale deployment (Palo Alto)\nHighreso Co., Ltd. - GPU cloud (Japan)\nVolantis Semiconductor - photonic AI infrastructure\nFractile - inference processors (UK)\nEtched - custom inference chips and clusters\nMythic - analog chips that compute in memory\nBoost Run - platform for provisioning AI infrastructure\nPositron AI - inference hardware\nMobilint, Inc. - edge AI chips (Korea)\nMatX - high-throughput",
+   "disc_score": 50,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1790665087
   }
  },
  "baseline": {
@@ -1238,6 +1251,10 @@
    [
     1790608916,
     17
+   ],
+   [
+    1790665087,
+    43
    ]
   ]
  },
