@@ -21,7 +21,7 @@
    "disc_score": 0,
    "checks": {},
    "promoted": false,
-   "miss": 1,
+   "miss": 2,
    "added": 1790608916
   },
   "7510329748116418562": {
@@ -30,7 +30,9 @@
    "url": "https://www.linkedin.com/posts/lawalabdulbaqi_hiring-africa-remotejob-activity-7510329748116418562-OoFw",
    "text": "They're #Hiring \u2014 3 Remote Security roles open now!\n\n1. Security Engineer (Remote) \u2014 Etched\n   \ud83d\udccd Remote \u00b7 Worldwide\n   \ud83d\udcb0 $150k-$250k/yr\n   Etched is currently looking for a Security Engineer (Remote).\n   Apply here: https://lnkd.in/eE-diu9j\n\n2. Security Engineer (SIEM / EL3 Logging) \u2014 PingWind\n   \ud83d\udccd Remote \u00b7 Worldwide\n   \ud83d\udcb0 $93k-$128k/yr\n   PingWind is currently looking for a Security Engineer (SIEM / EL3 Logging).\n   Apply here: https://lnkd.in/evpYuFee\n\n3. Staff Security Engineer \u2014 Beyond Finance\n   \ud83d\udccd Remote\n   \ud83d\udcb0 $169k-$231k/yr\n   Beyond Finance is currently looking for a Staff Security Engineer.\n   Apply here: https://lnkd.in/e9a6_TWD\n\n#Africa #RemoteJob #Security #Nigeria #SouthAfrica #Egy",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1790608916
@@ -1255,6 +1257,10 @@
    [
     1790665087,
     43
+   ],
+   [
+    1790690022,
+    0
    ]
   ]
  },
