@@ -1,25 +1,14 @@
 {
  "watch": {
-  "7510569280342581250": {
-   "created": 1790659256,
-   "author": "Grace Gong",
-   "url": "https://www.linkedin.com/posts/gracegong_aicompute-semiconductors-ai-activity-7510569280342581250-yo9C",
-   "text": "AI COMPUTE COMPANIES (HIRING LIST)\n\nHere are 35 AI compute startups that are actively hiring right now, ranked by percentage headcount growth in the past 90 days. This is Week 67 of On My Radar, my weekly list of the companies I can't stop watching:\n\nPaleBlueDot AI - AI compute platform for enterprise-scale deployment (Palo Alto)\nHighreso Co., Ltd. - GPU cloud (Japan)\nVolantis Semiconductor - photonic AI infrastructure\nFractile - inference processors (UK)\nEtched - custom inference chips and clusters\nMythic - analog chips that compute in memory\nBoost Run - platform for provisioning AI infrastructure\nPositron AI - inference hardware\nMobilint, Inc. - edge AI chips (Korea)\nMatX - high-throughput",
-   "disc_score": 50,
-   "checks": {
-    "24": 436
-   },
-   "promoted": true,
-   "miss": 0,
-   "added": 1790665087
-  },
   "7510740080072867840": {
    "created": 1790699977,
    "author": "Justin Kinsey",
    "url": "https://www.linkedin.com/posts/justinkinseysbt_aiinfrasummit-semiconductorindustry-artificialintelligence-activity-7510740080072867840-s8GL",
    "text": "The #AIInfraSummit keeps delivering insights even weeks after wrapping up. Watching the session recordings and poring over our panel discussions, a few gems stood out especially when I reflected on our Investor Panel.\n\nThe past few years in AI have been a gold rush. Investment rounds have swelled to such highs that it feels like were getting used to seeing B after the numbers. But with every investment, there's a team ensuring responsible capital allocation. That requires an extraordinary level of discernment, especially in semiconductors and deep tech.\n\nThis is why I invited Srini Ananth (Intel Capital), Josh Miner, (Maverick Silicon) and Siddharth Gupta (Samsung Ventures). These three expe",
    "disc_score": 37,
-   "checks": {},
+   "checks": {
+    "24": 94
+   },
    "promoted": false,
    "miss": 0,
    "added": 1790709153
@@ -30,8 +19,10 @@
    "url": "https://www.linkedin.com/posts/aarav-wattal_excited-to-share-that-after-wrapping-up-my-activity-7510756601427824642-Ea1Y",
    "text": "Excited to share that after wrapping up my internship at NVIDIA, I\u2019m joining Etched as a Member of Technical Staff (ASIC) to help build the future of AI inference systems.\n\nThis summer at NVIDIA, I worked on design verification for high-bandwidth chip-to-chip interconnects for next-generation GPU systems. Huge thanks to my manager Deepaksrivats Thirumalai, mentor Ajeeth V, and everyone across the C2C team who I had the privilege of learning from and working alongside.\n\nI\u2019m incredibly grateful for everything I learned, and even more excited to keep pushing the frontier of AI hardware at Etched.",
    "disc_score": 3,
-   "checks": {},
-   "promoted": false,
+   "checks": {
+    "24": 583
+   },
+   "promoted": true,
    "miss": 0,
    "added": 1790709153
   },
@@ -1235,6 +1226,14 @@
    [
     1790750533,
     436
+   ],
+   [
+    1790795899,
+    94
+   ],
+   [
+    1790795899,
+    583
    ]
   ]
  },
@@ -1358,6 +1357,11 @@
    1790750533,
    "7510569280342581250",
    436
+  ],
+  [
+   1790795899,
+   "7510756601427824642",
+   583
   ]
  ],
  "seeded": true
