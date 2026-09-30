@@ -1,26 +1,17 @@
 {
  "watch": {
-  "2105376282485895296": {
-   "created": 1790795796,
-   "author": "DanzoDirect",
-   "followers": 2575,
-   "url": "https://x.com/DanzoDirect/status/2105376282485895296",
-   "disc_score": 0,
-   "checks": {},
-   "promoted": false,
+  "2105418598097523105": {
+   "created": 1790805885,
+   "author": "brezshares",
+   "followers": 3525,
+   "url": "https://x.com/brezshares/status/2105418598097523105",
+   "disc_score": 81,
+   "checks": {
+    "1": 83
+   },
+   "promoted": true,
    "miss": 0,
-   "added": 1790798505
-  },
-  "2105375896064430418": {
-   "created": 1790795704,
-   "author": "N30_cryptoo",
-   "followers": 1438,
-   "url": "https://x.com/N30_cryptoo/status/2105375896064430418",
-   "disc_score": 2,
-   "checks": {},
-   "promoted": false,
-   "miss": 0,
-   "added": 1790798505
+   "added": 1790812287
   }
  },
  "baseline": {
@@ -1296,6 +1287,10 @@
    [
     1790709089,
     6
+   ],
+   [
+    1790812288,
+    83
    ]
   ]
  },
@@ -1364,6 +1359,11 @@
    1790408631,
    "2103719138145497589",
    41
+  ],
+  [
+   1790812288,
+   "2105418598097523105",
+   83
   ]
  ],
  "seeded": true
