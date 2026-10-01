@@ -1,58 +1,5 @@
 {
- "watch": {
-  "2105481410006176064": {
-   "created": 1790820860,
-   "author": "zhyncs42",
-   "followers": 3892,
-   "url": "https://x.com/zhyncs42/status/2105481410006176064",
-   "disc_score": 28,
-   "checks": {
-    "1": 32
-   },
-   "promoted": true,
-   "miss": 0,
-   "added": 1790829602
-  },
-  "2105478192228434002": {
-   "created": 1790820093,
-   "author": "cupseycode",
-   "followers": 72,
-   "url": "https://x.com/cupseycode/status/2105478192228434002",
-   "disc_score": 0,
-   "checks": {
-    "1": null
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1790829602
-  },
-  "2105478085768520168": {
-   "created": 1790820068,
-   "author": "theEvanLee",
-   "followers": 910,
-   "url": "https://x.com/theEvanLee/status/2105478085768520168",
-   "disc_score": 0,
-   "checks": {
-    "1": null
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1790829602
-  },
-  "2105489272727892024": {
-   "created": 1790822735,
-   "author": "5xInvestor",
-   "followers": 22,
-   "url": "https://x.com/5xInvestor/status/2105489272727892024",
-   "disc_score": 4,
-   "checks": {
-    "1": 4
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1790829602
-  }
- },
+ "watch": {},
  "baseline": {
   "1": [
    [
