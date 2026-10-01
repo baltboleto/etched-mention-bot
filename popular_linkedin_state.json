@@ -6,7 +6,9 @@
    "url": "https://www.linkedin.com/posts/maxsapo_project-suncatcher-activity-7511192168112336896-IhN2",
    "text": "Happy to announce that a few months ago, I returned to Google to lead product efforts optimizing our state-of-the-art TPU infrastructure\u2014built to power the next generation of frontier AI (both on Earth and in space).\n\nWhen I joined Google in 2019, I focused on our 0\u21921 commercial & product Cloud TPU strategy. During my time away at Etched and co-founding Happyverse (where I continue to serve as Chairman of the Board), the TPU team achieved an incredible 1\u219210 leap.\n\nNow we\u2019re entering the 10\u2192100+ phase of scale and performance, and I couldn\u2019t be more excited for what lies ahead for our team and the ecosystem.\nGo #TPU \ud83d\ude80",
    "disc_score": 7,
-   "checks": {},
+   "checks": {
+    "24": 33
+   },
    "promoted": false,
    "miss": 0,
    "added": 1790812068
@@ -65,6 +67,17 @@
    "promoted": false,
    "miss": 0,
    "added": 1790891893
+  },
+  "7511554896702136320": {
+   "created": 1790894245,
+   "author": "Augustin Sayer",
+   "url": "https://www.linkedin.com/posts/gussayer_climatetech-aiinfrastructure-deeptech-activity-7511554896702136320-taEs",
+   "text": "In this week's Fault Lines Podcast, I received Matt Logan, GP and co-founder of Earthshot Ventures. These guys coined the term \"clean intelligence stack\" and this is their investment thesis. From critical mineras, to clean energy and efficient compute, their goal is to scale AI without derailing climate goals.\n\nAnd the track record speaks for itself. Investors in startups/scaleups such as Etched and KoBold Metals among many others!\n\nLink in comment!\n\n#climatetech #AIinfrastructure #deeptech",
+   "disc_score": 2,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1790896280
   }
  },
  "baseline": {
@@ -1260,6 +1273,10 @@
    [
     1790812068,
     71
+   ],
+   [
+    1790896280,
+    33
    ]
   ]
  },
