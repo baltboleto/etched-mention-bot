@@ -1,31 +1,5 @@
 {
  "watch": {
-  "7510818087437295616": {
-   "created": 1790718576,
-   "author": "Daniil Sergeev",
-   "url": "https://www.linkedin.com/posts/daniil-sergeev_branding-and-web-design-for-dvc-a-fund-that-activity-7510818087437295616-u-_H",
-   "text": "Branding and web design for DVC, a fund that brings together 190+ investors and has backed 120 AI startups, including Perplexity AI, Etched, and Thinking Machines Lab. Made by daniilsergeev.com\n\nTypeface\nStabil Grotesk by Kometa",
-   "disc_score": 5,
-   "checks": {
-    "24": 135
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1790722793
-  },
-  "7510838001392869376": {
-   "created": 1790723324,
-   "author": "Daniel Zanoello",
-   "url": "https://www.linkedin.com/posts/danielzanoello_english-version-in-the-comments-comecei-activity-7510838001392869376-MhwE",
-   "text": "[English version in the comments]\n\nComecei o MBA em Stanford h\u00e1 uma semana. Estas s\u00e3o algumas das coisas mais interessantes que ouvi at\u00e9 agora: \n\n1. Gavin Uberti (cofundador e CEO da Etched, fundada h\u00e1 4 anos e avaliada a USD 21B) sobre o produto deles de chips para infer\u00eancia: a vantagem n\u00e3o est\u00e1 na arquitetura, est\u00e1 na tens\u00e3o el\u00e9trica. Pot\u00eancia din\u00e2mica cresce com o quadrado da voltagem: eles rodam a metade da tens\u00e3o dos concorrentes e ganham ~4x de efici\u00eancia energ\u00e9tica. Para isso, tiveram que recaracterizar na m\u00e3o as c\u00e9lulas-padr\u00e3o da TSMC, que a biblioteca oficial diz n\u00e3o funcionarem abaixo de 0.6V\n\n2. Gavin Uberti sobre bastidores: a TSMC exige USD 30M para come\u00e7ar a produzir e a Etche",
-   "disc_score": 37,
-   "checks": {
-    "24": 71
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1790750528
-  },
   "7511192168112336896": {
    "created": 1790807764,
    "author": "Max Sapo",
@@ -47,6 +21,17 @@
    "promoted": false,
    "miss": 0,
    "added": 1790829678
+  },
+  "7511282087824347136": {
+   "created": 1790829202,
+   "author": "Mohsin Nazir",
+   "url": "https://www.linkedin.com/posts/mohsin-nazir-designer_day-230-gavin-uberti-for-day-2-i-redesigned-activity-7511282087824347136-iIwg",
+   "text": "Day 2/30 \u2014 Gavin Uberti\n\nFor Day 2, I redesigned the LinkedIn profile of Gavin Uberti, CEO and Co-Founder of Etched.\n\nHis profile is interesting because the credibility is already there.\n\nCEO amp; Co-Founder @ Etched.\n\nHarvard.\n\n14K+ followers.\n\nA company building hardware for superintelligence.\nA strong track record across AI and engineering.\n\nAnd his content makes it clear that he\u2019s deeply involved in what he\u2019s building.\n\nBut that raised a different question for me:\n\nDoes his profile communicate all of that quickly enough?\n\nHis original headline is simply:\n\nCEO and Co-Founder @ Etched\n\nIt\u2019s clean.\n\nBut it leaves a lot of context on the table.\n\nSomeone landing on his profile should quickly ",
+   "disc_score": 20,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1790853274
   }
  },
  "baseline": {
