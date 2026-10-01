@@ -1,17 +1,30 @@
 {
  "watch": {
-  "2105695953089126436": {
-   "created": 1790872011,
-   "author": "KyleReidhead",
-   "followers": 21477,
-   "url": "https://x.com/KyleReidhead/status/2105695953089126436",
-   "disc_score": 39,
+  "2105746695204340057": {
+   "created": 1790884109,
+   "author": "NewcomerMedia",
+   "followers": 921,
+   "url": "https://x.com/NewcomerMedia/status/2105746695204340057",
+   "disc_score": 16,
    "checks": {
-    "1": 39
+    "1": 16
    },
-   "promoted": true,
+   "promoted": false,
    "miss": 0,
-   "added": 1790875518
+   "added": 1790891827
+  },
+  "2105745029902074205": {
+   "created": 1790883712,
+   "author": "maddierenbarger",
+   "followers": 4133,
+   "url": "https://x.com/maddierenbarger/status/2105745029902074205",
+   "disc_score": 4,
+   "checks": {
+    "1": 4
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1790891827
   }
  },
  "baseline": {
@@ -1303,6 +1316,14 @@
    [
     1790875518,
     39
+   ],
+   [
+    1790891828,
+    16
+   ],
+   [
+    1790891828,
+    4
    ]
   ]
  },
