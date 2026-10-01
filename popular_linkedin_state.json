@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7510740080072867840": {
-   "created": 1790699977,
-   "author": "Justin Kinsey",
-   "url": "https://www.linkedin.com/posts/justinkinseysbt_aiinfrasummit-semiconductorindustry-artificialintelligence-activity-7510740080072867840-s8GL",
-   "text": "The #AIInfraSummit keeps delivering insights even weeks after wrapping up. Watching the session recordings and poring over our panel discussions, a few gems stood out especially when I reflected on our Investor Panel.\n\nThe past few years in AI have been a gold rush. Investment rounds have swelled to such highs that it feels like were getting used to seeing B after the numbers. But with every investment, there's a team ensuring responsible capital allocation. That requires an extraordinary level of discernment, especially in semiconductors and deep tech.\n\nThis is why I invited Srini Ananth (Intel Capital), Josh Miner, (Maverick Silicon) and Siddharth Gupta (Samsung Ventures). These three expe",
-   "disc_score": 37,
-   "checks": {
-    "24": 94
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1790709153
-  },
   "7510756601427824642": {
    "created": 1790703916,
    "author": "Aarav Wattal",
@@ -62,6 +49,17 @@
    "promoted": false,
    "miss": 0,
    "added": 1790812068
+  },
+  "7511225508982964224": {
+   "created": 1790815713,
+   "author": "Yaamini J.",
+   "url": "https://www.linkedin.com/posts/yjois_im-very-excited-to-share-that-ill-be-joining-activity-7511225508982964224-agM8",
+   "text": "I'm very excited to share that I'll be joining Etched this January as a Thermal Engineering Intern in San Jose! \n\nThank you to the recruitment and thermal team, and I look forward to eating LN2 ice cream in Santana Row soon.\u26a1",
+   "disc_score": 85,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1790829678
   }
  },
  "baseline": {
