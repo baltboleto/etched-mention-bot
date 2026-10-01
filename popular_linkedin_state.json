@@ -32,6 +32,28 @@
    "promoted": false,
    "miss": 0,
    "added": 1790853274
+  },
+  "7511409723405926401": {
+   "created": 1790859633,
+   "author": "Tim Carden",
+   "url": "https://www.linkedin.com/posts/timjcarden_ai-chip-startups-raised-15b-to-take-on-activity-7511409723405926401-XwuW",
+   "text": "AI chip startups raised $15B+ to take on Nvidia. Only 3 of the 13 disclose revenue.\nTogether they earn less in a year than Nvidia makes in a week.\nHere's 13 AI chip startups, money raised vs real revenue:\n\n1. Cerebras. $2.85B raised pre-IPO. $720M run rate, Q2 2026 GAAP times 4.\n2. Groq. $2.7B+ raised. Not disclosed. Licensed its tech to Nvidia for ~$20B.\n3. SambaNova. ~$2.5B raised. Not disclosed. $11B valuation in July.\n4. Etched. ~$1.9B raised. Not disclosed. $21B valuation, first rack shipped in July.\n5. Tenstorrent. $1B+ raised. Not disclosed. $2.6B valuation.\n6. Lightmatter. $850M raised. Not disclosed. $4.4B valuation.\n7. Rebellions. $850M raised. ~$22M revenue, 2025 audited. IPO plan",
+   "disc_score": 5,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1790875644
+  },
+  "7511425250149154816": {
+   "created": 1790863335,
+   "author": "Smitha K.",
+   "url": "https://www.linkedin.com/posts/activity-7511425250149154816-jQx7",
+   "text": "A proud mom moment! \u2764\ufe0f From a summer internship at NVIDIA to ETCHED (an AI chip startup) as a thermal engineer, keeping chips cool while your career heats up! \ud83d\ude09 So proud of your hard work and the sincerity and dedication you bring to everything you do, Yaamini J.. A busy few months lie ahead with your internship and final semester, and I\u2019ll be cheering you on through it all. Excited to see you learn, grow, and accomplish new things and can\u2019t wait to see you graduate!\ud83d\udc69\u200d\ud83c\udf93 Go Bears! \ud83d\udc99\ud83d\udc9b",
+   "disc_score": 8,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1790875644
   }
  },
  "baseline": {
