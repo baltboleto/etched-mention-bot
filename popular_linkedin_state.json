@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7510756601427824642": {
-   "created": 1790703916,
-   "author": "Aarav Wattal",
-   "url": "https://www.linkedin.com/posts/aarav-wattal_excited-to-share-that-after-wrapping-up-my-activity-7510756601427824642-Ea1Y",
-   "text": "Excited to share that after wrapping up my internship at NVIDIA, I\u2019m joining Etched as a Member of Technical Staff (ASIC) to help build the future of AI inference systems.\n\nThis summer at NVIDIA, I worked on design verification for high-bandwidth chip-to-chip interconnects for next-generation GPU systems. Huge thanks to my manager Deepaksrivats Thirumalai, mentor Ajeeth V, and everyone across the C2C team who I had the privilege of learning from and working alongside.\n\nI\u2019m incredibly grateful for everything I learned, and even more excited to keep pushing the frontier of AI hardware at Etched.",
-   "disc_score": 3,
-   "checks": {
-    "24": 583
-   },
-   "promoted": true,
-   "miss": 0,
-   "added": 1790709153
-  },
   "7510818087437295616": {
    "created": 1790718576,
    "author": "Daniil Sergeev",
