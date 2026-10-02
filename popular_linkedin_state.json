@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7511282087824347136": {
-   "created": 1790829202,
-   "author": "Mohsin Nazir",
-   "url": "https://www.linkedin.com/posts/mohsin-nazir-designer_day-230-gavin-uberti-for-day-2-i-redesigned-activity-7511282087824347136-iIwg",
-   "text": "Day 2/30 \u2014 Gavin Uberti\n\nFor Day 2, I redesigned the LinkedIn profile of Gavin Uberti, CEO and Co-Founder of Etched.\n\nHis profile is interesting because the credibility is already there.\n\nCEO amp; Co-Founder @ Etched.\n\nHarvard.\n\n14K+ followers.\n\nA company building hardware for superintelligence.\nA strong track record across AI and engineering.\n\nAnd his content makes it clear that he\u2019s deeply involved in what he\u2019s building.\n\nBut that raised a different question for me:\n\nDoes his profile communicate all of that quickly enough?\n\nHis original headline is simply:\n\nCEO and Co-Founder @ Etched\n\nIt\u2019s clean.\n\nBut it leaves a lot of context on the table.\n\nSomeone landing on his profile should quickly ",
-   "disc_score": 20,
-   "checks": {
-    "24": 24
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1790853274
-  },
   "7511409723405926401": {
    "created": 1790859633,
    "author": "Tim Carden",
@@ -47,7 +34,7 @@
    "disc_score": 7,
    "checks": {},
    "promoted": false,
-   "miss": 0,
+   "miss": 1,
    "added": 1790891893
   },
   "7511554896702136320": {
