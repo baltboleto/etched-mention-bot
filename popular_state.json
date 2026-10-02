@@ -1,30 +1,17 @@
 {
  "watch": {
-  "2105746695204340057": {
-   "created": 1790884109,
-   "author": "NewcomerMedia",
-   "followers": 921,
-   "url": "https://x.com/NewcomerMedia/status/2105746695204340057",
-   "disc_score": 16,
-   "checks": {
-    "1": 16
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1790891827
-  },
-  "2105745029902074205": {
-   "created": 1790883712,
-   "author": "maddierenbarger",
-   "followers": 4133,
-   "url": "https://x.com/maddierenbarger/status/2105745029902074205",
+  "2105808253364080734": {
+   "created": 1790898786,
+   "author": "KreiserMatt",
+   "followers": 1750,
+   "url": "https://x.com/KreiserMatt/status/2105808253364080734",
    "disc_score": 4,
    "checks": {
     "1": 4
    },
    "promoted": false,
    "miss": 0,
-   "added": 1790891827
+   "added": 1790904296
   }
  },
  "baseline": {
@@ -1323,6 +1310,10 @@
    ],
    [
     1790891828,
+    4
+   ],
+   [
+    1790904296,
     4
    ]
   ]
