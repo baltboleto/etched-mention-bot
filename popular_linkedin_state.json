@@ -19,8 +19,10 @@
    "url": "https://www.linkedin.com/posts/yjois_im-very-excited-to-share-that-ill-be-joining-activity-7511225508982964224-agM8",
    "text": "I'm very excited to share that I'll be joining Etched this January as a Thermal Engineering Intern in San Jose! \n\nThank you to the recruitment and thermal team, and I look forward to eating LN2 ice cream in Santana Row soon.\u26a1",
    "disc_score": 85,
-   "checks": {},
-   "promoted": false,
+   "checks": {
+    "24": 177
+   },
+   "promoted": true,
    "miss": 0,
    "added": 1790829678
   },
@@ -1277,6 +1279,10 @@
    [
     1790896280,
     33
+   ],
+   [
+    1790904339,
+    177
    ]
   ]
  },
@@ -1405,6 +1411,11 @@
    1790795899,
    "7510756601427824642",
    583
+  ],
+  [
+   1790904339,
+   "7511225508982964224",
+   177
   ]
  ],
  "seeded": true
