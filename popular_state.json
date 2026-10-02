@@ -1,15 +1,30 @@
 {
  "watch": {
-  "2105918010657529998": {
-   "created": 1790924954,
-   "author": "TMS_IEEE",
-   "followers": 382,
-   "url": "https://x.com/TMS_IEEE/status/2105918010657529998",
-   "disc_score": 0,
-   "checks": {},
+  "2106004336404767094": {
+   "created": 1790945536,
+   "author": "arnaudmercier",
+   "followers": 40387,
+   "url": "https://x.com/arnaudmercier/status/2106004336404767094",
+   "disc_score": 2,
+   "checks": {
+    "1": 2
+   },
    "promoted": false,
    "miss": 0,
-   "added": 1790925777
+   "added": 1790949786
+  },
+  "2105991187765051417": {
+   "created": 1790942401,
+   "author": "pearl_cn",
+   "followers": 1070,
+   "url": "https://x.com/pearl_cn/status/2105991187765051417",
+   "disc_score": 5,
+   "checks": {
+    "1": 5
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1790949786
   }
  },
  "baseline": {
@@ -1313,6 +1328,14 @@
    [
     1790904296,
     4
+   ],
+   [
+    1790949788,
+    2
+   ],
+   [
+    1790949788,
+    5
    ]
   ]
  },
