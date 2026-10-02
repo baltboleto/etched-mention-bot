@@ -1,31 +1,5 @@
 {
  "watch": {
-  "7511192168112336896": {
-   "created": 1790807764,
-   "author": "Max Sapo",
-   "url": "https://www.linkedin.com/posts/maxsapo_project-suncatcher-activity-7511192168112336896-IhN2",
-   "text": "Happy to announce that a few months ago, I returned to Google to lead product efforts optimizing our state-of-the-art TPU infrastructure\u2014built to power the next generation of frontier AI (both on Earth and in space).\n\nWhen I joined Google in 2019, I focused on our 0\u21921 commercial & product Cloud TPU strategy. During my time away at Etched and co-founding Happyverse (where I continue to serve as Chairman of the Board), the TPU team achieved an incredible 1\u219210 leap.\n\nNow we\u2019re entering the 10\u2192100+ phase of scale and performance, and I couldn\u2019t be more excited for what lies ahead for our team and the ecosystem.\nGo #TPU \ud83d\ude80",
-   "disc_score": 7,
-   "checks": {
-    "24": 33
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1790812068
-  },
-  "7511225508982964224": {
-   "created": 1790815713,
-   "author": "Yaamini J.",
-   "url": "https://www.linkedin.com/posts/yjois_im-very-excited-to-share-that-ill-be-joining-activity-7511225508982964224-agM8",
-   "text": "I'm very excited to share that I'll be joining Etched this January as a Thermal Engineering Intern in San Jose! \n\nThank you to the recruitment and thermal team, and I look forward to eating LN2 ice cream in Santana Row soon.\u26a1",
-   "disc_score": 85,
-   "checks": {
-    "24": 177
-   },
-   "promoted": true,
-   "miss": 0,
-   "added": 1790829678
-  },
   "7511282087824347136": {
    "created": 1790829202,
    "author": "Mohsin Nazir",
@@ -45,7 +19,9 @@
    "url": "https://www.linkedin.com/posts/timjcarden_ai-chip-startups-raised-15b-to-take-on-activity-7511409723405926401-XwuW",
    "text": "AI chip startups raised $15B+ to take on Nvidia. Only 3 of the 13 disclose revenue.\nTogether they earn less in a year than Nvidia makes in a week.\nHere's 13 AI chip startups, money raised vs real revenue:\n\n1. Cerebras. $2.85B raised pre-IPO. $720M run rate, Q2 2026 GAAP times 4.\n2. Groq. $2.7B+ raised. Not disclosed. Licensed its tech to Nvidia for ~$20B.\n3. SambaNova. ~$2.5B raised. Not disclosed. $11B valuation in July.\n4. Etched. ~$1.9B raised. Not disclosed. $21B valuation, first rack shipped in July.\n5. Tenstorrent. $1B+ raised. Not disclosed. $2.6B valuation.\n6. Lightmatter. $850M raised. Not disclosed. $4.4B valuation.\n7. Rebellions. $850M raised. ~$22M revenue, 2025 audited. IPO plan",
    "disc_score": 5,
-   "checks": {},
+   "checks": {
+    "24": 48
+   },
    "promoted": false,
    "miss": 0,
    "added": 1790875644
@@ -56,7 +32,9 @@
    "url": "https://www.linkedin.com/posts/activity-7511425250149154816-jQx7",
    "text": "A proud mom moment! \u2764\ufe0f From a summer internship at NVIDIA to ETCHED (an AI chip startup) as a thermal engineer, keeping chips cool while your career heats up! \ud83d\ude09 So proud of your hard work and the sincerity and dedication you bring to everything you do, Yaamini J.. A busy few months lie ahead with your internship and final semester, and I\u2019ll be cheering you on through it all. Excited to see you learn, grow, and accomplish new things and can\u2019t wait to see you graduate!\ud83d\udc69\u200d\ud83c\udf93 Go Bears! \ud83d\udc99\ud83d\udc9b",
    "disc_score": 8,
-   "checks": {},
+   "checks": {
+    "24": 17
+   },
    "promoted": false,
    "miss": 0,
    "added": 1790875644
@@ -104,6 +82,28 @@
    "promoted": false,
    "miss": 0,
    "added": 1790925854
+  },
+  "7511720206767915008": {
+   "created": 1790933658,
+   "author": "Seconda Private Markets",
+   "url": "https://www.linkedin.com/posts/secondapm_if-you-are-an-early-employee-of-these-activity-7511720206767915008-lsoo",
+   "text": "\ud83d\udea8 If you are an early employee of these private companies, your stock options are worth millions but have you locked in your gains?\n\nHere are some of the hottest companies and their earliest reported valuation vs. latest \u26a1\n\nEtched \ud83c\uddfa\ud83c\uddf8\u00a0$34M \u2192 $21B\u00a0|\u00a0+61,665%\u00a0|\u00a03.5 yrs\nLightmatter \ud83c\uddfa\ud83c\uddf8\u00a0$32M \u2192 $4.4B\u00a0|\u00a0+13,776%\u00a0|\u00a06.7 yrs\nCognition \ud83c\uddfa\ud83c\uddf8\u00a0$350M \u2192 $48B\u00a0|\u00a0+13,614%\u00a0|\u00a02.5 yrs\nMistral \ud83c\uddeb\ud83c\uddf7\u00a0\u20ac240M \u2192 \u20ac21B+\u00a0|\u00a0+8,650%\u00a0|\u00a03.3 yrs\nHelsing \ud83c\udde9\ud83c\uddea\u00a0~$460M \u2192 $18B\u00a0|\u00a0+3,800%\u00a0|\u00a04.7 yrs\nCrusoe \ud83c\uddfa\ud83c\uddf8\u00a0$1.75B \u2192 $30.9B\u00a0|\u00a0+1,666%\u00a0|\u00a04.4 yrs\nSierra \ud83c\uddfa\ud83c\uddf8\u00a0~$1B \u2192 $15.8B\u00a0|\u00a0+1,480%\u00a0|\u00a02.3 yrs\nPhysical Intelligence \ud83c\uddfa\ud83c\uddf8\u00a0$400M \u2192 $5.6B\u00a0|\u00a0+1,300%\u00a0|\u00a01.7 yrs\nSkild AI \ud83c\uddfa\ud83c\uddf8\u00a0$1.5B \u2192 $14B\u00a0|\u00a0+833%\u00a0|\u00a01.5 yrs\nSaronic Technologies \ud83c\uddfa\ud83c\uddf8\u00a0$1B \u2192 $9.25B\u00a0|\u00a0+825%\u00a0|\u00a01.7 yrs\n",
+   "disc_score": 13,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1790949860
+  },
+  "7511760819915902976": {
+   "created": 1790943341,
+   "author": "Multiples",
+   "url": "https://www.linkedin.com/posts/multiples-vc_ai-has-absorbed-roughly-60-of-all-vc-dollars-activity-7511760819915902976-tAY9",
+   "text": "AI has absorbed roughly 60% of all VC dollars, and while everyone is waiting for Anthropic and OpenAI IPOs, here are the largest (still) privately owned AI companies:\n\nSource: Multiples, data as of 29 Sept 2026.\n\n1. Anthropic \u2014 $965B valuation, 20.5x revenue \u2014 US AI safety lab behind the Claude models, sold largely to enterprises via API.\n2. OpenAI \u2014 $852B valuation, 34.1x revenue \u2014 maker of ChatGPT and the GPT model family, with consumer subscriptions and a developer platform.\n3. Databricks \u2014 $190B valuation, 27.1x revenue \u2014 data and AI platform used by enterprises to store, process and build models on their own data.\n4. DeepSeek \u2014 $50B valuation \u2014 Chinese lab known for open-weight reasonin",
+   "disc_score": 18,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1790949860
   }
  },
  "baseline": {
@@ -1311,6 +1311,14 @@
    [
     1790925855,
     24
+   ],
+   [
+    1790949860,
+    48
+   ],
+   [
+    1790949860,
+    17
    ]
   ]
  },
