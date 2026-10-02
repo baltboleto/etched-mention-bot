@@ -32,7 +32,9 @@
    "url": "https://www.linkedin.com/posts/mohsin-nazir-designer_day-230-gavin-uberti-for-day-2-i-redesigned-activity-7511282087824347136-iIwg",
    "text": "Day 2/30 \u2014 Gavin Uberti\n\nFor Day 2, I redesigned the LinkedIn profile of Gavin Uberti, CEO and Co-Founder of Etched.\n\nHis profile is interesting because the credibility is already there.\n\nCEO amp; Co-Founder @ Etched.\n\nHarvard.\n\n14K+ followers.\n\nA company building hardware for superintelligence.\nA strong track record across AI and engineering.\n\nAnd his content makes it clear that he\u2019s deeply involved in what he\u2019s building.\n\nBut that raised a different question for me:\n\nDoes his profile communicate all of that quickly enough?\n\nHis original headline is simply:\n\nCEO and Co-Founder @ Etched\n\nIt\u2019s clean.\n\nBut it leaves a lot of context on the table.\n\nSomeone landing on his profile should quickly ",
    "disc_score": 20,
-   "checks": {},
+   "checks": {
+    "24": 24
+   },
    "promoted": false,
    "miss": 0,
    "added": 1790853274
@@ -80,6 +82,28 @@
    "promoted": false,
    "miss": 0,
    "added": 1790896280
+  },
+  "7511621065484222464": {
+   "created": 1790910021,
+   "author": "Ambar Laad",
+   "url": "https://www.linkedin.com/posts/ambar-laad_the-ai-infrastructure-conversation-for-the-activity-7511621065484222464-JpFQ",
+   "text": "The AI infrastructure conversation for the last two years has been about one thing: training. Nvidia GPUs, H100 clusters, data centres the size of small cities. Look at where the money actually went in Q3 2026. \n\nInference-focused chip startups pulled 67% of all disclosed AI chip funding. $3.62B across eight deals. Etched, which builds chips hardwired exclusively to run AI models at inference time, took $700M alone.\n\nThe capital doesn't agree with the narrative.\n\nTraining gets the headlines because it's where the biggest numbers live. But training a model happens once. Serving it happens billions of times, forever, at a cost structure that determines whether the whole business is profitable.",
+   "disc_score": 8,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1790925854
+  },
+  "7511632555088101376": {
+   "created": 1790912760,
+   "author": "Li Liu",
+   "url": "https://www.linkedin.com/posts/li-liu-7ab700236_anthropic-is-going-public-at-a-2-trillion-activity-7511632555088101376-zFCx",
+   "text": "anthropic is going public at a $2 trillion valuation. let that sit for a second\n\nThey're reportedly seeking $100B+ in IPO proceeds alone.\n\nNvidia just locked in a $7B licensing deal with Poolside, valuing the AI lab at $12B.\n\nPhysical AI funding hit $47.4B across 521 deals in just the first half of 2026.\n\nXPENG Robotics raised a $900M+ Series A at a $6.3B post-money valuation.\n\nEtched, the custom AI chip company, doubled its valuation to $21B.\n\nAlibaba raised $10.2B in a Hong Kong share placement to fund its AI infrastructure.\n\nLambda is seeking a $3B pre-IPO round and Groq raised $350M for its neocloud.\n\nGas-turbine backlogs are projected to stretch to 2031 because AI data centers are eatin",
+   "disc_score": 1,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1790925854
   }
  },
  "baseline": {
@@ -1283,6 +1307,10 @@
    [
     1790904339,
     177
+   ],
+   [
+    1790925855,
+    24
    ]
   ]
  },
