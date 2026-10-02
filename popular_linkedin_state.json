@@ -26,24 +26,15 @@
    "miss": 0,
    "added": 1790875644
   },
-  "7511498261946552320": {
-   "created": 1790880742,
-   "author": "Robert Lee-Green",
-   "url": "https://www.linkedin.com/posts/robert-lee-green-3013a349_thank-you-to-our-2026-partners-ideas-activity-7511498261946552320-xRe6",
-   "text": "Proud to see Etched Tech amongst such a strong group of partners supporting Ideas Fest 2026.\n\nA huge thank you to the Ideas Fest team for bringing together such an ambitious community of founders, investors, entrepreneurs and innovators and for giving us the opportunity to be part of it.\n\nTo see Etched alongside names including TikTok, Goldman Sachs, Xero, Innovate UK Business Connect and UBS is a great milestone for us and a reflection of the company we\u2019re building. \n\nNot to mention having CMS UK and CMS equIP for Start-ups partner with us at the event. \n\nWe had some brilliant conversations throughout the event around the value of an idea, innovation and the importance of being able to evid",
-   "disc_score": 7,
-   "checks": {},
-   "promoted": false,
-   "miss": 2,
-   "added": 1790891893
-  },
   "7511554896702136320": {
    "created": 1790894245,
    "author": "Augustin Sayer",
    "url": "https://www.linkedin.com/posts/gussayer_climatetech-aiinfrastructure-deeptech-activity-7511554896702136320-taEs",
    "text": "In this week's Fault Lines Podcast, I received Matt Logan, GP and co-founder of Earthshot Ventures. These guys coined the term \"clean intelligence stack\" and this is their investment thesis. From critical mineras, to clean energy and efficient compute, their goal is to scale AI without derailing climate goals.\n\nAnd the track record speaks for itself. Investors in startups/scaleups such as Etched and KoBold Metals among many others!\n\nLink in comment!\n\n#climatetech #AIinfrastructure #deeptech",
    "disc_score": 2,
-   "checks": {},
+   "checks": {
+    "24": 6
+   },
    "promoted": false,
    "miss": 0,
    "added": 1790896280
@@ -1339,6 +1330,10 @@
    [
     1790949860,
     17
+   ],
+   [
+    1790982672,
+    6
    ]
   ]
  },
