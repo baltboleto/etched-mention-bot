@@ -1,30 +1,30 @@
 {
  "watch": {
-  "2106004336404767094": {
-   "created": 1790945536,
-   "author": "arnaudmercier",
-   "followers": 40387,
-   "url": "https://x.com/arnaudmercier/status/2106004336404767094",
-   "disc_score": 2,
+  "2106079337279877257": {
+   "created": 1790963417,
+   "author": "DevanshuXi",
+   "followers": 5295,
+   "url": "https://x.com/DevanshuXi/status/2106079337279877257",
+   "disc_score": 0,
    "checks": {
-    "1": 2
+    "1": 0
    },
    "promoted": false,
    "miss": 0,
-   "added": 1790949786
+   "added": 1790968851
   },
-  "2105991187765051417": {
-   "created": 1790942401,
-   "author": "pearl_cn",
-   "followers": 1070,
-   "url": "https://x.com/pearl_cn/status/2105991187765051417",
-   "disc_score": 5,
+  "2106057820084871273": {
+   "created": 1790958287,
+   "author": "KenWattana",
+   "followers": 8482,
+   "url": "https://x.com/KenWattana/status/2106057820084871273",
+   "disc_score": 0,
    "checks": {
-    "1": 5
+    "1": null
    },
    "promoted": false,
    "miss": 0,
-   "added": 1790949786
+   "added": 1790968851
   }
  },
  "baseline": {
@@ -1336,6 +1336,10 @@
    [
     1790949788,
     5
+   ],
+   [
+    1790968853,
+    0
    ]
   ]
  },
