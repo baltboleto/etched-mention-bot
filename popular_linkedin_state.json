@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7511425250149154816": {
-   "created": 1790863335,
-   "author": "Smitha K.",
-   "url": "https://www.linkedin.com/posts/activity-7511425250149154816-jQx7",
-   "text": "A proud mom moment! \u2764\ufe0f From a summer internship at NVIDIA to ETCHED (an AI chip startup) as a thermal engineer, keeping chips cool while your career heats up! \ud83d\ude09 So proud of your hard work and the sincerity and dedication you bring to everything you do, Yaamini J.. A busy few months lie ahead with your internship and final semester, and I\u2019ll be cheering you on through it all. Excited to see you learn, grow, and accomplish new things and can\u2019t wait to see you graduate!\ud83d\udc69\u200d\ud83c\udf93 Go Bears! \ud83d\udc99\ud83d\udc9b",
-   "disc_score": 8,
-   "checks": {
-    "24": 17
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1790875644
-  },
   "7511554896702136320": {
    "created": 1790894245,
    "author": "Augustin Sayer",
@@ -32,7 +19,9 @@
    "url": "https://www.linkedin.com/posts/ambar-laad_the-ai-infrastructure-conversation-for-the-activity-7511621065484222464-JpFQ",
    "text": "The AI infrastructure conversation for the last two years has been about one thing: training. Nvidia GPUs, H100 clusters, data centres the size of small cities. Look at where the money actually went in Q3 2026. \n\nInference-focused chip startups pulled 67% of all disclosed AI chip funding. $3.62B across eight deals. Etched, which builds chips hardwired exclusively to run AI models at inference time, took $700M alone.\n\nThe capital doesn't agree with the narrative.\n\nTraining gets the headlines because it's where the biggest numbers live. But training a model happens once. Serving it happens billions of times, forever, at a cost structure that determines whether the whole business is profitable.",
    "disc_score": 8,
-   "checks": {},
+   "checks": {
+    "24": 14
+   },
    "promoted": false,
    "miss": 0,
    "added": 1790925854
@@ -43,7 +32,9 @@
    "url": "https://www.linkedin.com/posts/li-liu-7ab700236_anthropic-is-going-public-at-a-2-trillion-activity-7511632555088101376-zFCx",
    "text": "anthropic is going public at a $2 trillion valuation. let that sit for a second\n\nThey're reportedly seeking $100B+ in IPO proceeds alone.\n\nNvidia just locked in a $7B licensing deal with Poolside, valuing the AI lab at $12B.\n\nPhysical AI funding hit $47.4B across 521 deals in just the first half of 2026.\n\nXPENG Robotics raised a $900M+ Series A at a $6.3B post-money valuation.\n\nEtched, the custom AI chip company, doubled its valuation to $21B.\n\nAlibaba raised $10.2B in a Hong Kong share placement to fund its AI infrastructure.\n\nLambda is seeking a $3B pre-IPO round and Groq raised $350M for its neocloud.\n\nGas-turbine backlogs are projected to stretch to 2031 because AI data centers are eatin",
    "disc_score": 1,
-   "checks": {},
+   "checks": {
+    "24": 1
+   },
    "promoted": false,
    "miss": 0,
    "added": 1790925854
@@ -113,6 +104,61 @@
    "promoted": false,
    "miss": 0,
    "added": 1790989911
+  },
+  "7512023660883296256": {
+   "created": 1791006007,
+   "author": "Evergreen Technologies (USA)",
+   "url": "https://www.linkedin.com/posts/evergreen-technologies-usa-3a7422198_httpszurlcosdn4b-etched-the-21-activity-7512023660883296256-XTU2",
+   "text": "https://zurl.co/SdN4b \n\ud83d\ude80Etched: The $21 Billion Bet on Transformer-Specific Silicon\nThe provided video details the rise of Etched, a semiconductor startup that has developed a specialized chip called Sohu designed exclusively ...\nRead more at https://zurl.co/1no0p",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791009378
+  },
+  "7512023656294871040": {
+   "created": 1791006006,
+   "author": "Evergreen Technologies LLC",
+   "url": "https://www.linkedin.com/posts/evergreen-tech-llc_httpszurlcosdn4b-etched-the-21-activity-7512023656294871040-RJIn",
+   "text": "https://zurl.co/SdN4b \n\ud83d\ude80Etched: The $21 Billion Bet on Transformer-Specific Silicon\nThe provided video details the rise of Etched, a semiconductor startup that has developed a specialized chip called Sohu designed exclusively ...\nRead more at https://zurl.co/1no0p",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791009378
+  },
+  "7511981965818925056": {
+   "created": 1790996066,
+   "author": "Chetan Melkundi",
+   "url": "https://www.linkedin.com/posts/activity-7511981965818925056-wF3r",
+   "text": "\ud83d\ude80 We're hiring at Etched!\n\nI'm looking for a Physical Design expert who gets excited by the hardest problems in silicon, not the easy ones.\n\nAt Etched, we're building LVI systems, and that means pushing physical design to its limits: aggressive PPA targets, massive designs, and challenges that don't have textbook answers.\n\nYou might be a great fit if you:\n\ud83d\udd39 Have deep hands-on experience across the physical design flow (floorplanning, place & route, CTS, timing closure, sign-off)\n\ud83d\udd39 Love owning tough problems end to end\n\ud83d\udd39 Want your work to directly shape the future of AI compute\n\ud83d\udd39 Thrive on a small, fast-moving team where impact is immediate\n\nIf that sounds like you, or someone you know, let's",
+   "disc_score": 30,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791009378
+  },
+  "7511965687477657600": {
+   "created": 1790992185,
+   "author": "Deepak Gupta",
+   "url": "https://www.linkedin.com/posts/ideepakgupta_the-most-common-use-case-is-metered-knowledge-activity-7511965687477657600-EzEj",
+   "text": "\ud83d\udcb0 The most common use case is metered knowledge work.\n1\ufe0f\u20e3 A firm sends a document, a ticket, or a code repo to a model. The model returns a draft. The firm pays per token or per seat. That loop is metered knowledge work.\n2\ufe0f\u20e3 Coding is the sharpest form of that loop. Cognition AI sells an agent. The agent writes code and runs code. Anthropic sells the model under that agent. OpenAI sells the same type of model.\n3\ufe0f\u20e3 Databricks sells the data that the model reads.\n4\ufe0f\u20e3 Crusoe, Fluidstack, Nscale, Etched, and Fireworks AI sell the power and the chip that run the call.\n5\ufe0f\u20e3 Harvey sells the loop in law.\n6\ufe0f\u20e3 ElevenLabs sells it in voice.\n7\ufe0f\u20e3 Perplexity sells it in search.\n8\ufe0f\u20e3 Lovable sells it in app",
+   "disc_score": 3,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791009378
+  },
+  "7511961417558798337": {
+   "created": 1790991167,
+   "author": "Deepak Gupta",
+   "url": "https://www.linkedin.com/posts/ideepakgupta_which-of-these-looks-most-likely-to-justify-activity-7511961417558798337-amj0",
+   "text": "\ud83d\udcb0 The most common use case is metered knowledge work.\n- A firm sends a document, a ticket, or a code repo to a model. The model returns a draft. The firm pays per token or per seat. That loop is metered knowledge work.\n- #Coding is the sharpest form of that loop. Cognition AI sells an agent. The agent writes code and runs code. Anthropic sells the model under that agent. OpenAI sells the same type of model.\n- Databricks sells the data that the model reads.\n- Crusoe, Fluidstack, Nscale, Etched, and Fireworks AI sell the power and the chip that run the call. - Harvey sells the loop in law.\n- ElevenLabs sells it in voice.\n- Perplexity sells it in search.\n- Lovable sells it in app build.\n- Figur",
+   "disc_score": 1,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791009378
   }
  },
  "baseline": {
@@ -1332,6 +1378,14 @@
    [
     1790982672,
     6
+   ],
+   [
+    1791009378,
+    14
+   ],
+   [
+    1791009378,
+    1
    ]
   ]
  },
