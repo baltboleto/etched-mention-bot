@@ -1,17 +1,17 @@
 {
  "watch": {
-  "2106130837628661801": {
-   "created": 1790975696,
-   "author": "0xTykoo",
-   "followers": 8968,
-   "url": "https://x.com/0xTykoo/status/2106130837628661801",
-   "disc_score": 12,
+  "2106169739131105751": {
+   "created": 1790984971,
+   "author": "agonzalp",
+   "followers": 82,
+   "url": "https://x.com/agonzalp/status/2106169739131105751",
+   "disc_score": 0,
    "checks": {
-    "1": 12
+    "1": 0
    },
    "promoted": false,
    "miss": 0,
-   "added": 1790982639
+   "added": 1790992691
   }
  },
  "baseline": {
@@ -1331,6 +1331,10 @@
    [
     1790982641,
     12
+   ],
+   [
+    1790992693,
+    0
    ]
   ]
  },
