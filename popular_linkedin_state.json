@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7511409723405926401": {
-   "created": 1790859633,
-   "author": "Tim Carden",
-   "url": "https://www.linkedin.com/posts/timjcarden_ai-chip-startups-raised-15b-to-take-on-activity-7511409723405926401-XwuW",
-   "text": "AI chip startups raised $15B+ to take on Nvidia. Only 3 of the 13 disclose revenue.\nTogether they earn less in a year than Nvidia makes in a week.\nHere's 13 AI chip startups, money raised vs real revenue:\n\n1. Cerebras. $2.85B raised pre-IPO. $720M run rate, Q2 2026 GAAP times 4.\n2. Groq. $2.7B+ raised. Not disclosed. Licensed its tech to Nvidia for ~$20B.\n3. SambaNova. ~$2.5B raised. Not disclosed. $11B valuation in July.\n4. Etched. ~$1.9B raised. Not disclosed. $21B valuation, first rack shipped in July.\n5. Tenstorrent. $1B+ raised. Not disclosed. $2.6B valuation.\n6. Lightmatter. $850M raised. Not disclosed. $4.4B valuation.\n7. Rebellions. $850M raised. ~$22M revenue, 2025 audited. IPO plan",
-   "disc_score": 5,
-   "checks": {
-    "24": 48
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1790875644
-  },
   "7511425250149154816": {
    "created": 1790863335,
    "author": "Smitha K.",
@@ -115,6 +102,17 @@
    "promoted": false,
    "miss": 0,
    "added": 1790957795
+  },
+  "7511869242737242112": {
+   "created": 1790969191,
+   "author": "TriplePoint Capital",
+   "url": "https://www.linkedin.com/posts/triplepoint-capital_sftechweek-activity-7511869242737242112-jWTv",
+   "text": "Etched. $700M round. $21B valuation. Hear co-founder Robert W. on what it takes to build the chips behind AI, live in SF on Oct 6.\n\nJoin PitchBook and TriplePoint Capital for another panel on the infrastructure powering the next generation of AI, from chips to compute, models to memory, training to inference.\n\nFeaturing Robert Wachen, co-founder of Etched, Mohit Gupta, founder of TYLsemi, and Haomiao Huang, PhD at Matter Venture Partners, and a special guest (TBA), moderated by Kyle Stanford, CAIA.\n\n\ud83d\udcc5 Oct 6 from 11am to 2pm | TECH WEEK by a16z | \ud83d\udccdLocation with RSVP\n\nRSVP Here: https://lnkd.in/g9hp8vMB\n\n#SFTechWeek",
+   "disc_score": 26,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1790989911
   }
  },
  "baseline": {
