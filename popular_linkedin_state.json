@@ -1,31 +1,5 @@
 {
  "watch": {
-  "7511621065484222464": {
-   "created": 1790910021,
-   "author": "Ambar Laad",
-   "url": "https://www.linkedin.com/posts/ambar-laad_the-ai-infrastructure-conversation-for-the-activity-7511621065484222464-JpFQ",
-   "text": "The AI infrastructure conversation for the last two years has been about one thing: training. Nvidia GPUs, H100 clusters, data centres the size of small cities. Look at where the money actually went in Q3 2026. \n\nInference-focused chip startups pulled 67% of all disclosed AI chip funding. $3.62B across eight deals. Etched, which builds chips hardwired exclusively to run AI models at inference time, took $700M alone.\n\nThe capital doesn't agree with the narrative.\n\nTraining gets the headlines because it's where the biggest numbers live. But training a model happens once. Serving it happens billions of times, forever, at a cost structure that determines whether the whole business is profitable.",
-   "disc_score": 8,
-   "checks": {
-    "24": 14
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1790925854
-  },
-  "7511632555088101376": {
-   "created": 1790912760,
-   "author": "Li Liu",
-   "url": "https://www.linkedin.com/posts/li-liu-7ab700236_anthropic-is-going-public-at-a-2-trillion-activity-7511632555088101376-zFCx",
-   "text": "anthropic is going public at a $2 trillion valuation. let that sit for a second\n\nThey're reportedly seeking $100B+ in IPO proceeds alone.\n\nNvidia just locked in a $7B licensing deal with Poolside, valuing the AI lab at $12B.\n\nPhysical AI funding hit $47.4B across 521 deals in just the first half of 2026.\n\nXPENG Robotics raised a $900M+ Series A at a $6.3B post-money valuation.\n\nEtched, the custom AI chip company, doubled its valuation to $21B.\n\nAlibaba raised $10.2B in a Hong Kong share placement to fund its AI infrastructure.\n\nLambda is seeking a $3B pre-IPO round and Groq raised $350M for its neocloud.\n\nGas-turbine backlogs are projected to stretch to 2031 because AI data centers are eatin",
-   "disc_score": 1,
-   "checks": {
-    "24": 1
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1790925854
-  },
   "7511720206767915008": {
    "created": 1790933658,
    "author": "Seconda Private Markets",
@@ -58,7 +32,9 @@
    "url": "https://www.linkedin.com/posts/designfinder_branding-designinspiration-graphicdesign-activity-7511787498390560768-9Rer",
    "text": "Branding and web design for DVC , a fund that brings together 190+ investors and has backed 120 AI startups, including Perplexity AI, Etched, and Thinking Machines Lab. The brand identity centers on multilayered and color cluster visuals, symbolizing a community of engineers, founders, and angels, all managed by a family of founders\n\nDesigned by Daniil Sergeev \n\n#branding #designinspiration #graphicdesign #designfinder #BrandingDesign",
    "disc_score": 34,
-   "checks": {},
+   "checks": {
+    "24": 91
+   },
    "promoted": false,
    "miss": 0,
    "added": 1790957795
@@ -69,7 +45,9 @@
    "url": "https://www.linkedin.com/posts/sumeet1981_ai-has-absorbed-roughly-60-of-all-vc-dollars-activity-7511812150663729153-OX_W",
    "text": "AI has absorbed roughly 60% of all VC dollars, and while everyone is waiting for Anthropic and OpenAI IPOs, here are the largest (still) privately owned AI companies:\n\n1. Anthropic \u2014 $965B valuation, 20.5x revenue \u2014 US AI safety lab behind the Claude models, sold largely to enterprises via API.2. OpenAI \u2014 $852B valuation, 34.1x revenue \u2014 maker of ChatGPT and the GPT model family, with consumer subscriptions and a developer platform.3. Databricks \u2014 $190B valuation, 27.1x revenue \u2014 data and AI platform used by enterprises to store, process and build models on their own data.4. DeepSeek \u2014 $50B valuation \u2014 Chinese lab known for open-weight reasoning models trained at unusually low cost.5. Cognit",
    "disc_score": 2,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1790957795
@@ -80,7 +58,9 @@
    "url": "https://www.linkedin.com/posts/thedesignfinder_branding-designinspiration-graphicdesign-activity-7511787380819939328-86IK",
    "text": "Branding and web design for DVC , a fund that brings together 190+ investors and has backed 120 AI startups, including Perplexity AI, Etched, and Thinking Machines Lab. The brand identity centers on multilayered and color cluster visuals, symbolizing a community of engineers, founders, and angels, all managed by a family of founders\n\nDesigned by Daniil Sergeev \n\n#branding #designinspiration #graphicdesign #designfinder #BrandingDesign",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1790957795
@@ -150,6 +130,28 @@
    "promoted": false,
    "miss": 0,
    "added": 1791009378
+  },
+  "7512175693863047168": {
+   "created": 1791042254,
+   "author": "Andrew Siropiatov",
+   "url": "https://www.linkedin.com/posts/andrew-siropiatov_the-podium-which-startup-idea-is-being-activity-7512175693863047168-sxDB",
+   "text": "\ud83c\udfc6 The Podium \u2014 which startup idea more than one company is chasing\n27 ideas drew more than one company each between 17 Jul and 2 Oct. Ranked by how many COMPANIES, not how much money. The leading three:\n\ud83e\udd47 AI agents doing the work \u2014 15 companies \u00b7 $435.4m reported\nOnyx, Ema, Freehand, BUSINESSNEXT, Arrakis, Natural, Restate, Eagle Cloud, Zeliq, Primo, 50skills, Granite, Kontext, Itoflow, Aisot Technologies\n\ud83e\udd48 Chips built for AI \u2014 12 companies \u00b7 $4.1bn reported\nFirmus, OLIX, Etched, Xsight Labs, EUCLYD, Callosum, DeepX, Velatir, Solinide, Embedd, HexSeed Technology, Groq\n\ud83e\udd49 Grid & energy storage \u2014 12 companies \u00b7 $864.7m reported\nAntora, Nexeon, Amber, Ore Energy, Yuma Energy, Certain Energy, Oct",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791047847
+  },
+  "7512134757024088064": {
+   "created": 1791032494,
+   "author": "Position Tracker Trading, L.L.C.",
+   "url": "https://www.linkedin.com/posts/position-tracker-trading_deal-teardown-etcheds-300m-series-c-at-activity-7512134757024088064-JWQY",
+   "text": "Deal Teardown\n\nEtched's $300M Series C at a $10.3B valuation, led by Sequoia, doubled the $5B price Stripes set earlier this year. That step-up is anchored to $1B in booked contract orders, yet the company's most recent disclosure put its first inference chip in customer testing with no named buyers and no recognized revenue. The market is effectively underwriting a pre-shipment hardware company based entirely on purchase order volume and founder signal rather than validated silicon performance.\n\nThe cap table reflects this thesis perfectly. Three Harvard-dropout Thiel fellows have raised roughly $1.1B since founding in 2022, with early backing from Andrej Karpathy, Geoffrey Hinton, and Fei-",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791047847
   }
  },
  "baseline": {
@@ -1385,6 +1387,18 @@
    [
     1791030806,
     314
+   ],
+   [
+    1791047847,
+    91
+   ],
+   [
+    1791047847,
+    0
+   ],
+   [
+    1791047847,
+    0
    ]
   ]
  },
