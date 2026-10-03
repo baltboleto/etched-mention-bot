@@ -71,7 +71,9 @@
    "url": "https://www.linkedin.com/posts/triplepoint-capital_sftechweek-activity-7511869242737242112-jWTv",
    "text": "Etched. $700M round. $21B valuation. Hear co-founder Robert W. on what it takes to build the chips behind AI, live in SF on Oct 6.\n\nJoin PitchBook and TriplePoint Capital for another panel on the infrastructure powering the next generation of AI, from chips to compute, models to memory, training to inference.\n\nFeaturing Robert Wachen, co-founder of Etched, Mohit Gupta, founder of TYLsemi, and Haomiao Huang, PhD at Matter Venture Partners, and a special guest (TBA), moderated by Kyle Stanford, CAIA.\n\n\ud83d\udcc5 Oct 6 from 11am to 2pm | TECH WEEK by a16z | \ud83d\udccdLocation with RSVP\n\nRSVP Here: https://lnkd.in/g9hp8vMB\n\n#SFTechWeek",
    "disc_score": 26,
-   "checks": {},
+   "checks": {
+    "24": 53
+   },
    "promoted": false,
    "miss": 0,
    "added": 1790989911
@@ -152,6 +154,17 @@
    "promoted": false,
    "miss": 0,
    "added": 1791047847
+  },
+  "7512204073299824640": {
+   "created": 1791049021,
+   "author": "DevCuration",
+   "url": "https://www.linkedin.com/posts/devcuration_artificialintelligence-venturecapital-privatemarkets-activity-7512204073299824640-GwXC",
+   "text": "A country can produce world-class AI companies and still rent the most expensive years of their growth from somebody else.\n\nCanada helped build the research base, talent and founders behind companies such as Cohere, Waabi and Xanadu. When the next round required a different class of check, much of the late-stage capital came from the United States.\n\nRadical Ventures is putting more Canadian institutional money into that handoff.\n\nThe Toronto-founded AI investment firm has secured well over $1B in commitments at the first close of the Radical Breakouts Fund. PSP Investments | Investissements PSP, CPP Investments | Investissements RPC, HOOPP (Healthcare of Ontario Pension Plan), TD Bank Group,",
+   "disc_score": 2,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791058024
   }
  },
  "baseline": {
@@ -1399,6 +1412,10 @@
    [
     1791047847,
     0
+   ],
+   [
+    1791058025,
+    53
    ]
   ]
  },
