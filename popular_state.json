@@ -1,17 +1,17 @@
 {
  "watch": {
-  "2106169739131105751": {
-   "created": 1790984971,
-   "author": "agonzalp",
-   "followers": 82,
-   "url": "https://x.com/agonzalp/status/2106169739131105751",
+  "2106257943729750471": {
+   "created": 1791006000,
+   "author": "tech_evergreen",
+   "followers": 126,
+   "url": "https://x.com/tech_evergreen/status/2106257943729750471",
    "disc_score": 0,
    "checks": {
     "1": 0
    },
    "promoted": false,
    "miss": 0,
-   "added": 1790992691
+   "added": 1791014280
   }
  },
  "baseline": {
@@ -1334,6 +1334,10 @@
    ],
    [
     1790992693,
+    0
+   ],
+   [
+    1791014280,
     0
    ]
   ]
