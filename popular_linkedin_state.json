@@ -1,37 +1,11 @@
 {
  "watch": {
-  "7511787498390560768": {
-   "created": 1790949701,
-   "author": "Design Finder",
-   "url": "https://www.linkedin.com/posts/designfinder_branding-designinspiration-graphicdesign-activity-7511787498390560768-9Rer",
-   "text": "Branding and web design for DVC , a fund that brings together 190+ investors and has backed 120 AI startups, including Perplexity AI, Etched, and Thinking Machines Lab. The brand identity centers on multilayered and color cluster visuals, symbolizing a community of engineers, founders, and angels, all managed by a family of founders\n\nDesigned by Daniil Sergeev \n\n#branding #designinspiration #graphicdesign #designfinder #BrandingDesign",
-   "disc_score": 34,
-   "checks": {
-    "24": 91
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1790957795
-  },
   "7511812150663729153": {
    "created": 1790955579,
    "author": "Sumeet Gupta",
    "url": "https://www.linkedin.com/posts/sumeet1981_ai-has-absorbed-roughly-60-of-all-vc-dollars-activity-7511812150663729153-OX_W",
    "text": "AI has absorbed roughly 60% of all VC dollars, and while everyone is waiting for Anthropic and OpenAI IPOs, here are the largest (still) privately owned AI companies:\n\n1. Anthropic \u2014 $965B valuation, 20.5x revenue \u2014 US AI safety lab behind the Claude models, sold largely to enterprises via API.2. OpenAI \u2014 $852B valuation, 34.1x revenue \u2014 maker of ChatGPT and the GPT model family, with consumer subscriptions and a developer platform.3. Databricks \u2014 $190B valuation, 27.1x revenue \u2014 data and AI platform used by enterprises to store, process and build models on their own data.4. DeepSeek \u2014 $50B valuation \u2014 Chinese lab known for open-weight reasoning models trained at unusually low cost.5. Cognit",
    "disc_score": 2,
-   "checks": {
-    "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1790957795
-  },
-  "7511787380819939328": {
-   "created": 1790949673,
-   "author": "Design Finder",
-   "url": "https://www.linkedin.com/posts/thedesignfinder_branding-designinspiration-graphicdesign-activity-7511787380819939328-86IK",
-   "text": "Branding and web design for DVC , a fund that brings together 190+ investors and has backed 120 AI startups, including Perplexity AI, Etched, and Thinking Machines Lab. The brand identity centers on multilayered and color cluster visuals, symbolizing a community of engineers, founders, and angels, all managed by a family of founders\n\nDesigned by Daniil Sergeev \n\n#branding #designinspiration #graphicdesign #designfinder #BrandingDesign",
-   "disc_score": 0,
    "checks": {
     "24": 0
    },
@@ -91,7 +65,9 @@
    "url": "https://www.linkedin.com/posts/ideepakgupta_the-most-common-use-case-is-metered-knowledge-activity-7511965687477657600-EzEj",
    "text": "\ud83d\udcb0 The most common use case is metered knowledge work.\n1\ufe0f\u20e3 A firm sends a document, a ticket, or a code repo to a model. The model returns a draft. The firm pays per token or per seat. That loop is metered knowledge work.\n2\ufe0f\u20e3 Coding is the sharpest form of that loop. Cognition AI sells an agent. The agent writes code and runs code. Anthropic sells the model under that agent. OpenAI sells the same type of model.\n3\ufe0f\u20e3 Databricks sells the data that the model reads.\n4\ufe0f\u20e3 Crusoe, Fluidstack, Nscale, Etched, and Fireworks AI sell the power and the chip that run the call.\n5\ufe0f\u20e3 Harvey sells the loop in law.\n6\ufe0f\u20e3 ElevenLabs sells it in voice.\n7\ufe0f\u20e3 Perplexity sells it in search.\n8\ufe0f\u20e3 Lovable sells it in app",
    "disc_score": 3,
-   "checks": {},
+   "checks": {
+    "24": 24
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791009378
@@ -102,7 +78,9 @@
    "url": "https://www.linkedin.com/posts/ideepakgupta_which-of-these-looks-most-likely-to-justify-activity-7511961417558798337-amj0",
    "text": "\ud83d\udcb0 The most common use case is metered knowledge work.\n- A firm sends a document, a ticket, or a code repo to a model. The model returns a draft. The firm pays per token or per seat. That loop is metered knowledge work.\n- #Coding is the sharpest form of that loop. Cognition AI sells an agent. The agent writes code and runs code. Anthropic sells the model under that agent. OpenAI sells the same type of model.\n- Databricks sells the data that the model reads.\n- Crusoe, Fluidstack, Nscale, Etched, and Fireworks AI sell the power and the chip that run the call. - Harvey sells the loop in law.\n- ElevenLabs sells it in voice.\n- Perplexity sells it in search.\n- Lovable sells it in app build.\n- Figur",
    "disc_score": 1,
-   "checks": {},
+   "checks": {
+    "24": 1
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791009378
@@ -1390,6 +1368,14 @@
    [
     1791058025,
     53
+   ],
+   [
+    1791081692,
+    24
+   ],
+   [
+    1791081692,
+    1
    ]
   ]
  },
