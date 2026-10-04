@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7511760819915902976": {
-   "created": 1790943341,
-   "author": "Multiples",
-   "url": "https://www.linkedin.com/posts/multiples-vc_ai-has-absorbed-roughly-60-of-all-vc-dollars-activity-7511760819915902976-tAY9",
-   "text": "AI has absorbed roughly 60% of all VC dollars, and while everyone is waiting for Anthropic and OpenAI IPOs, here are the largest (still) privately owned AI companies:\n\nSource: Multiples, data as of 29 Sept 2026.\n\n1. Anthropic \u2014 $965B valuation, 20.5x revenue \u2014 US AI safety lab behind the Claude models, sold largely to enterprises via API.\n2. OpenAI \u2014 $852B valuation, 34.1x revenue \u2014 maker of ChatGPT and the GPT model family, with consumer subscriptions and a developer platform.\n3. Databricks \u2014 $190B valuation, 27.1x revenue \u2014 data and AI platform used by enterprises to store, process and build models on their own data.\n4. DeepSeek \u2014 $50B valuation \u2014 Chinese lab known for open-weight reasonin",
-   "disc_score": 18,
-   "checks": {
-    "24": 314
-   },
-   "promoted": true,
-   "miss": 0,
-   "added": 1790949860
-  },
   "7511787498390560768": {
    "created": 1790949701,
    "author": "Design Finder",
