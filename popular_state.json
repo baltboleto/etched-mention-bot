@@ -1,15 +1,43 @@
 {
  "watch": {
-  "2106754934222012532": {
-   "created": 1791124492,
-   "author": "dhubxk1",
-   "followers": 140,
-   "url": "https://x.com/dhubxk1/status/2106754934222012532",
+  "2106775505714466844": {
+   "created": 1791129397,
+   "author": "bennytay07",
+   "followers": 119,
+   "url": "https://x.com/bennytay07/status/2106775505714466844",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "1": 0
+   },
    "promoted": false,
    "miss": 0,
-   "added": 1791124872
+   "added": 1791138268
+  },
+  "2106769475878125581": {
+   "created": 1791127959,
+   "author": "jerrydotxyz",
+   "followers": 3794,
+   "url": "https://x.com/jerrydotxyz/status/2106769475878125581",
+   "disc_score": 6,
+   "checks": {
+    "1": null
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1791138268
+  },
+  "2106769777020834248": {
+   "created": 1791128031,
+   "author": "r0b0t_sp1der",
+   "followers": 1355,
+   "url": "https://x.com/r0b0t_sp1der/status/2106769777020834248",
+   "disc_score": 0,
+   "checks": {
+    "1": null
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1791138268
   }
  },
  "baseline": {
@@ -1345,6 +1373,10 @@
    [
     1791103833,
     8
+   ],
+   [
+    1791138269,
+    0
    ]
   ]
  },
