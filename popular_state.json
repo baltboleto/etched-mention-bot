@@ -1,43 +1,41 @@
 {
  "watch": {
-  "2106775505714466844": {
-   "created": 1791129397,
-   "author": "bennytay07",
-   "followers": 119,
-   "url": "https://x.com/bennytay07/status/2106775505714466844",
-   "disc_score": 0,
+  "2106829150711325097": {
+   "created": 1791142187,
+   "author": "FPuklowski",
+   "followers": 410,
+   "url": "https://x.com/FPuklowski/status/2106829150711325097",
+   "disc_score": 2,
    "checks": {
-    "1": 0
+    "1": 2
    },
    "promoted": false,
    "miss": 0,
-   "added": 1791138268
+   "added": 1791150485
   },
-  "2106769475878125581": {
-   "created": 1791127959,
-   "author": "jerrydotxyz",
-   "followers": 3794,
-   "url": "https://x.com/jerrydotxyz/status/2106769475878125581",
-   "disc_score": 6,
-   "checks": {
-    "1": null
-   },
+  "2106850613657280671": {
+   "created": 1791147304,
+   "author": "wizplum",
+   "followers": 125,
+   "url": "https://x.com/wizplum/status/2106850613657280671",
+   "disc_score": 4,
+   "checks": {},
    "promoted": false,
    "miss": 0,
-   "added": 1791138268
+   "added": 1791150485
   },
-  "2106769777020834248": {
-   "created": 1791128031,
-   "author": "r0b0t_sp1der",
-   "followers": 1355,
-   "url": "https://x.com/r0b0t_sp1der/status/2106769777020834248",
-   "disc_score": 0,
+  "2106831456785842569": {
+   "created": 1791142736,
+   "author": "hiteshkar",
+   "followers": 6224,
+   "url": "https://x.com/hiteshkar/status/2106831456785842569",
+   "disc_score": 9,
    "checks": {
-    "1": null
+    "1": 9
    },
    "promoted": false,
    "miss": 0,
-   "added": 1791138268
+   "added": 1791150485
   }
  },
  "baseline": {
@@ -1377,6 +1375,14 @@
    [
     1791138269,
     0
+   ],
+   [
+    1791150485,
+    2
+   ],
+   [
+    1791150485,
+    9
    ]
   ]
  },
