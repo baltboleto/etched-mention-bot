@@ -39,32 +39,6 @@
    "miss": 0,
    "added": 1791009378
   },
-  "7511965687477657600": {
-   "created": 1790992185,
-   "author": "Deepak Gupta",
-   "url": "https://www.linkedin.com/posts/ideepakgupta_the-most-common-use-case-is-metered-knowledge-activity-7511965687477657600-EzEj",
-   "text": "\ud83d\udcb0 The most common use case is metered knowledge work.\n1\ufe0f\u20e3 A firm sends a document, a ticket, or a code repo to a model. The model returns a draft. The firm pays per token or per seat. That loop is metered knowledge work.\n2\ufe0f\u20e3 Coding is the sharpest form of that loop. Cognition AI sells an agent. The agent writes code and runs code. Anthropic sells the model under that agent. OpenAI sells the same type of model.\n3\ufe0f\u20e3 Databricks sells the data that the model reads.\n4\ufe0f\u20e3 Crusoe, Fluidstack, Nscale, Etched, and Fireworks AI sell the power and the chip that run the call.\n5\ufe0f\u20e3 Harvey sells the loop in law.\n6\ufe0f\u20e3 ElevenLabs sells it in voice.\n7\ufe0f\u20e3 Perplexity sells it in search.\n8\ufe0f\u20e3 Lovable sells it in app",
-   "disc_score": 3,
-   "checks": {
-    "24": 24
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791009378
-  },
-  "7511961417558798337": {
-   "created": 1790991167,
-   "author": "Deepak Gupta",
-   "url": "https://www.linkedin.com/posts/ideepakgupta_which-of-these-looks-most-likely-to-justify-activity-7511961417558798337-amj0",
-   "text": "\ud83d\udcb0 The most common use case is metered knowledge work.\n- A firm sends a document, a ticket, or a code repo to a model. The model returns a draft. The firm pays per token or per seat. That loop is metered knowledge work.\n- #Coding is the sharpest form of that loop. Cognition AI sells an agent. The agent writes code and runs code. Anthropic sells the model under that agent. OpenAI sells the same type of model.\n- Databricks sells the data that the model reads.\n- Crusoe, Fluidstack, Nscale, Etched, and Fireworks AI sell the power and the chip that run the call. - Harvey sells the loop in law.\n- ElevenLabs sells it in voice.\n- Perplexity sells it in search.\n- Lovable sells it in app build.\n- Figur",
-   "disc_score": 1,
-   "checks": {
-    "24": 1
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791009378
-  },
   "7512175693863047168": {
    "created": 1791042254,
    "author": "Andrew Siropiatov",
