@@ -82,7 +82,9 @@
    "url": "https://www.linkedin.com/posts/position-tracker-trading_deal-teardown-etcheds-300m-series-c-at-activity-7512134757024088064-JWQY",
    "text": "Deal Teardown\n\nEtched's $300M Series C at a $10.3B valuation, led by Sequoia, doubled the $5B price Stripes set earlier this year. That step-up is anchored to $1B in booked contract orders, yet the company's most recent disclosure put its first inference chip in customer testing with no named buyers and no recognized revenue. The market is effectively underwriting a pre-shipment hardware company based entirely on purchase order volume and founder signal rather than validated silicon performance.\n\nThe cap table reflects this thesis perfectly. Three Harvard-dropout Thiel fellows have raised roughly $1.1B since founding in 2022, with early backing from Andrej Karpathy, Geoffrey Hinton, and Fei-",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791047847
@@ -97,6 +99,17 @@
    "promoted": false,
    "miss": 0,
    "added": 1791058024
+  },
+  "7512480707504562176": {
+   "created": 1791114975,
+   "author": "Gaith Saqer",
+   "url": "https://www.linkedin.com/posts/gaith-saqer-b24a1821b_ai-vcs-siliconvalley-activity-7512480707504562176-ynZO",
+   "text": "These are the VCs that made\u00a0the\u00a0most AI investments from 2025 until now:\n\nSource: Multiples, data as of  Sep 2026\n\n1. Andreessen Horowitz \u2014 122 AI investments, 40% of all deals 2025-26 \u2014 key AI holdings include OpenAI, Databricks, Cognition and Safe Superintelligence. Famously missed Anthropic\n2. General Catalyst \u2014 122 AI investments, 38% of all deals 2025-26 \u2014 backer of Anthropic, Mistral, Cognition and defence AI software Helsing.\n3. Sequoia Capital \u2014 116 AI investments, 47% of all deals 2025-26 \u2014 positions in Anthropic, OpenAI, chip designer Etched and Fireworks AI.\n4. Khosla Ventures \u2014 102 AI investments, 50% of all deals 2025-26 \u2014 holdings include Cognition, Lovable, Abridge and Factory",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791119492
   }
  },
  "baseline": {
@@ -1368,6 +1381,10 @@
    [
     1791096588,
     64
+   ],
+   [
+    1791119492,
+    0
    ]
   ]
  },
