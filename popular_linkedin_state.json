@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7511812150663729153": {
-   "created": 1790955579,
-   "author": "Sumeet Gupta",
-   "url": "https://www.linkedin.com/posts/sumeet1981_ai-has-absorbed-roughly-60-of-all-vc-dollars-activity-7511812150663729153-OX_W",
-   "text": "AI has absorbed roughly 60% of all VC dollars, and while everyone is waiting for Anthropic and OpenAI IPOs, here are the largest (still) privately owned AI companies:\n\n1. Anthropic \u2014 $965B valuation, 20.5x revenue \u2014 US AI safety lab behind the Claude models, sold largely to enterprises via API.2. OpenAI \u2014 $852B valuation, 34.1x revenue \u2014 maker of ChatGPT and the GPT model family, with consumer subscriptions and a developer platform.3. Databricks \u2014 $190B valuation, 27.1x revenue \u2014 data and AI platform used by enterprises to store, process and build models on their own data.4. DeepSeek \u2014 $50B valuation \u2014 Chinese lab known for open-weight reasoning models trained at unusually low cost.5. Cognit",
-   "disc_score": 2,
-   "checks": {
-    "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1790957795
-  },
   "7511869242737242112": {
    "created": 1790969191,
    "author": "TriplePoint Capital",
@@ -32,7 +19,9 @@
    "url": "https://www.linkedin.com/posts/evergreen-technologies-usa-3a7422198_httpszurlcosdn4b-etched-the-21-activity-7512023660883296256-XTU2",
    "text": "https://zurl.co/SdN4b \n\ud83d\ude80Etched: The $21 Billion Bet on Transformer-Specific Silicon\nThe provided video details the rise of Etched, a semiconductor startup that has developed a specialized chip called Sohu designed exclusively ...\nRead more at https://zurl.co/1no0p",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791009378
@@ -43,7 +32,9 @@
    "url": "https://www.linkedin.com/posts/evergreen-tech-llc_httpszurlcosdn4b-etched-the-21-activity-7512023656294871040-RJIn",
    "text": "https://zurl.co/SdN4b \n\ud83d\ude80Etched: The $21 Billion Bet on Transformer-Specific Silicon\nThe provided video details the rise of Etched, a semiconductor startup that has developed a specialized chip called Sohu designed exclusively ...\nRead more at https://zurl.co/1no0p",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791009378
@@ -54,7 +45,9 @@
    "url": "https://www.linkedin.com/posts/activity-7511981965818925056-wF3r",
    "text": "\ud83d\ude80 We're hiring at Etched!\n\nI'm looking for a Physical Design expert who gets excited by the hardest problems in silicon, not the easy ones.\n\nAt Etched, we're building LVI systems, and that means pushing physical design to its limits: aggressive PPA targets, massive designs, and challenges that don't have textbook answers.\n\nYou might be a great fit if you:\n\ud83d\udd39 Have deep hands-on experience across the physical design flow (floorplanning, place & route, CTS, timing closure, sign-off)\n\ud83d\udd39 Love owning tough problems end to end\n\ud83d\udd39 Want your work to directly shape the future of AI compute\n\ud83d\udd39 Thrive on a small, fast-moving team where impact is immediate\n\nIf that sounds like you, or someone you know, let's",
    "disc_score": 30,
-   "checks": {},
+   "checks": {
+    "24": 64
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791009378
@@ -1376,6 +1369,18 @@
    [
     1791081692,
     1
+   ],
+   [
+    1791096588,
+    0
+   ],
+   [
+    1791096588,
+    0
+   ],
+   [
+    1791096588,
+    64
    ]
   ]
  },
