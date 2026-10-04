@@ -26,26 +26,15 @@
    "miss": 0,
    "added": 1791009378
   },
-  "7511981965818925056": {
-   "created": 1790996066,
-   "author": "Chetan Melkundi",
-   "url": "https://www.linkedin.com/posts/activity-7511981965818925056-wF3r",
-   "text": "\ud83d\ude80 We're hiring at Etched!\n\nI'm looking for a Physical Design expert who gets excited by the hardest problems in silicon, not the easy ones.\n\nAt Etched, we're building LVI systems, and that means pushing physical design to its limits: aggressive PPA targets, massive designs, and challenges that don't have textbook answers.\n\nYou might be a great fit if you:\n\ud83d\udd39 Have deep hands-on experience across the physical design flow (floorplanning, place & route, CTS, timing closure, sign-off)\n\ud83d\udd39 Love owning tough problems end to end\n\ud83d\udd39 Want your work to directly shape the future of AI compute\n\ud83d\udd39 Thrive on a small, fast-moving team where impact is immediate\n\nIf that sounds like you, or someone you know, let's",
-   "disc_score": 30,
-   "checks": {
-    "24": 64
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791009378
-  },
   "7512175693863047168": {
    "created": 1791042254,
    "author": "Andrew Siropiatov",
    "url": "https://www.linkedin.com/posts/andrew-siropiatov_the-podium-which-startup-idea-is-being-activity-7512175693863047168-sxDB",
    "text": "\ud83c\udfc6 The Podium \u2014 which startup idea more than one company is chasing\n27 ideas drew more than one company each between 17 Jul and 2 Oct. Ranked by how many COMPANIES, not how much money. The leading three:\n\ud83e\udd47 AI agents doing the work \u2014 15 companies \u00b7 $435.4m reported\nOnyx, Ema, Freehand, BUSINESSNEXT, Arrakis, Natural, Restate, Eagle Cloud, Zeliq, Primo, 50skills, Granite, Kontext, Itoflow, Aisot Technologies\n\ud83e\udd48 Chips built for AI \u2014 12 companies \u00b7 $4.1bn reported\nFirmus, OLIX, Etched, Xsight Labs, EUCLYD, Callosum, DeepX, Velatir, Solinide, Embedd, HexSeed Technology, Groq\n\ud83e\udd49 Grid & energy storage \u2014 12 companies \u00b7 $864.7m reported\nAntora, Nexeon, Amber, Ore Energy, Yuma Energy, Certain Energy, Oct",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 1
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791047847
@@ -69,7 +58,9 @@
    "url": "https://www.linkedin.com/posts/devcuration_artificialintelligence-venturecapital-privatemarkets-activity-7512204073299824640-GwXC",
    "text": "A country can produce world-class AI companies and still rent the most expensive years of their growth from somebody else.\n\nCanada helped build the research base, talent and founders behind companies such as Cohere, Waabi and Xanadu. When the next round required a different class of check, much of the late-stage capital came from the United States.\n\nRadical Ventures is putting more Canadian institutional money into that handoff.\n\nThe Toronto-founded AI investment firm has secured well over $1B in commitments at the first close of the Radical Breakouts Fund. PSP Investments | Investissements PSP, CPP Investments | Investissements RPC, HOOPP (Healthcare of Ontario Pension Plan), TD Bank Group,",
    "disc_score": 2,
-   "checks": {},
+   "checks": {
+    "24": 2
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791058024
@@ -1359,6 +1350,14 @@
    [
     1791119492,
     0
+   ],
+   [
+    1791135426,
+    1
+   ],
+   [
+    1791135426,
+    2
    ]
   ]
  },
