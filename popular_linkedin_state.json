@@ -1,44 +1,5 @@
 {
  "watch": {
-  "7512175693863047168": {
-   "created": 1791042254,
-   "author": "Andrew Siropiatov",
-   "url": "https://www.linkedin.com/posts/andrew-siropiatov_the-podium-which-startup-idea-is-being-activity-7512175693863047168-sxDB",
-   "text": "\ud83c\udfc6 The Podium \u2014 which startup idea more than one company is chasing\n27 ideas drew more than one company each between 17 Jul and 2 Oct. Ranked by how many COMPANIES, not how much money. The leading three:\n\ud83e\udd47 AI agents doing the work \u2014 15 companies \u00b7 $435.4m reported\nOnyx, Ema, Freehand, BUSINESSNEXT, Arrakis, Natural, Restate, Eagle Cloud, Zeliq, Primo, 50skills, Granite, Kontext, Itoflow, Aisot Technologies\n\ud83e\udd48 Chips built for AI \u2014 12 companies \u00b7 $4.1bn reported\nFirmus, OLIX, Etched, Xsight Labs, EUCLYD, Callosum, DeepX, Velatir, Solinide, Embedd, HexSeed Technology, Groq\n\ud83e\udd49 Grid & energy storage \u2014 12 companies \u00b7 $864.7m reported\nAntora, Nexeon, Amber, Ore Energy, Yuma Energy, Certain Energy, Oct",
-   "disc_score": 0,
-   "checks": {
-    "24": 1
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791047847
-  },
-  "7512134757024088064": {
-   "created": 1791032494,
-   "author": "Position Tracker Trading, L.L.C.",
-   "url": "https://www.linkedin.com/posts/position-tracker-trading_deal-teardown-etcheds-300m-series-c-at-activity-7512134757024088064-JWQY",
-   "text": "Deal Teardown\n\nEtched's $300M Series C at a $10.3B valuation, led by Sequoia, doubled the $5B price Stripes set earlier this year. That step-up is anchored to $1B in booked contract orders, yet the company's most recent disclosure put its first inference chip in customer testing with no named buyers and no recognized revenue. The market is effectively underwriting a pre-shipment hardware company based entirely on purchase order volume and founder signal rather than validated silicon performance.\n\nThe cap table reflects this thesis perfectly. Three Harvard-dropout Thiel fellows have raised roughly $1.1B since founding in 2022, with early backing from Andrej Karpathy, Geoffrey Hinton, and Fei-",
-   "disc_score": 0,
-   "checks": {
-    "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791047847
-  },
-  "7512204073299824640": {
-   "created": 1791049021,
-   "author": "DevCuration",
-   "url": "https://www.linkedin.com/posts/devcuration_artificialintelligence-venturecapital-privatemarkets-activity-7512204073299824640-GwXC",
-   "text": "A country can produce world-class AI companies and still rent the most expensive years of their growth from somebody else.\n\nCanada helped build the research base, talent and founders behind companies such as Cohere, Waabi and Xanadu. When the next round required a different class of check, much of the late-stage capital came from the United States.\n\nRadical Ventures is putting more Canadian institutional money into that handoff.\n\nThe Toronto-founded AI investment firm has secured well over $1B in commitments at the first close of the Radical Breakouts Fund. PSP Investments | Investissements PSP, CPP Investments | Investissements RPC, HOOPP (Healthcare of Ontario Pension Plan), TD Bank Group,",
-   "disc_score": 2,
-   "checks": {
-    "24": 2
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791058024
-  },
   "7512480707504562176": {
    "created": 1791114975,
    "author": "Gaith Saqer",
@@ -49,6 +10,28 @@
    "promoted": false,
    "miss": 0,
    "added": 1791119492
+  },
+  "7512742183389720577": {
+   "created": 1791177316,
+   "author": "Grace Gong",
+   "url": "https://www.linkedin.com/posts/gracegong_aiinfrastructure-ai-hiring-activity-7512742183389720577-khMY",
+   "text": "AI INFRASTRUCTURE COMPANIES (HIRING LIST)\n\nHere are 35 AI infrastructure companies that are actively hiring right now, ranked by percentage headcount growth in the past 90 days. This is Week 83 of On My Radar, my weekly list of the companies I can't stop watching:\n\nSambaNova - AI chips and cloud (San Jose)\nTYLsemi - chiplet silicon for AI (San Jose)\nDapple - dedicated enterprise AI infrastructure (Dublin)\nHighreso Co., Ltd. - GPU cloud (Tokyo)\nNscale - full-stack AI cloud (Norway)\nVolta - vertically integrated AI infrastructure (Palo Alto)\nModal - serverless inference and training (New York)\nPositron AI - inference hardware (Reno)\nRunpod - AI developer cloud (San Francisco)\nFractile - infere",
+   "disc_score": 43,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791180623
+  },
+  "7512708967408533504": {
+   "created": 1791169397,
+   "author": "The Inference",
+   "url": "https://www.linkedin.com/posts/the-inference-org_etched-janestreet-aichips-activity-7512708967408533504-PWQm",
+   "text": "Jane Street set Etched's $21 billion valuation in August. It is also the chip startup's only named customer.\n\nThe mark quadrupled in eight months. Etched says it holds more than $1 billion in customer contracts, but the figure is company-stated and unaudited, and a contract here can be a real order or just a letter of intent.\n\nJane Street had already put in more than $100 million and sat in both earlier rounds. Its rack has been running live workloads since July.\n\nCommercial racks are due in the fourth quarter. Until a buyer with no equity signs, the order book and the cap table are the same list.\n\n#Etched #JaneStreet #AIChips #Nvidia #VentureCapital\n\nhttps://lnkd.in/g25vMeR6\n\n#Etched #JaneS",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791180623
   }
  },
  "baseline": {
