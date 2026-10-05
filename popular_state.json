@@ -1,141 +1,30 @@
 {
  "watch": {
-  "2106986679676620985": {
-   "created": 1791179745,
-   "author": "zeptorindo",
-   "followers": 34,
-   "url": "https://x.com/zeptorindo/status/2106986679676620985",
-   "disc_score": 1,
-   "checks": {},
-   "promoted": false,
-   "miss": 0,
-   "added": 1791180543
-  },
-  "2106979502048043053": {
-   "created": 1791178033,
-   "author": "dishwashertree",
-   "followers": 3,
-   "url": "https://x.com/dishwashertree/status/2106979502048043053",
-   "disc_score": 4,
-   "checks": {},
-   "promoted": false,
-   "miss": 0,
-   "added": 1791180543
-  },
-  "2106977848741318904": {
-   "created": 1791177639,
-   "author": "CharlieSheiner",
-   "followers": 21,
-   "url": "https://x.com/CharlieSheiner/status/2106977848741318904",
-   "disc_score": 0,
-   "checks": {},
-   "promoted": false,
-   "miss": 0,
-   "added": 1791180543
-  },
-  "2106971816757764503": {
-   "created": 1791176201,
-   "author": "Riggimus",
-   "followers": 82,
-   "url": "https://x.com/Riggimus/status/2106971816757764503",
-   "disc_score": 1,
-   "checks": {
-    "1": 1
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791180543
-  },
-  "2106968582773182705": {
-   "created": 1791175430,
-   "author": "peakshubham",
-   "followers": 145,
-   "url": "https://x.com/peakshubham/status/2106968582773182705",
+  "2107097672217657496": {
+   "created": 1791206207,
+   "author": "YitzyMytelka",
+   "followers": 165,
+   "url": "https://x.com/YitzyMytelka/status/2107097672217657496",
    "disc_score": 0,
    "checks": {
     "1": 0
    },
    "promoted": false,
    "miss": 0,
-   "added": 1791180543
+   "added": 1791211365
   },
-  "2106964917274153248": {
-   "created": 1791174556,
-   "author": "ned2k_",
-   "followers": 61,
-   "url": "https://x.com/ned2k_/status/2106964917274153248",
-   "disc_score": 0,
+  "2107099537282048293": {
+   "created": 1791206652,
+   "author": "gaganbiyani",
+   "followers": 118841,
+   "url": "https://x.com/gaganbiyani/status/2107099537282048293",
+   "disc_score": 35,
    "checks": {
-    "1": 0
+    "1": 37
    },
-   "promoted": false,
+   "promoted": true,
    "miss": 0,
-   "added": 1791180543
-  },
-  "2106962389359030656": {
-   "created": 1791173953,
-   "author": "aisafetycompute",
-   "followers": 107,
-   "url": "https://x.com/aisafetycompute/status/2106962389359030656",
-   "disc_score": 1,
-   "checks": {
-    "1": 1
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791180543
-  },
-  "2106957796575174948": {
-   "created": 1791172858,
-   "author": "adelwu_",
-   "followers": 3504,
-   "url": "https://x.com/adelwu_/status/2106957796575174948",
-   "disc_score": 14,
-   "checks": {
-    "1": 14
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791180543
-  },
-  "2106953586102169976": {
-   "created": 1791171854,
-   "author": "lillyemira",
-   "followers": 886,
-   "url": "https://x.com/lillyemira/status/2106953586102169976",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791180543
-  },
-  "2106948489985061070": {
-   "created": 1791170639,
-   "author": "maxjendrall",
-   "followers": 2585,
-   "url": "https://x.com/maxjendrall/status/2106948489985061070",
-   "disc_score": 1,
-   "checks": {
-    "1": null
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791180543
-  },
-  "2106945997175923092": {
-   "created": 1791170045,
-   "author": "zaygranet",
-   "followers": 5007,
-   "url": "https://x.com/zaygranet/status/2106945997175923092",
-   "disc_score": 0,
-   "checks": {
-    "1": null
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791180543
+   "added": 1791211365
   }
  },
  "baseline": {
@@ -1511,6 +1400,14 @@
    [
     1791180544,
     0
+   ],
+   [
+    1791211368,
+    0
+   ],
+   [
+    1791211368,
+    37
    ]
   ]
  },
@@ -1594,6 +1491,11 @@
    1790875518,
    "2105695953089126436",
    39
+  ],
+  [
+   1791211368,
+   "2107099537282048293",
+   37
   ]
  ],
  "seeded": true
