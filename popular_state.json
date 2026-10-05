@@ -1,30 +1,159 @@
 {
  "watch": {
-  "2107097672217657496": {
-   "created": 1791206207,
-   "author": "YitzyMytelka",
-   "followers": 165,
-   "url": "https://x.com/YitzyMytelka/status/2107097672217657496",
+  "2107213521431761348": {
+   "created": 1791233828,
+   "author": "DiarioBitcoin",
+   "followers": 213238,
+   "url": "https://x.com/DiarioBitcoin/status/2107213521431761348",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791236540
+  },
+  "2107207568758018213": {
+   "created": 1791232409,
+   "author": "species_x",
+   "followers": 28624,
+   "url": "https://x.com/species_x/status/2107207568758018213",
    "disc_score": 0,
    "checks": {
     "1": 0
    },
    "promoted": false,
    "miss": 0,
-   "added": 1791211365
+   "added": 1791236540
   },
-  "2107099537282048293": {
-   "created": 1791206652,
-   "author": "gaganbiyani",
-   "followers": 118841,
-   "url": "https://x.com/gaganbiyani/status/2107099537282048293",
-   "disc_score": 35,
-   "checks": {
-    "1": 37
-   },
-   "promoted": true,
+  "2107221792418873739": {
+   "created": 1791235800,
+   "author": "suraj_sharma14",
+   "followers": 20048,
+   "url": "https://x.com/suraj_sharma14/status/2107221792418873739",
+   "disc_score": 7,
+   "checks": {},
+   "promoted": false,
    "miss": 0,
-   "added": 1791211365
+   "added": 1791236540
+  },
+  "2107209247947952304": {
+   "created": 1791232809,
+   "author": "MTemkin",
+   "followers": 2801,
+   "url": "https://x.com/MTemkin/status/2107209247947952304",
+   "disc_score": 4,
+   "checks": {
+    "1": 4
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1791236540
+  },
+  "2107181032671772707": {
+   "created": 1791226082,
+   "author": "virtue_hearts",
+   "followers": 2122,
+   "url": "https://x.com/virtue_hearts/status/2107181032671772707",
+   "disc_score": 2,
+   "checks": {
+    "1": null
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1791236540
+  },
+  "2107220536120033545": {
+   "created": 1791235500,
+   "author": "dmxplx",
+   "followers": 1132,
+   "url": "https://x.com/dmxplx/status/2107220536120033545",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791236540
+  },
+  "2107207264293580849": {
+   "created": 1791232336,
+   "author": "dbs62",
+   "followers": 369,
+   "url": "https://x.com/dbs62/status/2107207264293580849",
+   "disc_score": 0,
+   "checks": {
+    "1": 0
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1791236540
+  },
+  "2107219026149572652": {
+   "created": 1791235140,
+   "author": "techamericaofcl",
+   "followers": 270,
+   "url": "https://x.com/techamericaofcl/status/2107219026149572652",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791236540
+  },
+  "2107205486638751944": {
+   "created": 1791231912,
+   "author": "MKRlimitless",
+   "followers": 231,
+   "url": "https://x.com/MKRlimitless/status/2107205486638751944",
+   "disc_score": 0,
+   "checks": {
+    "1": 0
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1791236540
+  },
+  "2107215964177895528": {
+   "created": 1791234410,
+   "author": "ZainAkrams",
+   "followers": 159,
+   "url": "https://x.com/ZainAkrams/status/2107215964177895528",
+   "disc_score": 3,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791236540
+  },
+  "2107214825910653386": {
+   "created": 1791234139,
+   "author": "Sonath_AI",
+   "followers": 126,
+   "url": "https://x.com/Sonath_AI/status/2107214825910653386",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791236540
+  },
+  "2107206817596182770": {
+   "created": 1791232229,
+   "author": "techwithjoe_io",
+   "followers": 37,
+   "url": "https://x.com/techwithjoe_io/status/2107206817596182770",
+   "disc_score": 0,
+   "checks": {
+    "1": 0
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1791236540
+  },
+  "2107214576039141546": {
+   "created": 1791234079,
+   "author": "WatchfulEye_US",
+   "followers": 28,
+   "url": "https://x.com/WatchfulEye_US/status/2107214576039141546",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791236540
   }
  },
  "baseline": {
@@ -1408,6 +1537,26 @@
    [
     1791211368,
     37
+   ],
+   [
+    1791236541,
+    0
+   ],
+   [
+    1791236541,
+    4
+   ],
+   [
+    1791236541,
+    0
+   ],
+   [
+    1791236541,
+    0
+   ],
+   [
+    1791236541,
+    0
    ]
   ]
  },
