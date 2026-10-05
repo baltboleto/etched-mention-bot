@@ -1,41 +1,17 @@
 {
  "watch": {
-  "2106829150711325097": {
-   "created": 1791142187,
-   "author": "FPuklowski",
-   "followers": 410,
-   "url": "https://x.com/FPuklowski/status/2106829150711325097",
-   "disc_score": 2,
+  "2106876215898648915": {
+   "created": 1791153408,
+   "author": "thefusioncube",
+   "followers": 11,
+   "url": "https://x.com/thefusioncube/status/2106876215898648915",
+   "disc_score": 0,
    "checks": {
-    "1": 2
+    "1": 0
    },
    "promoted": false,
    "miss": 0,
-   "added": 1791150485
-  },
-  "2106850613657280671": {
-   "created": 1791147304,
-   "author": "wizplum",
-   "followers": 125,
-   "url": "https://x.com/wizplum/status/2106850613657280671",
-   "disc_score": 4,
-   "checks": {},
-   "promoted": false,
-   "miss": 0,
-   "added": 1791150485
-  },
-  "2106831456785842569": {
-   "created": 1791142736,
-   "author": "hiteshkar",
-   "followers": 6224,
-   "url": "https://x.com/hiteshkar/status/2106831456785842569",
-   "disc_score": 9,
-   "checks": {
-    "1": 9
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791150485
+   "added": 1791160228
   }
  },
  "baseline": {
@@ -1383,6 +1359,10 @@
    [
     1791150485,
     9
+   ],
+   [
+    1791160229,
+    0
    ]
   ]
  },
