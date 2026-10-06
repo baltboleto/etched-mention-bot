@@ -1,159 +1,293 @@
 {
  "watch": {
-  "2107213521431761348": {
-   "created": 1791233828,
-   "author": "DiarioBitcoin",
-   "followers": 213238,
-   "url": "https://x.com/DiarioBitcoin/status/2107213521431761348",
+  "2107288327137464558": {
+   "created": 1791251663,
+   "author": "glitchtruth",
+   "followers": 221,
+   "url": "https://x.com/glitchtruth/status/2107288327137464558",
    "disc_score": 0,
    "checks": {},
    "promoted": false,
    "miss": 0,
-   "added": 1791236540
+   "added": 1791251854
   },
-  "2107207568758018213": {
-   "created": 1791232409,
-   "author": "species_x",
-   "followers": 28624,
-   "url": "https://x.com/species_x/status/2107207568758018213",
+  "2107267934825632051": {
+   "created": 1791246801,
+   "author": "e01_9",
+   "followers": 2780,
+   "url": "https://x.com/e01_9/status/2107267934825632051",
    "disc_score": 0,
    "checks": {
     "1": 0
    },
    "promoted": false,
    "miss": 0,
-   "added": 1791236540
+   "added": 1791251854
   },
-  "2107221792418873739": {
-   "created": 1791235800,
-   "author": "suraj_sharma14",
-   "followers": 20048,
-   "url": "https://x.com/suraj_sharma14/status/2107221792418873739",
-   "disc_score": 7,
-   "checks": {},
-   "promoted": false,
-   "miss": 0,
-   "added": 1791236540
-  },
-  "2107209247947952304": {
-   "created": 1791232809,
-   "author": "MTemkin",
-   "followers": 2801,
-   "url": "https://x.com/MTemkin/status/2107209247947952304",
-   "disc_score": 4,
+  "2107257324452651177": {
+   "created": 1791244271,
+   "author": "DecapolisPost",
+   "followers": 9,
+   "url": "https://x.com/DecapolisPost/status/2107257324452651177",
+   "disc_score": 3,
    "checks": {
-    "1": 4
+    "1": 3
    },
    "promoted": false,
    "miss": 0,
-   "added": 1791236540
+   "added": 1791251854
   },
-  "2107181032671772707": {
-   "created": 1791226082,
-   "author": "virtue_hearts",
-   "followers": 2122,
-   "url": "https://x.com/virtue_hearts/status/2107181032671772707",
+  "2107257046618042406": {
+   "created": 1791244205,
+   "author": "DiscussingDN",
+   "followers": 7,
+   "url": "https://x.com/DiscussingDN/status/2107257046618042406",
+   "disc_score": 20,
+   "checks": {
+    "1": 20
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1791251854
+  },
+  "2107250995839586666": {
+   "created": 1791242762,
+   "author": "Techmeme",
+   "followers": 426293,
+   "url": "https://x.com/Techmeme/status/2107250995839586666",
+   "disc_score": 104,
+   "checks": {
+    "1": null
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1791251854
+  },
+  "2107262497367703862": {
+   "created": 1791245505,
+   "author": "ArfurRock",
+   "followers": 40711,
+   "url": "https://x.com/ArfurRock/status/2107262497367703862",
+   "disc_score": 6,
+   "checks": {
+    "1": 6
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1791251854
+  },
+  "2107255958946635826": {
+   "created": 1791243946,
+   "author": "SonicAIWizard",
+   "followers": 22537,
+   "url": "https://x.com/SonicAIWizard/status/2107255958946635826",
+   "disc_score": 3,
+   "checks": {
+    "1": 3
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1791251854
+  },
+  "2107280807710666996": {
+   "created": 1791249870,
+   "author": "RHouseResearch",
+   "followers": 16300,
+   "url": "https://x.com/RHouseResearch/status/2107280807710666996",
+   "disc_score": 2,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791251854
+  },
+  "2107276984799858840": {
+   "created": 1791248959,
+   "author": "KenWattana",
+   "followers": 8504,
+   "url": "https://x.com/KenWattana/status/2107276984799858840",
+   "disc_score": 2,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791251854
+  },
+  "2107252141970862539": {
+   "created": 1791243036,
+   "author": "jackchan_xyz",
+   "followers": 3112,
+   "url": "https://x.com/jackchan_xyz/status/2107252141970862539",
+   "disc_score": 0,
+   "checks": {
+    "1": 0
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1791251854
+  },
+  "2107252716032438503": {
+   "created": 1791243173,
+   "author": "techsnif",
+   "followers": 1910,
+   "url": "https://x.com/techsnif/status/2107252716032438503",
+   "disc_score": 0,
+   "checks": {
+    "1": 0
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1791251854
+  },
+  "2107252714950308137": {
+   "created": 1791243172,
+   "author": "techsnif",
+   "followers": 1910,
+   "url": "https://x.com/techsnif/status/2107252714950308137",
+   "disc_score": 1,
+   "checks": {
+    "1": 1
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1791251854
+  },
+  "2107254613988585815": {
+   "created": 1791243625,
+   "author": "VT_zero1",
+   "followers": 1560,
+   "url": "https://x.com/VT_zero1/status/2107254613988585815",
+   "disc_score": 0,
+   "checks": {
+    "1": 0
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1791251854
+  },
+  "2107251890753007886": {
+   "created": 1791242976,
+   "author": "Chahatusharma",
+   "followers": 661,
+   "url": "https://x.com/Chahatusharma/status/2107251890753007886",
+   "disc_score": 0,
+   "checks": {
+    "1": 0
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1791251854
+  },
+  "2107254953865597267": {
+   "created": 1791243706,
+   "author": "indrajeet877",
+   "followers": 657,
+   "url": "https://x.com/indrajeet877/status/2107254953865597267",
+   "disc_score": 1,
+   "checks": {
+    "1": 1
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1791251854
+  },
+  "2107282028601262580": {
+   "created": 1791250161,
+   "author": "techamericaofcl",
+   "followers": 272,
+   "url": "https://x.com/techamericaofcl/status/2107282028601262580",
+   "disc_score": 1,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791251854
+  },
+  "2107248796505944205": {
+   "created": 1791242238,
+   "author": "staticjupiter",
+   "followers": 212,
+   "url": "https://x.com/staticjupiter/status/2107248796505944205",
+   "disc_score": 1,
+   "checks": {
+    "1": null
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1791251854
+  },
+  "2107261029092569321": {
+   "created": 1791245155,
+   "author": "toushikaka",
+   "followers": 160,
+   "url": "https://x.com/toushikaka/status/2107261029092569321",
+   "disc_score": 0,
+   "checks": {
+    "1": 0
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1791251854
+  },
+  "2107278663964115345": {
+   "created": 1791249359,
+   "author": "sphinx_thesis",
+   "followers": 103,
+   "url": "https://x.com/sphinx_thesis/status/2107278663964115345",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791251854
+  },
+  "2107254518190641434": {
+   "created": 1791243602,
+   "author": "Aaron_Harme",
+   "followers": 81,
+   "url": "https://x.com/Aaron_Harme/status/2107254518190641434",
+   "disc_score": 0,
+   "checks": {
+    "1": 0
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1791251854
+  },
+  "2107265906338566213": {
+   "created": 1791246317,
+   "author": "roeljonath97670",
+   "followers": 18,
+   "url": "https://x.com/roeljonath97670/status/2107265906338566213",
+   "disc_score": 0,
+   "checks": {
+    "1": 0
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1791251854
+  },
+  "2107269222305055058": {
+   "created": 1791247108,
+   "author": "WBN_live",
+   "followers": 187,
+   "url": "https://x.com/WBN_live/status/2107269222305055058",
+   "disc_score": 3,
+   "checks": {
+    "1": 3
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1791251854
+  },
+  "2107247231611158965": {
+   "created": 1791241865,
+   "author": "unnanouncedvc",
+   "followers": 62,
+   "url": "https://x.com/unnanouncedvc/status/2107247231611158965",
    "disc_score": 2,
    "checks": {
     "1": null
    },
    "promoted": false,
    "miss": 0,
-   "added": 1791236540
-  },
-  "2107220536120033545": {
-   "created": 1791235500,
-   "author": "dmxplx",
-   "followers": 1132,
-   "url": "https://x.com/dmxplx/status/2107220536120033545",
-   "disc_score": 0,
-   "checks": {},
-   "promoted": false,
-   "miss": 0,
-   "added": 1791236540
-  },
-  "2107207264293580849": {
-   "created": 1791232336,
-   "author": "dbs62",
-   "followers": 369,
-   "url": "https://x.com/dbs62/status/2107207264293580849",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791236540
-  },
-  "2107219026149572652": {
-   "created": 1791235140,
-   "author": "techamericaofcl",
-   "followers": 270,
-   "url": "https://x.com/techamericaofcl/status/2107219026149572652",
-   "disc_score": 0,
-   "checks": {},
-   "promoted": false,
-   "miss": 0,
-   "added": 1791236540
-  },
-  "2107205486638751944": {
-   "created": 1791231912,
-   "author": "MKRlimitless",
-   "followers": 231,
-   "url": "https://x.com/MKRlimitless/status/2107205486638751944",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791236540
-  },
-  "2107215964177895528": {
-   "created": 1791234410,
-   "author": "ZainAkrams",
-   "followers": 159,
-   "url": "https://x.com/ZainAkrams/status/2107215964177895528",
-   "disc_score": 3,
-   "checks": {},
-   "promoted": false,
-   "miss": 0,
-   "added": 1791236540
-  },
-  "2107214825910653386": {
-   "created": 1791234139,
-   "author": "Sonath_AI",
-   "followers": 126,
-   "url": "https://x.com/Sonath_AI/status/2107214825910653386",
-   "disc_score": 0,
-   "checks": {},
-   "promoted": false,
-   "miss": 0,
-   "added": 1791236540
-  },
-  "2107206817596182770": {
-   "created": 1791232229,
-   "author": "techwithjoe_io",
-   "followers": 37,
-   "url": "https://x.com/techwithjoe_io/status/2107206817596182770",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791236540
-  },
-  "2107214576039141546": {
-   "created": 1791234079,
-   "author": "WatchfulEye_US",
-   "followers": 28,
-   "url": "https://x.com/WatchfulEye_US/status/2107214576039141546",
-   "disc_score": 0,
-   "checks": {},
-   "promoted": false,
-   "miss": 0,
-   "added": 1791236540
+   "added": 1791251854
   }
  },
  "baseline": {
@@ -1557,6 +1691,66 @@
    [
     1791236541,
     0
+   ],
+   [
+    1791251857,
+    0
+   ],
+   [
+    1791251857,
+    3
+   ],
+   [
+    1791251857,
+    20
+   ],
+   [
+    1791251857,
+    6
+   ],
+   [
+    1791251857,
+    3
+   ],
+   [
+    1791251857,
+    0
+   ],
+   [
+    1791251857,
+    0
+   ],
+   [
+    1791251857,
+    1
+   ],
+   [
+    1791251857,
+    0
+   ],
+   [
+    1791251857,
+    0
+   ],
+   [
+    1791251857,
+    1
+   ],
+   [
+    1791251857,
+    0
+   ],
+   [
+    1791251857,
+    0
+   ],
+   [
+    1791251857,
+    0
+   ],
+   [
+    1791251857,
+    3
    ]
   ]
  },
