@@ -13,26 +13,15 @@
    "miss": 0,
    "added": 1791180623
   },
-  "7512708967408533504": {
-   "created": 1791169397,
-   "author": "The Inference",
-   "url": "https://www.linkedin.com/posts/the-inference-org_etched-janestreet-aichips-activity-7512708967408533504-PWQm",
-   "text": "Jane Street set Etched's $21 billion valuation in August. It is also the chip startup's only named customer.\n\nThe mark quadrupled in eight months. Etched says it holds more than $1 billion in customer contracts, but the figure is company-stated and unaudited, and a contract here can be a real order or just a letter of intent.\n\nJane Street had already put in more than $100 million and sat in both earlier rounds. Its rack has been running live workloads since July.\n\nCommercial racks are due in the fourth quarter. Until a buyer with no equity signs, the order book and the cap table are the same list.\n\n#Etched #JaneStreet #AIChips #Nvidia #VentureCapital\n\nhttps://lnkd.in/g25vMeR6\n\n#Etched #JaneS",
-   "disc_score": 0,
-   "checks": {
-    "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791180623
-  },
   "7512876329097441280": {
    "created": 1791209299,
    "author": "Nathan Spielberg",
    "url": "https://www.linkedin.com/posts/nathan-spielberg_startups-mondaythoughts-letsgooo-activity-7512876329097441280-lNBv",
    "text": "People need to stop talking about Route 128. I've had so many conversations about why Boston currently loses great startups that somehow goes back to something that happened decades ago.\n\nMeanwhile we are losing companies right now like Cursor, Etched, Instinct and Mercor.\n\nThese are the examples we should be studying.\n\nNobody talks about OpenAI and Anthropic by spending half the conversation talking about garages in Palo Alto.\n\nIts a new era and the questions are different.\n\nWhere are the best founders going?\nWhere is the talent going?\nWhere is the capital going?\nWhat makes someone come out of MIT, Harvard, or one of Boston's incredible companies, start something here, and then decide they ",
    "disc_score": 16,
-   "checks": {},
+   "checks": {
+    "24": 135
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791211572
@@ -43,8 +32,10 @@
    "url": "https://www.linkedin.com/posts/gaganbiyani_the-first-thing-we-wanted-to-prove-with-the-activity-7512867670145511424-IyiG",
    "text": "The first thing we wanted to prove with The Horowitz Andreessen Academy was that great companies weren\u2019t just willing, but genuinely excited, to hire Academy graduates.\ud83d\ude80 \n\nHere are the companies joining us as inaugural hiring partners. This also doubles as a list of hot companies willing to consider exceptional young talent.\n\nAbridge, Adaptive Security, Amca, Anduril, Applied Intuition, Arc, Astranis, Aven, Base Power Company, Boom Supersonic, Brilliant, Castelion, Cerebras Systems, Clay, Cognition, Coinbase, Cowboy Space, Cresta, Databricks, Decagon, EliseAI, Etched, Exa, Factory, Flock Safety, Gamma, Glean, Hadrian, Harvey, Headway, Hebbia, Heron Power, Hex, Infinitus, Kraken, Linear, Lova",
    "disc_score": 28,
-   "checks": {},
-   "promoted": false,
+   "checks": {
+    "24": 251
+   },
+   "promoted": true,
    "miss": 0,
    "added": 1791211572
   },
@@ -54,7 +45,9 @@
    "url": "https://www.linkedin.com/posts/lewgardn_86-of-us-venture-dollars-went-to-ai-in-the-activity-7512844704951173120-2JA8",
    "text": "86% of US venture dollars went to AI in the first half.\n\nAnd the interesting money is moving down the stack.\n\n$355.9B in six months. Not into apps. Into the physical layers underneath Nvidia.\n\nWhere the cheques landed:\n\n1. Silicon: Etched, $1.5B raised, valued at $21B\n2. Interconnect: Lightmatter and Ayar Labs, about $850M each\n3. Power: Base Power's $1B round at a $13B valuation\n4. Generation: Mainspring, over $800M raised\n5. Debt on top: $570B of AI bonds forecast this year\n\nEach line is a bet on where your bottleneck bites.\n\nEtched took three rounds in eight months. Jane Street led the last one and took the first rack.\n\nThe customer is the underwriter now.\n\nAyar Labs closed $500M in March",
    "disc_score": 2,
-   "checks": {},
+   "checks": {
+    "24": 3
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791211572
@@ -65,7 +58,9 @@
    "url": "https://www.linkedin.com/posts/w3pds_ia-tecnologaeda-noticiastech-activity-7512857664935374848-GqLG",
    "text": "\ud83d\udcf0 Resumen tech \u2014 lunes 5 de octubre\n\nDe Copilot operando tu escritorio a la fibra financiera de la IA: la semana arranca fuerte en c\u00f3digo, hardware y seguridad.\n\n\ud83e\udd16 GitHub Copilot ahora maneja apps de escritorio\nGitHub abri\u00f3 el preview p\u00fablico de \u00abComputer Use\u00bb (1 de octubre) en Copilot CLI y su app para macOS y Windows: hace clic, escribe y cruza ventanas, incluso en software legacy sin API. Viene desactivado por defecto y pide aprobaci\u00f3n antes de actuar.\n\n\u26a1 Google presenta Gemini 4 Argon\nAlphabet lanz\u00f3 Gemini 4 Argon, su modelo m\u00e1s potente hasta ahora, con foco en ciberseguridad defensiva: puede encontrar, validar y parchear vulnerabilidades de forma aut\u00f3noma, con l\u00edmite de salida de 1 mill",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 1
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791211572
@@ -89,7 +84,9 @@
    "url": "https://www.linkedin.com/posts/raisonapp_on-september-30-raison-hosted-a-webinar-activity-7512889995469357057-aaf4",
    "text": "On September 30, Raison hosted a webinar with Nick Davidov and Marina Davidova, founders and managing partners of DVC. Together with Andrey Berezin, co-founder of Raison, they discussed how DVC and DVC AI Fund I work, how the team chooses verticals, and how AI economics are changing.\n\nKey facts about DVC:\n\n- DVC brings together more than 200 investors and founders who source deals and invest together.\n- The fund has closed more than 160 deals over five years.\n- Eight unicorns in its portfolio, including Perplexity and Etched.\n- DVC invests in AI startups through DVC AI Fund I, mainly at early stages.\n\nNick also explained how DVC chooses where to invest. The team analyzes each vertical separa",
    "disc_score": 2,
-   "checks": {},
+   "checks": {
+    "24": 2
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791215961
@@ -100,7 +97,9 @@
    "url": "https://www.linkedin.com/posts/joseasanhueza_activosalternativossemiliquidos-venturecapital-activity-7512892448126324737-toEY",
    "text": "Estimados amigos, \nLes comparto los resultados de nuestro fondo BICE Venture Capital, el cual da acceso a la econom\u00eda de la innovaci\u00f3n, de la mano de StepStone Group.  El fondo tiene acceso a Space X (antes del IPO), y a otras compa\u00f1\u00edas como Anduril, databricks, Crusoe, Etched, entre 2,000 compa\u00f1\u00edas.  Si quieren participar, av\u00edsenme por interno. \nBICE Inversiones #ActivosAlternativosSemiliquidos #VentureCapital",
    "disc_score": 1,
-   "checks": {},
+   "checks": {
+    "24": 29
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791215961
@@ -500,6 +499,182 @@
    "promoted": false,
    "miss": 0,
    "added": 1791281702
+  },
+  "7513201282925584384": {
+   "created": 1791286774,
+   "author": "Robin Pandey",
+   "url": "https://www.linkedin.com/posts/robinpandey_ai-cybersecurity-futureofwork-activity-7513201282925584384-VnDk",
+   "text": "On Thursday, an open-source AI attack agent got into seven Korean financial firms. By Sunday, the country's president had ordered a national investigation.\n\nShinhan, KB Kookmin, Hana, BNK Busan, Yegaram Savings, Welcome Savings, and Hyundai Capital were all breached. Data on more than 67,000 people was exposed, and investigators found the same attacker IP at every firm. Local reporting says the attackers used ARTEX AI, a free autonomous penetration-testing framework on GitHub.\n\nThat is the story from today's Neural Dispatch brief I'd want every CISO to read. Banks are no longer up against one skilled attacker at a time. They're up against reconnaissance tooling anyone can download and point ",
+   "disc_score": 2,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791300832
+  },
+  "7513251789303861248": {
+   "created": 1791298816,
+   "author": "Berkley Hunt",
+   "url": "https://www.linkedin.com/posts/berkleyhunt_ai-semiconductors-aiinfrastructure-activity-7513251789303861248-ArNH",
+   "text": "Just a couple of months after raising $700M at a $21B valuation, AI chip startup Etched is reportedly receiving investment offers valuing the company at between $40B and $50B.\n\nEtched is building full AI hardware systems powered by its own proprietary chips, with a focus on accelerating inference. The company claims its technology can process more tokens faster and at a lower cost than Nvidia\u2019s.\n\nThe startup said in July that it had already secured $1B in customer orders, while Jane Street, which led its previous $700M round, is also an early customer.\n\nWith AI hardware being one of the most expensive and competitive areas of the industry, the interest in Etched highlights how strongly inves",
+   "disc_score": 5,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791300832
+  },
+  "7513154351901728769": {
+   "created": 1791275585,
+   "author": "FinTech Gate-\u0628\u0648\u0627\u0628\u0629 \u0627\u0644\u062a\u0643\u0646\u0648\u0644\u0648\u062c\u064a\u0627 \u0627\u0644\u0645\u0627\u0644\u064a\u0629",
+   "url": "https://www.linkedin.com/posts/fintech-gate-official-page_fintechabrgate-etched-ai-activity-7513154351901728769-TOCQ",
+   "text": "\u0634\u0631\u0643\u0629 \u0646\u0627\u0634\u0626\u0629 \u0641\u064a \u0631\u0642\u0627\u0626\u0642 \u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a \u062a\u0642\u062a\u0631\u0628 \u0645\u0646 \u062a\u0642\u064a\u064a\u0645 50 \u0645\u0644\u064a\u0627\u0631 \u062f\u0648\u0644\u0627\u0631\n\u062a\u062a\u0644\u0642\u0649 \u0634\u0631\u0643\u0629 Etched \u0627\u0644\u0623\u0645\u0631\u064a\u0643\u064a\u0629 \u0627\u0644\u0646\u0627\u0634\u0626\u0629 \u0639\u0631\u0648\u0636\u064b\u0627 \u0627\u0633\u062a\u062b\u0645\u0627\u0631\u064a\u0629 \u0642\u062f \u062a\u0631\u0641\u0639 \u0642\u064a\u0645\u062a\u0647\u0627 \u0625\u0644\u0649 40\u201350 \u0645\u0644\u064a\u0627\u0631 \u062f\u0648\u0644\u0627\u0631\u060c \u0628\u0639\u062f \u0623\u0633\u0627\u0628\u064a\u0639 \u0641\u0642\u0637 \u0645\u0646 \u062c\u0645\u0639\u0647\u0627 700 \u0645\u0644\u064a\u0648\u0646 \u062f\u0648\u0644\u0627\u0631 \u0639\u0646\u062f \u062a\u0642\u064a\u064a\u0645 \u0628\u0644\u063a 21 \u0645\u0644\u064a\u0627\u0631 \u062f\u0648\u0644\u0627\u0631.\n\u0648\u062a\u0637\u0648\u0631 Etched \u0631\u0642\u0627\u0626\u0642 \u0648\u0623\u0646\u0638\u0645\u0629 \u0645\u062a\u062e\u0635\u0635\u0629 \u0644\u062a\u0633\u0631\u064a\u0639 \u0627\u0633\u062a\u062f\u0644\u0627\u0644 \u0646\u0645\u0627\u0630\u062c \u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a\u060c \u0648\u062a\u0633\u0639\u0649 \u0644\u0645\u0646\u0627\u0641\u0633\u0629 Nvidia \u0645\u0646 \u062e\u0644\u0627\u0644 \u062a\u0635\u0645\u064a\u0645\u0627\u062a \u062a\u0642\u0648\u0644 \u0625\u0646\u0647\u0627 \u062a\u0648\u0641\u0631 \u0633\u0631\u0639\u0629 \u0623\u0639\u0644\u0649 \u0648\u062a\u0643\u0644\u0641\u0629 \u0623\u0642\u0644 \u0641\u064a \u0628\u0639\u0636 \u062a\u0637\u0628\u064a\u0642\u0627\u062a \u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a.\n\u0648\u062c\u0645\u0639\u062a \u0627\u0644\u0634\u0631\u0643\u0629 300 \u0645\u0644\u064a\u0648\u0646 \u062f\u0648\u0644\u0627\u0631 \u0641\u064a \u064a\u0648\u0644\u064a\u0648 \u0639\u0646\u062f \u062a\u0642\u064a\u064a\u0645 10.3 \u0645\u0644\u064a\u0627\u0631 \u062f\u0648\u0644\u0627\u0631 \u0628\u0642\u064a\u0627\u062f\u0629 Sequoia\u060c \u0642\u0628\u0644 \u0623\u0646 \u062a\u0636\u0627\u0639\u0641 \u062a\u0642\u064a\u064a\u0645\u0647\u0627 \u0625\u0644\u0649 21 \u0645\u0644\u064a\u0627\u0631 \u062f\u0648\u0644\u0627\u0631 \u0641\u064a \u0633\u0628\u062a\u0645\u0628\u0631. \u0643\u0645\u0627 \u0623\u0639\u0644\u0646\u062a \u062d\u0635\u0648\u0644\u0647\u0627 \u0639\u0644\u0649 \u0637\u0644\u0628\u0627\u062a \u0639\u0645\u0644\u0627\u0621 \u0628\u0642\u064a\u0645\u0629 \u0645\u0644\u064a\u0627\u0631 \u062f\u0648\u0644\u0627\u0631\u060c \u0628\u064a\u0646\u0645\u0627 \u064a\u0634\u0643\u0644 \u0645\u0648\u0638\u0641\u0648\u0646 \u0633\u0627\u0628\u0642\u0648\u0646 \u0641\u064a Nvidia \u0646\u062d\u0648 15% \u0645\u0646 \u0642\u0648\u0629 \u0627\u0644\u0639\u0645\u0644 \u0627\u0644\u0628\u0627\u0644\u063a\u0629 400 \u0645\u0648\u0638\u0641.\n\n\n\n\n\ud83d\udd17 \u0631\u0627\u0628\u0637 \u0627\u0644\u062a\u0641\u0627\u0635\u064a\u0644  || https://lnkd",
+   "disc_score": 2,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791300832
+  },
+  "7513230221022744576": {
+   "created": 1791293673,
+   "author": "Trending Topics International",
+   "url": "https://www.linkedin.com/posts/trendingtopics-international_etched-could-receive-a-40-billion-valuation-activity-7513230221022744576-eooW",
+   "text": "Last August, US startup Etched raised $700 million at a $21 billion valuation. Today, the company is reportedly reviewing offers that could value it at $40-50 billion\u2014more than double in less than a year.\n\nEtched is directly challenging Nvidia's dominance by building complete AI hardware systems with proprietary chips that process tokens faster and more cost-effectively. The startup has already secured $1 billion in customer orders, with quantitative trading firm Jane Street both leading the last funding round and deploying early systems.\n\nThe talent acquisition strategy is equally impressive: approximately 15% of Etched's 400 employees are former Nvidia staff. The company has also establish",
+   "disc_score": 1,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791300832
+  },
+  "7513194054332063744": {
+   "created": 1791285050,
+   "author": "Revolter",
+   "url": "https://www.linkedin.com/posts/revolterab_reflection-just-dropped-beam-an-open-weight-activity-7513194054332063744-iMlS",
+   "text": "Reflection just dropped Beam, an open-weight AI model that rivals Chinese competitors at lower compute cost \ud83d\ude80\n\nReflection's new Beam model signals a major shift in how we approach AI infrastructure. Open-weight models are becoming the competitive standard, and the fact that they're matching closed-source performance at fraction of the compute cost changes the economics for everyone building with AI. We're watching this space closely because it impacts how teams like yours will architect AI features over the next 12 months.\n\nSignSplit raised $400M to build infrastructure for digitally signing datasets and creative works, hitting a $1B valuation. This matters because as AI training data become",
+   "disc_score": 1,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791300832
+  },
+  "7513251824775385088": {
+   "created": 1791298824,
+   "author": "Paulo Pimentel",
+   "url": "https://www.linkedin.com/posts/paulo-pimentel-7b09698_trump-orders-us-agencies-to-call-ai-super-activity-7513251824775385088-7aMO",
+   "text": "## \ud83d\udcf0 Not\u00edcias de Tecnologia \u2014 06/10/2026\n\n**\ud83d\udd34 1. Trump assina ordem renomeando \"Intelig\u00eancia Artificial\" para \"Super Intelig\u00eancia\" no governo dos EUA**\n\ud83d\udd17 https://lnkd.in/d33sXPZV\n\nA ordem executiva determina que ag\u00eancias federais troquem o termo \"IA\" por \"SI\" em comunica\u00e7\u00f5es oficiais e \"n\u00e3o reconhe\u00e7am mais\" a express\u00e3o antiga. No mesmo dia, os CEOs de Google, Anthropic, Meta, OpenAI, xAI e Nvidia assinaram um acordo \"moralmente vinculante\" sobre seguran\u00e7a no setor.\n\n---\n\n**\ud83d\udd34 2. OpenAI vai aplicar marca d'\u00e1gua em textos gerados pelo ChatGPT na Uni\u00e3o Europeia**\n\ud83d\udd17 https://techcrunch.com/\n\nA medida busca atender a exig\u00eancias regulat\u00f3rias europeias de transpar\u00eancia sobre conte\u00fado gerado por IA, m",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791300832
+  },
+  "7513233033278464000": {
+   "created": 1791294344,
+   "author": "Harsh Chhajer",
+   "url": "https://www.linkedin.com/posts/harshchhajer_i-spend-about-an-hour-every-day-researching-activity-7513233033278464000-4BeC",
+   "text": "I spend about an hour every day researching AI companies. After more than a year of it, these 12 are the ones that stuck.\n\nNone of them are the biggest. Each one is building something I want to exist, and I think it will matter well outside of tech.\n\nWhat I'm in love with is the choice of problem. Each team picked work that was slow, expensive or physical, and decided they belonged in it.\n\nThe physical ones. Figure put humanoids on a BMW factory floor, where Figure 02 loaded 90,000+ parts over 11 months. Etched is hardwiring the transformer architecture into a chip, and reports $1B+ in signed contracts.\n\nThe slow ones. Chai Discovery licenses molecule-design models to Eli Lilly, Pfizer and N",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791300832
+  },
+  "7513202958289895424": {
+   "created": 1791287173,
+   "author": "helo!",
+   "url": "https://www.linkedin.com/posts/helotogether_dailybrief100626pdf-activity-7513202958289895424-bx1_",
+   "text": "Sovereign funds underwriting dev tools, $40B+ valuations for AI silicon challengers, and agent database acquisitions lead today\u2019s headlines.\n\nSupabase secures $150M led by GIC and acquires Turso to build agent-ready database rails, while Etched fields inbound offers at an eye-popping $40B+ valuation as non-Nvidia chip demand runs white-hot.\n\nMeanwhile, Namespace lands a $42M Series B to power execution environments for AI coding agents, and Menlo Ventures backs Factory in a fiercely contested developer tooling race.\n\nFollow helo! for your daily venture radar.\n\n#Startups #VentureCapital #DailyBrief #DevTools #AIHardware #TechNews #heloland",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791300832
+  },
+  "7513203735565623297": {
+   "created": 1791287359,
+   "author": "TechAmerica",
+   "url": "https://www.linkedin.com/posts/techamericaofficial_etched-draws-funding-offers-at-up-to-50-activity-7513203735565623297-84m4",
+   "text": "Etched is reportedly reviewing investment offers at valuations of up to $50 billion, marking another rapid increase after its recent $700 million financing valued the AI chip startup at $21 billion.\n\nThe company is building specialised inference systems, operates a 10-megawatt data centre and has reported about $1 billion in customer orders, positioning it as an emerging challenger in AI infrastructure.\n\nRead the full article:\nhttps://lnkd.in/gjvSjFFP",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791300832
+  },
+  "7513229270593433600": {
+   "created": 1791293447,
+   "author": "Trending Topics",
+   "url": "https://www.linkedin.com/posts/trendingtopics-eu_etched-k%C3%B6nnte-bewertung-von-40-mrd-dollar-activity-7513229270593433600-_9b4",
+   "text": "Rasantes Wachstum im KI-Chip-Markt: Etched auf dem Weg zur 40-Milliarden-Bewertung \ud83d\udca1\n\nErst im August 2025 sammelte das US-Chip-Startup Etched 700 Millionen Dollar bei einer Bewertung von 21 Milliarden Dollar ein. Nun, nur wenige Monate sp\u00e4ter, pr\u00fcft das Unternehmen bereits neue Investitionsangebote zwischen 40 und 50 Milliarden Dollar \u2013 eine nahezu Verdopplung der Bewertung.\n\nDas vier Jahre alte Startup entwickelt propriet\u00e4re KI-Chips und komplette Hardwaresysteme, die Nvidia direkt herausfordern sollen. Die Prozessoren versprechen, Token schneller und kosteng\u00fcnstiger zu verarbeiten \u2013 ein entscheidender Vorteil f\u00fcr Kunden wie das Quant-Trading-Unternehmen Jane Street, das nicht nur die letzt",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791300832
+  },
+  "7513177384439824385": {
+   "created": 1791281076,
+   "author": "Havedev Cipta Teknologi",
+   "url": "https://www.linkedin.com/posts/havedev_valuasi-etched-naik-cepat-tetapi-pasar-ai-activity-7513177384439824385-AuGv",
+   "text": "Valuasi Etched naik cepat, tetapi pasar AI chip tidak menang hanya karena narasi.\n\nUntuk perusahaan B2B, pertanyaan besarnya bukan sekadar \u201cseberapa besar hype-nya?\u201d, tetapi:\n\n- Bisakah chip diproduksi stabil dalam skala besar?\n- Apakah pelanggan enterprise siap mengunci workload ke arsitektur khusus?\n- Seberapa besar efisiensi nyata dibanding GPU umum?\n- Apakah supply chain mampu mengejar ekspektasi valuasi?\n\nAI chip bisa jadi peluang besar. Namun nilai akhirnya tetap ditentukan oleh eksekusi: produksi, adopsi pelanggan, performa, dan biaya operasional.\n\nBaca analisis lengkapnya di Havedev:\nhttps://lnkd.in/eAQG6EMG\nPhotographer: ed br",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791300832
+  },
+  "7513181558837653505": {
+   "created": 1791282071,
+   "author": "Learn With Psudo",
+   "url": "https://www.linkedin.com/posts/learn-with-psudo_100-days-with-psudo-day-3100-activity-7513181558837653505-aYmu",
+   "text": "Day 3/100 of #100DaysWithPsudo \ud83d\ude80\n\nPower and accountability \u2014 that's today's theme. NYC put AI giants under oath, chip makers are bankrolling AI labs, and Playwright just overtook Selenium in the job market.\n\n1\ufe0f\u20e3 NYC Council puts Anthropic, OpenAI, Google, Meta under oath on AI risks\n2\ufe0f\u20e3 Broadcom hands Anthropic $42B in a $60B chip financing deal\n3\ufe0f\u20e3 Etched eyes $40B\u2013$50B valuation, doubling since August\n4\ufe0f\u20e3 Playwright overtakes Selenium in French QA job ads\n5\ufe0f\u20e3 Armadin raises $255.5M for AI-native security\n\nMy take: when even the people building these models can't prove they behave, independent verification stops being optional \u2014 that's literally our job as testers.\n\nFollow the journey \u2014 see",
+   "disc_score": 9,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791300832
+  },
+  "7513190342611918848": {
+   "created": 1791284166,
+   "author": "Telescopic Ventures",
+   "url": "https://www.linkedin.com/posts/telescopic-ventures_venturecapital-startups-diversityinvc-activity-7513190342611918848-xoDG",
+   "text": "Q3 2026 set a record for billion-dollar funding rounds globally as the AI race intensifies, signaling continued investor appetite for artificial intelligence companies despite market volatility. A 19-year-old founder raised $11 million for an AI hardware startup, and demo day showcases like PearX are attracting VC attention to emerging companies, indicating that access to capital remains available across different funding stages and founder profiles. For founders seeking to build momentum, these developments show that investors are actively deploying capital into AI solutions and that traditional pathways like accelerators and pitch events remain viable channels for visibility and funding.\n\n",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791300832
+  },
+  "7513190332961038336": {
+   "created": 1791284163,
+   "author": "BBAT Technologies & Digital Services, LLC",
+   "url": "https://www.linkedin.com/posts/bbat-technologies-digital-services-llc_tech-cybersecurity-accessibility-activity-7513190332961038336-ZBtd",
+   "text": "OpenAI is now watermarking text generated by ChatGPT in the European Union, a regulatory compliance measure reflecting stricter AI disclosure requirements under EU law. Simultaneously, the AI infrastructure market is heating up with Etched raising funding at a $40B+ valuation and Reflection launching a lower-cost open-weight model to compete with Chinese alternatives, signaling intensifying competition in AI compute and model development. For business owners, this means AI tool adoption continues accelerating while regulatory pressures around AI transparency are mounting in key markets.\n\nAlso today:\nCybersecurity: A major breach of Denmark's population registry exposed personal data for 8.8 ",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791300832
+  },
+  "7513193045350350848": {
+   "created": 1791284810,
+   "author": "Sylvester Eyamah",
+   "url": "https://www.linkedin.com/posts/sylvester-eyamah-78338141b_etched-attracts-investment-bids-valuing-ai-activity-7513193045350350848-_6SR",
+   "text": "Etched Attracts Investment Bids Valuing AI Chip Startup at Over $40B, Sources Report\nhttps://lnkd.in/dbnz4byZ",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791300832
+  },
+  "7513196333365805056": {
+   "created": 1791285594,
+   "author": "Rick Spair",
+   "url": "https://www.linkedin.com/posts/rickspair_ainews-artificialintelligence-aifunding-activity-7513196333365805056-UJFz",
+   "text": "China's DeepSeek blew past its own fundraising target, with Tencent and CATL helping push the round to at least $12 billion ahead of a 2027 IPO.\n\nDX Today AI Daily Brief - Tuesday, October 6, 2026\n\nChinese AI lab DeepSeek nears a funding round of at least $12 billion backed by Tencent and CATL, while OpenAI courts UAE funds including MGX, plus BlackRock, to anchor a $30 billion raise. Schneider Electric agrees to buy PTC for $22.6 billion in cash, the largest deal in its history, and Nvidia backed Reflection AI unveils Beam, a 501 billion parameter open weight model. Meta and Microsoft cut back internal use of Anthropic's Claude, AI chip startup Etched fields offers valuing it at up to $50 b",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791300832
   }
  },
  "baseline": {
@@ -1799,6 +1974,30 @@
    [
     1791276405,
     1
+   ],
+   [
+    1791300832,
+    135
+   ],
+   [
+    1791300832,
+    251
+   ],
+   [
+    1791300832,
+    3
+   ],
+   [
+    1791300832,
+    1
+   ],
+   [
+    1791300832,
+    2
+   ],
+   [
+    1791300832,
+    29
    ]
   ]
  },
@@ -1942,6 +2141,11 @@
    1791276405,
    "7512742183389720577",
    289
+  ],
+  [
+   1791300832,
+   "7512867670145511424",
+   251
   ]
  ],
  "seeded": true
