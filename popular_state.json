@@ -1,132 +1,182 @@
 {
  "watch": {
-  "2107365514540691548": {
-   "created": 1791270066,
-   "author": "0xKevinJ",
-   "followers": 2689,
-   "url": "https://x.com/0xKevinJ/status/2107365514540691548",
+  "2107450279096373625": {
+   "created": 1791290275,
+   "author": "infobaetecno",
+   "followers": 158873,
+   "url": "https://x.com/infobaetecno/status/2107450279096373625",
+   "disc_score": 0,
+   "checks": {
+    "1": null
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1791300655
+  },
+  "2107455027396943970": {
+   "created": 1791291407,
+   "author": "BlaylockGold",
+   "followers": 20441,
+   "url": "https://x.com/BlaylockGold/status/2107455027396943970",
+   "disc_score": 1,
+   "checks": {
+    "1": null
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1791300655
+  },
+  "2107458330885284140": {
+   "created": 1791292195,
+   "author": "infinterenders",
+   "followers": 3430,
+   "url": "https://x.com/infinterenders/status/2107458330885284140",
+   "disc_score": 131,
+   "checks": {
+    "1": 135
+   },
+   "promoted": true,
+   "miss": 0,
+   "added": 1791300655
+  },
+  "2107473004233961526": {
+   "created": 1791295693,
+   "author": "nishant568",
+   "followers": 583,
+   "url": "https://x.com/nishant568/status/2107473004233961526",
    "disc_score": 0,
    "checks": {
     "1": 0
    },
    "promoted": false,
    "miss": 0,
-   "added": 1791276247
+   "added": 1791300655
   },
-  "2107354529809436989": {
-   "created": 1791267447,
-   "author": "jaytee_szn",
-   "followers": 243,
-   "url": "https://x.com/jaytee_szn/status/2107354529809436989",
+  "2107477988560523648": {
+   "created": 1791296882,
+   "author": "austininaustinX",
+   "followers": 274,
+   "url": "https://x.com/austininaustinX/status/2107477988560523648",
    "disc_score": 0,
    "checks": {
     "1": 0
    },
    "promoted": false,
    "miss": 0,
-   "added": 1791276247
+   "added": 1791300655
   },
-  "2107387828720255407": {
-   "created": 1791275386,
-   "author": "rdominguezibar",
-   "followers": 11609,
-   "url": "https://x.com/rdominguezibar/status/2107387828720255407",
+  "2107468503976714390": {
+   "created": 1791294620,
+   "author": "WBN_live",
+   "followers": 187,
+   "url": "https://x.com/WBN_live/status/2107468503976714390",
+   "disc_score": 4,
+   "checks": {
+    "1": 4
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1791300655
+  },
+  "2107489185263407527": {
+   "created": 1791299551,
+   "author": "Acezhang01",
+   "followers": 89,
+   "url": "https://x.com/Acezhang01/status/2107489185263407527",
    "disc_score": 0,
    "checks": {},
    "promoted": false,
    "miss": 0,
-   "added": 1791276247
+   "added": 1791300655
   },
-  "2107370231047795175": {
-   "created": 1791271190,
-   "author": "VT_zero1",
-   "followers": 1560,
-   "url": "https://x.com/VT_zero1/status/2107370231047795175",
-   "disc_score": 5,
-   "checks": {
-    "1": 5
-   },
+  "2107483257969283357": {
+   "created": 1791298138,
+   "author": "webulite",
+   "followers": 84,
+   "url": "https://x.com/webulite/status/2107483257969283357",
+   "disc_score": 0,
+   "checks": {},
    "promoted": false,
    "miss": 0,
-   "added": 1791276247
+   "added": 1791300655
   },
-  "2107367624942166218": {
-   "created": 1791270569,
-   "author": "DukeHarewood",
-   "followers": 446,
-   "url": "https://x.com/DukeHarewood/status/2107367624942166218",
-   "disc_score": 2,
-   "checks": {
-    "1": 2
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791276247
-  },
-  "2107353458273620241": {
-   "created": 1791267191,
-   "author": "DrivenInvestor",
-   "followers": 29,
-   "url": "https://x.com/DrivenInvestor/status/2107353458273620241",
+  "2107468431557644743": {
+   "created": 1791294603,
+   "author": "Aaron_Harme",
+   "followers": 81,
+   "url": "https://x.com/Aaron_Harme/status/2107468431557644743",
    "disc_score": 0,
    "checks": {
-    "1": null
+    "1": 0
    },
    "promoted": false,
    "miss": 0,
-   "added": 1791276247
+   "added": 1791300655
   },
-  "2107353327361237393": {
-   "created": 1791267160,
-   "author": "DrivenInvestor",
-   "followers": 29,
-   "url": "https://x.com/DrivenInvestor/status/2107353327361237393",
+  "2107476330447073599": {
+   "created": 1791296486,
+   "author": "QOECapital",
+   "followers": 77,
+   "url": "https://x.com/QOECapital/status/2107476330447073599",
+   "disc_score": 0,
+   "checks": {
+    "1": 0
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1791300655
+  },
+  "2107457330832986390": {
+   "created": 1791291956,
+   "author": "yo123dawg",
+   "followers": 69,
+   "url": "https://x.com/yo123dawg/status/2107457330832986390",
+   "disc_score": 0,
+   "checks": {
+    "1": 0
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1791300655
+  },
+  "2107450277963972953": {
+   "created": 1791290275,
+   "author": "BriceTian",
+   "followers": 24,
+   "url": "https://x.com/BriceTian/status/2107450277963972953",
    "disc_score": 1,
    "checks": {
     "1": null
    },
    "promoted": false,
    "miss": 0,
-   "added": 1791276247
+   "added": 1791300655
   },
-  "2107357693799215308": {
-   "created": 1791268201,
-   "author": "BoraOzkentNSDQ",
-   "followers": 157682,
-   "url": "https://x.com/BoraOzkentNSDQ/status/2107357693799215308",
-   "disc_score": 10,
+  "2107461903526093300": {
+   "created": 1791293047,
+   "author": "pvnbbr",
+   "followers": 22,
+   "url": "https://x.com/pvnbbr/status/2107461903526093300",
+   "disc_score": 0,
    "checks": {
-    "1": 10
+    "1": 0
    },
    "promoted": false,
    "miss": 0,
-   "added": 1791276247
+   "added": 1791300655
   },
-  "2107357693144940633": {
-   "created": 1791268201,
-   "author": "BoraOzkentNSDQ",
-   "followers": 157682,
-   "url": "https://x.com/BoraOzkentNSDQ/status/2107357693144940633",
-   "disc_score": 5,
-   "checks": {
-    "1": 5
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791276247
-  },
-  "2107362200092619143": {
-   "created": 1791269276,
-   "author": "Monetivision",
-   "followers": 52,
-   "url": "https://x.com/Monetivision/status/2107362200092619143",
+  "2107448701094367508": {
+   "created": 1791289899,
+   "author": "obolcapital",
+   "followers": 7,
+   "url": "https://x.com/obolcapital/status/2107448701094367508",
    "disc_score": 1,
    "checks": {
-    "1": 1
+    "1": null
    },
    "promoted": false,
    "miss": 0,
-   "added": 1791276247
+   "added": 1791300655
   }
  },
  "baseline": {
@@ -1618,6 +1668,38 @@
    [
     1791276247,
     1
+   ],
+   [
+    1791300656,
+    135
+   ],
+   [
+    1791300656,
+    0
+   ],
+   [
+    1791300656,
+    0
+   ],
+   [
+    1791300656,
+    4
+   ],
+   [
+    1791300656,
+    0
+   ],
+   [
+    1791300656,
+    0
+   ],
+   [
+    1791300656,
+    0
+   ],
+   [
+    1791300656,
+    0
    ]
   ]
  },
@@ -1706,6 +1788,11 @@
    1791211368,
    "2107099537282048293",
    37
+  ],
+  [
+   1791300656,
+   "2107458330885284140",
+   135
   ]
  ],
  "seeded": true
