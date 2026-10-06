@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7512480707504562176": {
-   "created": 1791114975,
-   "author": "Gaith Saqer",
-   "url": "https://www.linkedin.com/posts/gaith-saqer-b24a1821b_ai-vcs-siliconvalley-activity-7512480707504562176-ynZO",
-   "text": "These are the VCs that made\u00a0the\u00a0most AI investments from 2025 until now:\n\nSource: Multiples, data as of  Sep 2026\n\n1. Andreessen Horowitz \u2014 122 AI investments, 40% of all deals 2025-26 \u2014 key AI holdings include OpenAI, Databricks, Cognition and Safe Superintelligence. Famously missed Anthropic\n2. General Catalyst \u2014 122 AI investments, 38% of all deals 2025-26 \u2014 backer of Anthropic, Mistral, Cognition and defence AI software Helsing.\n3. Sequoia Capital \u2014 116 AI investments, 47% of all deals 2025-26 \u2014 positions in Anthropic, OpenAI, chip designer Etched and Fireworks AI.\n4. Khosla Ventures \u2014 102 AI investments, 50% of all deals 2025-26 \u2014 holdings include Cognition, Lovable, Abridge and Factory",
-   "disc_score": 0,
-   "checks": {
-    "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791119492
-  },
   "7512742183389720577": {
    "created": 1791177316,
    "author": "Grace Gong",
@@ -276,6 +263,61 @@
    "promoted": false,
    "miss": 0,
    "added": 1791239803
+  },
+  "7513000266842038272": {
+   "created": 1791238848,
+   "author": "TYLsemi",
+   "url": "https://www.linkedin.com/posts/tylsemi_ai-infra-fundraising-at-the-foundation-activity-7513000266842038272-PUo0",
+   "text": "Our founder, Mohit Gupta, will be on stage tomorrow, Tuesday, at AI Infra: Fundraising at the Foundation, part of #SFTechWeek. Hosted by TriplePoint Capital and PitchBook, the fireside chat covers the full stack powering AI, from chips to compute, models to memory, and training to inference.\nHe'll be joined by:\n \ud83d\udd39 Robert Wachen, Co-founder, Etched\n \ud83d\udd39 Haomiao Huang, Matter Venture Partners\n \ud83d\udd39 Kyle Stanford, PitchBook (moderator)\nMohit brings a builder's view of the hardware layer: $1B+ in orders, 30M+ chips shipped, and 75+ high-volume designs.  \n\nTuesday, Oct 6 | 11:00 AM PT\nFireside chat, then coffee and networking\n\nIf you're building, backing, or buying AI infrastructure, come say hi.\n\nRSV",
+   "disc_score": 11,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791251915
+  },
+  "7513047595389251584": {
+   "created": 1791250132,
+   "author": "TechAmerica",
+   "url": "https://www.linkedin.com/posts/techamericaofficial_etched-could-be-valued-above-40-billion-activity-7513047595389251584-XMwi",
+   "text": "AI chip startup Etched is reportedly attracting funding offers that could value the company at between $40 billion and $50 billion, highlighting how aggressively investors are backing challengers to Nvidia in the expanding AI infrastructure market.\n\nThe reported offers come only weeks after Etched raised $700 million at a $21 billion valuation. Earlier in 2026, the company was valued at $10.3 billion, meaning investor expectations around the startup have accelerated at an extraordinary pace. Importantly, Etched has not completed a new financing round at a $40 billion valuation\u2014the figures currently represent reported investor proposals under consideration.\n\nEtched is developing specialised h",
+   "disc_score": 1,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791251915
+  },
+  "7513041420451254272": {
+   "created": 1791248660,
+   "author": "Havedev Cipta Teknologi",
+   "url": "https://www.linkedin.com/posts/havedev_valuasi-etched-naik-cepat-namun-di-bisnis-activity-7513041420451254272-mphz",
+   "text": "Valuasi Etched naik cepat. Namun di bisnis hardware AI, angka besar baru awal cerita.\n\nYang menentukan bukan hype, tetapi eksekusi:\n- Produksi chip skala besar\n- Validasi pelanggan enterprise\n- Biaya inference yang benar-benar kompetitif\n- Keandalan supply chain\n- Kemampuan masuk ke workload AI nyata\n\nUntuk pasar B2B, peluangnya jelas: jika hardware khusus bisa menurunkan biaya inference, perusahaan punya alasan kuat untuk beralih. Tetapi risikonya juga besar: chip bagus di pitch deck belum tentu menang di data center.\n\nBaca analisis lengkap dari Havedev:\nhttps://lnkd.in/e6rY7JwE\nPhotographer: ed br",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791251915
+  },
+  "7513013835721625600": {
+   "created": 1791242083,
+   "author": "Agile Enterprise Coach , London",
+   "url": "https://www.linkedin.com/posts/agileenterprisecoach_etched-fields-funding-offers-at-40b-valuation-activity-7513013835721625600-jvv6",
+   "text": "Etched fields funding offers at $40B+ valuation, sources sayJust a couple of months after its last big raise, the AI chip startup is already being plied with investment offers at double or more its current value, sources tell TechCrunch.\nhttps://lnkd.in/g_dYXbCV",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791251915
+  },
+  "7513025525209120768": {
+   "created": 1791244870,
+   "author": "DailyNewsNBlog",
+   "url": "https://www.linkedin.com/posts/dailynewsnblog_etched-fields-funding-offers-at-40b-valuation-activity-7513025525209120768-F1k2",
+   "text": "Etched fields funding offers at $40B+ valuation, sources\u00a0say\n\nAlthough it\u2019s only been a couple of months since Etched raised $700 million at a $21 billion valuation, the AI chip startup is already being plied with investment offers at double or more its value, according to people familiar with the company. Etched is reviewing incoming bids that range from $40 billion from top-tier investors to $50 billion from lesser-known backers, one person said....",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791251915
   }
  },
  "baseline": {
