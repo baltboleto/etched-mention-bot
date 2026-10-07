@@ -26,19 +26,6 @@
    "miss": 0,
    "added": 1791211572
   },
-  "7512844704951173120": {
-   "created": 1791201759,
-   "author": "Lewis Gardner",
-   "url": "https://www.linkedin.com/posts/lewgardn_86-of-us-venture-dollars-went-to-ai-in-the-activity-7512844704951173120-2JA8",
-   "text": "86% of US venture dollars went to AI in the first half.\n\nAnd the interesting money is moving down the stack.\n\n$355.9B in six months. Not into apps. Into the physical layers underneath Nvidia.\n\nWhere the cheques landed:\n\n1. Silicon: Etched, $1.5B raised, valued at $21B\n2. Interconnect: Lightmatter and Ayar Labs, about $850M each\n3. Power: Base Power's $1B round at a $13B valuation\n4. Generation: Mainspring, over $800M raised\n5. Debt on top: $570B of AI bonds forecast this year\n\nEach line is a bet on where your bottleneck bites.\n\nEtched took three rounds in eight months. Jane Street led the last one and took the first rack.\n\nThe customer is the underwriter now.\n\nAyar Labs closed $500M in March",
-   "disc_score": 2,
-   "checks": {
-    "24": 3
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791211572
-  },
   "7512857664935374848": {
    "created": 1791204849,
    "author": "Programadores de Software",
@@ -253,7 +240,9 @@
    "url": "https://www.linkedin.com/posts/blitz-technology-group_etched-fields-funding-offers-at-40b-valuation-activity-7512997833755586560-Bj_G",
    "text": "Etched fields funding offers at $40B+ valuation, sources say\nJust a couple of months after its last big raise, the AI chip startup is already being plied with investment offers at double or more its current value, sources tell TechCrunch.\nhttps://lnkd.in/g_dYXbCV",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791239803
@@ -264,7 +253,9 @@
    "url": "https://www.linkedin.com/posts/nathan-q-ab90403ba_5-ai-stories-that-defined-october-5th-activity-7512997266643853312-Q-jG",
    "text": "Etched just hit a $40B+ valuation. OpenAI launched visual ads in DALL-E. And LLM gateways are becoming infrastructure.\n\n5 stories from October 5th that show where AI is heading in 2026:\n\nSlide 2: Why a hardware startup is worth more than most unicorns\nSlide 4: The monetization playbook for generative AI platforms\nSlide 6: How enterprises are controlling their LLM sprawl\n\nSwipe through for the full breakdown \ud83d\udc49\n\n#AI #TechNews #qikAI",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791239803
@@ -275,7 +266,9 @@
    "url": "https://www.linkedin.com/posts/tylsemi_ai-infra-fundraising-at-the-foundation-activity-7513000266842038272-PUo0",
    "text": "Our founder, Mohit Gupta, will be on stage tomorrow, Tuesday, at AI Infra: Fundraising at the Foundation, part of #SFTechWeek. Hosted by TriplePoint Capital and PitchBook, the fireside chat covers the full stack powering AI, from chips to compute, models to memory, and training to inference.\nHe'll be joined by:\n \ud83d\udd39 Robert Wachen, Co-founder, Etched\n \ud83d\udd39 Haomiao Huang, Matter Venture Partners\n \ud83d\udd39 Kyle Stanford, PitchBook (moderator)\nMohit brings a builder's view of the hardware layer: $1B+ in orders, 30M+ chips shipped, and 75+ high-volume designs.  \n\nTuesday, Oct 6 | 11:00 AM PT\nFireside chat, then coffee and networking\n\nIf you're building, backing, or buying AI infrastructure, come say hi.\n\nRSV",
    "disc_score": 11,
-   "checks": {},
+   "checks": {
+    "24": 46
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791251915
@@ -308,7 +301,9 @@
    "url": "https://www.linkedin.com/posts/agileenterprisecoach_etched-fields-funding-offers-at-40b-valuation-activity-7513013835721625600-jvv6",
    "text": "Etched fields funding offers at $40B+ valuation, sources sayJust a couple of months after its last big raise, the AI chip startup is already being plied with investment offers at double or more its current value, sources tell TechCrunch.\nhttps://lnkd.in/g_dYXbCV",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791251915
@@ -319,7 +314,9 @@
    "url": "https://www.linkedin.com/posts/dailynewsnblog_etched-fields-funding-offers-at-40b-valuation-activity-7513025525209120768-F1k2",
    "text": "Etched fields funding offers at $40B+ valuation, sources\u00a0say\n\nAlthough it\u2019s only been a couple of months since Etched raised $700 million at a $21 billion valuation, the AI chip startup is already being plied with investment offers at double or more its value, according to people familiar with the company. Etched is reviewing incoming bids that range from $40 billion from top-tier investors to $50 billion from lesser-known backers, one person said....",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791251915
@@ -807,6 +804,28 @@
    "promoted": false,
    "miss": 0,
    "added": 1791322743
+  },
+  "7513366513798610944": {
+   "created": 1791326168,
+   "author": "Savita Banerjee",
+   "url": "https://www.linkedin.com/posts/savita-banerjee-140a786_semiconductors-itc2026-itc2026-activity-7513366513798610944-UuFl",
+   "text": "With Silicon pushing physical limits, test cost and lifetime health are existential threats to product viability. Test is no longer an afterthought on the factory floor; it is a board-level imperative.\nAt ITC 2026 in San Antonio, I am excited to moderate a candid, executive-level debate:\n\ud83d\udd25 Silicon at the Edge of Physics: The Executive Mandate for Test\n\ud83d\udcc5 Wednesday, October 14, 2026 | 5:00 PM \u2013 6:00 PM\nWe\u2019re bringing together foundational titans and bold disruptors across the silicon ecosystem\nto confront the growing friction between aggressive innovation speed, massive manufacturing scale, and lifecycle quality. Together, they will debate how the test and product ecosystem must fundamentally ",
+   "disc_score": 8,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791331885
+  },
+  "7513380177939259392": {
+   "created": 1791329426,
+   "author": "Adjacent Media",
+   "url": "https://www.linkedin.com/posts/adjacentbrief_evening-scan-the-paramount-wbd-deal-activity-7513380177939259392-w1BK",
+   "text": "// Evening Scan\n\n// The Paramount-WBD Deal Closes Today \u2014 Now What?\n// DeepSeek reportedly nears $12bn funding round backed by Tencent and CATL\n// Etched fields funding offers at $40B+ valuation, sources say\n// OpenAI will start watermarking ChatGPT's text in the EU\n\n\u2192 https://lnkd.in/eY5MAXrx\n\nSubscribe: https://lnkd.in/emQAexzc",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791331885
   }
  },
  "baseline": {
@@ -2181,6 +2200,26 @@
    ],
    [
     1791322744,
+    0
+   ],
+   [
+    1791331885,
+    0
+   ],
+   [
+    1791331885,
+    0
+   ],
+   [
+    1791331885,
+    46
+   ],
+   [
+    1791331885,
+    0
+   ],
+   [
+    1791331885,
     0
    ]
   ]
