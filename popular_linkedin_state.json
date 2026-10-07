@@ -26,19 +26,6 @@
    "miss": 0,
    "added": 1791211572
   },
-  "7512857664935374848": {
-   "created": 1791204849,
-   "author": "Programadores de Software",
-   "url": "https://www.linkedin.com/posts/w3pds_ia-tecnologaeda-noticiastech-activity-7512857664935374848-GqLG",
-   "text": "\ud83d\udcf0 Resumen tech \u2014 lunes 5 de octubre\n\nDe Copilot operando tu escritorio a la fibra financiera de la IA: la semana arranca fuerte en c\u00f3digo, hardware y seguridad.\n\n\ud83e\udd16 GitHub Copilot ahora maneja apps de escritorio\nGitHub abri\u00f3 el preview p\u00fablico de \u00abComputer Use\u00bb (1 de octubre) en Copilot CLI y su app para macOS y Windows: hace clic, escribe y cruza ventanas, incluso en software legacy sin API. Viene desactivado por defecto y pide aprobaci\u00f3n antes de actuar.\n\n\u26a1 Google presenta Gemini 4 Argon\nAlphabet lanz\u00f3 Gemini 4 Argon, su modelo m\u00e1s potente hasta ahora, con foco en ciberseguridad defensiva: puede encontrar, validar y parchear vulnerabilidades de forma aut\u00f3noma, con l\u00edmite de salida de 1 mill",
-   "disc_score": 0,
-   "checks": {
-    "24": 1
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791211572
-  },
   "7512889995469357057": {
    "created": 1791212557,
    "author": "Raison",
@@ -279,7 +266,9 @@
    "url": "https://www.linkedin.com/posts/techamericaofficial_etched-could-be-valued-above-40-billion-activity-7513047595389251584-XMwi",
    "text": "AI chip startup Etched is reportedly attracting funding offers that could value the company at between $40 billion and $50 billion, highlighting how aggressively investors are backing challengers to Nvidia in the expanding AI infrastructure market.\n\nThe reported offers come only weeks after Etched raised $700 million at a $21 billion valuation. Earlier in 2026, the company was valued at $10.3 billion, meaning investor expectations around the startup have accelerated at an extraordinary pace. Importantly, Etched has not completed a new financing round at a $40 billion valuation\u2014the figures currently represent reported investor proposals under consideration.\n\nEtched is developing specialised h",
    "disc_score": 1,
-   "checks": {},
+   "checks": {
+    "24": 1
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791251915
@@ -290,7 +279,9 @@
    "url": "https://www.linkedin.com/posts/havedev_valuasi-etched-naik-cepat-namun-di-bisnis-activity-7513041420451254272-mphz",
    "text": "Valuasi Etched naik cepat. Namun di bisnis hardware AI, angka besar baru awal cerita.\n\nYang menentukan bukan hype, tetapi eksekusi:\n- Produksi chip skala besar\n- Validasi pelanggan enterprise\n- Biaya inference yang benar-benar kompetitif\n- Keandalan supply chain\n- Kemampuan masuk ke workload AI nyata\n\nUntuk pasar B2B, peluangnya jelas: jika hardware khusus bisa menurunkan biaya inference, perusahaan punya alasan kuat untuk beralih. Tetapi risikonya juga besar: chip bagus di pitch deck belum tentu menang di data center.\n\nBaca analisis lengkap dari Havedev:\nhttps://lnkd.in/e6rY7JwE\nPhotographer: ed br",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791251915
@@ -826,6 +817,39 @@
    "promoted": false,
    "miss": 0,
    "added": 1791331885
+  },
+  "7513400488185466880": {
+   "created": 1791334268,
+   "author": "Haomiao Huang, PhD",
+   "url": "https://www.linkedin.com/posts/haomiao-huang-phd-87988222_sftechweek-aiinfrastructure-hardtech-activity-7513400488185466880-o-_q",
+   "text": "In AI Infrastructure world, financial engineering is just as important as electrical engineering.\n\nThat's becoming really apparent when it comes to funding scale-up. Debt is great when you have tech that works and demand that's known and you're underwriting execution. Venture is great at underwriting unknown demand and new tech. But there are gaps still when it comes to scaling up infra after the early venture risk is taken care of.\n\nI had the privilege of being part of a great conversation at SF Tech Week exploring what it takes to finance AI infrastructure, from chips and memory to compute and energy. Unlike software, these companies often require significant capital well before they gener",
+   "disc_score": 22,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791336708
+  },
+  "7513405244958203905": {
+   "created": 1791335402,
+   "author": "JOY Entertainment",
+   "url": "https://www.linkedin.com/posts/joy3_ai-trituenhantao-congnghe-activity-7513405244958203905-LNRe",
+   "text": "\ud83e\udd16 B\u1ea2N TIN AI - 24H QUA (07.10.2026)\n\n1. Mistral AI ch\u00ednh th\u1ee9c ph\u00e1t h\u00e0nh m\u00f4 h\u00ecnh \u0111\u1ea7u b\u1ea3ng Mistral Large 4 (Mistral AI / VentureBeat)\n2. Boston Dynamics b\u1ed5 nhi\u1ec7m c\u1ef1u t\u01b0\u1edbng Amazon Rohit Prasad l\u00e0m CEO m\u1edbi (Boston Dynamics / TechCrunch)\n3. Reflection AI tr\u00ecnh l\u00e0ng si\u00eau m\u00f4 h\u00ecnh Beam 501B hu\u1ea5n luy\u1ec7n tr\u00ean 23,8 ngh\u00ecn t\u1ef7 token (Reflection AI / AI Weekly)\n4. Microsoft v\u00e0 Nvidia b\u1eaft tay \u0111\u01b0a tr\u00ed tu\u1ec7 nh\u00e2n t\u1ea1o c\u1ee5c b\u1ed9 l\u00ean Windows 11 v\u00e0 Surface (Microsoft / The Verge)\n5. Startup chip AI Etched ch\u1ea1m m\u1ed1c \u0111\u1ecbnh gi\u00e1 $40B nh\u1edd l\u00e0n s\u00f3ng b\u00f9ng n\u1ed5 chip suy lu\u1eadn (Wall Street Journal / Bloomberg)\n6. M\u1ef9 v\u00e0 Trung Qu\u1ed1c l\u1eadp \u0111\u01b0\u1eddng d\u00e2y n\u00f3ng kh\u1ea9n c\u1ea5p ki\u1ec3m so\u00e1t r\u1ee7i ro t\u1eeb t\u00e1c t\u1eed si\u00eau tr\u00ed tu\u1ec7 (Financial Times / Politico)\n7. Khai ",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791336708
+  },
+  "7513405250376990720": {
+   "created": 1791335404,
+   "author": "Anh Le",
+   "url": "https://www.linkedin.com/posts/joy3_ai-trituenhantao-congnghe-activity-7513405250376990720-AVRL",
+   "text": "\ud83e\udd16 B\u1ea2N TIN AI - 24H QUA (07.10.2026)\n\n1. Mistral AI ch\u00ednh th\u1ee9c ph\u00e1t h\u00e0nh m\u00f4 h\u00ecnh \u0111\u1ea7u b\u1ea3ng Mistral Large 4 (Mistral AI / VentureBeat)\n2. Boston Dynamics b\u1ed5 nhi\u1ec7m c\u1ef1u t\u01b0\u1edbng Amazon Rohit Prasad l\u00e0m CEO m\u1edbi (Boston Dynamics / TechCrunch)\n3. Reflection AI tr\u00ecnh l\u00e0ng si\u00eau m\u00f4 h\u00ecnh Beam 501B hu\u1ea5n luy\u1ec7n tr\u00ean 23,8 ngh\u00ecn t\u1ef7 token (Reflection AI / AI Weekly)\n4. Microsoft v\u00e0 Nvidia b\u1eaft tay \u0111\u01b0a tr\u00ed tu\u1ec7 nh\u00e2n t\u1ea1o c\u1ee5c b\u1ed9 l\u00ean Windows 11 v\u00e0 Surface (Microsoft / The Verge)\n5. Startup chip AI Etched ch\u1ea1m m\u1ed1c \u0111\u1ecbnh gi\u00e1 $40B nh\u1edd l\u00e0n s\u00f3ng b\u00f9ng n\u1ed5 chip suy lu\u1eadn (Wall Street Journal / Bloomberg)\n6. M\u1ef9 v\u00e0 Trung Qu\u1ed1c l\u1eadp \u0111\u01b0\u1eddng d\u00e2y n\u00f3ng kh\u1ea9n c\u1ea5p ki\u1ec3m so\u00e1t r\u1ee7i ro t\u1eeb t\u00e1c t\u1eed si\u00eau tr\u00ed tu\u1ec7 (Financial Times / Politico)\n7. Khai ",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791336708
   }
  },
  "baseline": {
@@ -2220,6 +2244,14 @@
    ],
    [
     1791331885,
+    0
+   ],
+   [
+    1791336708,
+    1
+   ],
+   [
+    1791336708,
     0
    ]
   ]
