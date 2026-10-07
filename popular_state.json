@@ -1,113 +1,41 @@
 {
  "watch": {
-  "2107621553563398174": {
-   "created": 1791331110,
-   "author": "Midnight_Captl",
-   "followers": 24641,
-   "url": "https://x.com/Midnight_Captl/status/2107621553563398174",
-   "disc_score": 0,
-   "checks": {},
-   "promoted": false,
-   "miss": 0,
-   "added": 1791331826
-  },
-  "2107620617750987208": {
-   "created": 1791330887,
-   "author": "kermankohli",
-   "followers": 10571,
-   "url": "https://x.com/kermankohli/status/2107620617750987208",
-   "disc_score": 2,
-   "checks": {},
-   "promoted": false,
-   "miss": 0,
-   "added": 1791331826
-  },
-  "2107618381461405865": {
-   "created": 1791330354,
-   "author": "exceptionalvc",
-   "followers": 14,
-   "url": "https://x.com/exceptionalvc/status/2107618381461405865",
-   "disc_score": 3,
-   "checks": {},
-   "promoted": false,
-   "miss": 0,
-   "added": 1791331826
-  },
-  "2107604374092656713": {
-   "created": 1791327014,
-   "author": "AnalysisOp",
-   "followers": 4484,
-   "url": "https://x.com/AnalysisOp/status/2107604374092656713",
+  "2107691227156250632": {
+   "created": 1791347722,
+   "author": "vikasmalpani",
+   "followers": 3541,
+   "url": "https://x.com/vikasmalpani/status/2107691227156250632",
    "disc_score": 0,
    "checks": {
     "1": 0
    },
    "promoted": false,
    "miss": 0,
-   "added": 1791331826
+   "added": 1791352981
   },
-  "2107586653535732089": {
-   "created": 1791322789,
-   "author": "zghyara",
-   "followers": 44,
-   "url": "https://x.com/zghyara/status/2107586653535732089",
-   "disc_score": 1,
-   "checks": {
-    "1": null
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791331826
-  },
-  "2107584180225999279": {
-   "created": 1791322200,
-   "author": "Vidyangi520",
-   "followers": 333,
-   "url": "https://x.com/Vidyangi520/status/2107584180225999279",
+  "2107686705377734900": {
+   "created": 1791346644,
+   "author": "NaveenKumar__T",
+   "followers": 172,
+   "url": "https://x.com/NaveenKumar__T/status/2107686705377734900",
    "disc_score": 0,
    "checks": {
-    "1": null
+    "1": 0
    },
    "promoted": false,
    "miss": 0,
-   "added": 1791331826
+   "added": 1791352981
   },
-  "2107584181601702081": {
-   "created": 1791322200,
-   "author": "shawnchauhan1",
-   "followers": 31639,
-   "url": "https://x.com/shawnchauhan1/status/2107584181601702081",
-   "disc_score": 4,
-   "checks": {
-    "1": null
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791331826
-  },
-  "2107605951406911778": {
-   "created": 1791327390,
-   "author": "neucogroup",
-   "followers": 843,
-   "url": "https://x.com/neucogroup/status/2107605951406911778",
-   "disc_score": 1,
-   "checks": {
-    "1": 1
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791331826
-  },
-  "2107624193802039445": {
-   "created": 1791331740,
-   "author": "tmiyatake1",
-   "followers": 70992,
-   "url": "https://x.com/tmiyatake1/status/2107624193802039445",
+  "2107711412760105269": {
+   "created": 1791352534,
+   "author": "markolixcom",
+   "followers": 24,
+   "url": "https://x.com/markolixcom/status/2107711412760105269",
    "disc_score": 0,
    "checks": {},
    "promoted": false,
    "miss": 0,
-   "added": 1791331826
+   "added": 1791352981
   }
  },
  "baseline": {
@@ -1663,6 +1591,14 @@
    [
     1791331829,
     1
+   ],
+   [
+    1791352984,
+    0
+   ],
+   [
+    1791352984,
+    0
    ]
   ]
  },
