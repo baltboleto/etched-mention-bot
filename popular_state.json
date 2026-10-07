@@ -1,78 +1,82 @@
 {
  "watch": {
-  "2107803189550727637": {
-   "created": 1791374416,
-   "author": "sfautist",
-   "followers": 19,
-   "url": "https://x.com/sfautist/status/2107803189550727637",
+  "2107895225243009345": {
+   "created": 1791396359,
+   "author": "next_tok",
+   "followers": 5,
+   "url": "https://x.com/next_tok/status/2107895225243009345",
+   "disc_score": 2,
+   "checks": {
+    "1": 2
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1791401466
+  },
+  "2107891478467068285": {
+   "created": 1791395465,
+   "author": "katiekirsch",
+   "followers": 20721,
+   "url": "https://x.com/katiekirsch/status/2107891478467068285",
+   "disc_score": 110,
+   "checks": {
+    "1": 111
+   },
+   "promoted": true,
+   "miss": 0,
+   "added": 1791401466
+  },
+  "2107875852155326656": {
+   "created": 1791391740,
+   "author": "glocalinvestor",
+   "followers": 5611,
+   "url": "https://x.com/glocalinvestor/status/2107875852155326656",
+   "disc_score": 27,
+   "checks": {
+    "1": null
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1791401466
+  },
+  "2107885751186645317": {
+   "created": 1791394100,
+   "author": "Awesomeshwar",
+   "followers": 363,
+   "url": "https://x.com/Awesomeshwar/status/2107885751186645317",
    "disc_score": 0,
    "checks": {
     "1": 0
    },
    "promoted": false,
    "miss": 0,
-   "added": 1791379683
+   "added": 1791401466
   },
-  "2107788117344157969": {
-   "created": 1791370822,
-   "author": "Minh_Q_Tran",
-   "followers": 31064,
-   "url": "https://x.com/Minh_Q_Tran/status/2107788117344157969",
-   "disc_score": 6,
+  "2107878839162442036": {
+   "created": 1791392452,
+   "author": "theledgerwire",
+   "followers": 37,
+   "url": "https://x.com/theledgerwire/status/2107878839162442036",
+   "disc_score": 0,
    "checks": {
-    "1": 6
+    "1": null
    },
    "promoted": false,
    "miss": 0,
-   "added": 1791379683
+   "added": 1791401466
   },
-  "2107803391464218834": {
-   "created": 1791374464,
-   "author": "morihiroaki",
-   "followers": 1643,
-   "url": "https://x.com/morihiroaki/status/2107803391464218834",
+  "2107878630697431525": {
+   "created": 1791392402,
+   "author": "xSTeNix",
+   "followers": 16,
+   "url": "https://x.com/xSTeNix/status/2107878630697431525",
    "disc_score": 0,
    "checks": {
-    "1": 0
+    "1": null
    },
    "promoted": false,
    "miss": 0,
-   "added": 1791379683
-  },
-  "2107816341616963620": {
-   "created": 1791377551,
-   "author": "asesoresutiles",
-   "followers": 1541,
-   "url": "https://x.com/asesoresutiles/status/2107816341616963620",
-   "disc_score": 0,
-   "checks": {},
-   "promoted": false,
-   "miss": 0,
-   "added": 1791379683
-  },
-  "2107805202791473278": {
-   "created": 1791374896,
-   "author": "automated_daily",
-   "followers": 88,
-   "url": "https://x.com/automated_daily/status/2107805202791473278",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791379683
-  },
-  "2107818422918865211": {
-   "created": 1791378048,
-   "author": "gavinz0228",
-   "followers": 18,
-   "url": "https://x.com/gavinz0228/status/2107818422918865211",
-   "disc_score": 0,
-   "checks": {},
-   "promoted": false,
-   "miss": 0,
-   "added": 1791379683
+   "added": 1791401466
   }
  },
  "baseline": {
@@ -1652,6 +1656,18 @@
    [
     1791379684,
     0
+   ],
+   [
+    1791401466,
+    2
+   ],
+   [
+    1791401466,
+    111
+   ],
+   [
+    1791401466,
+    0
    ]
   ]
  },
@@ -1750,6 +1766,11 @@
    1791318790,
    "2107542751181263099",
    60
+  ],
+  [
+   1791401466,
+   "2107891478467068285",
+   111
   ]
  ],
  "seeded": true
