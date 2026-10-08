@@ -1,31 +1,5 @@
 {
  "watch": {
-  "7513343598374100992": {
-   "created": 1791320705,
-   "author": "Colin Stuckert",
-   "url": "https://www.linkedin.com/posts/colin-stuckert-82b650173_etched-is-fielding-offers-at-up-to-50-billion-activity-7513343598374100992-Kg1l",
-   "text": "Etched is fielding offers at up to 50 billion dollars.\n\nOne person told TechCrunch the bids range from 40 billion to 50 billion dollars. Etched declined to comment.\n\nIt raised 700 million at 21 billion in September, after 300 million at 10.3 billion in July.\n\nIt reports 1 billion dollars in customer orders.\n\nSOURCE: TechCrunch, October 5.\n\nComment \"MOAT\" and I'll send you my free daily newsletter.\n\nComment \"OS\" to check out my AI Agent System, a complete turn-key agent/database system you can install in minutes that will bring you into the AI age with your own personal AI assistant.\n\nBetterHumans.Substack.Com",
-   "disc_score": 0,
-   "checks": {
-    "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791322743
-  },
-  "7513343598973808640": {
-   "created": 1791320705,
-   "author": "Rize Brands",
-   "url": "https://www.linkedin.com/posts/rize-brands_etched-is-fielding-offers-at-up-to-50-billion-activity-7513343598973808640-MQmS",
-   "text": "Etched is fielding offers at up to 50 billion dollars.\n\nOne person told TechCrunch the bids range from 40 billion to 50 billion dollars. Etched declined to comment.\n\nIt raised 700 million at 21 billion in September, after 300 million at 10.3 billion in July.\n\nIt reports 1 billion dollars in customer orders.\n\nSOURCE: TechCrunch, October 5.\n\nComment \"MOAT\" and I'll send you my free daily newsletter.\n\nComment \"OS\" to check out my AI Agent System, a complete turn-key agent/database system you can install in minutes that will bring you into the AI age with your own personal AI assistant.\n\nBetterHumans.Substack.Com",
-   "disc_score": 0,
-   "checks": {
-    "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791322743
-  },
   "7513366513798610944": {
    "created": 1791326168,
    "author": "Savita Banerjee",
@@ -225,7 +199,9 @@
    "url": "https://www.linkedin.com/posts/north-america-executive-magazine_technology-chips-activity-7513538892034195456-73xk",
    "text": "Etched just raised $700M at a $21B valuation. But the bigger story is what its rise says about the next phase of AI infrastructure.\n\nEtched has raised $700 million at a $21 billion valuation as it begins commercial deployment of its AI inference hardware. With more than $1 billion in contracts secured, the next test is whether it can turn early demand into reliable deployment at data center scale.\n\n\ud83d\udd17Link to full news article in the comments\n\n#Technology #Chips",
    "disc_score": 5,
-   "checks": {},
+   "checks": {
+    "24": 5
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791379844
@@ -247,7 +223,9 @@
    "url": "https://www.linkedin.com/posts/maya-levinson-b2b935372_aichips-etched-venturecapital-activity-7513543651239862275-RrTp",
    "text": "Etched's reported valuation offers have arrived only a couple of months after a $700 million round valued it at $21 billion. The company is building entire AI systems around proprietary inference chips, so the capital requirement is closer to industrial infrastructure than a typical software startup. Smaller AI businesses benefit when hardware competition eventually pushes inference prices down, even though they cannot participate in the chip race directly. The question is how much of today's valuation assumes those lower costs arrive before the hardware has been proven at scale.",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791379844
@@ -258,7 +236,9 @@
    "url": "https://www.linkedin.com/posts/venture-ink_venturecapital-startups-ai-activity-7513542151700647937-IUZY",
    "text": "Venture capital in 2026 is not a rising tide. It's a very selective one.\n\nQ3 2026: global startups raised $159B, up 53% year-on-year, but down 25% from Q2.\n\nWhere is the money going?\n\n\u2192 AI infrastructure. The NVCA reports a record $400B+ of US venture investment in H1 alone, and Etched is reportedly fielding offers at a $40B+ valuation.\n\n\u2192 Vertical AI with real revenue. EliseAI raised $350M at a $4B valuation. Sela, a voice AI for mortgage lenders, already counts six of the ten largest independent mortgage banks as customers.\n\n\u2192 The funds themselves. Bessemer closed $5.75B in one go, which makes the multi-stage model look even stronger.\n\nFor everyone else, the pattern is long diligence, hard",
    "disc_score": 3,
-   "checks": {},
+   "checks": {
+    "24": 3
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791379844
@@ -420,18 +400,6 @@
  },
  "baseline": {
   "24": [
-   [
-    1787748866,
-    0
-   ],
-   [
-    1787755684,
-    3
-   ],
-   [
-    1787755684,
-    20
-   ],
    [
     1787782704,
     10
@@ -2019,6 +1987,18 @@
    [
     1791449860,
     155
+   ],
+   [
+    1791455237,
+    5
+   ],
+   [
+    1791455237,
+    0
+   ],
+   [
+    1791455237,
+    3
    ]
   ]
  },
