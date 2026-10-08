@@ -13,19 +13,6 @@
    "miss": 0,
    "added": 1791300832
   },
-  "7513230221022744576": {
-   "created": 1791293673,
-   "author": "Trending Topics International",
-   "url": "https://www.linkedin.com/posts/trendingtopics-international_etched-could-receive-a-40-billion-valuation-activity-7513230221022744576-eooW",
-   "text": "Last August, US startup Etched raised $700 million at a $21 billion valuation. Today, the company is reportedly reviewing offers that could value it at $40-50 billion\u2014more than double in less than a year.\n\nEtched is directly challenging Nvidia's dominance by building complete AI hardware systems with proprietary chips that process tokens faster and more cost-effectively. The startup has already secured $1 billion in customer orders, with quantitative trading firm Jane Street both leading the last funding round and deploying early systems.\n\nThe talent acquisition strategy is equally impressive: approximately 15% of Etched's 400 employees are former Nvidia staff. The company has also establish",
-   "disc_score": 1,
-   "checks": {
-    "24": 1
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791300832
-  },
   "7513251824775385088": {
    "created": 1791298824,
    "author": "Paulo Pimentel",
@@ -34,58 +21,6 @@
    "disc_score": 0,
    "checks": {
     "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791300832
-  },
-  "7513233033278464000": {
-   "created": 1791294344,
-   "author": "Harsh Chhajer",
-   "url": "https://www.linkedin.com/posts/harshchhajer_i-spend-about-an-hour-every-day-researching-activity-7513233033278464000-4BeC",
-   "text": "I spend about an hour every day researching AI companies. After more than a year of it, these 12 are the ones that stuck.\n\nNone of them are the biggest. Each one is building something I want to exist, and I think it will matter well outside of tech.\n\nWhat I'm in love with is the choice of problem. Each team picked work that was slow, expensive or physical, and decided they belonged in it.\n\nThe physical ones. Figure put humanoids on a BMW factory floor, where Figure 02 loaded 90,000+ parts over 11 months. Etched is hardwiring the transformer architecture into a chip, and reports $1B+ in signed contracts.\n\nThe slow ones. Chai Discovery licenses molecule-design models to Eli Lilly, Pfizer and N",
-   "disc_score": 0,
-   "checks": {
-    "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791300832
-  },
-  "7513202958289895424": {
-   "created": 1791287173,
-   "author": "helo!",
-   "url": "https://www.linkedin.com/posts/helotogether_dailybrief100626pdf-activity-7513202958289895424-bx1_",
-   "text": "Sovereign funds underwriting dev tools, $40B+ valuations for AI silicon challengers, and agent database acquisitions lead today\u2019s headlines.\n\nSupabase secures $150M led by GIC and acquires Turso to build agent-ready database rails, while Etched fields inbound offers at an eye-popping $40B+ valuation as non-Nvidia chip demand runs white-hot.\n\nMeanwhile, Namespace lands a $42M Series B to power execution environments for AI coding agents, and Menlo Ventures backs Factory in a fiercely contested developer tooling race.\n\nFollow helo! for your daily venture radar.\n\n#Startups #VentureCapital #DailyBrief #DevTools #AIHardware #TechNews #heloland",
-   "disc_score": 0,
-   "checks": {
-    "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791300832
-  },
-  "7513203735565623297": {
-   "created": 1791287359,
-   "author": "TechAmerica",
-   "url": "https://www.linkedin.com/posts/techamericaofficial_etched-draws-funding-offers-at-up-to-50-activity-7513203735565623297-84m4",
-   "text": "Etched is reportedly reviewing investment offers at valuations of up to $50 billion, marking another rapid increase after its recent $700 million financing valued the AI chip startup at $21 billion.\n\nThe company is building specialised inference systems, operates a 10-megawatt data centre and has reported about $1 billion in customer orders, positioning it as an emerging challenger in AI infrastructure.\n\nRead the full article:\nhttps://lnkd.in/gjvSjFFP",
-   "disc_score": 0,
-   "checks": {
-    "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791300832
-  },
-  "7513229270593433600": {
-   "created": 1791293447,
-   "author": "Trending Topics",
-   "url": "https://www.linkedin.com/posts/trendingtopics-eu_etched-k%C3%B6nnte-bewertung-von-40-mrd-dollar-activity-7513229270593433600-_9b4",
-   "text": "Rasantes Wachstum im KI-Chip-Markt: Etched auf dem Weg zur 40-Milliarden-Bewertung \ud83d\udca1\n\nErst im August 2025 sammelte das US-Chip-Startup Etched 700 Millionen Dollar bei einer Bewertung von 21 Milliarden Dollar ein. Nun, nur wenige Monate sp\u00e4ter, pr\u00fcft das Unternehmen bereits neue Investitionsangebote zwischen 40 und 50 Milliarden Dollar \u2013 eine nahezu Verdopplung der Bewertung.\n\nDas vier Jahre alte Startup entwickelt propriet\u00e4re KI-Chips und komplette Hardwaresysteme, die Nvidia direkt herausfordern sollen. Die Prozessoren versprechen, Token schneller und kosteng\u00fcnstiger zu verarbeiten \u2013 ein entscheidender Vorteil f\u00fcr Kunden wie das Quant-Trading-Unternehmen Jane Street, das nicht nur die letzt",
-   "disc_score": 0,
-   "checks": {
-    "24": 1
    },
    "promoted": false,
    "miss": 0,
@@ -279,7 +214,9 @@
    "url": "https://www.linkedin.com/posts/haomiao-huang-phd-87988222_sftechweek-aiinfrastructure-hardtech-activity-7513400488185466880-o-_q",
    "text": "In AI Infrastructure world, financial engineering is just as important as electrical engineering.\n\nThat's becoming really apparent when it comes to funding scale-up. Debt is great when you have tech that works and demand that's known and you're underwriting execution. Venture is great at underwriting unknown demand and new tech. But there are gaps still when it comes to scaling up infra after the early venture risk is taken care of.\n\nI had the privilege of being part of a great conversation at SF Tech Week exploring what it takes to finance AI infrastructure, from chips and memory to compute and energy. Unlike software, these companies often require significant capital well before they gener",
    "disc_score": 22,
-   "checks": {},
+   "checks": {
+    "24": 118
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791336708
@@ -290,7 +227,9 @@
    "url": "https://www.linkedin.com/posts/joy3_ai-trituenhantao-congnghe-activity-7513405244958203905-LNRe",
    "text": "\ud83e\udd16 B\u1ea2N TIN AI - 24H QUA (07.10.2026)\n\n1. Mistral AI ch\u00ednh th\u1ee9c ph\u00e1t h\u00e0nh m\u00f4 h\u00ecnh \u0111\u1ea7u b\u1ea3ng Mistral Large 4 (Mistral AI / VentureBeat)\n2. Boston Dynamics b\u1ed5 nhi\u1ec7m c\u1ef1u t\u01b0\u1edbng Amazon Rohit Prasad l\u00e0m CEO m\u1edbi (Boston Dynamics / TechCrunch)\n3. Reflection AI tr\u00ecnh l\u00e0ng si\u00eau m\u00f4 h\u00ecnh Beam 501B hu\u1ea5n luy\u1ec7n tr\u00ean 23,8 ngh\u00ecn t\u1ef7 token (Reflection AI / AI Weekly)\n4. Microsoft v\u00e0 Nvidia b\u1eaft tay \u0111\u01b0a tr\u00ed tu\u1ec7 nh\u00e2n t\u1ea1o c\u1ee5c b\u1ed9 l\u00ean Windows 11 v\u00e0 Surface (Microsoft / The Verge)\n5. Startup chip AI Etched ch\u1ea1m m\u1ed1c \u0111\u1ecbnh gi\u00e1 $40B nh\u1edd l\u00e0n s\u00f3ng b\u00f9ng n\u1ed5 chip suy lu\u1eadn (Wall Street Journal / Bloomberg)\n6. M\u1ef9 v\u00e0 Trung Qu\u1ed1c l\u1eadp \u0111\u01b0\u1eddng d\u00e2y n\u00f3ng kh\u1ea9n c\u1ea5p ki\u1ec3m so\u00e1t r\u1ee7i ro t\u1eeb t\u00e1c t\u1eed si\u00eau tr\u00ed tu\u1ec7 (Financial Times / Politico)\n7. Khai ",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791336708
@@ -301,7 +240,9 @@
    "url": "https://www.linkedin.com/posts/joy3_ai-trituenhantao-congnghe-activity-7513405250376990720-AVRL",
    "text": "\ud83e\udd16 B\u1ea2N TIN AI - 24H QUA (07.10.2026)\n\n1. Mistral AI ch\u00ednh th\u1ee9c ph\u00e1t h\u00e0nh m\u00f4 h\u00ecnh \u0111\u1ea7u b\u1ea3ng Mistral Large 4 (Mistral AI / VentureBeat)\n2. Boston Dynamics b\u1ed5 nhi\u1ec7m c\u1ef1u t\u01b0\u1edbng Amazon Rohit Prasad l\u00e0m CEO m\u1edbi (Boston Dynamics / TechCrunch)\n3. Reflection AI tr\u00ecnh l\u00e0ng si\u00eau m\u00f4 h\u00ecnh Beam 501B hu\u1ea5n luy\u1ec7n tr\u00ean 23,8 ngh\u00ecn t\u1ef7 token (Reflection AI / AI Weekly)\n4. Microsoft v\u00e0 Nvidia b\u1eaft tay \u0111\u01b0a tr\u00ed tu\u1ec7 nh\u00e2n t\u1ea1o c\u1ee5c b\u1ed9 l\u00ean Windows 11 v\u00e0 Surface (Microsoft / The Verge)\n5. Startup chip AI Etched ch\u1ea1m m\u1ed1c \u0111\u1ecbnh gi\u00e1 $40B nh\u1edd l\u00e0n s\u00f3ng b\u00f9ng n\u1ed5 chip suy lu\u1eadn (Wall Street Journal / Bloomberg)\n6. M\u1ef9 v\u00e0 Trung Qu\u1ed1c l\u1eadp \u0111\u01b0\u1eddng d\u00e2y n\u00f3ng kh\u1ea9n c\u1ea5p ki\u1ec3m so\u00e1t r\u1ee7i ro t\u1eeb t\u00e1c t\u1eed si\u00eau tr\u00ed tu\u1ec7 (Financial Times / Politico)\n7. Khai ",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791336708
@@ -312,7 +253,9 @@
    "url": "https://www.linkedin.com/posts/ali-punjani1_etcheds-2026-so-far-jan-2026-raised-activity-7513394155708960768-PJMg",
    "text": "Etched's 2026 so far: \n\nJan 2026: Raised $500 million at a $5B valuation\nJuly 2026: Raised $300 million at a $10.3B valuation\nLater in Q3 2026: Raised $700 million at a $21B valuation\n\n4x in 8 months backed by $1B in customer orders. \n\nMomentum is building behind specialized chips, and both investors and customers are putting real money behind it.",
    "disc_score": 10,
-   "checks": {},
+   "checks": {
+    "24": 15
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791362387
@@ -389,7 +332,9 @@
    "url": "https://www.linkedin.com/posts/%EB%8D%B0%EC%9D%B4-%EB%8D%B0%EB%AA%A8-528572ab_qygrxgrsmrhgrzgreeukj-aituksuy-swmtnktxuslhm-activity-7513407911339962368-NTLh",
    "text": "\uc62c\ud574 AI \uc2a4\ud0c0\ud2b8\uc5c5 195\uac1c\uac00 \uc778\uc218\ub410\ub2e4. \uc0ac\ub294 \ucabd\uc740 \uc18c\uc218\ub2e4.\n\nOpenAI 10\uac74, Anthropic 5\uac74. \uad6c\ub9e4\uc790 \uc218\ub294 2%\ub9cc \ub298\uc5c8\ub294\ub370 \uc778\uc218 \uac74\uc218\ub294 14% \uc99d\uac00.\n\nAI M&A \uc804\ub7b5\uc758 \ubcc0\ud654:\n\u2192 \uae30\uc874: \uae30\uc220 \ube14\ub85d \uc778\uc218\n\u2192 \ud604\uc7ac: \uc218\uc9c1 \ub3c4\uba54\uc778 \ub370\uc774\ud130 + \uace0\uac1d \uae30\ubc18 + \ud300 \uc5ed\ub7c9 \ud761\uc218\n\n\uc624\ub298\uc758 \uc8fc\uc694 \ub51c:\n\u2192 Etched: \uc57d 6075\uc870 \uc6d0 \ubc38\ub958 \uc2e0\uaddc \ud380\ub529 \ud611\uc758 \uff082\ub2ec \uc804 \ub300\ube44 2\ubc30+\uff09\n\u2192 KKR: Gen II \ud380\ub4dc \ud589\uc815\uc0ac \uc57d 7.6\uc870 \uc6d0 \uc778\uc218\n\u2192 Uber: ezCater \uc57d 3.45\uc870 \uc6d0 \uc778\uc218\n\u2192 Q3 2026 \uae00\ub85c\ubc8c VC \ud22c\uc790 \uc57d 238\uc870 \uc6d0, \uc804\ub144 \ub3d9\uae30 +53%\n\u2192 \uc804\uccb4 \ud22c\uc790\uc758 64%\uac00 AI\n\n\ud55c\uad6d \ucc3d\uc5c5\uc790\uc5d0\uac8c \uc758\ubbf8\ud558\ub294 \uac83:\n\u2192 \ubc94\uc6a9 \ubaa8\ub378 \uacbd\uc7c1\ubcf4\ub2e4 \ud2b9\uc815 \uc0b0\uc5c5 \ub370\uc774\ud130+\uace0\uac1d \uae30\ubc18 \uba3c\uc800\n\u2192 23\ub144 \ub0b4 \uc5d1\uc2ef \ubaa9\ud45c\ub77c\uba74 \ucd08\uae30 \uc124\uacc4\ubd80\ud130 \ud50c\ub7ab\ud3fc \ud1b5\ud569 \uac00\ub2a5\uc131 \uace0\ub824\n\u2192 OpenAI\u00b7Anthropic\uc774 \uc5f0\uac04 10\uac74 \uc774\uc0c1 \uc18c\ud654\ud558\ub294 \uc18d\ub3c4\uac00 \uae30\ud68c\uc758 \ucc3d\n\nAI M&A \ubd90\uc740 \uc9c0\uae08 \ub3c4\uba54\uc778 \ub370\uc774\ud130\ub97c \uac00\uc9c4 \ud300\uc744 \uc0ac\uace0 \uc788\ub2e4.\n\n\ud83d\udd17 \uc804\uccb4 \ubd84\uc11d: https://lnkd.in/gN78iqkP\n\n#\uae00\ub85c\ubc8c\ub51c\ube0c\ub9ac\ud551 #AI\ud22c\uc790 #\uc2a4\ud0c0\ud2b8\uc5c5M&A #VC\ud22c\uc790 #\ucc3d\uc5c5 #OpenAI #Anthropic",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 1
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791362387
@@ -569,14 +514,43 @@
    "promoted": false,
    "miss": 0,
    "added": 1791410323
+  },
+  "7513741534513512448": {
+   "created": 1791415580,
+   "author": "Abhishek J.",
+   "url": "https://www.linkedin.com/posts/theinvestorsalmanac-abhishekj_63-of-an-ai-chips-parts-bill-is-memory-activity-7513741534513512448-Z-P2",
+   "text": "63% of an AI chip's parts bill is memory.\n\nThat's Epoch AI's estimate for late 2025, and the memory in question is HBM.\n\nHBM is a stack of memory chips placed right next to the processor. It feeds the processor data fast enough to keep it busy. Without it, the most powerful AI chip sits waiting.\n\nAnd the price of HBM is about to jump.\n\nWHAT'S CHANGING\n\nSamsung is reportedly asking more than 3x the current price for next year's HBM4 (Maeil Business). TrendForce expects average HBM prices to rise 121% in 2027. UBS says about 79%.\n\nThe reason is physics. Micron says HBM uses about 3x the silicon of regular memory for the same capacity. \n\nSo every HBM chip made means fewer of\neverything else.\n\nT",
+   "disc_score": 2,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791424524
+  },
+  "7513742664471822336": {
+   "created": 1791415849,
+   "author": "Abhishek J.",
+   "url": "https://www.linkedin.com/feed/update/urn:li:groupPost:46460-7513742663079227392",
+   "text": "63% of an AI chip's parts bill is memory.\n\nThat's Epoch AI's estimate for late 2025, and the memory in question is HBM.\n\nHBM is a stack of memory chips placed right next to the processor. It feeds the processor data fast enough to keep it busy. Without it, the most powerful AI chip sits waiting.\n\nAnd the price of HBM is about to jump.\n\nWHAT'S CHANGING\n\nSamsung is reportedly asking more than 3x the current price for next year's HBM4 (Maeil Business). TrendForce expects average HBM prices to rise 121% in 2027. UBS says about 79%.\n\nThe reason is physics. Micron Technology  says HBM uses about 3x the silicon of regular memory for the same capacity. \n\nSo every HBM chip made means fewer of\neveryth",
+   "disc_score": 2,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791424524
+  },
+  "7513742159976714242": {
+   "created": 1791415729,
+   "author": "Abhishek J.",
+   "url": "https://www.linkedin.com/feed/update/urn:li:groupPost:38114-7513742158579822593",
+   "text": "63% of an AI chip's parts bill is memory.\n\nThat's Epoch AI's estimate for late 2025, and the memory in question is HBM.\n\nHBM is a stack of memory chips placed right next to the processor. It feeds the processor data fast enough to keep it busy. Without it, the most powerful AI chip sits waiting.\n\nAnd the price of HBM is about to jump.\n\nWHAT'S CHANGING\n\nSamsung is reportedly asking more than 3x the current price for next year's HBM4 (Maeil Business). TrendForce expects average HBM prices to rise 121% in 2027. UBS says about 79%.\n\nThe reason is physics. Micron Technology says HBM uses about 3x the silicon of regular memory for the same capacity. \n\nSo every HBM chip made means fewer of\neverythi",
+   "disc_score": 7,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791424524
   }
  },
  "baseline": {
   "24": [
-   [
-    1787727815,
-    231
-   ],
    [
     1787727815,
     23
@@ -2156,6 +2130,26 @@
    [
     1791416670,
     0
+   ],
+   [
+    1791424524,
+    118
+   ],
+   [
+    1791424524,
+    0
+   ],
+   [
+    1791424524,
+    0
+   ],
+   [
+    1791424524,
+    15
+   ],
+   [
+    1791424524,
+    1
    ]
   ]
  },
