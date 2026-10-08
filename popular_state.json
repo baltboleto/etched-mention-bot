@@ -1,43 +1,17 @@
 {
  "watch": {
-  "2107985716248744377": {
-   "created": 1791417933,
-   "author": "brezshares",
-   "followers": 3709,
-   "url": "https://x.com/brezshares/status/2107985716248744377",
-   "disc_score": 12,
-   "checks": {
-    "1": null
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791428481
-  },
-  "2107988332957380825": {
-   "created": 1791418557,
-   "author": "toushikaka",
-   "followers": 159,
-   "url": "https://x.com/toushikaka/status/2107988332957380825",
-   "disc_score": 0,
-   "checks": {
-    "1": null
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791428481
-  },
-  "2107994391231205529": {
-   "created": 1791420002,
-   "author": "JoshuaK74492",
-   "followers": 51,
-   "url": "https://x.com/JoshuaK74492/status/2107994391231205529",
+  "2108107640505033115": {
+   "created": 1791447002,
+   "author": "Borty",
+   "followers": 10620,
+   "url": "https://x.com/Borty/status/2108107640505033115",
    "disc_score": 0,
    "checks": {
     "1": 0
    },
    "promoted": false,
    "miss": 0,
-   "added": 1791428481
+   "added": 1791455200
   }
  },
  "baseline": {
@@ -1632,6 +1606,10 @@
    ],
    [
     1791428482,
+    0
+   ],
+   [
+    1791455206,
     0
    ]
   ]
