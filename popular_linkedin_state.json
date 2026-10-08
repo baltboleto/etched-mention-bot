@@ -1,135 +1,5 @@
 {
  "watch": {
-  "7513275239561236480": {
-   "created": 1791304407,
-   "author": "Katarzyna Lomnicka",
-   "url": "https://www.linkedin.com/posts/activity-7513275239561236480-RJF5",
-   "text": "**The real AI gold rush isn't training models \u2014 it's running them.**\nInference powers every query, every automated task, every embedded assistant. It's the toll road of the digital economy.\nEtched: Key insights worth tracking:\n\u2022 Specialized inference chips offer better speed, efficiency & economics at scale\n\u2022 Purpose-built systems create high switching costs = durable market share\n\u2022 Lower inference costs expand the entire market, not just one company's slice\n\u2022 Customer contracts signal real validation \u2014 not just hype\n\u2022 Capital intensity is brutal, but it builds moats competitors can't easily cross\nThe companies that win will match narrative to results \u2014 contracts \u2192 shipments \u2192 revenue \u2192 marg",
-   "disc_score": 0,
-   "checks": {
-    "24": 1
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791306655
-  },
-  "7513281928641449984": {
-   "created": 1791306001,
-   "author": "Asteris.ai",
-   "url": "https://www.linkedin.com/posts/asteris-ai_aichips-etched-venturecapital-activity-7513281928641449984-MjdH",
-   "text": "\ud83d\udcb8 ETCHED IS ALREADY FIELDING $40-50 BILLION VALUATIONS\n\nEtched is reportedly reviewing early investment offers valuing the AI-chip startup at between $40 billion and $50 billion. Only a couple of months ago it raised $700 million at a $21 billion valuation, and the current talks are preliminary with no deal assured. The company is pursuing a capital-heavy strategy built around complete AI hardware systems using its own proprietary chips.\n\nThe valuation jump says as much about scarcity as it does about Etched itself. Investors are trying to price the possibility that specialised inference hardware takes a meaningful share of a market dominated by Nvidia, before that outcome is established. Bu",
-   "disc_score": 0,
-   "checks": {
-    "24": 4
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791306655
-  },
-  "7513273269685399552": {
-   "created": 1791303937,
-   "author": "Founder News",
-   "url": "https://www.linkedin.com/posts/founder-news_etched-draws-50-billion-bids-just-two-months-activity-7513273269685399552-Ltxm",
-   "text": "Etched draws $50 billion bids just two months after $21 billion valuation\n\nBarely two months after securing $700 million at a $21 billion valuation, AI chip startup Etched now holds unsolicited term sheets valuing it between $40 billion and $50 billion. The four-year-old company confirmed preliminary talks with top venture firms. Etched builds full AI hardware systems optimized for inference, claiming faster and cheaper token processing than Nvidia. It reported $1 billion in customer orders by July after fabricating its test chip at TSMC. Roughly 15% of its 400 employees previously worked at Nvidia.\n\nRead the article by clicking on the link.\n\nhttps://lnkd.in/dX_-TMsx",
-   "disc_score": 0,
-   "checks": {
-    "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791306655
-  },
-  "7513292980665888769": {
-   "created": 1791308636,
-   "author": "Aissa May Marqueda",
-   "url": "https://www.linkedin.com/posts/aissa-may-marqueda-5b7918217_vestor-raise-us-funding-spotlight-etched-activity-7513292980665888769-DrmN",
-   "text": "Vestor Raise: U.S. Funding Spotlight\n\u26a1 Etched is redefining next-generation compute by building purpose-designed ASIC chips engineered exclusively to run transformer models at record-shattering inference speeds.\n\ud83d\udccd San Jose, California, USA\n\ud83d\udcb0 Raised: $5.36M\n\ud83d\udcc8 Round: Seed\n\ud83d\udcac Sector: Semiconductors & Artificial Intelligence\n\ud83d\udc64 Founders: Gavin Uberti(CEO), Chris Zhu, and Robert W.\n\ud83d\udcbc Investors: Led by Primary Venture Partners, with participation from Max Ventures and notable angel investors.\n\u26a1 Etched is challenging conventional GPU dominance by developing \"Sohu,\" an ultra-efficient transformer ASIC that burns model architectures directly onto silicon\u2014enabling massive gains in token-generation speed",
-   "disc_score": 5,
-   "checks": {
-    "24": 13
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791318886
-  },
-  "7513286004909215744": {
-   "created": 1791306973,
-   "author": "Mark Hirsch",
-   "url": "https://www.linkedin.com/posts/markdhirsch_ai-semiconductors-etched-activity-7513286004909215744-v7AW",
-   "text": "\ud835\uddd8\ud835\ude01\ud835\uddf0\ud835\uddf5\ud835\uddf2\ud835\uddf1 \ud835\uddf6\ud835\ude00 \ud835\uddf3\ud835\uddf6\ud835\uddf2\ud835\uddf9\ud835\uddf1\ud835\uddf6\ud835\uddfb\ud835\uddf4 \ud835\uddf3\ud835\ude02\ud835\uddfb\ud835\uddf1\ud835\uddf6\ud835\uddfb\ud835\uddf4 \ud835\uddfc\ud835\uddf3\ud835\uddf3\ud835\uddf2\ud835\uddff\ud835\ude00 \ud835\uddee\ud835\ude01 \ud835\uddee $\ud835\udff0\ud835\udfec \ud835\uddef\ud835\uddf6\ud835\uddf9\ud835\uddf9\ud835\uddf6\ud835\uddfc\ud835\uddfb-\ud835\uddfd\ud835\uddf9\ud835\ude02\ud835\ude00 \ud835\ude03\ud835\uddee\ud835\uddf9\ud835\ude02\ud835\uddee\ud835\ude01\ud835\uddf6\ud835\uddfc\ud835\uddfb, \ud835\uddfd\ud835\uddf2\ud835\uddff \ud835\udde7\ud835\uddf2\ud835\uddf0\ud835\uddf5\ud835\uddd6\ud835\uddff\ud835\ude02\ud835\uddfb\ud835\uddf0\ud835\uddf5.\n\u2800\nA couple of months ago, Jane Street led a $700 million round at a $21 billion valuation. The number has nearly doubled since August.\n\u2800\nEtched is building application-specific chips for transformer inference. They claim their Sohu chip can run inference faster and cheaper than general-purpose GPUs by hardwiring the architecture.\n\u2800\nThe pitch is compelling on paper. Strip out everything that is not a transformer operation and you get density and power efficiency gains that matter at scale.\n\u2800\nThe execution risk is what makes this valuation remarkable.\n\u2800\nASICs live or die on volume and roadmap durability. Transfo",
-   "disc_score": 0,
-   "checks": {
-    "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791318886
-  },
-  "7513299803334713344": {
-   "created": 1791310263,
-   "author": "Brian Schechter",
-   "url": "https://www.linkedin.com/posts/brian-schechter-1822ba16_primary-jobs-activity-7513299803334713344-PUlj",
-   "text": "Join our compute team in SF!\nPrimary Venture Partners is building our compute team in the Bay. I\u2019m leading the charge. The wonderful Gaby Lorenzi is moving to SF. We\u2019re hiring 3 distinct humans: an investor, a builder, and an evangelist.\n\nThe investor will do deep research, source deals, do diligence, and sit on boards with me. The builder will be an Incubation Associate working on de novo company creation. The evangelist will be a marketer and community builder, focused on growing The Compute 100, a new media franchise that includes a daily email, a podcast, events and a website tracking the 100 most important companies in compute. Together, we\u2019ll lay the foundation for Primary\u2019s broader SF",
-   "disc_score": 143,
-   "checks": {
-    "24": 268
-   },
-   "promoted": true,
-   "miss": 0,
-   "added": 1791318886
-  },
-  "7513262625636487170": {
-   "created": 1791301399,
-   "author": "Akash Nath Garg",
-   "url": "https://www.linkedin.com/posts/akashnathgarg_dailyaidigest-edition-51-october-6-activity-7513262625636487170-1dFK",
-   "text": "#DailyAIDigest | Edition 51 | October 6, 2026\n\nWhere your AI runs and how its output is traced now matter as much as which model you pick.\n\nTwo of today's biggest stories are not about capability. One puts Claude on servers inside India. The other puts invisible marks on ChatGPT text in Europe. Both are controls, and both decide who can adopt.\n\nToday's signals.\n\n1. OpenAI watermarks ChatGPT and Codex text in the EU\nInvisible textGrain marks roll out over the coming weeks under the EU AI Act. Replace 10% of the words and detection falls from 92% to 66%.\n\n2. Anthropic runs Claude inference inside India\nOpus 5, Sonnet 5 and Haiku 4.5 now process and keep data on Indian servers through Amazon Be",
-   "disc_score": 2,
-   "checks": {
-    "24": 2
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791318886
-  },
-  "7513259080283623424": {
-   "created": 1791300554,
-   "author": "Teddy Ighodalo",
-   "url": "https://www.linkedin.com/posts/teddyp963_etcheds-valuation-may-have-doubled-in-weeks-activity-7513259080283623424-cGEt",
-   "text": "Etched's valuation may have doubled in weeks\n\nAI-chip startup Etched raised $700M at a $21B valuation in August.\n\nNow it's reportedly receiving funding offers at $40B\u2013$50B.\n\nThat's potentially 2\u00d7+ valuation expansion in weeks.\n\nNo deal is signed.\n\nBut the signal is powerful:\n\nInvestors are increasingly betting that the next AI-chip winner may not look like NVIDIA.\n\nEtched's strategy is specialized silicon optimized for transformer inference.\n\nThe AI-chip market may be fragmenting before it has even matured.",
-   "disc_score": 4,
-   "checks": {
-    "24": 4
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791318886
-  },
-  "7513306056450686977": {
-   "created": 1791311754,
-   "author": "Ed Hernandez",
-   "url": "https://www.linkedin.com/posts/activity-7513306056450686977-6WZL",
-   "text": "GLOBAL AI ANALYSIS REPORT \u2014 MIDDAY INTELLIGENCE\nBy Ed Hernandez | KEYSTONE PULSE MEDIA / Global Media Center\nTuesday, October 6, 2026\n\nExecutive Midday Briefing\n\nAs the global intelligence cycle reaches midday on Tuesday, October 6, 2026, the artificial intelligence sector is navigating a major wave of infrastructure reallocations, defense adjustments, and high-stakes startup financing. \nDominating today's midday dispatches, the U.S. Department of Defense confirmed it has ceased the use of Anthropic products on active operations, while inference-chip startup Etched is fielding staggering secondary buyout bids at $40 billion to $50 billion. \n\nConcurrently, enterprise data ecosystems are shift",
-   "disc_score": 0,
-   "checks": {
-    "24": 4
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791318886
-  },
-  "7513256750448381952": {
-   "created": 1791299998,
-   "author": "Hermann Peterscheck",
-   "url": "https://www.linkedin.com/posts/hermannpeterscheck_ai-and-gaming-news-activity-7513256750448381952-oL-q",
-   "text": "Game/AI news \n\nCapcom's strategy of having an internal engine might be instructive for other game studios. It allows them to target the problems and opportunities they uniquely face and some insights into how they plan to integrate AI with it:\nhttps://lnkd.in/guHn9rJf\n\nHyperscalers haven't had their \"AdSense/AdWords\" moment, ChatGPT looks like it's going to give ads during image generation a shot. If you have a \"free\" (or highly subsidized) business model it creates pressure to generate revenue and advertising is a natural place to look. I would expect more such experimentation.\nhttps://lnkd.in/gmae3eRE\n\n\n\nTHE ORACLE SEES\u2026TODAY \u00b7 TUE, OCT 6*The Oracles screen flickers with cosmic light* Four",
-   "disc_score": 0,
-   "checks": {
-    "24": 1
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791318886
-  },
   "7513343598374100992": {
    "created": 1791320705,
    "author": "Colin Stuckert",
@@ -240,7 +110,9 @@
    "url": "https://www.linkedin.com/posts/markolix-com_etchede-40-50-milyar-dolarl%C4%B1k-de%C4%9Ferleme-activity-7513477571393638401-9s7D",
    "text": "Etched'e 40-50 Milyar Dolarl\u0131k De\u011ferleme Teklifi: Nvidia'ya Meydan Okuyan \u00c7ip Giri\u015fimi \u0130ki Ayda De\u011ferini \u0130kiye Katlad\u0131 | MARKOLIX https://lnkd.in/eEZeA7zs #etched #nvidia #de\u011ferleme #yat\u0131r\u0131m #giri\u015fim #sekt\u00f6r #g\u00fcncel #markolix #dijital #teknoloji",
    "disc_score": 5,
-   "checks": {},
+   "checks": {
+    "24": 5
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791362387
@@ -251,7 +123,9 @@
    "url": "https://www.linkedin.com/posts/shishupal-rajpurohit-039290190_latest-in-the-ai-world-1-companies-switch-activity-7513440689247027200-xRXg",
    "text": "\ud83d\ude80 Latest in the AI World\n\n1. Companies Switch to Cheaper Open-Weight AI Models to Control Rising Costs\nAs AI expenses surge, companies like Harvey are migrating from costly proprietary models to open-weight alternatives to maintain profitability, with Harvey's margins turning positive after launching its own model based on Moonshot's Kimi K3. AT&T now routes 40% of its AI workloads through open models.\n\n2. Reflection Unveils Beam, a 501B-Parameter Open-Weight AI Model\nReflection introduced Beam, a 501 billion-parameter sparse mixture-of-experts model with 23 billion active parameters, trained on 23.8 trillion tokens using 10,500 Nvidia GB300 GPUs over four weeks. The model reportedly require",
    "disc_score": 1,
-   "checks": {},
+   "checks": {
+    "24": 5
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791362387
@@ -262,7 +136,9 @@
    "url": "https://www.linkedin.com/posts/gevert_ai-artificialintelligence-technews-activity-7513500502513520640-aNVT",
    "text": "\ud83d\ude80 \ud835\udda6\ud835\uddbe\ud835\uddcf\ud835\uddbe\ud835\uddcb\ud835\uddcd \ud835\udda3\ud835\uddba\ud835\uddc2\ud835\uddc5\ud835\uddd2 \ud835\udda0\ud835\udda8 \ud835\uddad\ud835\uddbe\ud835\uddd0\ud835\uddcc \ud835\udda0\ud835\uddc0\ud835\uddbe\ud835\uddc7\ud835\uddcd - 10/7/2026\n\n#AI #ArtificialIntelligence #TechNews #DailyAI #Innovation #FutureTech #MachineLearning #GPT #DeepLearning #GenerativeAI #DataScience #TechTrends #DigitalTransformation\n\n1. \ud835\uddac\ud835\udda8\ud835\uddb2\ud835\uddb3\ud835\uddb1\ud835\udda0\ud835\uddab \ud835\uddab\ud835\udda0\ud835\uddb4\ud835\uddad\ud835\udda2\ud835\udda7\ud835\udda4\ud835\uddb2 \ud835\udfed\ud835\uddb3 \ud835\uddaf\ud835\udda0\ud835\uddb1\ud835\udda0\ud835\uddac\ud835\udda4\ud835\uddb3\ud835\udda4\ud835\uddb1 \"\ud835\uddab\ud835\udda4 \ud835\udda2\ud835\udda7\ud835\uddae\ud835\uddad\ud835\uddaa\" \ud835\uddac\ud835\uddae\ud835\udda3\ud835\udda4\ud835\uddab\nMistral debuts 1T parameter open-weight model.\nRead more: https://lnkd.in/ehTVrV_V\n\n2. \ud835\uddae\ud835\uddaf\ud835\udda4\ud835\uddad\ud835\udda0\ud835\udda8 \ud835\uddb2\ud835\udda7\ud835\udda4\ud835\uddab\ud835\uddb5\ud835\udda4\ud835\uddb2 \ud835\udda6\ud835\uddaf\ud835\uddb3-\ud835\udff2.\ud835\udfed \ud835\udda0\ud835\uddb2\ud835\uddb3\ud835\uddb1\ud835\udda0 \ud835\uddae\ud835\uddb5\ud835\udda4\ud835\uddb1 \ud835\uddb2\ud835\udda0\ud835\udda5\ud835\udda4\ud835\uddb3\ud835\uddb8 \ud835\udda2\ud835\uddae\ud835\uddad\ud835\udda2\ud835\udda4\ud835\uddb1\ud835\uddad\ud835\uddb2\nOpenAI cancels GPT-6.1 Astra due to safety.\nRead more: https://lnkd.in/evtQ3CBp\n\n3. \ud835\udda1\ud835\uddae\ud835\uddb2\ud835\uddb3\ud835\uddae\ud835\uddad \ud835\udda3\ud835\uddb8\ud835\uddad\ud835\udda0\ud835\uddac\ud835\udda8\ud835\udda2\ud835\uddb2 \ud835\udda0\ud835\uddaf\ud835\uddaf\ud835\uddae\ud835\udda8\ud835\uddad\ud835\uddb3\ud835\uddb2 \ud835\uddb1\ud835\uddae\ud835\udda7\ud835\udda8\ud835\uddb3 \ud835\uddaf\ud835\uddb1\ud835\udda0\ud835\uddb2\ud835\udda0\ud835\udda3 \ud835\udda0\ud835\uddb2 \ud835\udda2\ud835\udda4\ud835\uddae\nBoston Dynamics appoints Rohit Prasad to lead AI.\nRead more: https://lnkd.in/eZ_ckT2T\n\n4. \ud835\udda4\ud835\uddb3\ud835\udda2\ud835\udda7\ud835\udda4\ud835\udda3 \ud835\udda0\ud835\udda8 \ud835\udda2\ud835\udda7\ud835\udda8\ud835\uddaf \ud835\uddb2\ud835\uddb3\ud835\udda0\ud835\uddb1\ud835\uddb3\ud835\uddb4\ud835\uddaf \ud835\udda4\ud835\uddb8\ud835\udda4\ud835\uddb2 $\ud835\udff1\ud835\udfec\ud835\udda1 \ud835\uddb5\ud835\udda0\ud835\uddab\ud835\uddb4\ud835\udda0\ud835\uddb3\ud835\udda8\ud835\uddae\ud835\uddad\nAI chip startup Etched eyes $50B valuat",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791362387
@@ -273,7 +149,9 @@
    "url": "https://www.linkedin.com/posts/smmshaman_ai-aichips-venturecapital-activity-7513493693719539712-SZVk",
    "text": "AI chip startup Etched is reportedly fielding investment offers that value the company at $40-50 billion \u2014 roughly double its $21 billion valuation from just three months ago.\n\nWhat makes this notable: Etched isn't just designing chips, it's building full inference systems meant to directly challenge Nvidia on speed and cost. The company says two new components process more tokens, faster, at lower cost. It has already secured $1 billion in customer orders, and about 15% of its 400 employees previously worked at Nvidia.\n\nThis kind of valuation jump signals how much capital is chasing alternatives to Nvidia's dominance in AI infrastructure \u2014 and how fast that market is moving.\n\nhttps://lnkd.i",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791362387
@@ -284,7 +162,9 @@
    "url": "https://www.linkedin.com/posts/skunpoj_etched-fields-funding-offers-at-40b-valuation-activity-7513463525550276608-x9z0",
    "text": "Etched fields funding offers at $40B+ valuation, sources say | TechCrunch https://lnkd.in/gbQe83Wb",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791362387
@@ -295,7 +175,9 @@
    "url": "https://www.linkedin.com/posts/ai-insiders-news_openai-is-asking-for-30-billion-or-more-activity-7513509230369230848-erqC",
    "text": "OpenAI is asking for $30 billion or more at a $1.4 trillion price, and no investor has agreed to lead.\n\nChatGPT has 1.2 billion weekly users, OpenAI says, and it has started selling ads. Etched has reportedly been offered money at $40 billion or more. \n\nTwo former Groq engineers allege a board skipped a stockholder vote and took Nvidia's $20 billion deal to a Delaware court.\n\nAnd much more, in today's AI Insiders edition.",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 21
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791362387
@@ -330,8 +212,10 @@
    "url": "https://www.linkedin.com/posts/gracegong_ai-aiinfrastructure-foundationmodels-activity-7513519953195741184-RRGw",
    "text": "AI FOUNDATIONAL TECH COMPANIES (HIRING LIST)\n\nHere are 34 AI foundational tech companies that are actively hiring right now, ranked by percentage headcount growth over the past year. This is Week 91 of On My Radar, my weekly list of the companies I can't stop watching:\n\nLuel - multimodal training lab (San Francisco)\nNscale - full-stack AI infrastructure (Norway)\nXDOF - foundation models for robotics (San Mateo)\nGimlet Labs - serverless inference (San Francisco)\nNuance Labs - real-time audiovisual foundation model (Seattle)\nvLLM - open-source inference engine (HQ undisclosed)\nModal - serverless compute for AI (New York)\nPrime Intellect - decentralized model training (San Francisco)\nPositron A",
    "disc_score": 77,
-   "checks": {},
-   "promoted": false,
+   "checks": {
+    "24": 155
+   },
+   "promoted": true,
    "miss": 0,
    "added": 1791379844
   },
@@ -521,38 +405,21 @@
    "promoted": false,
    "miss": 0,
    "added": 1791424524
+  },
+  "7513856492362416128": {
+   "created": 1791442988,
+   "author": "Boo Community",
+   "url": "https://www.linkedin.com/posts/boo-community_ai-opensource-boocommunity-activity-7513856492362416128-ss7j",
+   "text": "\ud83d\ude35\u200d\ud83d\udcab\ud83e\udd2f\ud83d\ude35\u200d\ud83d\udcab\ud83e\udd2f\ud83d\ude35\u200d\ud83d\udcab\ud83e\udd2f\ud83d\ude35\u200d\ud83d\udcab\ud83e\udd2f\ud83d\ude35\u200d\ud83d\udcab\ud83e\udd2f\ud83d\ude35\u200d\ud83d\udcab\ud83e\udd2f\ud83d\ude35\u200d\ud83d\udcab\ud83e\udd2f\ud83d\ude35\u200d\ud83d\udcab\n\nAI NEWS TODAY: 3 stories you shouldn't miss \ud83d\udc47\n\n1\ufe0f\u20e3 A giant open-weight model just landed\nReflection introduced Beam, a 501B-parameter open-weight model (sparse mixture-of-experts, 23B active). It was reportedly trained on 23.8T tokens using about 10.5K Nvidia GB300 GPUs over four weeks.\n\n2\ufe0f\u20e3 The money behind AI keeps climbing\nBloomberg reports DeepSeek is finalizing a round of at least $12 billion, with Tencent and CATL among the biggest backers, ahead of a Hong Kong IPO targeted for Q1 2027.\n\n3\ufe0f\u20e3 The chip race is getting wild\nTechCrunch reports inference-chip startup Etched is fielding bids at $40\u201350 billion, roughly double the $21 billion mark set just last",
+   "disc_score": 2,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791449860
   }
  },
  "baseline": {
   "24": [
-   [
-    1787727815,
-    23
-   ],
-   [
-    1787727815,
-    0
-   ],
-   [
-    1787731120,
-    17
-   ],
-   [
-    1787734579,
-    10
-   ],
-   [
-    1787738205,
-    2
-   ],
-   [
-    1787741462,
-    0
-   ],
-   [
-    1787744629,
-    6
-   ],
    [
     1787748866,
     0
@@ -2124,6 +1991,34 @@
    [
     1791424524,
     1
+   ],
+   [
+    1791449860,
+    5
+   ],
+   [
+    1791449860,
+    5
+   ],
+   [
+    1791449860,
+    0
+   ],
+   [
+    1791449860,
+    0
+   ],
+   [
+    1791449860,
+    0
+   ],
+   [
+    1791449860,
+    21
+   ],
+   [
+    1791449860,
+    155
    ]
   ]
  },
@@ -2277,6 +2172,11 @@
    1791379844,
    "7513299803334713344",
    268
+  ],
+  [
+   1791449860,
+   "7513519953195741184",
+   155
   ]
  ],
  "seeded": true
