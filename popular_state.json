@@ -1,25 +1,80 @@
 {
  "watch": {
-  "2108107640505033115": {
-   "created": 1791447002,
-   "author": "Borty",
-   "followers": 10620,
-   "url": "https://x.com/Borty/status/2108107640505033115",
+  "2108237978393026979": {
+   "created": 1791478077,
+   "author": "gettin_BILLs_",
+   "followers": 3037,
+   "url": "https://x.com/gettin_BILLs_/status/2108237978393026979",
    "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791480854
+  },
+  "2108235869719085105": {
+   "created": 1791477575,
+   "author": "fireplyai",
+   "followers": 1257,
+   "url": "https://x.com/fireplyai/status/2108235869719085105",
+   "disc_score": 2,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791480854
+  },
+  "2108234872066359722": {
+   "created": 1791477337,
+   "author": "wolfgangg37",
+   "followers": 5749,
+   "url": "https://x.com/wolfgangg37/status/2108234872066359722",
+   "disc_score": 3,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791480854
+  },
+  "2108233962166632958": {
+   "created": 1791477120,
+   "author": "HarryStebbings",
+   "followers": 701815,
+   "url": "https://x.com/HarryStebbings/status/2108233962166632958",
+   "disc_score": 27,
    "checks": {
-    "1": 0
+    "1": 28
+   },
+   "promoted": true,
+   "miss": 0,
+   "added": 1791480854
+  },
+  "2108226819048775968": {
+   "created": 1791475417,
+   "author": "WalnutJobs",
+   "followers": 529,
+   "url": "https://x.com/WalnutJobs/status/2108226819048775968",
+   "disc_score": 1,
+   "checks": {
+    "1": 1
    },
    "promoted": false,
    "miss": 0,
-   "added": 1791455200
+   "added": 1791480854
+  },
+  "2108210655262326989": {
+   "created": 1791471563,
+   "author": "Bavva777",
+   "followers": 1377,
+   "url": "https://x.com/Bavva777/status/2108210655262326989",
+   "disc_score": 1,
+   "checks": {
+    "1": null
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1791480854
   }
  },
  "baseline": {
   "1": [
-   [
-    1787638881,
-    0.0
-   ],
    [
     1787638881,
     0.0
@@ -1611,6 +1666,14 @@
    [
     1791455206,
     0
+   ],
+   [
+    1791480855,
+    28
+   ],
+   [
+    1791480855,
+    1
    ]
   ]
  },
@@ -1714,6 +1777,11 @@
    1791401466,
    "2107891478467068285",
    111
+  ],
+  [
+   1791480855,
+   "2108233962166632958",
+   28
   ]
  ],
  "seeded": true
