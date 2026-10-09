@@ -1,17 +1,37 @@
 {
  "watch": {
-  "2108558868263342241": {
-   "created": 1791554583,
-   "author": "datarade",
-   "followers": 31102,
-   "url": "https://x.com/datarade/status/2108558868263342241",
-   "disc_score": 3,
-   "checks": {
-    "1": null
-   },
+  "2108667782003032302": {
+   "created": 1791580551,
+   "author": "princedoesai",
+   "followers": 2273,
+   "url": "https://x.com/princedoesai/status/2108667782003032302",
+   "disc_score": 1,
+   "checks": {},
    "promoted": false,
    "miss": 0,
-   "added": 1791563929
+   "added": 1791580814
+  },
+  "2108663836052259265": {
+   "created": 1791579610,
+   "author": "AaronGDillon",
+   "followers": 1763,
+   "url": "https://x.com/AaronGDillon/status/2108663836052259265",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791580814
+  },
+  "2108663569265160263": {
+   "created": 1791579546,
+   "author": "Lavav77",
+   "followers": 19,
+   "url": "https://x.com/Lavav77/status/2108663569265160263",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791580814
   }
  },
  "baseline": {
