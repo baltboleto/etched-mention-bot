@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7513856492362416128": {
-   "created": 1791442988,
-   "author": "Boo Community",
-   "url": "https://www.linkedin.com/posts/boo-community_ai-opensource-boocommunity-activity-7513856492362416128-ss7j",
-   "text": "\ud83d\ude35\u200d\ud83d\udcab\ud83e\udd2f\ud83d\ude35\u200d\ud83d\udcab\ud83e\udd2f\ud83d\ude35\u200d\ud83d\udcab\ud83e\udd2f\ud83d\ude35\u200d\ud83d\udcab\ud83e\udd2f\ud83d\ude35\u200d\ud83d\udcab\ud83e\udd2f\ud83d\ude35\u200d\ud83d\udcab\ud83e\udd2f\ud83d\ude35\u200d\ud83d\udcab\ud83e\udd2f\ud83d\ude35\u200d\ud83d\udcab\n\nAI NEWS TODAY: 3 stories you shouldn't miss \ud83d\udc47\n\n1\ufe0f\u20e3 A giant open-weight model just landed\nReflection introduced Beam, a 501B-parameter open-weight model (sparse mixture-of-experts, 23B active). It was reportedly trained on 23.8T tokens using about 10.5K Nvidia GB300 GPUs over four weeks.\n\n2\ufe0f\u20e3 The money behind AI keeps climbing\nBloomberg reports DeepSeek is finalizing a round of at least $12 billion, with Tencent and CATL among the biggest backers, ahead of a Hong Kong IPO targeted for Q1 2027.\n\n3\ufe0f\u20e3 The chip race is getting wild\nTechCrunch reports inference-chip startup Etched is fielding bids at $40\u201350 billion, roughly double the $21 billion mark set just last",
-   "disc_score": 2,
-   "checks": {
-    "24": 3
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791449860
-  },
   "7513886256062312448": {
    "created": 1791450084,
    "author": "Outstanding Branding",
@@ -84,7 +71,9 @@
    "url": "https://www.linkedin.com/posts/huang-catherine_ive-started-a-new-role-at-etched-as-a-member-activity-7514001100950216709-_8aX",
    "text": "I've started a new role at Etched as a Member of Technical Staff on the Inference team! \n\nFirst off, a huge thank you to Aadil Manazir for referring me, and to everyone else in my network who sent a referral, made an intro, or just checked in during the search. I wouldn't be here without you, and I don't take that generosity for granted. \n\nA few weeks in, I\u2019m learning something new from my incredibly talented teammates every day, and everyone has been extremely generous with their time. I love that our lunch conversations regularly turn to interesting TCS results they or their friends have proved. I\u2019m also a big fan of the culture of writing on big drawing pads. I can\u2019t wait to see how fast ",
    "disc_score": 16,
-   "checks": {},
+   "checks": {
+    "24": 90
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791480883
@@ -95,7 +84,9 @@
    "url": "https://www.linkedin.com/posts/harrystebbings_just-seen-settervcs-latest-report-on-the-activity-7513999162619609088-rxw-",
    "text": "Just seen @SetterVC's latest report on the most in-demand secondaries for private companies in Q3\n\nMy 3 takeaways:  \n\n1. AI is dominating, but more money is moving to the picks and shovels. \n\n- Anthropic at #1 for the 3rd quarter in a row.\n- OpenAI rises 1 to #2  \n- Etched is the highest ranking newcomer, debuting at #13\n- Baseten debuts at #19, and Fireworks AI comes in at #16\n\n2. Defence is having a moment:\n\n- Hadrian is the biggest riser in the list jumping 9 spots to #11\n- Shield AI #7 & Saronic Technologies #9 both jump 5 spots\n\n3. Prediction markets are cooling down but they aren't struggling:\n\n- Kalshi #24 drops 16 spots\n- Polymarket falls 24 spots to #30  \n\nSee the full list here \ud83d\udc47\nh",
    "disc_score": 67,
-   "checks": {},
+   "checks": {
+    "24": 121
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791497073
@@ -106,7 +97,9 @@
    "url": "https://www.linkedin.com/posts/indira-g1701_sftechweek-aiinfrastructure-deeptech-activity-7514015461114753024-0xga",
    "text": "Building AI infrastructure also means figuring out how to finance risks that mature software businesses no longer face.\n\nThat was the challenge I kept coming back to during \u201cAI Infra: Fundraising at the Foundation,\u201d organized by TriplePoint Capital and PitchBook at SF Tech Week.\n\nWhat evidence is enough when a company needs years of R&D, specialized engineers, manufacturing partners, memory and power before product-market fit becomes visible?\n\nC.C. Gong (Menlo Ventures )reframed capital efficiency in a way I liked.\n\nIt does not necessarily mean spending less. The question is what return each incremental dollar can generate.\n\nShe also raised an important point about vendor financing: would th",
    "disc_score": 4,
-   "checks": {},
+   "checks": {
+    "24": 11
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791497073
@@ -165,22 +158,21 @@
    "promoted": false,
    "miss": 0,
    "added": 1791562338
+  },
+  "7514374657865613312": {
+   "created": 1791566528,
+   "author": "TriplePoint Capital",
+   "url": "https://www.linkedin.com/posts/triplepoint-capital_sftechweek-activity-7514374657865613312-S6Dn",
+   "text": "Thank you to everyone who joined us and PitchBook for two panels during SF Tech Week, with more than 2,000 RSVPs and 500 attendees across both.\n\nFundraising at the Foundation - AI Infra\nThank you to C.C. Gong of Greycroft, Robert W. of Etched, Mohit Gupta of TYLsemi, and Haomiao Huang, PhD of Matter Venture Partners for sharing their perspectives on the infrastructure enabling the next generation of AI.\n\nInvesting at the Forefront - Defense & Deep Tech\nThank you to Jocelyn Kinsey of DFJ Growth, Michael A. Brown of Shield Capital, and James Brown of Schemata, Inc. for sharing their perspectives on building and backing frontier technology.\n\nA special thank you to Kyle Stanford, CAIA and PitchB",
+   "disc_score": 22,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791579426
   }
  },
  "baseline": {
   "24": [
-   [
-    1787862648,
-    12
-   ],
-   [
-    1787862648,
-    5
-   ],
-   [
-    1787875462,
-    9
-   ],
    [
     1787875462,
     5
@@ -1768,6 +1760,18 @@
    [
     1791562339,
     0
+   ],
+   [
+    1791579426,
+    90
+   ],
+   [
+    1791579426,
+    121
+   ],
+   [
+    1791579426,
+    11
    ]
   ]
  },
