@@ -1,109 +1,5 @@
 {
  "watch": {
-  "7513622056224227328": {
-   "created": 1791387094,
-   "author": "Ricky Dinh",
-   "url": "https://www.linkedin.com/posts/ricky-dinh_z-fellows-alumni-have-founded-companies-that-activity-7513622056224227328--X5J",
-   "text": "Z Fellows alumni have founded companies that raised nearly $8B in total funding.\n\nOne of those companies was bought by another Z Fellows company: Cognition, co-founded by Z Fellow @[Walden Yan](https://lnkd.in/dVCu7Wrb), acquired Poke in July.\n\nAnd it all started with $10K and one week in San Francisco.\n\nUsing Crustdata (YC F24)'s People Search API and Funding API, I mapped some of the companies founded or co-founded by Z Fellows:\n\nCognition - $3.9B - @[Walden Yan](https://lnkd.in/dVCu7Wrb)\nEtched - $1.7B - @[Gavin Uberti](https://lnkd.in/d3Eq5tNJ), @[Chris Zhu](https://lnkd.in/di89epA2), @[Robert Wachen](https://lnkd.in/dDKJM8tr)\nMach Industries - $1.1B - @[Ethan Thornton](https://lnkd.in/d",
-   "disc_score": 2,
-   "checks": {
-    "24": 9
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791390497
-  },
-  "7513612151807283200": {
-   "created": 1791384733,
-   "author": "Pankaj Kedia",
-   "url": "https://www.linkedin.com/posts/pankajkedia_exclusive-ai-computing-startup-lambda-is-activity-7513612151807283200-kDMQ",
-   "text": "Heard around Silicon Valley this week \ud83d\udc40.\n(and it\u2019s only Wednesday)\n\nCompute: Lambda at $18-19B\nChips: Etched at $40-50B\nChina: DeepSeek at $75B \nCore: OpenAI at $1.4T\n\nThe AI acceleration continues. Best time to be investing in AI.\n\nps: Sorry to all the bubble-seekers and doomsayers \u263a\ufe0f.\n\n#AIDecade\n#InvestorDecade",
-   "disc_score": 3,
-   "checks": {
-    "24": 11
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791390497
-  },
-  "7513614758399479808": {
-   "created": 1791385354,
-   "author": "Ben Carden",
-   "url": "https://www.linkedin.com/posts/ben-carden-aa4a92329_ai-minted-111-new-unicorns-in-the-first-9-activity-7513614758399479808-ulvZ",
-   "text": "AI minted 111 new unicorns in the first 9 months of 2026. That's 1 every 2.5 days.\nThe top 20 alone are worth $192B, and DeepSeek is a quarter of that.\nHere's the top 20, ranked by latest priced round:\n\n1. DeepSeek, $50B. Open-weight models. Its first outside round.\n2. Etched, $21B. Inference chips.\n3. Kling AI, $18B. AI video. A Kuaishou unit.\n4. OpenAI Deployment Co, $14B. OpenAI's enterprise arm.\n5. Instinct, $10B. Personal AI assistant.\n6. NEURA Robotics, $7B. Cognitive robots.\n7. XPeng Robotics, $6.3B. Humanoid robots.\n8. General Intuition, $6.2B. Models trained on game video.\n9. Hark, $6B. Personal AI devices.\n10. Lumilens, $5.5B. Photonic links for AI chips.\n11. Higgsfield, $5.4B. AI ",
-   "disc_score": 1,
-   "checks": {
-    "24": 36
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791390497
-  },
-  "7513651871287341057": {
-   "created": 1791394203,
-   "author": "Ankur Mittal",
-   "url": "https://www.linkedin.com/posts/ankur-mittal-nuvion_ai-semiconductors-venturecapital-activity-7513651871287341057-H-GC",
-   "text": "Can general purpose GPUs keep up with AI, or are we hitting a physical wall?\n\nRight now, the industry's answer is to throw more GPUs at the problem. But two private startups are making very different bets on what the next generation of AI hardware looks like.\n\n1. Etched: hardwire the algorithm into silicon. Instead of building flexible GPUs like NVIDIA, Etched started with a radically different idea: build silicon specifically optimized for the Transformer architecture powering todays leading AI models. Its Sohu chip was designed around Transformers, trading flexibility for dramatically higher inference performance and efficiency. Etched is now expanding that approach into full inference clu",
-   "disc_score": 1,
-   "checks": {
-    "24": 4
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791401572
-  },
-  "7513667652112936960": {
-   "created": 1791397965,
-   "author": "Vitalii Berbeha",
-   "url": "https://www.linkedin.com/posts/smmshaman_ai-technews-norway-activity-7513667652112936960-KGtB",
-   "text": "Money is flowing to AI hardware and infrastructure at a remarkable pace.\n\nIn today's Norwegian-language tech news digest from vitalii.no:\n\n\ud83d\udcb0 AI chip company Etched has received investor offers valuing it at $40\u201350 billion.\n\ud83e\udde0 Google DeepMind released EmbeddingGemma 2, a 740-million-parameter multimodal embedding model built to run on-device.\n\ud83d\udcbb A 19-year-old founder raised $11M to build Ghost's Core, a $3,499 computer designed for personal AI agents.\n\u26a1 Type One Energy raised $200 million to build a 400 MW fusion power plant targeted for 2034.\n\nWatch the full daily digest here:\nhttps://lnkd.in/enb7NNZt\n\n#AI #TechNews #Norway #AIHardware #Startups",
-   "disc_score": 0,
-   "checks": {
-    "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791401572
-  },
-  "7513659649422819329": {
-   "created": 1791396057,
-   "author": "Jose Oblitas Kahn",
-   "url": "https://www.linkedin.com/posts/jose-oblitas-kahn_venture-capital-activity-7513659649422819329-GFIa",
-   "text": "\ud83c\udf0d \ud835\uddda\ud835\udddf\ud835\udde2\ud835\uddd5\ud835\uddd4\ud835\udddf \u00b7 \ud835\udddc\ud835\uddfb\ud835\uddf3\ud835\uddff\ud835\uddee\ud835\uddf2\ud835\ude00\ud835\ude01\ud835\uddff\ud835\ude02\ud835\uddf0\ud835\ude01\ud835\ude02\ud835\uddff\ud835\uddee \ud835\udddc\ud835\uddd4\nEtched val\u00eda $10,300 millones en julio. $21,000 millones en setiembre. Hoy negocia ofertas de $40,000 a $50,000 millones.\n\nTres meses. Ninguna ronda cambia as\u00ed de r\u00e1pido si detr\u00e1s solo hay narrativa.\n\nLo que cambi\u00f3 es simple: Etched dise\u00f1a chips propios para correr modelos de IA ya entrenados, no para entrenarlos. Ya tiene $1,000 millones en pedidos confirmados, con Jane Street como cliente ancla y l\u00edder de su \u00faltima ronda.\n\nAh\u00ed est\u00e1 la tesis. El dinero en IA dej\u00f3 de perseguir el mejor modelo. Ahora persigue qui\u00e9n lo corre m\u00e1s barato. Entrenar es un gasto que se reparte entre miles de clientes. Correrlo es un costo que se repite en cada consulta. El margen ya no",
-   "disc_score": 0,
-   "checks": {
-    "24": 4
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791401572
-  },
-  "7513679154706505728": {
-   "created": 1791400707,
-   "author": "Leila Maleki",
-   "url": "https://www.linkedin.com/posts/leila-maleki-b86b58275_the-past-few-months-have-been-an-overflow-activity-7513679154706505728-LZTK",
-   "text": "The past few months have been an overflow of life-changing opportunities, and I'm grateful for every bit of it.\n\nA few highlights since arriving in SF in July:\n\n- Spent time around brilliant startups, started off attending YC Startup School and Expo\n- Inspired after joining a small group of talented builders at a private Z Fellows (ShadowHardTech) event at Etched and Archer, spoke directly with Etched founder Rob Wachen and Archer's Director of Engineering\n- OpenAI's Found-Her Summit, hearing from the Operations & Infra panel\n- Grok Bot Women's Night, hacked & heard Lauren Tan speak in person at a16z with SpaceXAI \n- Physical AI dinners with brilliant researchers and founders\n- Joined Photon",
-   "disc_score": 112,
-   "checks": {
-    "24": 256
-   },
-   "promoted": true,
-   "miss": 0,
-   "added": 1791410323
-  },
-  "7513689791696216064": {
-   "created": 1791403243,
-   "author": "The Ledger Wire",
-   "url": "https://www.linkedin.com/posts/theledgerwire_50b-etched-doubles-up-in-weeks-inference-chip-activity-7513689791696216064-FpGi",
-   "text": "$50B. Etched doubles up in weeks. Inference-chip startup Etched is reviewing investor offers valuing the company between $40 billion and $50 billion, roughly double the $21 billion mark set in its Jane Street-led $700 million round in September. The four-year-old company, which has secured $1 billion in customer orders, designs chips specialized for transformer-model AI inference. \u2192 Was $21B in September. Now $50B. \u2192 $1B orders, no chip in market yet. Pricing the roadmap, not the revenue. What's your read?",
-   "disc_score": 0,
-   "checks": {
-    "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791410323
-  },
   "7513741534513512448": {
    "created": 1791415580,
    "author": "Abhishek J.",
@@ -125,7 +21,7 @@
    "disc_score": 2,
    "checks": {},
    "promoted": false,
-   "miss": 1,
+   "miss": 2,
    "added": 1791424524
   },
   "7513742159976714242": {
@@ -136,7 +32,7 @@
    "disc_score": 7,
    "checks": {},
    "promoted": false,
-   "miss": 1,
+   "miss": 2,
    "added": 1791424524
   },
   "7513856492362416128": {
@@ -145,7 +41,9 @@
    "url": "https://www.linkedin.com/posts/boo-community_ai-opensource-boocommunity-activity-7513856492362416128-ss7j",
    "text": "\ud83d\ude35\u200d\ud83d\udcab\ud83e\udd2f\ud83d\ude35\u200d\ud83d\udcab\ud83e\udd2f\ud83d\ude35\u200d\ud83d\udcab\ud83e\udd2f\ud83d\ude35\u200d\ud83d\udcab\ud83e\udd2f\ud83d\ude35\u200d\ud83d\udcab\ud83e\udd2f\ud83d\ude35\u200d\ud83d\udcab\ud83e\udd2f\ud83d\ude35\u200d\ud83d\udcab\ud83e\udd2f\ud83d\ude35\u200d\ud83d\udcab\n\nAI NEWS TODAY: 3 stories you shouldn't miss \ud83d\udc47\n\n1\ufe0f\u20e3 A giant open-weight model just landed\nReflection introduced Beam, a 501B-parameter open-weight model (sparse mixture-of-experts, 23B active). It was reportedly trained on 23.8T tokens using about 10.5K Nvidia GB300 GPUs over four weeks.\n\n2\ufe0f\u20e3 The money behind AI keeps climbing\nBloomberg reports DeepSeek is finalizing a round of at least $12 billion, with Tencent and CATL among the biggest backers, ahead of a Hong Kong IPO targeted for Q1 2027.\n\n3\ufe0f\u20e3 The chip race is getting wild\nTechCrunch reports inference-chip startup Etched is fielding bids at $40\u201350 billion, roughly double the $21 billion mark set just last",
    "disc_score": 2,
-   "checks": {},
+   "checks": {
+    "24": 3
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791449860
@@ -156,7 +54,9 @@
    "url": "https://www.linkedin.com/posts/0utstanding-branding_branding-brandidentity-branddesign-activity-7513886256062312448-SsPJ",
    "text": "DVC by Daniil Sergeev\n\nDVC is a fund bringing together 190+ investors and backing 120 AI startups, including Perplexity AI, Etched and Thinking Machines Lab, all managed by a family of founders. The challenge was building a brand identity and web presence that could visually capture a community this layered, engineers, founders and angels, without flattening it into generic venture branding.\n\nThe identity centers on multilayered, color cluster visuals that symbolize that dense network of relationships, giving DVC a visual language as interconnected as the community it represents. The result translates the fund's collaborative, founder-led structure into a distinctive brand built for a portfo",
    "disc_score": 64,
-   "checks": {},
+   "checks": {
+    "24": 110
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791476963
@@ -237,18 +137,54 @@
    "promoted": false,
    "miss": 0,
    "added": 1791497073
+  },
+  "7514187962981486593": {
+   "created": 1791522017,
+   "author": "Bill Kerr",
+   "url": "https://www.linkedin.com/posts/thebillkerr_everyone-in-ai-is-raising-a-small-countrys-activity-7514187962981486593-EajM",
+   "text": "Everyone in AI is raising a small country's GDP this week, and the one release that actually matters barely mentioned a funding round.\n\nDeepSeek's chasing $12 billion. Moonshot just hit a $50 billion valuation. Etched is fielding offers at $40 to 50 billion.\n\nThen a lab called Reflection quietly dropped an open model that matches the Chinese frontier using 3 to 4x less compute to run it.\n\nWeights going out under Apache 2.0 this month. Free.",
+   "disc_score": 55,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791536698
+  },
+  "7514227248355266560": {
+   "created": 1791531383,
+   "author": "Junaid M Zaidi",
+   "url": "https://www.linkedin.com/posts/mjunaidzaidi_etched-the-ai-chip-startup-is-flooded-with-activity-7514227248355266560-fC0r",
+   "text": "Etched, the AI chip startup, is flooded with investment offers.\nIncoming bids range from $40 billion from top-tier investors to $50 billion from lesser-known backers.\n\nWhy VCs are hot to own a piece of this four-year-old startup.\n\nEtched is pursuing a particularly expensive segment of the AI industry (building full AI hardware systems powered by its own proprietary chips), and it also shows promise of challenging Nvidia.\n\nEtched has designed two new components from scratch to speed up inference (the computing process that happens after a user submits a prompt).\n\nThe company claims its chips can process more tokens faster and at a lower cost than Nvidia's. A microscopic speed advantage can yi",
+   "disc_score": 1,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791536698
+  },
+  "7514204006047600640": {
+   "created": 1791525842,
+   "author": "Roosevelt Mogo Kamdem",
+   "url": "https://www.linkedin.com/posts/rooseveltmkr_ia-tech-innovation-activity-7514204006047600640-ZO2m",
+   "text": "Etched re\u00e7oit des offres \u00e0 40 milliards $\n\n\u2022 Avait lev\u00e9 700 millions \u00e0 21 milliards\n\u2022 Des offres \u00e9voquent 40 \u00e0 50 milliards\n\u2022 Selon des sources de TechCrunch\n\nCe que \u00e7a change pour toi : les puces sp\u00e9cialis\u00e9es pour l'IA attirent \u00e9norm\u00e9ment de capitaux.\n\nLes puces alternatives vont-elles concurrencer Nvidia ?\n\nSource : TechCrunch\n\n#IA #Tech #Innovation",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791536698
+  },
+  "7514195607327199232": {
+   "created": 1791523839,
+   "author": "\u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0628\u06cc\u0646\u0627 \u0648\u06cc\u0631\u0627",
+   "url": "https://www.linkedin.com/posts/binavira_%D9%85%D9%86%D8%A7%D8%A8%D8%B9-%D8%A2%DA%AF%D8%A7%D9%87-%D8%B4%D8%B1%DA%A9%D8%AA-etched-%D9%BE%DB%8C%D8%B4%D9%86%D9%87%D8%A7%D8%AF%D9%87%D8%A7%DB%8C-%D8%AC%D8%B0%D8%A8-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-activity-7514195607327199232-3MBq",
+   "text": "\u0645\u0646\u0627\u0628\u0639 \u0622\u06af\u0627\u0647: \u0634\u0631\u06a9\u062a Etched \u067e\u06cc\u0634\u0646\u0647\u0627\u062f\u0647\u0627\u06cc \u062c\u0630\u0628 \u0633\u0631\u0645\u0627\u06cc\u0647 \u0628\u0627 \u0627\u0631\u0632\u0634\u200c\u06af\u0630\u0627\u0631\u06cc \u0628\u06cc\u0634 \u0627\u0632 \u06f4\u06f0 \u0645\u06cc\u0644\u06cc\u0627\u0631\u062f \u062f\u0644\u0627\u0631 \u062f\u0631\u06cc\u0627\u0641\u062a \u06a9\u0631\u062f\u0647 \u0627\u0633\u062a\n\n\u0627\u0631\u0632\u0634\u200c\u06af\u0630\u0627\u0631\u06cc Etched \u0645\u0645\u06a9\u0646 \u0627\u0633\u062a \u0628\u0647 \u06f5\u06f0 \u0645\u06cc\u0644\u06cc\u0627\u0631\u062f \u062f\u0644\u0627\u0631 \u0628\u0631\u0633\u062f\u061b \u0631\u0642\u0627\u0628\u062a \u0627\u0633\u062a\u0627\u0631\u062a\u0627\u067e \u062a\u0631\u0627\u0634\u0647 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0628\u0627 \u0627\u0646\u0648\u06cc\u062f\u06cc\u0627\n\u0627\u0633\u062a\u0627\u0631\u062a\u0627\u067e Etched\u060c \u0641\u0639\u0627\u0644 \u062f\u0631 \u0637\u0631\u0627\u062d\u06cc \u062a\u0631\u0627\u0634\u0647\u200c\u0647\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc\u060c \u062a\u0646\u0647\u0627 \u0686\u0646\u062f \u0645\u0627\u0647 \u067e\u0633 \u0627\u0632 \u062c\u0630\u0628 \u06f7\u06f0\u06f0 \u0645\u06cc\u0644\u06cc\u0648\u0646 \u062f\u0644\u0627\u0631 \u0633\u0631\u0645\u0627\u06cc\u0647 \u0628\u0627 \u0627\u0631\u0632\u0634\u200c\u06af\u0630\u0627\u0631\u06cc \u06f2\u06f1 \u0645\u06cc\u0644\u06cc\u0627\u0631\u062f \u062f\u0644\u0627\u0631\u06cc\u060c \u067e\u06cc\u0634\u0646\u0647\u0627\u062f\u0647\u0627\u06cc \u062a\u0627\u0632\u0647\u200c\u0627\u06cc \u062f\u0631\u06cc\u0627\u0641\u062a \u06a9\u0631\u062f\u0647 \u0627\u0633\u062a \u06a9\u0647 \u0627\u0631\u0632\u0634 \u0627\u06cc\u0646 \u0634\u0631\u06a9\u062a \u0631\u0627 \u0628\u06cc\u0646 \u06f4\u06f0 \u062a\u0627 \u06f5\u06f0 \u0645\u06cc\u0644\u06cc\u0627\u0631\u062f \u062f\u0644\u0627\u0631 \u0628\u0631\u0622\u0648\u0631\u062f \u0645\u06cc\u200c\u06a9\u0646\u0646\u062f. \u0627\u06cc\u0646 \u0627\u0631\u0642\u0627\u0645 \u0646\u0634\u0627\u0646\u200c\u062f\u0647\u0646\u062f\u0647 \u0627\u0634\u062a\u06cc\u0627\u0642 \u0633\u0631\u0645\u0627\u06cc\u0647\u200c\u06af\u0630\u0627\u0631\u0627\u0646 \u0628\u0647 \u0634\u0631\u06a9\u062a\u200c\u0647\u0627\u06cc\u06cc \u0627\u0633\u062a \u06a9\u0647 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u0646\u062f \u062c\u0627\u06cc\u06af\u0632\u06cc\u0646\u06cc \u0628\u0631\u0627\u06cc \u0632\u06cc\u0631\u0633\u0627\u062e\u062a\u200c\u0647\u0627\u06cc \u067e\u0631\u062f\u0627\u0632\u0634\u06cc \u0627\u0646\u0648\u06cc\u062f\u06cc\u0627 \u0627\u0631\u0627\u0626\u0647 \u062f\u0647\u0646\u062f.\n\u0628\u0647 \u06af\u0641\u062a\u0647 \u0627\u0641\u0631\u0627\u062f \u0622\u06af\u0627\u0647 \u0627\u0632 \u0648\u0636\u0639\u06cc\u062a \u0634\u0631\u06a9\u062a\u060c Etched \u062f\u0631 \u062d\u0627\u0644 \u0628\u0631\u0631 ...\n\n\ud83d\udd17 \u0627\u062f\u0627\u0645\u0647 \u0645\u0637\u0644\u0628:\n https://lnkd.in/epv59NV3",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791536698
   }
  },
  "baseline": {
   "24": [
-   [
-    1787862648,
-    2
-   ],
-   [
-    1787862648,
-    1
-   ],
    [
     1787862648,
     77
@@ -1840,6 +1776,14 @@
    [
     1791511726,
     3
+   ],
+   [
+    1791536698,
+    3
+   ],
+   [
+    1791536698,
+    110
    ]
   ]
  },
