@@ -1,40 +1,5 @@
 {
  "watch": {
-  "7513741534513512448": {
-   "created": 1791415580,
-   "author": "Abhishek J.",
-   "url": "https://www.linkedin.com/posts/theinvestorsalmanac-abhishekj_63-of-an-ai-chips-parts-bill-is-memory-activity-7513741534513512448-Z-P2",
-   "text": "63% of an AI chip's parts bill is memory.\n\nThat's Epoch AI's estimate for late 2025, and the memory in question is HBM.\n\nHBM is a stack of memory chips placed right next to the processor. It feeds the processor data fast enough to keep it busy. Without it, the most powerful AI chip sits waiting.\n\nAnd the price of HBM is about to jump.\n\nWHAT'S CHANGING\n\nSamsung is reportedly asking more than 3x the current price for next year's HBM4 (Maeil Business). TrendForce expects average HBM prices to rise 121% in 2027. UBS says about 79%.\n\nThe reason is physics. Micron says HBM uses about 3x the silicon of regular memory for the same capacity. \n\nSo every HBM chip made means fewer of\neverything else.\n\nT",
-   "disc_score": 2,
-   "checks": {
-    "24": 3
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791424524
-  },
-  "7513742664471822336": {
-   "created": 1791415849,
-   "author": "Abhishek J.",
-   "url": "https://www.linkedin.com/feed/update/urn:li:groupPost:46460-7513742663079227392",
-   "text": "63% of an AI chip's parts bill is memory.\n\nThat's Epoch AI's estimate for late 2025, and the memory in question is HBM.\n\nHBM is a stack of memory chips placed right next to the processor. It feeds the processor data fast enough to keep it busy. Without it, the most powerful AI chip sits waiting.\n\nAnd the price of HBM is about to jump.\n\nWHAT'S CHANGING\n\nSamsung is reportedly asking more than 3x the current price for next year's HBM4 (Maeil Business). TrendForce expects average HBM prices to rise 121% in 2027. UBS says about 79%.\n\nThe reason is physics. Micron Technology  says HBM uses about 3x the silicon of regular memory for the same capacity. \n\nSo every HBM chip made means fewer of\neveryth",
-   "disc_score": 2,
-   "checks": {},
-   "promoted": false,
-   "miss": 2,
-   "added": 1791424524
-  },
-  "7513742159976714242": {
-   "created": 1791415729,
-   "author": "Abhishek J.",
-   "url": "https://www.linkedin.com/feed/update/urn:li:groupPost:38114-7513742158579822593",
-   "text": "63% of an AI chip's parts bill is memory.\n\nThat's Epoch AI's estimate for late 2025, and the memory in question is HBM.\n\nHBM is a stack of memory chips placed right next to the processor. It feeds the processor data fast enough to keep it busy. Without it, the most powerful AI chip sits waiting.\n\nAnd the price of HBM is about to jump.\n\nWHAT'S CHANGING\n\nSamsung is reportedly asking more than 3x the current price for next year's HBM4 (Maeil Business). TrendForce expects average HBM prices to rise 121% in 2027. UBS says about 79%.\n\nThe reason is physics. Micron Technology says HBM uses about 3x the silicon of regular memory for the same capacity. \n\nSo every HBM chip made means fewer of\neverythi",
-   "disc_score": 7,
-   "checks": {},
-   "promoted": false,
-   "miss": 2,
-   "added": 1791424524
-  },
   "7513856492362416128": {
    "created": 1791442988,
    "author": "Boo Community",
@@ -67,7 +32,9 @@
    "url": "https://www.linkedin.com/posts/le-uyen-thao-b17680a4_aileadersvn-aiforbusiness-airoi-activity-7513964461112696833-cMjK",
    "text": "C\u1ee9 kho\u1ea3ng 2,5 ng\u00e0y, AI l\u1ea1i c\u00f3 th\u00eam m\u1ed9t k\u1ef3 l\u00e2n m\u1edbi.\nTheo b\u1ea3ng t\u1ed5ng h\u1ee3p trong infographic, 111 doanh nghi\u1ec7p AI l\u1ea7n \u0111\u1ea7u ch\u1ea1m \u0111\u1ecbnh gi\u00e1 t\u1eeb 1 t\u1ef7 USD trong 9 th\u00e1ng \u0111\u1ea7u n\u0103m 2026. Ri\u00eang 20 c\u00f4ng ty d\u1eabn \u0111\u1ea7u c\u00f3 t\u1ed5ng \u0111\u1ecbnh gi\u00e1 kho\u1ea3ng 192 t\u1ef7 USD, v\u1edbi DeepSeek chi\u1ebfm h\u01a1n m\u1ed9t ph\u1ea7n t\u01b0.\nTop 20 theo \u0111\u1ecbnh gi\u00e1 t\u1ea1i v\u00f2ng g\u1ecdi v\u1ed1n g\u1ea7n nh\u1ea5t:\n1. DeepSeek : 50 t\u1ef7 USD. M\u00f4 h\u00ecnh AI ti\u00ean ti\u1ebfn, tr\u1ecdng s\u1ed1 m\u1edf.\n2. Etched: 21 t\u1ef7 USD. Chip suy lu\u1eadn AI.\n3. Kling AI: 18 t\u1ef7 USD. T\u1ea1o video b\u1eb1ng AI, thu\u1ed9c Kuaishou.\n4. OpenAI Deployment Co: 14 t\u1ef7 USD. Tri\u1ec3n khai AI cho doanh nghi\u1ec7p.\n5. Instinct: 10 t\u1ef7 USD. Tr\u1ee3 l\u00fd AI c\u00e1 nh\u00e2n.\n6. NEURA Robotics: 7 t\u1ef7 USD. Robot nh\u1eadn th\u1ee9c.\n7. XPeng Robotics: 6,3 t\u1ef7 USD. Robot h\u00ecnh ng\u01b0\u1eddi.\n8. General Intuitio",
    "disc_score": 3,
-   "checks": {},
+   "checks": {
+    "24": 15
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791476963
@@ -78,7 +45,9 @@
    "url": "https://www.linkedin.com/posts/signal-raise_hardware-ai-draws-serious-capital-as-regulatory-activity-7513947511909408768-MPR-",
    "text": "Today's Signal: Investors are paying up for hardware AI with real revenue, and regulators just opened a door for AI-run prescriptions.\nVinci4D closed a $250M Series B at a $1.5B valuation, co-led by Advent International, Temasek, and Xora, with AMD Ventures and Khosla Ventures joining in.\nEtched raised $700M at a $21B valuation two months ago and is now fielding offers between $40B and $50B, backed by a reported $1B order book that includes Jane Street.\nUtah became the first state to let AI startup Nolla Health issue automated prescription refills, starting with acne treatment, with minimal physician oversight.\nFor founders raising now: a credible order pipeline moves investors more than a b",
    "disc_score": 1,
-   "checks": {},
+   "checks": {
+    "24": 1
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791476963
@@ -89,7 +58,9 @@
    "url": "https://www.linkedin.com/posts/aileadersvn_c%E1%BB%A9-kho%E1%BA%A3ng-25-ng%C3%A0y-ai-l%E1%BA%A1i-c%C3%B3-th%C3%AAm-m%E1%BB%99t-k%E1%BB%B3-activity-7513965442881822721-qpzx",
    "text": "C\u1ee9 kho\u1ea3ng 2,5 ng\u00e0y, AI l\u1ea1i c\u00f3 th\u00eam m\u1ed9t k\u1ef3 l\u00e2n m\u1edbi.\nTheo b\u1ea3ng t\u1ed5ng h\u1ee3p trong infographic, 111 doanh nghi\u1ec7p AI l\u1ea7n \u0111\u1ea7u ch\u1ea1m \u0111\u1ecbnh gi\u00e1 t\u1eeb 1 t\u1ef7 USD trong 9 th\u00e1ng \u0111\u1ea7u n\u0103m 2026. Ri\u00eang 20 c\u00f4ng ty d\u1eabn \u0111\u1ea7u c\u00f3 t\u1ed5ng \u0111\u1ecbnh gi\u00e1 kho\u1ea3ng 192 t\u1ef7 USD, v\u1edbi DeepSeek chi\u1ebfm h\u01a1n m\u1ed9t ph\u1ea7n t\u01b0.\nTop 20 theo \u0111\u1ecbnh gi\u00e1 t\u1ea1i v\u00f2ng g\u1ecdi v\u1ed1n g\u1ea7n nh\u1ea5t:\n1. DeepSeek : 50 t\u1ef7 USD. M\u00f4 h\u00ecnh AI ti\u00ean ti\u1ebfn, tr\u1ecdng s\u1ed1 m\u1edf.\n2. Etched: 21 t\u1ef7 USD. Chip suy lu\u1eadn AI.\n3. Kling AI: 18 t\u1ef7 USD. T\u1ea1o video b\u1eb1ng AI, thu\u1ed9c Kuaishou.\n4. OpenAI Deployment Co: 14 t\u1ef7 USD. Tri\u1ec3n khai AI cho doanh nghi\u1ec7p.\n5. Instinct: 10 t\u1ef7 USD. Tr\u1ee3 l\u00fd AI c\u00e1 nh\u00e2n.\n6. NEURA Robotics: 7 t\u1ef7 USD. Robot nh\u1eadn th\u1ee9c.\n7. XPeng Robotics: 6,3 t\u1ef7 USD. Robot h\u00ecnh ng\u01b0\u1eddi.\n8. General Intuitio",
    "disc_score": 1,
-   "checks": {},
+   "checks": {
+    "24": 2
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791476963
@@ -100,7 +71,9 @@
    "url": "https://www.linkedin.com/posts/globalremotehq_security-engineer-remote-at-etched-remote-activity-7513931582454525953-msdv",
    "text": "\ud83d\udcdd Security Engineer (Remote)\n\ud83d\udccd Fully Remote\n\ud83d\udcbc Full-Time\n\nEtched is building hardware and software infrastructure for frontier AI, with a focus on delivering high-performance inference systems.\nAs a Security Engineer, you will protect the networks, systems, and applications that enable the company to develop and operate advanced AI hardware.\n\nWhat you'll do\n\u2705 Protect engineering systems, networks, and applications\n\u2705 Build security controls for sensitive computing environments\n\u2705 Improve security across cloud and internal infrastructure\n\u2705 Develop secure access and identity-management practices\n\u2705 Support detection, response, and security monitoring\n\u2705 Partner with infrastructure and engineering t",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791476963
@@ -181,26 +154,21 @@
    "promoted": false,
    "miss": 0,
    "added": 1791536698
+  },
+  "7514323389499654144": {
+   "created": 1791554305,
+   "author": "Ian Gillespie",
+   "url": "https://www.linkedin.com/posts/ian-gillespie-00aab297_marketrecap-venturecapital-startupfunding-activity-7514323389499654144-b1p_",
+   "text": "This week in review -\n\nThe macro picture\n\nYields kept climbing. The 10-year Treasury pushed past 5.3% and the 30-year topped 5.7%, while oil spiked 5% after President Trump said he doesn\u2019t want a deal with Iran to end the war. In between, the S&P 500 hit a record high and Nvidia reached an all-time high, closing in on a $6 trillion market cap. Then OpenAI-linked stocks sank after Reuters reported OpenAI told investors its September annualized revenue was closer to $50B than the ~$70B suggested earlier - Nvidia fell 3% and Oracle 6% on the news. In Washington, President Trump announced a \u201cSuper Intelligence Force,\u201d a new federal AI task force to \u201censure that America continues to lead the Worl",
+   "disc_score": 7,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791562338
   }
  },
  "baseline": {
   "24": [
-   [
-    1787862648,
-    77
-   ],
-   [
-    1787862648,
-    2
-   ],
-   [
-    1787862648,
-    0
-   ],
-   [
-    1787862648,
-    0
-   ],
    [
     1787862648,
     12
@@ -1784,6 +1752,22 @@
    [
     1791536698,
     110
+   ],
+   [
+    1791562339,
+    15
+   ],
+   [
+    1791562339,
+    1
+   ],
+   [
+    1791562339,
+    2
+   ],
+   [
+    1791562339,
+    0
    ]
   ]
  },
