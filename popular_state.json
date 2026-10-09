@@ -1,28 +1,17 @@
 {
  "watch": {
-  "2108462623528460751": {
-   "created": 1791531637,
-   "author": "Yi_2026",
-   "followers": 758,
-   "url": "https://x.com/Yi_2026/status/2108462623528460751",
-   "disc_score": 0,
+  "2108558868263342241": {
+   "created": 1791554583,
+   "author": "datarade",
+   "followers": 31102,
+   "url": "https://x.com/datarade/status/2108558868263342241",
+   "disc_score": 3,
    "checks": {
-    "1": 0
+    "1": null
    },
    "promoted": false,
    "miss": 0,
-   "added": 1791538514
-  },
-  "2108490150632411545": {
-   "created": 1791538200,
-   "author": "shunsuke_aiuniv",
-   "followers": 17,
-   "url": "https://x.com/shunsuke_aiuniv/status/2108490150632411545",
-   "disc_score": 0,
-   "checks": {},
-   "promoted": false,
-   "miss": 0,
-   "added": 1791538514
+   "added": 1791563929
   }
  },
  "baseline": {
