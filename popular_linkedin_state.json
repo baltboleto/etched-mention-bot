@@ -1,57 +1,5 @@
 {
  "watch": {
-  "7513568457775333376": {
-   "created": 1791374315,
-   "author": "3Wheels AI",
-   "url": "https://www.linkedin.com/posts/3wheels-ai_ai-etched-aichips-activity-7513568457775333376-73wT",
-   "text": "$10.3B in July\n$21B in August\nNow, offers at $40B+\n\nAI chip startup Etched is reportedly fielding investment offers at $40 billion or more, with some bids as high as $50 billion \u2014 just weeks after raising $700 million at a $21 billion valuation, a round led by Jane Street.\n\nWhat makes Etched different? Instead of building general-purpose GPUs like Nvidia, it built Sohu \u2014 a chip designed to run only one thing: transformer models, the architecture behind today's AI.\n\nThe company has disclosed around $1 billion in booked customer contracts.\n\nIt's a big bet: if transformers stay at the heart of AI, specialized chips could beat general-purpose GPUs on inference cost and speed.\n\nSpecialize or gene",
-   "disc_score": 3,
-   "checks": {
-    "24": 7
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791379844
-  },
-  "7513569084937027598": {
-   "created": 1791374465,
-   "author": "Hiroaki Mori",
-   "url": "https://www.linkedin.com/posts/hiroaki-mori-05406940_10%E6%9C%885%E6%97%A5%E8%87%AA%E7%A4%BE%E3%81%AE%E3%82%B5%E3%83%BC%E3%83%90%E3%81%AB%E7%BD%AE%E3%81%91%E3%82%8B%E9%AB%98%E6%80%A7%E8%83%BD%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8eu%E5%90%91%E3%81%91%E3%81%AE%E6%96%87%E7%AB%A0%E3%81%AE%E9%80%8F%E3%81%8B%E3%81%97%E3%81%8C%E5%90%8C%E3%81%98%E6%97%A5%E3%81%AB-activity-7513569084937027598-8Hzn",
-   "text": "10\u67085\u65e5\u3001\u81ea\u793e\u306e\u30b5\u30fc\u30d0\u306b\u7f6e\u3051\u308b\u9ad8\u6027\u80fd\u30e2\u30c7\u30eb\u3068\u3001EU\u5411\u3051\u306e\u6587\u7ae0\u306e\u900f\u304b\u3057\u304c\u3001\u540c\u3058\u65e5\u306b\u51fa\u307e\u3057\u305f\u3002\u524d\u8005\u306f Reflection \u306e Beam \u3068 Aleph Alpha \u306e Kolibri \u3067\u3001\u5916\u6ce8\u3059\u308b\u30e2\u30c7\u30eb\u3068\u81ea\u793e\u306b\u7f6e\u304f\u30e2\u30c7\u30eb\u306e\u8cbb\u7528\u306e\u5206\u3051\u65b9\u304c\u305a\u308c\u307e\u3059\u3002\u5f8c\u8005\u306f OpenAI \u306e textGrain \u3067\u3001\u6b27\u5dde\u306e\u9867\u5ba2\u306b\u6e21\u3059\u6587\u7ae0\u306f\u3001\u8ab0\u304c\u66f8\u3044\u305f\u304b\u3092\u8aac\u660e\u3067\u304d\u308b\u304b\u304c\u554f\u308f\u308c\u307e\u3059\u3002\u540c\u3058\u65e5\u306b\u306f\u3001\u81ea\u793e\u30b5\u30a4\u30c8\u306e\u5916\u304b\u3089\u306e\u81ea\u52d5\u306e\u554f\u3044\u5408\u308f\u305b\u3068\u3001\u7b54\u3048\u308b\u88c5\u7f6e\u306e\u5024\u6bb5\u306e\u8a71\u3082\u3042\u308a\u307e\u3057\u305f\u3002\n\n\u9ad8\u3044\u6027\u80fd\u306e\u30e2\u30c7\u30eb\u3092\u3001\u81ea\u793e\u306e\u30b5\u30fc\u30d0\u3067\u56de\u305b\u308b\u8cbb\u7528\u307e\u3067\u4e0b\u3052\u3066\u304d\u305f\n\nReflection \u306e Beam \u306f\u3001\u7dcf\u91cf5010\u5104\u3001\u56de\u7b54\u306e\u305f\u3073\u306b\u540c\u6642\u306b\u52d5\u304f\u306e\u306f230\u5104\u3001\u4e00\u5ea6\u306b\u8aad\u3081\u308b\u9577\u3055\u306f100\u4e07\u30c8\u30fc\u30af\u30f3\u3067\u3059\u3002Z.ai \u306e GLM-5.2 \u3068\u540c\u3058\u7a0b\u5ea6\u306e\u63a8\u8ad6\u3092\u3001\u63a8\u8ad6\u306b\u304b\u304b\u308b\u8a08\u7b97\u30923\u301c4\u500d\u5c11\u306a\u304f\u3057\u3066\u51fa\u3059\u3001\u3068\u672c\u4eba\u304c\u8a00\u3063\u3066\u3044\u307e\u3059\u3002\u5b66\u7fd2\u6e08\u307f\u306e\u4e2d\u8eab\u306f\u4eca\u6708\u4e2d\u306b\u516c\u958b\u3059\u308b\u4e88\u5b9a\u3067\u3059\u3002Aleph Alpha \u306e Kolibri \u306f\u7dcf\u91cf780\u5104\u3001\u540c\u6642\u306b\u52d5\u304f\u306e\u306f\u7d0430\u5104\u3067\u3001\u30c9\u30a4\u30c4\u8a9e\u3068\u82f1\u8a9e\u306b\u5bfe\u5fdc\u3057\u3001\u5546\u7528\u3082\u3067\u304d\u308b\u516c\u958b\u6761\u4ef6\u3067\u81ea\u793e\u306e\u30b5\u30fc\u30d0\u306b\u7f6e\u3051\u307e\u3059\u3002\u6027\u80fd\u306e\u9ad8\u3044\u30e2\u30c7\u30eb\u306f\u5916\u306e\u4f1a\u793e\u306b\u9810\u3051\u3001\u5b89\u3044\u30e2\u30c7\u30eb\u3060\u3051\u81ea\u793e\u306b\u7f6e\u304f\u3001\u3068\u3044\u3046\u5206\u3051\u65b9\u3067\u898b\u7a4d\u3082\u3063\u3066\u3044\u305f\u73fe\u5834\u3067\u306f\u3001\u6bd4\u8f03\u306e\u571f\u53f0\u304c\u305a\u308c\u307e\u3059\u3002\u6570\u5b57\u306f\u307e\u3060\u7b2c\u4e09\u8005\u306e\u691c\u8a3c\u304c\u3042\u308a\u307e\u305b\u3093\u3002\n\nEU\u3067\u306f\u3001\u751f\u6210\u3057\u305f\u6587\u7ae0\u306b\u900f\u304b\u3057\u3092\u5165\u308c\u308b\u904b\u7528\u304c\u52d5\u304d\u59cb\u3081\u305f\n\nOpenAI \u306f EU AI Act \u5bfe\u5fdc\u3067 textGrain \u3092\u51fa\u3057\u307e\u3057\u305f\u3002API \u306f\u4e16\u754c\u4e2d\u3067\u4efb\u610f\u3067\u3059\u3002ChatGPT \u3068 Codex \u306f\u3001EU \u306e\u5229\u7528\u8005\u306b\u6570\u9031\u9593\u3067\u65e2\u5b9a\u306b\u306a\u308a\u307e\u3059\u3002\u5358\u8a9e\u306e\u9078\u3073\u65b9\u306b\u3001\u4eba\u304c\u8aad\u3093\u3067\u3082\u5206\u304b\u3089\u306a\u3044\u900f\u304b",
-   "disc_score": 0,
-   "checks": {
-    "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791379844
-  },
-  "7513543651239862275": {
-   "created": 1791368401,
-   "author": "Maya Levinson",
-   "url": "https://www.linkedin.com/posts/maya-levinson-b2b935372_aichips-etched-venturecapital-activity-7513543651239862275-RrTp",
-   "text": "Etched's reported valuation offers have arrived only a couple of months after a $700 million round valued it at $21 billion. The company is building entire AI systems around proprietary inference chips, so the capital requirement is closer to industrial infrastructure than a typical software startup. Smaller AI businesses benefit when hardware competition eventually pushes inference prices down, even though they cannot participate in the chip race directly. The question is how much of today's valuation assumes those lower costs arrive before the hardware has been proven at scale.",
-   "disc_score": 0,
-   "checks": {
-    "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791379844
-  },
-  "7513542151700647937": {
-   "created": 1791368043,
-   "author": "Venture Ink",
-   "url": "https://www.linkedin.com/posts/venture-ink_venturecapital-startups-ai-activity-7513542151700647937-IUZY",
-   "text": "Venture capital in 2026 is not a rising tide. It's a very selective one.\n\nQ3 2026: global startups raised $159B, up 53% year-on-year, but down 25% from Q2.\n\nWhere is the money going?\n\n\u2192 AI infrastructure. The NVCA reports a record $400B+ of US venture investment in H1 alone, and Etched is reportedly fielding offers at a $40B+ valuation.\n\n\u2192 Vertical AI with real revenue. EliseAI raised $350M at a $4B valuation. Sela, a voice AI for mortgage lenders, already counts six of the ten largest independent mortgage banks as customers.\n\n\u2192 The funds themselves. Bessemer closed $5.75B in one go, which makes the multi-stage model look even stronger.\n\nFor everyone else, the pattern is long diligence, hard",
-   "disc_score": 3,
-   "checks": {
-    "24": 3
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791379844
-  },
   "7513622056224227328": {
    "created": 1791387094,
    "author": "Ricky Dinh",
@@ -60,32 +8,6 @@
    "disc_score": 2,
    "checks": {
     "24": 9
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791390497
-  },
-  "7513594970847522818": {
-   "created": 1791380636,
-   "author": "Nikhil Mittapally",
-   "url": "https://www.linkedin.com/posts/nikhil-mittapally-0abb9018a_3-kids-dropped-out-of-harvard-at-22-with-activity-7513594970847522818-lb-n",
-   "text": "3 kids dropped out of Harvard at 22 with zero chip experience and decided to take on Nvidia. Their company is now worth $21 billion.\n\nGavin Uberti, Robert Wachen and Chris Zhu met in Harvard's most brutal math course, Math 55. The class that breaks most students in the first two weeks.\n\nThey survived that. Then dropped out to do something even harder.\n\nIn 2022 they started Etched, an AI chip company. Everyone pushed back hard.\n\nYou are 22. You have never worked in semiconductors. Why would anyone trust you.\n\nBut they had spotted something.\n\nEvery Nvidia GPU is built to handle everything. That flexibility is what makes Nvidia powerful. But flexibility also means compromise.\n\nEtched asked a si",
-   "disc_score": 17,
-   "checks": {
-    "24": 76
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791390497
-  },
-  "7513598921852641281": {
-   "created": 1791381578,
-   "author": "James Bowater",
-   "url": "https://www.linkedin.com/posts/james-bowater-b47612_dcw-daily-brief-global-digital-assets-sciencetech-activity-7513598921852641281-syzx",
-   "text": "Today\u2019s Daily Brief with James Bowater founder & CEO of The Digital Commonwealth & Chairman of Roundtable Wednesdays   \n\nWednesday 7th October September 2026\n\nHeadlines:\n(1) Houthis Strike at Riyadh and Aden Airports as Brent Rebounds Above $101 and Iran Rejects US Counterproposals on Hormuz; \n(2) OKX Draws Circle, Ripple, QRT and Standard Chartered at a $25 Billion Valuation; \n(3) Wall Street Closes at Records as Oil and Treasury Yields Ease and Constellation Energy Surges on a Google Nuclear Deal; \n(4) Bitcoin Slips Below $84,000 as $547 Million of Leveraged Longs Are Liquidated and Ether ETFs Lose $201.9 Million; \n(5) Evernorth's Nasdaq Debut Slips to 12th October as Ripple Prime Signs Br",
-   "disc_score": 3,
-   "checks": {
-    "24": 4
    },
    "promoted": false,
    "miss": 0,
@@ -188,7 +110,9 @@
    "url": "https://www.linkedin.com/posts/theinvestorsalmanac-abhishekj_63-of-an-ai-chips-parts-bill-is-memory-activity-7513741534513512448-Z-P2",
    "text": "63% of an AI chip's parts bill is memory.\n\nThat's Epoch AI's estimate for late 2025, and the memory in question is HBM.\n\nHBM is a stack of memory chips placed right next to the processor. It feeds the processor data fast enough to keep it busy. Without it, the most powerful AI chip sits waiting.\n\nAnd the price of HBM is about to jump.\n\nWHAT'S CHANGING\n\nSamsung is reportedly asking more than 3x the current price for next year's HBM4 (Maeil Business). TrendForce expects average HBM prices to rise 121% in 2027. UBS says about 79%.\n\nThe reason is physics. Micron says HBM uses about 3x the silicon of regular memory for the same capacity. \n\nSo every HBM chip made means fewer of\neverything else.\n\nT",
    "disc_score": 2,
-   "checks": {},
+   "checks": {
+    "24": 3
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791424524
@@ -201,7 +125,7 @@
    "disc_score": 2,
    "checks": {},
    "promoted": false,
-   "miss": 0,
+   "miss": 1,
    "added": 1791424524
   },
   "7513742159976714242": {
@@ -212,7 +136,7 @@
    "disc_score": 7,
    "checks": {},
    "promoted": false,
-   "miss": 0,
+   "miss": 1,
    "added": 1791424524
   },
   "7513856492362416128": {
@@ -317,10 +241,6 @@
  },
  "baseline": {
   "24": [
-   [
-    1787862648,
-    5
-   ],
    [
     1787862648,
     2
@@ -1916,6 +1836,10 @@
    [
     1791497073,
     0
+   ],
+   [
+    1791511726,
+    3
    ]
   ]
  },
