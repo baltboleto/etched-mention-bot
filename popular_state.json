@@ -1,25 +1,58 @@
 {
  "watch": {
-  "2108300859910279678": {
-   "created": 1791493069,
-   "author": "aiwithnicok",
-   "followers": 1968,
-   "url": "https://x.com/aiwithnicok/status/2108300859910279678",
+  "2108375112961716502": {
+   "created": 1791510773,
+   "author": "Zenox242551",
+   "followers": 13614,
+   "url": "https://x.com/Zenox242551/status/2108375112961716502",
    "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791513083
+  },
+  "2108343876335358338": {
+   "created": 1791503325,
+   "author": "edzitron",
+   "followers": 155560,
+   "url": "https://x.com/edzitron/status/2108343876335358338",
+   "disc_score": 64,
    "checks": {
-    "1": 0
+    "1": null
    },
    "promoted": false,
    "miss": 0,
-   "added": 1791498651
+   "added": 1791513083
+  },
+  "2108352305997472182": {
+   "created": 1791505335,
+   "author": "validapau",
+   "followers": 1099,
+   "url": "https://x.com/validapau/status/2108352305997472182",
+   "disc_score": 8,
+   "checks": {
+    "1": 8
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1791513083
+  },
+  "2108342120889086167": {
+   "created": 1791502907,
+   "author": "balllvest",
+   "followers": 100,
+   "url": "https://x.com/balllvest/status/2108342120889086167",
+   "disc_score": 1,
+   "checks": {
+    "1": null
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1791513083
   }
  },
  "baseline": {
   "1": [
-   [
-    1787638881,
-    0.0
-   ],
    [
     1787638881,
     0.0
@@ -1615,6 +1648,10 @@
    [
     1791498652,
     0
+   ],
+   [
+    1791513089,
+    8
    ]
   ]
  },
