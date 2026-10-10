@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7514187962981486593": {
-   "created": 1791522017,
-   "author": "Bill Kerr",
-   "url": "https://www.linkedin.com/posts/thebillkerr_everyone-in-ai-is-raising-a-small-countrys-activity-7514187962981486593-EajM",
-   "text": "Everyone in AI is raising a small country's GDP this week, and the one release that actually matters barely mentioned a funding round.\n\nDeepSeek's chasing $12 billion. Moonshot just hit a $50 billion valuation. Etched is fielding offers at $40 to 50 billion.\n\nThen a lab called Reflection quietly dropped an open model that matches the Chinese frontier using 3 to 4x less compute to run it.\n\nWeights going out under Apache 2.0 this month. Free.",
-   "disc_score": 55,
-   "checks": {
-    "24": 106
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791536698
-  },
   "7514227248355266560": {
    "created": 1791531383,
    "author": "Junaid M Zaidi",
@@ -26,39 +13,15 @@
    "miss": 0,
    "added": 1791536698
   },
-  "7514204006047600640": {
-   "created": 1791525842,
-   "author": "Roosevelt Mogo Kamdem",
-   "url": "https://www.linkedin.com/posts/rooseveltmkr_ia-tech-innovation-activity-7514204006047600640-ZO2m",
-   "text": "Etched re\u00e7oit des offres \u00e0 40 milliards $\n\n\u2022 Avait lev\u00e9 700 millions \u00e0 21 milliards\n\u2022 Des offres \u00e9voquent 40 \u00e0 50 milliards\n\u2022 Selon des sources de TechCrunch\n\nCe que \u00e7a change pour toi : les puces sp\u00e9cialis\u00e9es pour l'IA attirent \u00e9norm\u00e9ment de capitaux.\n\nLes puces alternatives vont-elles concurrencer Nvidia ?\n\nSource : TechCrunch\n\n#IA #Tech #Innovation",
-   "disc_score": 0,
-   "checks": {
-    "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791536698
-  },
-  "7514195607327199232": {
-   "created": 1791523839,
-   "author": "\u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0628\u06cc\u0646\u0627 \u0648\u06cc\u0631\u0627",
-   "url": "https://www.linkedin.com/posts/binavira_%D9%85%D9%86%D8%A7%D8%A8%D8%B9-%D8%A2%DA%AF%D8%A7%D9%87-%D8%B4%D8%B1%DA%A9%D8%AA-etched-%D9%BE%DB%8C%D8%B4%D9%86%D9%87%D8%A7%D8%AF%D9%87%D8%A7%DB%8C-%D8%AC%D8%B0%D8%A8-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-activity-7514195607327199232-3MBq",
-   "text": "\u0645\u0646\u0627\u0628\u0639 \u0622\u06af\u0627\u0647: \u0634\u0631\u06a9\u062a Etched \u067e\u06cc\u0634\u0646\u0647\u0627\u062f\u0647\u0627\u06cc \u062c\u0630\u0628 \u0633\u0631\u0645\u0627\u06cc\u0647 \u0628\u0627 \u0627\u0631\u0632\u0634\u200c\u06af\u0630\u0627\u0631\u06cc \u0628\u06cc\u0634 \u0627\u0632 \u06f4\u06f0 \u0645\u06cc\u0644\u06cc\u0627\u0631\u062f \u062f\u0644\u0627\u0631 \u062f\u0631\u06cc\u0627\u0641\u062a \u06a9\u0631\u062f\u0647 \u0627\u0633\u062a\n\n\u0627\u0631\u0632\u0634\u200c\u06af\u0630\u0627\u0631\u06cc Etched \u0645\u0645\u06a9\u0646 \u0627\u0633\u062a \u0628\u0647 \u06f5\u06f0 \u0645\u06cc\u0644\u06cc\u0627\u0631\u062f \u062f\u0644\u0627\u0631 \u0628\u0631\u0633\u062f\u061b \u0631\u0642\u0627\u0628\u062a \u0627\u0633\u062a\u0627\u0631\u062a\u0627\u067e \u062a\u0631\u0627\u0634\u0647 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0628\u0627 \u0627\u0646\u0648\u06cc\u062f\u06cc\u0627\n\u0627\u0633\u062a\u0627\u0631\u062a\u0627\u067e Etched\u060c \u0641\u0639\u0627\u0644 \u062f\u0631 \u0637\u0631\u0627\u062d\u06cc \u062a\u0631\u0627\u0634\u0647\u200c\u0647\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc\u060c \u062a\u0646\u0647\u0627 \u0686\u0646\u062f \u0645\u0627\u0647 \u067e\u0633 \u0627\u0632 \u062c\u0630\u0628 \u06f7\u06f0\u06f0 \u0645\u06cc\u0644\u06cc\u0648\u0646 \u062f\u0644\u0627\u0631 \u0633\u0631\u0645\u0627\u06cc\u0647 \u0628\u0627 \u0627\u0631\u0632\u0634\u200c\u06af\u0630\u0627\u0631\u06cc \u06f2\u06f1 \u0645\u06cc\u0644\u06cc\u0627\u0631\u062f \u062f\u0644\u0627\u0631\u06cc\u060c \u067e\u06cc\u0634\u0646\u0647\u0627\u062f\u0647\u0627\u06cc \u062a\u0627\u0632\u0647\u200c\u0627\u06cc \u062f\u0631\u06cc\u0627\u0641\u062a \u06a9\u0631\u062f\u0647 \u0627\u0633\u062a \u06a9\u0647 \u0627\u0631\u0632\u0634 \u0627\u06cc\u0646 \u0634\u0631\u06a9\u062a \u0631\u0627 \u0628\u06cc\u0646 \u06f4\u06f0 \u062a\u0627 \u06f5\u06f0 \u0645\u06cc\u0644\u06cc\u0627\u0631\u062f \u062f\u0644\u0627\u0631 \u0628\u0631\u0622\u0648\u0631\u062f \u0645\u06cc\u200c\u06a9\u0646\u0646\u062f. \u0627\u06cc\u0646 \u0627\u0631\u0642\u0627\u0645 \u0646\u0634\u0627\u0646\u200c\u062f\u0647\u0646\u062f\u0647 \u0627\u0634\u062a\u06cc\u0627\u0642 \u0633\u0631\u0645\u0627\u06cc\u0647\u200c\u06af\u0630\u0627\u0631\u0627\u0646 \u0628\u0647 \u0634\u0631\u06a9\u062a\u200c\u0647\u0627\u06cc\u06cc \u0627\u0633\u062a \u06a9\u0647 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u0646\u062f \u062c\u0627\u06cc\u06af\u0632\u06cc\u0646\u06cc \u0628\u0631\u0627\u06cc \u0632\u06cc\u0631\u0633\u0627\u062e\u062a\u200c\u0647\u0627\u06cc \u067e\u0631\u062f\u0627\u0632\u0634\u06cc \u0627\u0646\u0648\u06cc\u062f\u06cc\u0627 \u0627\u0631\u0627\u0626\u0647 \u062f\u0647\u0646\u062f.\n\u0628\u0647 \u06af\u0641\u062a\u0647 \u0627\u0641\u0631\u0627\u062f \u0622\u06af\u0627\u0647 \u0627\u0632 \u0648\u0636\u0639\u06cc\u062a \u0634\u0631\u06a9\u062a\u060c Etched \u062f\u0631 \u062d\u0627\u0644 \u0628\u0631\u0631 ...\n\n\ud83d\udd17 \u0627\u062f\u0627\u0645\u0647 \u0645\u0637\u0644\u0628:\n https://lnkd.in/epv59NV3",
-   "disc_score": 0,
-   "checks": {
-    "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791536698
-  },
   "7514323389499654144": {
    "created": 1791554305,
    "author": "Ian Gillespie",
    "url": "https://www.linkedin.com/posts/ian-gillespie-00aab297_marketrecap-venturecapital-startupfunding-activity-7514323389499654144-b1p_",
    "text": "This week in review -\n\nThe macro picture\n\nYields kept climbing. The 10-year Treasury pushed past 5.3% and the 30-year topped 5.7%, while oil spiked 5% after President Trump said he doesn\u2019t want a deal with Iran to end the war. In between, the S&P 500 hit a record high and Nvidia reached an all-time high, closing in on a $6 trillion market cap. Then OpenAI-linked stocks sank after Reuters reported OpenAI told investors its September annualized revenue was closer to $50B than the ~$70B suggested earlier - Nvidia fell 3% and Oracle 6% on the news. In Washington, President Trump announced a \u201cSuper Intelligence Force,\u201d a new federal AI task force to \u201censure that America continues to lead the Worl",
    "disc_score": 7,
-   "checks": {},
+   "checks": {
+    "24": 12
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791562338
@@ -69,7 +32,9 @@
    "url": "https://www.linkedin.com/posts/triplepoint-capital_sftechweek-activity-7514374657865613312-S6Dn",
    "text": "Thank you to everyone who joined us and PitchBook for two panels during SF Tech Week, with more than 2,000 RSVPs and 500 attendees across both.\n\nFundraising at the Foundation - AI Infra\nThank you to C.C. Gong of Greycroft, Robert W. of Etched, Mohit Gupta of TYLsemi, and Haomiao Huang, PhD of Matter Venture Partners for sharing their perspectives on the infrastructure enabling the next generation of AI.\n\nInvesting at the Forefront - Defense & Deep Tech\nThank you to Jocelyn Kinsey of DFJ Growth, Michael A. Brown of Shield Capital, and James Brown of Schemata, Inc. for sharing their perspectives on building and backing frontier technology.\n\nA special thank you to Kyle Stanford, CAIA and PitchB",
    "disc_score": 22,
-   "checks": {},
+   "checks": {
+    "24": 46
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791579426
@@ -271,18 +236,32 @@
    "promoted": false,
    "miss": 0,
    "added": 1791639679
+  },
+  "7514703994322100224": {
+   "created": 1791645048,
+   "author": "Chloe Jian Ma",
+   "url": "https://www.linkedin.com/posts/chloejianma_semiconductors-ai-advancedcomputing-activity-7514703994322100224-yI1F",
+   "text": "Look forward to this top tier semiconductor industry gathering in celebration of the 35th birthday of CASPA - Chinese American Semiconductor Professional Assoc. \n\nDon\u2019t miss the opportunity to network with CEOs from leading semiconductor companies: Lip-Bu Tan of Intel | Andrew Feldman of Cerebras | Sassine Ghazi of Synopsys Inc | Michael Hurlston of Lumentum | Naveen Rao of Unconventional AI | Anna Goldie of Ricursive Intelligence  | Irving Tan of WD | Rodrigo Liang of SambaNova | Krishna Rangasayee of SiMa.ai | Dylan Patel of SemiAnalysis | Gavin Uberti of Etched  and many more!",
+   "disc_score": 2,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791655535
+  },
+  "7514693906400473092": {
+   "created": 1791642643,
+   "author": "Augustin Sayer",
+   "url": "https://www.linkedin.com/posts/gussayer_venturecapital-ai-climatetech-activity-7514693906400473092-CUPN",
+   "text": "Ownership is overrated.\n\nHad Matt Logan, co-founder and GP at Earthshot Ventures, on episode 17 of Fault Lines and this one stuck with me. Most VCs obsess over owning 15-20% of a company. Matt's take is that at the end of the day what matters is your cash-on-cash multiple, not what percentage you own. If you really believe the upside is $100B and not $1B, being at 1% or even a tenth of a percent is totally fine.\n\nTheir two biggest positions, KoBold Metals and Etched, both started as smaller initial stakes. Etched just raised at $21B... kind of proves the point.\n\nWe also got into how they blew through their Fund I target, why cold outbound still works, and their thesis on the inputs to clean,",
+   "disc_score": 8,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791655535
   }
  },
  "baseline": {
   "24": [
-   [
-    1787894600,
-    6
-   ],
-   [
-    1787916561,
-    3
-   ],
    [
     1787916561,
     2
@@ -1874,6 +1853,14 @@
    [
     1791639680,
     1
+   ],
+   [
+    1791655535,
+    12
+   ],
+   [
+    1791655535,
+    46
    ]
   ]
  },
