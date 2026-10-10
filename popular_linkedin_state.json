@@ -19,7 +19,9 @@
    "url": "https://www.linkedin.com/posts/mjunaidzaidi_etched-the-ai-chip-startup-is-flooded-with-activity-7514227248355266560-fC0r",
    "text": "Etched, the AI chip startup, is flooded with investment offers.\nIncoming bids range from $40 billion from top-tier investors to $50 billion from lesser-known backers.\n\nWhy VCs are hot to own a piece of this four-year-old startup.\n\nEtched is pursuing a particularly expensive segment of the AI industry (building full AI hardware systems powered by its own proprietary chips), and it also shows promise of challenging Nvidia.\n\nEtched has designed two new components from scratch to speed up inference (the computing process that happens after a user submits a prompt).\n\nThe company claims its chips can process more tokens faster and at a lower cost than Nvidia's. A microscopic speed advantage can yi",
    "disc_score": 1,
-   "checks": {},
+   "checks": {
+    "24": 1
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791536698
@@ -225,14 +227,54 @@
    "promoted": false,
    "miss": 0,
    "added": 1791615951
+  },
+  "7514611192984731648": {
+   "created": 1791622923,
+   "author": "James Donohoe",
+   "url": "https://www.linkedin.com/posts/jamesdonohoe_an-openai-model-solved-maths-problems-faster-activity-7514611192984731648-vX36",
+   "text": "An OpenAI model solved maths problems faster than experts can check them, Ireland\u2019s budget gave AI just \u20ac3.8m and\u00a0Anthropic told users to stop being cruel to Claude\n\n\ud835\udde2\ud835\uddfd\ud835\uddf2\ud835\uddfb\ud835\uddd4\ud835\udddc \ud835\uddfd\ud835\ude02\ud835\uddef\ud835\uddf9\ud835\uddf6\ud835\ude00\ud835\uddf5\ud835\uddf2\ud835\ude00 \ud835\uddfd\ud835\uddff\ud835\uddfc\ud835\uddfc\ud835\uddf3\ud835\ude00 \ud835\uddf3\ud835\uddee\ud835\ude00\ud835\ude01\ud835\uddf2\ud835\uddff \ud835\ude01\ud835\uddf5\ud835\uddee\ud835\uddfb \ud835\uddf5\ud835\ude02\ud835\uddfa\ud835\uddee\ud835\uddfb\ud835\ude00 \ud835\uddf0\ud835\uddee\ud835\uddfb \ud835\uddf0\ud835\uddf5\ud835\uddf2\ud835\uddf0\ud835\uddf8 \ud835\ude01\ud835\uddf5\ud835\uddf2\ud835\uddfa\nAn unreleased model was set about 4,000 open problems and solved roughly 1 in 10, at about three hours each. The haul includes a claimed proof of the Unique Games Conjecture, which whole careers were built around. Mathematicians say the write-ups are close to unreadable without AI help. The bottleneck has moved from finding answers to checking them, and every firm putting agents to work will hit the same wall.\n\n\ud835\uddd4\ud835\uddfb\ud835\ude01\ud835\uddf5\ud835\uddff\ud835\uddfc\ud835\uddfd\ud835\uddf6\ud835\uddf0 \ud835\uddf9\ud835\uddfc\ud835\ude00\ud835\uddf2\ud835\ude00 \ud835\ude01\ud835\uddf5\ud835\uddf2 \ud835\udde3\ud835\uddf2\ud835\uddfb\ud835\ude01\ud835\uddee\ud835\uddf4\ud835\uddfc\ud835\uddfb \ud835\uddee\ud835\uddfb\ud835\uddf1 \ud835\uddff\ud835\uddf2\ud835\ude04\ud835\uddff\ud835\uddf6\ud835\ude01\ud835\uddf2\ud835\ude00 \ud835\uddf6\ud835\ude01\ud835\ude00 \ud835\uddff\ud835\ude02\ud835\uddf9\ud835\uddf2\ud835\ude00\nA Defence",
+   "disc_score": 2,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791639679
+  },
+  "7514580746871783424": {
+   "created": 1791615664,
+   "author": "Avery Lu",
+   "url": "https://www.linkedin.com/posts/averylu_it-is-an-honor-to-participate-in-the-preparations-activity-7514580746871783424-M2pB",
+   "text": "\ud83d\udd25It is an honor to participate in the preparations for the 35th Anniversary CEO Summit and Dinner Gala of CASPA (Chinese American Semiconductor Professional Association).\n\nThis summit brings together over 40 industry visionaries and technology pioneers to deliberate innovative ideas, establishing a dialogue bridge between you and the semiconductor industry ecosystem.\n\nA Star-Studded Lineup:\n\u30fbLip-Bu Tan | CEO of Intel  \n\u30fbAndrew Feldman | Co-Founder & CEO of Cerebras  \n\u30fbSassine Ghazi\uff5cPresident & CEO of Synopsys Inc  \n\u30fbMichael Hurlston\uff5cPresident & CEO of Lumentum  \n\u30fbIrving Tan | CEO of WD  \n\u30fbRaghib Hussain\uff5cCEO of Altera \n\u30fbBill Brennan | CEO of Credo  \n\u30fbChenming Hu | TSMC Distinguished Chair Pro",
+   "disc_score": 12,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791639679
+  },
+  "7514621585249624065": {
+   "created": 1791625400,
+   "author": "taha aiyaaz",
+   "url": "https://www.linkedin.com/posts/taha-aiyaaz-ab470a2a5_artificialintelligence-softwareengineering-activity-7514621585249624065-BbX0",
+   "text": "The Pentagon just halted usage of Anthropic's Claude over deployment rules, while the surge in AI infrastructure has triggered an acute global memory chip shortage.\n\nHere is your 72-hour breakdown of what actually mattered in tech and AI:\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n                    \ud83d\udea8 BREAKING NEWS\n\n1. **Pentagon Ceases Claude Usage:** The US Department of Defense officially halted Anthropic deployments across active military workflows due to defense policy and deployment constraints.\n\n2. **DeepSeek Closes $12B Pre-IPO Round:** Chinese frontier lab DeepSeek finalized a massive $12B round backed by Tencent and CATL ahead of a projected early 2027 Hong Kong listing.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n    ",
+   "disc_score": 3,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791639679
+  },
+  "7514577053946462208": {
+   "created": 1791614783,
+   "author": "Jean-Pierre Palomba-Marin",
+   "url": "https://www.linkedin.com/posts/jean-pierre-palomba-marin-14508b162_etched-fields-funding-offers-at-40b-valuation-activity-7514577053946462208-Lev_",
+   "text": "Etched fields funding offers at $40B+ valuation, sources say: Just a couple of months after its last big raise, the AI chip startup is already being plied with investment offers at double or more its current value, sources tell TechCrunch.\nhttps://lnkd.in/ejkduxvz",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791639679
   }
  },
  "baseline": {
   "24": [
-   [
-    1787894600,
-    0
-   ],
    [
     1787894600,
     6
@@ -1828,6 +1870,10 @@
    [
     1791615951,
     0
+   ],
+   [
+    1791639680,
+    1
    ]
   ]
  },
