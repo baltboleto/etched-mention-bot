@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7514227248355266560": {
-   "created": 1791531383,
-   "author": "Junaid M Zaidi",
-   "url": "https://www.linkedin.com/posts/mjunaidzaidi_etched-the-ai-chip-startup-is-flooded-with-activity-7514227248355266560-fC0r",
-   "text": "Etched, the AI chip startup, is flooded with investment offers.\nIncoming bids range from $40 billion from top-tier investors to $50 billion from lesser-known backers.\n\nWhy VCs are hot to own a piece of this four-year-old startup.\n\nEtched is pursuing a particularly expensive segment of the AI industry (building full AI hardware systems powered by its own proprietary chips), and it also shows promise of challenging Nvidia.\n\nEtched has designed two new components from scratch to speed up inference (the computing process that happens after a user submits a prompt).\n\nThe company claims its chips can process more tokens faster and at a lower cost than Nvidia's. A microscopic speed advantage can yi",
-   "disc_score": 1,
-   "checks": {
-    "24": 1
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791536698
-  },
   "7514323389499654144": {
    "created": 1791554305,
    "author": "Ian Gillespie",
@@ -67,7 +54,9 @@
    "url": "https://www.linkedin.com/posts/ag-dillon-co_pre-ipo-stock-secondary-market-update-as-activity-7514436401732435968-9zYl",
    "text": "Pre-IPO Stock Secondary Market Update | as of Oct 7, 2026 | DeepSeek\u2019s China Discount, Hark AI Personal Assistant Launches, Anduril Goes to Sea, and the Inference Chip Race (Etched, Fractile, Positron) \nWatch full video = https://lnkd.in/eJVXrtX8 \n\nDeepSeek\u2019s open-source models are competitive and far cheaper than closed alternatives, and they can run locally or on US inference platforms such as Together AI and Baseten with no data flowing back to China. One recent estimate attributes roughly 7% of all debt created over the past seven years indirectly to OpenAI and Anthropic, so the real pressure point for the frontier labs is not a bubble in AI demand but a shift of that demand toward open ",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791593385
@@ -78,7 +67,9 @@
    "url": "https://www.linkedin.com/posts/aarondillonnyc_pre-ipo-stock-secondary-market-update-as-activity-7514433092829302785-k6_2",
    "text": "Pre-IPO Stock Secondary Market Update | as of Oct 7, 2026 | DeepSeek\u2019s China Discount, Hark AI Personal Assistant Launches, Anduril Goes to Sea, and the Inference Chip Race (Etched, Fractile, Positron)\nWatch full video = https://lnkd.in/eQ2SxQ6z\n\nDeepSeek\u2019s open-source models are competitive and far cheaper than closed alternatives, and they can run locally or on US inference platforms such as Together AI and Baseten with no data flowing back to China. One recent estimate attributes roughly 7% of all debt created over the past seven years indirectly to OpenAI and Anthropic, so the real pressure point for the frontier labs is not a bubble in AI demand but a shift of that demand toward open mo",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 1
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791593385
@@ -89,7 +80,9 @@
    "url": "https://www.linkedin.com/posts/ag-dillon-co_hark-ai-personal-assistant-launches-anduril-activity-7514432859127054336-Xhey",
    "text": "Hark AI Personal Assistant Launches, Anduril Goes to Sea, and the Inference Chip Race (Etched, Fractile, Positron)\nWatch full video = https://lnkd.in/eMd5UnDf\n\nDeepSeek\u2019s open-source models are competitive and far cheaper than closed alternatives, and they can run locally or on US inference platforms such as Together AI and Baseten with no data flowing back to China. One recent estimate attributes roughly 7% of all debt created over the past seven years indirectly to OpenAI and Anthropic, so the real pressure point for the frontier labs is not a bubble in AI demand but a shift of that demand toward open models. That shift would not strand the infrastructure: if Anthropic\u2019s reported $518 bill",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791593385
@@ -100,7 +93,9 @@
    "url": "https://www.linkedin.com/posts/aarondillonnyc_pre-ipo-stock-secondary-market-update-as-activity-7514435943173574657-pD1z",
    "text": "Pre-IPO Stock Secondary Market Update | as of Oct 7, 2026 | DeepSeek\u2019s China Discount, Hark AI Personal Assistant Launches, Anduril Goes to Sea, and the Inference Chip Race (Etched, Fractile, Positron) \nWatch full video = https://lnkd.in/eQkGz-pY \n\nDeepSeek\u2019s open-source models are competitive and far cheaper than closed alternatives, and they can run locally or on US inference platforms such as Together AI and Baseten with no data flowing back to China. One recent estimate attributes roughly 7% of all debt created over the past seven years indirectly to OpenAI and Anthropic, so the real pressure point for the frontier labs is not a bubble in AI demand but a shift of that demand toward open ",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 1
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791593385
@@ -258,26 +253,21 @@
    "promoted": false,
    "miss": 0,
    "added": 1791655535
+  },
+  "7514791430150647808": {
+   "created": 1791665895,
+   "author": "apeira",
+   "url": "https://www.linkedin.com/posts/crepuscolo_were-hosting-a-fireside-chat-at-the-hackerhouse-activity-7514791430150647808-ZGtx",
+   "text": "We\u2019re hosting a fireside chat at the hackerhouse with Cory Levy, founder of Z Fellows.\n\nZ-Fellows gives young founders $10k to focus on what they're building, fly to SF and get mentored by elite founders of companies such as Netflix, Instacart and Figma. Fellows include the founders of Cursor, Whop and Etched.\n\nSunday 11 Oct at 8pm, 3 spots left.\nLink in the first comment.",
+   "disc_score": 16,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791668790
   }
  },
  "baseline": {
   "24": [
-   [
-    1787916561,
-    2
-   ],
-   [
-    1787916561,
-    0
-   ],
-   [
-    1787916561,
-    3
-   ],
-   [
-    1787916561,
-    0
-   ],
    [
     1787916561,
     3
@@ -1861,6 +1851,22 @@
    [
     1791655535,
     46
+   ],
+   [
+    1791668790,
+    0
+   ],
+   [
+    1791668790,
+    1
+   ],
+   [
+    1791668790,
+    0
+   ],
+   [
+    1791668790,
+    1
    ]
   ]
  },
