@@ -1,25 +1,21 @@
 {
  "watch": {
-  "2108685741698261053": {
-   "created": 1791584832,
-   "author": "Vidyangi520",
-   "followers": 331,
-   "url": "https://x.com/Vidyangi520/status/2108685741698261053",
-   "disc_score": 4,
+  "2108794659581685880": {
+   "created": 1791610801,
+   "author": "tech_evergreen",
+   "followers": 124,
+   "url": "https://x.com/tech_evergreen/status/2108794659581685880",
+   "disc_score": 0,
    "checks": {
-    "1": null
+    "1": 0
    },
    "promoted": false,
    "miss": 0,
-   "added": 1791594504
+   "added": 1791616182
   }
  },
  "baseline": {
   "1": [
-   [
-    1787638881,
-    0.0
-   ],
    [
     1787638881,
     0.0
@@ -1614,6 +1610,10 @@
    ],
    [
     1791538516,
+    0
+   ],
+   [
+    1791616182,
     0
    ]
   ]
