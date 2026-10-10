@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7513886256062312448": {
-   "created": 1791450084,
-   "author": "Outstanding Branding",
-   "url": "https://www.linkedin.com/posts/0utstanding-branding_branding-brandidentity-branddesign-activity-7513886256062312448-SsPJ",
-   "text": "DVC by Daniil Sergeev\n\nDVC is a fund bringing together 190+ investors and backing 120 AI startups, including Perplexity AI, Etched and Thinking Machines Lab, all managed by a family of founders. The challenge was building a brand identity and web presence that could visually capture a community this layered, engineers, founders and angels, without flattening it into generic venture branding.\n\nThe identity centers on multilayered, color cluster visuals that symbolize that dense network of relationships, giving DVC a visual language as interconnected as the community it represents. The result translates the fund's collaborative, founder-led structure into a distinctive brand built for a portfo",
-   "disc_score": 64,
-   "checks": {
-    "24": 110
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791476963
-  },
   "7513964461112696833": {
    "created": 1791468730,
    "author": "Le Uyen Thao",
@@ -47,19 +34,6 @@
    "disc_score": 1,
    "checks": {
     "24": 2
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791476963
-  },
-  "7513931582454525953": {
-   "created": 1791460891,
-   "author": "Global Remote HQ",
-   "url": "https://www.linkedin.com/posts/globalremotehq_security-engineer-remote-at-etched-remote-activity-7513931582454525953-msdv",
-   "text": "\ud83d\udcdd Security Engineer (Remote)\n\ud83d\udccd Fully Remote\n\ud83d\udcbc Full-Time\n\nEtched is building hardware and software infrastructure for frontier AI, with a focus on delivering high-performance inference systems.\nAs a Security Engineer, you will protect the networks, systems, and applications that enable the company to develop and operate advanced AI hardware.\n\nWhat you'll do\n\u2705 Protect engineering systems, networks, and applications\n\u2705 Build security controls for sensitive computing environments\n\u2705 Improve security across cloud and internal infrastructure\n\u2705 Develop secure access and identity-management practices\n\u2705 Support detection, response, and security monitoring\n\u2705 Partner with infrastructure and engineering t",
-   "disc_score": 0,
-   "checks": {
-    "24": 0
    },
    "promoted": false,
    "miss": 0,
@@ -169,6 +143,72 @@
    "promoted": false,
    "miss": 0,
    "added": 1791579426
+  },
+  "7514459883962974208": {
+   "created": 1791586848,
+   "author": "CASPA Office",
+   "url": "https://www.linkedin.com/posts/caspa-office-595263a_caspa-ceosummit2026-etched-activity-7514459883962974208-dEq_",
+   "text": "\ud83c\udf99 Meet Gavin Uberti \u2014 Distinguished Speaker at CASPA's 35th Annual Conference & Dinner Banquet: The CEO Summit\n\nCASPA is honored to welcome Gavin Uberti, Co-Founder & CEO of Etched, as a Distinguished Speaker for the CASPA 35th Annual Conference & Dinner Banquet: The CEO Summit.\n\nGavin Uberti is one of the most closely watched founders in AI hardware. He left Harvard, where he was pursuing a bachelor's in mathematics and a master's in computer science at the same time, to build specialized silicon for the AI era. Before Etched, he worked on compilers at OctoML, writing high-performance kernels for the Apache TVM compiler, and led work that achieved state-of-the-art results on the MLPerf Tiny",
+   "disc_score": 1,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791593385
+  },
+  "7514457702136283136": {
+   "created": 1791586328,
+   "author": "Benny Xu",
+   "url": "https://www.linkedin.com/posts/bennyx_im-excited-to-share-that-ill-be-joining-activity-7514457702136283136-lbDy",
+   "text": "I\u2019m excited to share that I\u2019ll be joining Etched as an Inference Architecture Intern next winter and Jane Street as a Machine Learning Engineer Intern next summer! I\u2019m grateful for these opportunities and looking forward to learning from both teams.",
+   "disc_score": 40,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791593385
+  },
+  "7514436401732435968": {
+   "created": 1791581249,
+   "author": "Pre-IPO Stocks for Financial Advisors | AG Dillon & Co",
+   "url": "https://www.linkedin.com/posts/ag-dillon-co_pre-ipo-stock-secondary-market-update-as-activity-7514436401732435968-9zYl",
+   "text": "Pre-IPO Stock Secondary Market Update | as of Oct 7, 2026 | DeepSeek\u2019s China Discount, Hark AI Personal Assistant Launches, Anduril Goes to Sea, and the Inference Chip Race (Etched, Fractile, Positron) \nWatch full video = https://lnkd.in/eJVXrtX8 \n\nDeepSeek\u2019s open-source models are competitive and far cheaper than closed alternatives, and they can run locally or on US inference platforms such as Together AI and Baseten with no data flowing back to China. One recent estimate attributes roughly 7% of all debt created over the past seven years indirectly to OpenAI and Anthropic, so the real pressure point for the frontier labs is not a bubble in AI demand but a shift of that demand toward open ",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791593385
+  },
+  "7514433092829302785": {
+   "created": 1791580460,
+   "author": "Aaron Dillon",
+   "url": "https://www.linkedin.com/posts/aarondillonnyc_pre-ipo-stock-secondary-market-update-as-activity-7514433092829302785-k6_2",
+   "text": "Pre-IPO Stock Secondary Market Update | as of Oct 7, 2026 | DeepSeek\u2019s China Discount, Hark AI Personal Assistant Launches, Anduril Goes to Sea, and the Inference Chip Race (Etched, Fractile, Positron)\nWatch full video = https://lnkd.in/eQ2SxQ6z\n\nDeepSeek\u2019s open-source models are competitive and far cheaper than closed alternatives, and they can run locally or on US inference platforms such as Together AI and Baseten with no data flowing back to China. One recent estimate attributes roughly 7% of all debt created over the past seven years indirectly to OpenAI and Anthropic, so the real pressure point for the frontier labs is not a bubble in AI demand but a shift of that demand toward open mo",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791593385
+  },
+  "7514432859127054336": {
+   "created": 1791580405,
+   "author": "Pre-IPO Stocks for Financial Advisors | AG Dillon & Co",
+   "url": "https://www.linkedin.com/posts/ag-dillon-co_hark-ai-personal-assistant-launches-anduril-activity-7514432859127054336-Xhey",
+   "text": "Hark AI Personal Assistant Launches, Anduril Goes to Sea, and the Inference Chip Race (Etched, Fractile, Positron)\nWatch full video = https://lnkd.in/eMd5UnDf\n\nDeepSeek\u2019s open-source models are competitive and far cheaper than closed alternatives, and they can run locally or on US inference platforms such as Together AI and Baseten with no data flowing back to China. One recent estimate attributes roughly 7% of all debt created over the past seven years indirectly to OpenAI and Anthropic, so the real pressure point for the frontier labs is not a bubble in AI demand but a shift of that demand toward open models. That shift would not strand the infrastructure: if Anthropic\u2019s reported $518 bill",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791593385
+  },
+  "7514435943173574657": {
+   "created": 1791581140,
+   "author": "Aaron Dillon",
+   "url": "https://www.linkedin.com/posts/aarondillonnyc_pre-ipo-stock-secondary-market-update-as-activity-7514435943173574657-pD1z",
+   "text": "Pre-IPO Stock Secondary Market Update | as of Oct 7, 2026 | DeepSeek\u2019s China Discount, Hark AI Personal Assistant Launches, Anduril Goes to Sea, and the Inference Chip Race (Etched, Fractile, Positron) \nWatch full video = https://lnkd.in/eQkGz-pY \n\nDeepSeek\u2019s open-source models are competitive and far cheaper than closed alternatives, and they can run locally or on US inference platforms such as Together AI and Baseten with no data flowing back to China. One recent estimate attributes roughly 7% of all debt created over the past seven years indirectly to OpenAI and Anthropic, so the real pressure point for the frontier labs is not a bubble in AI demand but a shift of that demand toward open ",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791593385
   }
  },
  "baseline": {
