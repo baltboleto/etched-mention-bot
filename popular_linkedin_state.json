@@ -91,19 +91,6 @@
    "miss": 0,
    "added": 1791615951
   },
-  "7514513686410117120": {
-   "created": 1791599675,
-   "author": "Bay Area Jobs",
-   "url": "https://www.linkedin.com/posts/bay-area-jobs_httpsjobsrminecomjobusthermal-manufacturing-engineer-activity-7514513686410117120-oDQh",
-   "text": "#hiring Thermal Manufacturing Engineer\n\nApply here: https://lnkd.in/gQJsdr_M\n\nJob Description Job Description About EtchedEtched is building hardware for frontier intelligence. We co-design chips, racks, software, and manufacturing to deliver best-in-class throughput and latency across both prefill and decode workloads. Our first products are heavily focused on inference. Backed by hundreds of millions from top-tier investors and staffed by leading engineers, Etched is redefining the infrastructure layer for the fastest growing industry in history.Job SummaryWe are seeking a Thermal Manufacturing Engineer to own the development, qualification, and scaling of thermal management manufacturing ",
-   "disc_score": 0,
-   "checks": {
-    "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791615951
-  },
   "7514611192984731648": {
    "created": 1791622923,
    "author": "James Donohoe",
@@ -162,7 +149,9 @@
    "url": "https://www.linkedin.com/posts/chloejianma_semiconductors-ai-advancedcomputing-activity-7514703994322100224-yI1F",
    "text": "Look forward to this top tier semiconductor industry gathering in celebration of the 35th birthday of CASPA - Chinese American Semiconductor Professional Assoc. \n\nDon\u2019t miss the opportunity to network with CEOs from leading semiconductor companies: Lip-Bu Tan of Intel | Andrew Feldman of Cerebras | Sassine Ghazi of Synopsys Inc | Michael Hurlston of Lumentum | Naveen Rao of Unconventional AI | Anna Goldie of Ricursive Intelligence  | Irving Tan of WD | Rodrigo Liang of SambaNova | Krishna Rangasayee of SiMa.ai | Dylan Patel of SemiAnalysis | Gavin Uberti of Etched  and many more!",
    "disc_score": 2,
-   "checks": {},
+   "checks": {
+    "24": 3
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791655535
@@ -173,7 +162,9 @@
    "url": "https://www.linkedin.com/posts/gussayer_venturecapital-ai-climatetech-activity-7514693906400473092-CUPN",
    "text": "Ownership is overrated.\n\nHad Matt Logan, co-founder and GP at Earthshot Ventures, on episode 17 of Fault Lines and this one stuck with me. Most VCs obsess over owning 15-20% of a company. Matt's take is that at the end of the day what matters is your cash-on-cash multiple, not what percentage you own. If you really believe the upside is $100B and not $1B, being at 1% or even a tenth of a percent is totally fine.\n\nTheir two biggest positions, KoBold Metals and Etched, both started as smaller initial stakes. Etched just raised at $21B... kind of proves the point.\n\nWe also got into how they blew through their Fund I target, why cold outbound still works, and their thesis on the inputs to clean,",
    "disc_score": 8,
-   "checks": {},
+   "checks": {
+    "24": 9
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791655535
@@ -265,18 +256,32 @@
    "promoted": false,
    "miss": 0,
    "added": 1791725244
+  },
+  "7515061389636423681": {
+   "created": 1791730258,
+   "author": "Emao School",
+   "url": "https://www.linkedin.com/posts/emao-school-163105377_etched-desaf%C3%ADa-a-nvidia-recibe-ofertas-de-activity-7515061389636423681-tysj",
+   "text": "Etched eval\u00faa ofertas de financiaci\u00f3n que elevan su valoraci\u00f3n entre $40.000 y $50.000 millones de d\u00f3lares, apenas semanas despu\u00e9s de cerrar su ronda de $700 millones a una valoraci\u00f3n de $21.000 millones.\n\nLa startup consolida un libro de pedidos superior a $1.000 millones e infraestructura cr\u00edtica para acelerar la inferencia especializada en IA, desafiando el monopolio de Nvidia.\n\nEl reclutamiento del 15% de su plantilla t\u00e9cnica directamente desde Nvidia y el acceso prioritario a TSMC (nodo N4P) posicionan a la compa\u00f1\u00eda como un activo de escasez estrat\u00e9gica.",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791733167
+  },
+  "7515045660224552960": {
+   "created": 1791726508,
+   "author": "Mark Hirsch",
+   "url": "https://www.linkedin.com/posts/markdhirsch_ai-semiconductors-aiinfrastructure-activity-7515045660224552960-tWEe",
+   "text": "\ud835\udde7\ud835\uddf5\ud835\uddf2 \ud835\udddb\ud835\uddf6\ud835\uddff\ud835\ude00\ud835\uddf0\ud835\uddf5 \ud835\udde5\ud835\uddf2\ud835\uddfd\ud835\uddfc\ud835\uddff\ud835\ude01 #\ud835\udfef\ud835\udfec: \ud835\uddd8\ud835\ude03\ud835\uddf2\ud835\uddff\ud835\ude06\ud835\uddef\ud835\uddfc\ud835\uddf1\ud835\ude06 \ud835\udddb\ud835\uddee\ud835\ude00 \ud835\uddee \ud835\uddd7\ud835\uddf6\ud835\uddf3\ud835\uddf3\ud835\uddf2\ud835\uddff\ud835\uddf2\ud835\uddfb\ud835\ude01 \ud835\uddd5\ud835\uddfc\ud835\ude01\ud835\ude01\ud835\uddf9\ud835\uddf2\ud835\uddfb\ud835\uddf2\ud835\uddf0\ud835\uddf8\n\nBroadcom is arranging a $60 billion syndication to fund Anthropic's scale-up, and it is in early talks on more than $50 billion for OpenAI. The chip supplier is now the lender.\n\nThat set the tone. Everybody this week named a different bottleneck.\nMediaTek said power. Not chips, not memory. Lisa Su flew to Taiwan to meet TSMC, Foxconn, Quanta, Asus and Acer and said AI chip demand will outrun supply for years, with packaging and HBM as the constraint. She also asked Samsung to scale HBM4.\n\nThe site people said all three at once: power, water and permitting. Finland ordered Google to stop work at two northern sites after roughly 530 ",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791733167
   }
  },
  "baseline": {
   "24": [
-   [
-    1787994324,
-    1
-   ],
-   [
-    1787994324,
-    0
-   ],
    [
     1788028085,
     74
@@ -1868,6 +1873,14 @@
    [
     1791725244,
     3
+   ],
+   [
+    1791733167,
+    3
+   ],
+   [
+    1791733167,
+    9
    ]
   ]
  },
