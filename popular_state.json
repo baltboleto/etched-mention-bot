@@ -1,23 +1,21 @@
 {
  "watch": {
-  "2109033282767925734": {
-   "created": 1791667693,
-   "author": "apeira_it",
-   "followers": 146,
-   "url": "https://x.com/apeira_it/status/2109033282767925734",
-   "disc_score": 6,
-   "checks": {},
+  "2109048918638313575": {
+   "created": 1791671421,
+   "author": "hellenomania",
+   "followers": 942,
+   "url": "https://x.com/hellenomania/status/2109048918638313575",
+   "disc_score": 1,
+   "checks": {
+    "1": 1
+   },
    "promoted": false,
    "miss": 0,
-   "added": 1791668745
+   "added": 1791678780
   }
  },
  "baseline": {
   "1": [
-   [
-    1787638881,
-    0.0
-   ],
    [
     1787638881,
     0.0
@@ -1613,6 +1611,10 @@
    [
     1791616182,
     0
+   ],
+   [
+    1791678781,
+    1
    ]
   ]
  },
