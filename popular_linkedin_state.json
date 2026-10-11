@@ -149,7 +149,9 @@
    "url": "https://www.linkedin.com/posts/averylu_caspa-ceo-summit-35th-annual-conference-activity-7514576390365650944-RpKh",
    "text": "\ud83d\udd25It is an honor to participate in the preparations for the 35th Anniversary CEO Summit and Dinner Gala of CASPA (Chinese American Semiconductor Professional Association).\n\nThis summit brings together over 40 industry visionaries and technology pioneers to deliberate innovative ideas, establishing a dialogue bridge between you and the semiconductor industry ecosystem.\n\nA Star-Studded Lineup:\n\u30fbLip-Bu Tan | CEO of Intel\n\u30fbAndrew Feldman | Co-Founder & CEO of Cerebras\n\u30fbSassine Ghazi\uff5cPresident & CEO of Synopsys Inc\n\u30fbMichael Hurlston\uff5cPresident & CEO of Lumentum\n\u30fbIrving Tan\uff5cCEO of WD\n\u30fbRaghib Hussain\uff5cCEO of Altera\n\u30fbBill Brennan\uff5cCEO of Credo\n\u30fbChenming Hu | Emeritus Professor at the University of Calif",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 6
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791615951
@@ -197,7 +199,9 @@
    "url": "https://www.linkedin.com/posts/averylu_it-is-an-honor-to-participate-in-the-preparations-activity-7514580746871783424-M2pB",
    "text": "\ud83d\udd25It is an honor to participate in the preparations for the 35th Anniversary CEO Summit and Dinner Gala of CASPA (Chinese American Semiconductor Professional Association).\n\nThis summit brings together over 40 industry visionaries and technology pioneers to deliberate innovative ideas, establishing a dialogue bridge between you and the semiconductor industry ecosystem.\n\nA Star-Studded Lineup:\n\u30fbLip-Bu Tan | CEO of Intel  \n\u30fbAndrew Feldman | Co-Founder & CEO of Cerebras  \n\u30fbSassine Ghazi\uff5cPresident & CEO of Synopsys Inc  \n\u30fbMichael Hurlston\uff5cPresident & CEO of Lumentum  \n\u30fbIrving Tan | CEO of WD  \n\u30fbRaghib Hussain\uff5cCEO of Altera \n\u30fbBill Brennan | CEO of Credo  \n\u30fbChenming Hu | TSMC Distinguished Chair Pro",
    "disc_score": 12,
-   "checks": {},
+   "checks": {
+    "24": 127
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791639679
@@ -219,7 +223,9 @@
    "url": "https://www.linkedin.com/posts/jean-pierre-palomba-marin-14508b162_etched-fields-funding-offers-at-40b-valuation-activity-7514577053946462208-Lev_",
    "text": "Etched fields funding offers at $40B+ valuation, sources say: Just a couple of months after its last big raise, the AI chip startup is already being plied with investment offers at double or more its current value, sources tell TechCrunch.\nhttps://lnkd.in/ejkduxvz",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791639679
@@ -271,18 +277,6 @@
  },
  "baseline": {
   "24": [
-   [
-    1787969448,
-    5
-   ],
-   [
-    1787994324,
-    0
-   ],
-   [
-    1787994324,
-    0
-   ],
    [
     1787994324,
     20
@@ -1869,6 +1863,18 @@
    ],
    [
     1791700403,
+    0
+   ],
+   [
+    1791708636,
+    6
+   ],
+   [
+    1791708636,
+    127
+   ],
+   [
+    1791708636,
     0
    ]
   ]
