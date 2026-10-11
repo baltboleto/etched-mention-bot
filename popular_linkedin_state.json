@@ -1,31 +1,5 @@
 {
  "watch": {
-  "7514611192984731648": {
-   "created": 1791622923,
-   "author": "James Donohoe",
-   "url": "https://www.linkedin.com/posts/jamesdonohoe_an-openai-model-solved-maths-problems-faster-activity-7514611192984731648-vX36",
-   "text": "An OpenAI model solved maths problems faster than experts can check them, Ireland\u2019s budget gave AI just \u20ac3.8m and\u00a0Anthropic told users to stop being cruel to Claude\n\n\ud835\udde2\ud835\uddfd\ud835\uddf2\ud835\uddfb\ud835\uddd4\ud835\udddc \ud835\uddfd\ud835\ude02\ud835\uddef\ud835\uddf9\ud835\uddf6\ud835\ude00\ud835\uddf5\ud835\uddf2\ud835\ude00 \ud835\uddfd\ud835\uddff\ud835\uddfc\ud835\uddfc\ud835\uddf3\ud835\ude00 \ud835\uddf3\ud835\uddee\ud835\ude00\ud835\ude01\ud835\uddf2\ud835\uddff \ud835\ude01\ud835\uddf5\ud835\uddee\ud835\uddfb \ud835\uddf5\ud835\ude02\ud835\uddfa\ud835\uddee\ud835\uddfb\ud835\ude00 \ud835\uddf0\ud835\uddee\ud835\uddfb \ud835\uddf0\ud835\uddf5\ud835\uddf2\ud835\uddf0\ud835\uddf8 \ud835\ude01\ud835\uddf5\ud835\uddf2\ud835\uddfa\nAn unreleased model was set about 4,000 open problems and solved roughly 1 in 10, at about three hours each. The haul includes a claimed proof of the Unique Games Conjecture, which whole careers were built around. Mathematicians say the write-ups are close to unreadable without AI help. The bottleneck has moved from finding answers to checking them, and every firm putting agents to work will hit the same wall.\n\n\ud835\uddd4\ud835\uddfb\ud835\ude01\ud835\uddf5\ud835\uddff\ud835\uddfc\ud835\uddfd\ud835\uddf6\ud835\uddf0 \ud835\uddf9\ud835\uddfc\ud835\ude00\ud835\uddf2\ud835\ude00 \ud835\ude01\ud835\uddf5\ud835\uddf2 \ud835\udde3\ud835\uddf2\ud835\uddfb\ud835\ude01\ud835\uddee\ud835\uddf4\ud835\uddfc\ud835\uddfb \ud835\uddee\ud835\uddfb\ud835\uddf1 \ud835\uddff\ud835\uddf2\ud835\ude04\ud835\uddff\ud835\uddf6\ud835\ude01\ud835\uddf2\ud835\ude00 \ud835\uddf6\ud835\ude01\ud835\ude00 \ud835\uddff\ud835\ude02\ud835\uddf9\ud835\uddf2\ud835\ude00\nA Defence",
-   "disc_score": 2,
-   "checks": {
-    "24": 4
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791639679
-  },
-  "7514621585249624065": {
-   "created": 1791625400,
-   "author": "taha aiyaaz",
-   "url": "https://www.linkedin.com/posts/taha-aiyaaz-ab470a2a5_artificialintelligence-softwareengineering-activity-7514621585249624065-BbX0",
-   "text": "The Pentagon just halted usage of Anthropic's Claude over deployment rules, while the surge in AI infrastructure has triggered an acute global memory chip shortage.\n\nHere is your 72-hour breakdown of what actually mattered in tech and AI:\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n                    \ud83d\udea8 BREAKING NEWS\n\n1. **Pentagon Ceases Claude Usage:** The US Department of Defense officially halted Anthropic deployments across active military workflows due to defense policy and deployment constraints.\n\n2. **DeepSeek Closes $12B Pre-IPO Round:** Chinese frontier lab DeepSeek finalized a massive $12B round backed by Tencent and CATL ahead of a projected early 2027 Hong Kong listing.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n    ",
-   "disc_score": 3,
-   "checks": {
-    "24": 3
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791639679
-  },
   "7514703994322100224": {
    "created": 1791645048,
    "author": "Chloe Jian Ma",
@@ -58,7 +32,9 @@
    "url": "https://www.linkedin.com/posts/crepuscolo_were-hosting-a-fireside-chat-at-the-hackerhouse-activity-7514791430150647808-ZGtx",
    "text": "We\u2019re hosting a fireside chat at the hackerhouse with Cory Levy, founder of Z Fellows.\n\nZ-Fellows gives young founders $10k to focus on what they're building, fly to SF and get mentored by elite founders of companies such as Netflix, Instacart and Figma. Fellows include the founders of Cursor, Whop and Etched.\n\nSunday 11 Oct at 8pm, 3 spots left.\nLink in the first comment.",
    "disc_score": 16,
-   "checks": {},
+   "checks": {
+    "24": 26
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791668790
@@ -176,10 +152,6 @@
  },
  "baseline": {
   "24": [
-   [
-    1788028085,
-    74
-   ],
    [
     1788028085,
     82
@@ -1775,6 +1747,10 @@
    [
     1791733167,
     9
+   ],
+   [
+    1791757199,
+    26
    ]
   ]
  },
