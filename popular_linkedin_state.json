@@ -32,7 +32,9 @@
    "url": "https://www.linkedin.com/posts/caspa-office-595263a_caspa-ceosummit2026-etched-activity-7514459883962974208-dEq_",
    "text": "\ud83c\udf99 Meet Gavin Uberti \u2014 Distinguished Speaker at CASPA's 35th Annual Conference & Dinner Banquet: The CEO Summit\n\nCASPA is honored to welcome Gavin Uberti, Co-Founder & CEO of Etched, as a Distinguished Speaker for the CASPA 35th Annual Conference & Dinner Banquet: The CEO Summit.\n\nGavin Uberti is one of the most closely watched founders in AI hardware. He left Harvard, where he was pursuing a bachelor's in mathematics and a master's in computer science at the same time, to build specialized silicon for the AI era. Before Etched, he worked on compilers at OctoML, writing high-performance kernels for the Apache TVM compiler, and led work that achieved state-of-the-art results on the MLPerf Tiny",
    "disc_score": 1,
-   "checks": {},
+   "checks": {
+    "24": 5
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791593385
@@ -43,8 +45,10 @@
    "url": "https://www.linkedin.com/posts/bennyx_im-excited-to-share-that-ill-be-joining-activity-7514457702136283136-lbDy",
    "text": "I\u2019m excited to share that I\u2019ll be joining Etched as an Inference Architecture Intern next winter and Jane Street as a Machine Learning Engineer Intern next summer! I\u2019m grateful for these opportunities and looking forward to learning from both teams.",
    "disc_score": 40,
-   "checks": {},
-   "promoted": false,
+   "checks": {
+    "24": 324
+   },
+   "promoted": true,
    "miss": 0,
    "added": 1791593385
   },
@@ -268,14 +272,6 @@
  },
  "baseline": {
   "24": [
-   [
-    1787916561,
-    3
-   ],
-   [
-    1787916561,
-    88
-   ],
    [
     1787942508,
     0
@@ -1867,6 +1863,14 @@
    [
     1791668790,
     1
+   ],
+   [
+    1791678958,
+    5
+   ],
+   [
+    1791678958,
+    324
    ]
   ]
  },
@@ -2030,6 +2034,11 @@
    1791497073,
    "7513679154706505728",
    256
+  ],
+  [
+   1791678958,
+   "7514457702136283136",
+   324
   ]
  ],
  "seeded": true
