@@ -1,25 +1,21 @@
 {
  "watch": {
-  "2109311019482861689": {
-   "created": 1791733910,
-   "author": "Cdmanya_",
-   "followers": 139,
-   "url": "https://x.com/Cdmanya_/status/2109311019482861689",
-   "disc_score": 2,
+  "2109388353334354103": {
+   "created": 1791752348,
+   "author": "DrivenInvestor",
+   "followers": 28,
+   "url": "https://x.com/DrivenInvestor/status/2109388353334354103",
+   "disc_score": 1,
    "checks": {
-    "1": 2
+    "1": 1
    },
    "promoted": false,
    "miss": 0,
-   "added": 1791742848
+   "added": 1791757150
   }
  },
  "baseline": {
   "1": [
-   [
-    1787638881,
-    0.0
-   ],
    [
     1787638881,
     0.0
@@ -1615,6 +1611,10 @@
    [
     1791742848,
     2
+   ],
+   [
+    1791757152,
+    1
    ]
   ]
  },
