@@ -1,83 +1,5 @@
 {
  "watch": {
-  "7514459883962974208": {
-   "created": 1791586848,
-   "author": "CASPA Office",
-   "url": "https://www.linkedin.com/posts/caspa-office-595263a_caspa-ceosummit2026-etched-activity-7514459883962974208-dEq_",
-   "text": "\ud83c\udf99 Meet Gavin Uberti \u2014 Distinguished Speaker at CASPA's 35th Annual Conference & Dinner Banquet: The CEO Summit\n\nCASPA is honored to welcome Gavin Uberti, Co-Founder & CEO of Etched, as a Distinguished Speaker for the CASPA 35th Annual Conference & Dinner Banquet: The CEO Summit.\n\nGavin Uberti is one of the most closely watched founders in AI hardware. He left Harvard, where he was pursuing a bachelor's in mathematics and a master's in computer science at the same time, to build specialized silicon for the AI era. Before Etched, he worked on compilers at OctoML, writing high-performance kernels for the Apache TVM compiler, and led work that achieved state-of-the-art results on the MLPerf Tiny",
-   "disc_score": 1,
-   "checks": {
-    "24": 5
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791593385
-  },
-  "7514457702136283136": {
-   "created": 1791586328,
-   "author": "Benny Xu",
-   "url": "https://www.linkedin.com/posts/bennyx_im-excited-to-share-that-ill-be-joining-activity-7514457702136283136-lbDy",
-   "text": "I\u2019m excited to share that I\u2019ll be joining Etched as an Inference Architecture Intern next winter and Jane Street as a Machine Learning Engineer Intern next summer! I\u2019m grateful for these opportunities and looking forward to learning from both teams.",
-   "disc_score": 40,
-   "checks": {
-    "24": 324
-   },
-   "promoted": true,
-   "miss": 0,
-   "added": 1791593385
-  },
-  "7514436401732435968": {
-   "created": 1791581249,
-   "author": "Pre-IPO Stocks for Financial Advisors | AG Dillon & Co",
-   "url": "https://www.linkedin.com/posts/ag-dillon-co_pre-ipo-stock-secondary-market-update-as-activity-7514436401732435968-9zYl",
-   "text": "Pre-IPO Stock Secondary Market Update | as of Oct 7, 2026 | DeepSeek\u2019s China Discount, Hark AI Personal Assistant Launches, Anduril Goes to Sea, and the Inference Chip Race (Etched, Fractile, Positron) \nWatch full video = https://lnkd.in/eJVXrtX8 \n\nDeepSeek\u2019s open-source models are competitive and far cheaper than closed alternatives, and they can run locally or on US inference platforms such as Together AI and Baseten with no data flowing back to China. One recent estimate attributes roughly 7% of all debt created over the past seven years indirectly to OpenAI and Anthropic, so the real pressure point for the frontier labs is not a bubble in AI demand but a shift of that demand toward open ",
-   "disc_score": 0,
-   "checks": {
-    "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791593385
-  },
-  "7514433092829302785": {
-   "created": 1791580460,
-   "author": "Aaron Dillon",
-   "url": "https://www.linkedin.com/posts/aarondillonnyc_pre-ipo-stock-secondary-market-update-as-activity-7514433092829302785-k6_2",
-   "text": "Pre-IPO Stock Secondary Market Update | as of Oct 7, 2026 | DeepSeek\u2019s China Discount, Hark AI Personal Assistant Launches, Anduril Goes to Sea, and the Inference Chip Race (Etched, Fractile, Positron)\nWatch full video = https://lnkd.in/eQ2SxQ6z\n\nDeepSeek\u2019s open-source models are competitive and far cheaper than closed alternatives, and they can run locally or on US inference platforms such as Together AI and Baseten with no data flowing back to China. One recent estimate attributes roughly 7% of all debt created over the past seven years indirectly to OpenAI and Anthropic, so the real pressure point for the frontier labs is not a bubble in AI demand but a shift of that demand toward open mo",
-   "disc_score": 0,
-   "checks": {
-    "24": 1
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791593385
-  },
-  "7514432859127054336": {
-   "created": 1791580405,
-   "author": "Pre-IPO Stocks for Financial Advisors | AG Dillon & Co",
-   "url": "https://www.linkedin.com/posts/ag-dillon-co_hark-ai-personal-assistant-launches-anduril-activity-7514432859127054336-Xhey",
-   "text": "Hark AI Personal Assistant Launches, Anduril Goes to Sea, and the Inference Chip Race (Etched, Fractile, Positron)\nWatch full video = https://lnkd.in/eMd5UnDf\n\nDeepSeek\u2019s open-source models are competitive and far cheaper than closed alternatives, and they can run locally or on US inference platforms such as Together AI and Baseten with no data flowing back to China. One recent estimate attributes roughly 7% of all debt created over the past seven years indirectly to OpenAI and Anthropic, so the real pressure point for the frontier labs is not a bubble in AI demand but a shift of that demand toward open models. That shift would not strand the infrastructure: if Anthropic\u2019s reported $518 bill",
-   "disc_score": 0,
-   "checks": {
-    "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791593385
-  },
-  "7514435943173574657": {
-   "created": 1791581140,
-   "author": "Aaron Dillon",
-   "url": "https://www.linkedin.com/posts/aarondillonnyc_pre-ipo-stock-secondary-market-update-as-activity-7514435943173574657-pD1z",
-   "text": "Pre-IPO Stock Secondary Market Update | as of Oct 7, 2026 | DeepSeek\u2019s China Discount, Hark AI Personal Assistant Launches, Anduril Goes to Sea, and the Inference Chip Race (Etched, Fractile, Positron) \nWatch full video = https://lnkd.in/eQkGz-pY \n\nDeepSeek\u2019s open-source models are competitive and far cheaper than closed alternatives, and they can run locally or on US inference platforms such as Together AI and Baseten with no data flowing back to China. One recent estimate attributes roughly 7% of all debt created over the past seven years indirectly to OpenAI and Anthropic, so the real pressure point for the frontier labs is not a bubble in AI demand but a shift of that demand toward open ",
-   "disc_score": 0,
-   "checks": {
-    "24": 1
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791593385
-  },
   "7514560349568876545": {
    "created": 1791610801,
    "author": "Evergreen Technologies LLC",
@@ -188,7 +110,9 @@
    "url": "https://www.linkedin.com/posts/jamesdonohoe_an-openai-model-solved-maths-problems-faster-activity-7514611192984731648-vX36",
    "text": "An OpenAI model solved maths problems faster than experts can check them, Ireland\u2019s budget gave AI just \u20ac3.8m and\u00a0Anthropic told users to stop being cruel to Claude\n\n\ud835\udde2\ud835\uddfd\ud835\uddf2\ud835\uddfb\ud835\uddd4\ud835\udddc \ud835\uddfd\ud835\ude02\ud835\uddef\ud835\uddf9\ud835\uddf6\ud835\ude00\ud835\uddf5\ud835\uddf2\ud835\ude00 \ud835\uddfd\ud835\uddff\ud835\uddfc\ud835\uddfc\ud835\uddf3\ud835\ude00 \ud835\uddf3\ud835\uddee\ud835\ude00\ud835\ude01\ud835\uddf2\ud835\uddff \ud835\ude01\ud835\uddf5\ud835\uddee\ud835\uddfb \ud835\uddf5\ud835\ude02\ud835\uddfa\ud835\uddee\ud835\uddfb\ud835\ude00 \ud835\uddf0\ud835\uddee\ud835\uddfb \ud835\uddf0\ud835\uddf5\ud835\uddf2\ud835\uddf0\ud835\uddf8 \ud835\ude01\ud835\uddf5\ud835\uddf2\ud835\uddfa\nAn unreleased model was set about 4,000 open problems and solved roughly 1 in 10, at about three hours each. The haul includes a claimed proof of the Unique Games Conjecture, which whole careers were built around. Mathematicians say the write-ups are close to unreadable without AI help. The bottleneck has moved from finding answers to checking them, and every firm putting agents to work will hit the same wall.\n\n\ud835\uddd4\ud835\uddfb\ud835\ude01\ud835\uddf5\ud835\uddff\ud835\uddfc\ud835\uddfd\ud835\uddf6\ud835\uddf0 \ud835\uddf9\ud835\uddfc\ud835\ude00\ud835\uddf2\ud835\ude00 \ud835\ude01\ud835\uddf5\ud835\uddf2 \ud835\udde3\ud835\uddf2\ud835\uddfb\ud835\ude01\ud835\uddee\ud835\uddf4\ud835\uddfc\ud835\uddfb \ud835\uddee\ud835\uddfb\ud835\uddf1 \ud835\uddff\ud835\uddf2\ud835\ude04\ud835\uddff\ud835\uddf6\ud835\ude01\ud835\uddf2\ud835\ude00 \ud835\uddf6\ud835\ude01\ud835\ude00 \ud835\uddff\ud835\ude02\ud835\uddf9\ud835\uddf2\ud835\ude00\nA Defence",
    "disc_score": 2,
-   "checks": {},
+   "checks": {
+    "24": 4
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791639679
@@ -212,7 +136,9 @@
    "url": "https://www.linkedin.com/posts/taha-aiyaaz-ab470a2a5_artificialintelligence-softwareengineering-activity-7514621585249624065-BbX0",
    "text": "The Pentagon just halted usage of Anthropic's Claude over deployment rules, while the surge in AI infrastructure has triggered an acute global memory chip shortage.\n\nHere is your 72-hour breakdown of what actually mattered in tech and AI:\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n                    \ud83d\udea8 BREAKING NEWS\n\n1. **Pentagon Ceases Claude Usage:** The US Department of Defense officially halted Anthropic deployments across active military workflows due to defense policy and deployment constraints.\n\n2. **DeepSeek Closes $12B Pre-IPO Round:** Chinese frontier lab DeepSeek finalized a massive $12B round backed by Tencent and CATL ahead of a projected early 2027 Hong Kong listing.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n    ",
    "disc_score": 3,
-   "checks": {},
+   "checks": {
+    "24": 3
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791639679
@@ -273,18 +199,76 @@
    "promoted": false,
    "miss": 0,
    "added": 1791683531
+  },
+  "7514929967433060353": {
+   "created": 1791698924,
+   "author": "Ravi Lakshmipathy",
+   "url": "https://www.linkedin.com/posts/ravilakshmipathy_aiinfrastructure-semiconductors-inference-activity-7514929967433060353-FtxH",
+   "text": "Architects and investors are both asking whether an ASIC can beat the GPU. After 2 decades in memory and silicon design, I think that\u2019s the wrong question. \n\nWill specialized ASICs dethrone the GPU in AI inference? The better question is: which part of inference?\n\nEtched\u2019s Sohu has reignited the debate. Hardwire the transformer into silicon, strip out the general-purpose overhead, and cost per token and tokens per watt can improve dramatically. The funding and customer commitments show the market takes the thesis seriously.\n\nBut three things will decide the outcome, and none of them is peak FLOPS.\n\n1. Utilization vs. the memory wall. ASICs fix wasted compute. They don\u2019t repeal the bandwidth ",
+   "disc_score": 3,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791725244
+  },
+  "7514990681443016704": {
+   "created": 1791713400,
+   "author": "Shubham Kumar",
+   "url": "https://www.linkedin.com/posts/shubham-kumar-6179a63ab_tech-companies-tier-list-1-s-tier-basically-activity-7514990681443016704-8J1m",
+   "text": "Tech Companies Tier List :\n\n1) S+ tier (basically mythic status)\n\n\u2022Renaissance Technologies - Medallion Fund\n\u2022NSA, pure research side\n\u2022OpenAI (core research / superalignment types)\n\u2022SpaceX (Starship + propulsion specifically)\n\u2022TGS\n\u2022Anthropic (interpretability people)\n\u2022DeepMind - AlphaFold / geometry-heavy work\n\u2022NVIDIA architecture (Blackwell / Rubin era)\n\n2) S tier (elite, but slightly less legendary)\n\u2022NSA CNODP\n\u2022Anduril\n\u2022Hudson River Trading\n\u2022Apple \u2014 Silicon Engineering Group\n\u2022Tesla (Autopilot / AI core)\n\u2022Neuralink\n\u2022Five Rings\n\u2022Headlands\n\u2022xAI\n\u2022Meta (FAIR)\n\u2022Tenstorrent\n\u2022Oxide\n\u2022AMD RTG (ROCm / compiler / low-level stack)\n\u2022Radix\n\u2022Citadel Securities (actual algo teams, not generic roles)\n\u2022Jane ",
+   "disc_score": 8,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791725244
+  },
+  "7514895488425418752": {
+   "created": 1791690704,
+   "author": "RSV Global LLC FZ",
+   "url": "https://www.linkedin.com/posts/rsv-global-llc-fz_the-voluntary-standard-issue-172-activity-7514895488425418752-pao5",
+   "text": "The most consequential pattern in AI this week was not a capability announcement. It was the structure of accountability.\n\nThe UK Information Commissioner's Office got 10 AI firms to pledge data-protection changes on October 8. On October 9, it opened a six-week public inquiry to understand what agentic AI is and what data it processes. The regulator is simultaneously certifying compliance and gathering the evidence needed to define it. The pledges are not a governance mechanism. They are a placeholder for one.\n\nThe White House AI accord, signed September 29, has the same structure at a different scale. Signatories include OpenAI, Anthropic, Google, Meta, xAI, and Nvidia. No auditor is named",
+   "disc_score": 3,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791725244
+  },
+  "7514940066675253248": {
+   "created": 1791701332,
+   "author": "Muhammad Yaser",
+   "url": "https://www.linkedin.com/posts/imuhammadyaser_a-chip-startup-just-doubled-to-40-billion-activity-7514940066675253248-Aq1v",
+   "text": "A chip startup just doubled to $40 billion in three weeks.\n\nEtched designs custom AI chips built for one job: running large language models, faster and cheaper than the GPUs everyone rents.\n\nWeeks after raising at a $21 billion valuation, investors are now fielding offers at $40 to $50 billion. Four years old. One 10-megawatt data center in Silicon Valley. No chip you can buy yet.\n\nHere is the bold claim. The AI race stopped being about who trains the smartest model. It is about who owns the machines that answer your questions, and inference chips are the new oil.\n\nSo the question: when AI answers get cheap enough to be free, who makes money, the model or the silicon underneath it?",
+   "disc_score": 8,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791725244
+  },
+  "7515003312098799616": {
+   "created": 1791716411,
+   "author": "Sergio Vital",
+   "url": "https://www.linkedin.com/posts/vitalsergio_ai-artificialintelligence-adobe-activity-7515003312098799616-VtOn",
+   "text": "One developer cloned seven Adobe apps with AI last week and gave them all away for free.\n\nYour feed is going to tell you software is over. It is not. But something did just change, and it is not the thing people are celebrating.\n\nWhat happened: Brandon Thomas, an engineer with about fifteen years of experience and a decade in Rust, released Artcraft. Seven open source apps mirroring Photoshop, Illustrator, Premiere, Lightroom, After Effects, InDesign and Acrobat Pro. Built in Rust with AI assisted reverse engineering. His motivation was Adobe's cancellation fees, the same practice behind the $150M settlement Adobe agreed to in March while denying wrongdoing. His summary: \"software is over.\"\n",
+   "disc_score": 2,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791725244
+  },
+  "7515033534802292736": {
+   "created": 1791723617,
+   "author": "Tim Carden",
+   "url": "https://www.linkedin.com/posts/timjcarden_our-san-francisco-map-stopped-at-the-city-activity-7515033534802292736-rDkP",
+   "text": "Our San Francisco map stopped at the city line.\n\nWithin 55 km south of it sit Nvidia, Apple, Google and Meta, worth $16.7T together. That's 7x everything on the SF map.\n\nHere's the AI map of Silicon Valley, outside SF:\n\n1. Nvidia, $5.77T. AI chips, Santa Clara.\n2. Apple, $4.87T. Cupertino.\n3. Alphabet, $4.21T. Google and Gemini, Mountain View.\n4. Meta, $1.88T. Menlo Park.\n5. Broadcom, $1.79T. Custom AI chips, Palo Alto.\n6. AMD, $1.06T. AI GPUs, Santa Clara.\n7. Intel, $591B. Santa Clara.\n8. xAI, $250B in the SpaceX merger. Palo Alto.\n9. Waymo, $126B. Robotaxis, Mountain View.\n10. Cerebras, $42.1B. Wafer-scale chips, Sunnyvale.\n11. Figure, $39B. Humanoid robots, San Jose.\n12. SSI, $32B. Ilya S",
+   "disc_score": 1,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791725244
   }
  },
  "baseline": {
   "24": [
-   [
-    1787994324,
-    20
-   ],
-   [
-    1787994324,
-    7
-   ],
    [
     1787994324,
     1
@@ -1876,6 +1860,14 @@
    [
     1791708636,
     0
+   ],
+   [
+    1791725244,
+    4
+   ],
+   [
+    1791725244,
+    3
    ]
   ]
  },
