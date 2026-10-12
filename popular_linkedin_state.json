@@ -1,31 +1,5 @@
 {
  "watch": {
-  "7514703994322100224": {
-   "created": 1791645048,
-   "author": "Chloe Jian Ma",
-   "url": "https://www.linkedin.com/posts/chloejianma_semiconductors-ai-advancedcomputing-activity-7514703994322100224-yI1F",
-   "text": "Look forward to this top tier semiconductor industry gathering in celebration of the 35th birthday of CASPA - Chinese American Semiconductor Professional Assoc. \n\nDon\u2019t miss the opportunity to network with CEOs from leading semiconductor companies: Lip-Bu Tan of Intel | Andrew Feldman of Cerebras | Sassine Ghazi of Synopsys Inc | Michael Hurlston of Lumentum | Naveen Rao of Unconventional AI | Anna Goldie of Ricursive Intelligence  | Irving Tan of WD | Rodrigo Liang of SambaNova | Krishna Rangasayee of SiMa.ai | Dylan Patel of SemiAnalysis | Gavin Uberti of Etched  and many more!",
-   "disc_score": 2,
-   "checks": {
-    "24": 3
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791655535
-  },
-  "7514693906400473092": {
-   "created": 1791642643,
-   "author": "Augustin Sayer",
-   "url": "https://www.linkedin.com/posts/gussayer_venturecapital-ai-climatetech-activity-7514693906400473092-CUPN",
-   "text": "Ownership is overrated.\n\nHad Matt Logan, co-founder and GP at Earthshot Ventures, on episode 17 of Fault Lines and this one stuck with me. Most VCs obsess over owning 15-20% of a company. Matt's take is that at the end of the day what matters is your cash-on-cash multiple, not what percentage you own. If you really believe the upside is $100B and not $1B, being at 1% or even a tenth of a percent is totally fine.\n\nTheir two biggest positions, KoBold Metals and Etched, both started as smaller initial stakes. Etched just raised at $21B... kind of proves the point.\n\nWe also got into how they blew through their Fund I target, why cold outbound still works, and their thesis on the inputs to clean,",
-   "disc_score": 8,
-   "checks": {
-    "24": 9
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791655535
-  },
   "7514791430150647808": {
    "created": 1791665895,
    "author": "apeira",
@@ -58,7 +32,9 @@
    "url": "https://www.linkedin.com/posts/ravilakshmipathy_aiinfrastructure-semiconductors-inference-activity-7514929967433060353-FtxH",
    "text": "Architects and investors are both asking whether an ASIC can beat the GPU. After 2 decades in memory and silicon design, I think that\u2019s the wrong question. \n\nWill specialized ASICs dethrone the GPU in AI inference? The better question is: which part of inference?\n\nEtched\u2019s Sohu has reignited the debate. Hardwire the transformer into silicon, strip out the general-purpose overhead, and cost per token and tokens per watt can improve dramatically. The funding and customer commitments show the market takes the thesis seriously.\n\nBut three things will decide the outcome, and none of them is peak FLOPS.\n\n1. Utilization vs. the memory wall. ASICs fix wasted compute. They don\u2019t repeal the bandwidth ",
    "disc_score": 3,
-   "checks": {},
+   "checks": {
+    "24": 5
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791725244
@@ -80,7 +56,9 @@
    "url": "https://www.linkedin.com/posts/rsv-global-llc-fz_the-voluntary-standard-issue-172-activity-7514895488425418752-pao5",
    "text": "The most consequential pattern in AI this week was not a capability announcement. It was the structure of accountability.\n\nThe UK Information Commissioner's Office got 10 AI firms to pledge data-protection changes on October 8. On October 9, it opened a six-week public inquiry to understand what agentic AI is and what data it processes. The regulator is simultaneously certifying compliance and gathering the evidence needed to define it. The pledges are not a governance mechanism. They are a placeholder for one.\n\nThe White House AI accord, signed September 29, has the same structure at a different scale. Signatories include OpenAI, Anthropic, Google, Meta, xAI, and Nvidia. No auditor is named",
    "disc_score": 3,
-   "checks": {},
+   "checks": {
+    "24": 3
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791725244
@@ -91,7 +69,9 @@
    "url": "https://www.linkedin.com/posts/imuhammadyaser_a-chip-startup-just-doubled-to-40-billion-activity-7514940066675253248-Aq1v",
    "text": "A chip startup just doubled to $40 billion in three weeks.\n\nEtched designs custom AI chips built for one job: running large language models, faster and cheaper than the GPUs everyone rents.\n\nWeeks after raising at a $21 billion valuation, investors are now fielding offers at $40 to $50 billion. Four years old. One 10-megawatt data center in Silicon Valley. No chip you can buy yet.\n\nHere is the bold claim. The AI race stopped being about who trains the smartest model. It is about who owns the machines that answer your questions, and inference chips are the new oil.\n\nSo the question: when AI answers get cheap enough to be free, who makes money, the model or the silicon underneath it?",
    "disc_score": 8,
-   "checks": {},
+   "checks": {
+    "24": 8
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791725244
@@ -150,22 +130,43 @@
    "promoted": false,
    "miss": 0,
    "added": 1791742911
+  },
+  "7515284090955431937": {
+   "created": 1791783354,
+   "author": "Grace Gong",
+   "url": "https://www.linkedin.com/posts/gracegong_aihardware-semiconductors-ai-activity-7515284090955431937-E0BM",
+   "text": "AI HARDWARE COMPANIES (HIRING LIST)\n\nHere are 35 AI hardware companies that are actively hiring right now, ranked by percentage headcount growth in the past 90 days. This is Week 105 of On My Radar, my weekly list of the companies I can't stop watching:\n\nTYLsemi - chiplet-based AI silicon (US)\nDelos Data - data-movement systems for AI compute (US)\nLumilens - photonic interconnect for AI (US)\nLuminous Computing - scalable AI accelerator (US)\nFractile - inference processors (UK)\nPositron AI - AI inference hardware (US)\nVolantis Semiconductor - photonic AI infrastructure (US)\nOLIX - token-production compute infrastructure (UK)\nMixx Technologies Inc - high-density silicon photonics for AI (US)\nE",
+   "disc_score": 47,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791789693
+  },
+  "7515267559232000000": {
+   "created": 1791779413,
+   "author": "SELECTED",
+   "url": "https://www.linkedin.com/posts/select-edd_selected-branding-visualidentity-activity-7515267559232000000-tsh-",
+   "text": "DVC by Daniil Sergeev\n\nBranding and web design for DVC, a fund that brings together 190+ investors and has backed 120 AI startups, including Perplexity AI, Etched, and Thinking Machines Lab. The brand identity centers on multilayered and color cluster visuals, symbolizing a community of engineers, founders, and angels, all managed by a family of founders.\n\n#selected #branding #visualidentity #brandidentity #logo #logodesign",
+   "disc_score": 1,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791789693
+  },
+  "7515210973100638208": {
+   "created": 1791765921,
+   "author": "SelfHost Pilot",
+   "url": "https://www.linkedin.com/posts/selfhost-pilot_amazon-is-reportedly-in-talks-to-acquire-activity-7515210973100638208-cmwV",
+   "text": "Amazon is reportedly in talks to acquire the AI startup Decart for a deal that could be valued at around $7 billion, according to a Wall Street Journal report of 11 October 2026, carried by Reuters the same day (Reuters said it could not immediately verify the report). Neither Amazon nor Decart responded to requests for comment. The report said a deal could happen soon if the talks do not fall apart, and that Decart was valued at nearly $4 billion in May.\n\nHere is why that matters if you run AI on your own hardware. Decart is one of the few AI companies that published its video-editing model as open weights. Lucy Edit Dev, its text-guided video editor, is on Hugging Face - and so is the lice",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791789693
   }
  },
  "baseline": {
   "24": [
-   [
-    1788028085,
-    3
-   ],
-   [
-    1788028085,
-    3
-   ],
-   [
-    1788028085,
-    4
-   ],
    [
     1788038256,
     7
@@ -1753,6 +1754,18 @@
    [
     1791769062,
     0
+   ],
+   [
+    1791789693,
+    5
+   ],
+   [
+    1791789693,
+    3
+   ],
+   [
+    1791789693,
+    8
    ]
   ]
  },
