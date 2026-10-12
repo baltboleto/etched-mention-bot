@@ -1,69 +1,164 @@
 {
  "watch": {
-  "2109388353334354103": {
-   "created": 1791752348,
-   "author": "DrivenInvestor",
-   "followers": 28,
-   "url": "https://x.com/DrivenInvestor/status/2109388353334354103",
+  "2109440913915420944": {
+   "created": 1791764880,
+   "author": "wizplum",
+   "followers": 182,
+   "url": "https://x.com/wizplum/status/2109440913915420944",
+   "disc_score": 0,
+   "checks": {
+    "1": 0
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1791768881
+  },
+  "2109439419316924624": {
+   "created": 1791764523,
+   "author": "kyuu47427",
+   "followers": 944,
+   "url": "https://x.com/kyuu47427/status/2109439419316924624",
+   "disc_score": 2,
+   "checks": {
+    "1": 2
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1791768881
+  },
+  "2109439400824520762": {
+   "created": 1791764519,
+   "author": "treenochh",
+   "followers": 310,
+   "url": "https://x.com/treenochh/status/2109439400824520762",
    "disc_score": 1,
    "checks": {
     "1": 1
    },
    "promoted": false,
    "miss": 0,
-   "added": 1791757150
+   "added": 1791768881
+  },
+  "2109438815404519905": {
+   "created": 1791764379,
+   "author": "insane_analyst",
+   "followers": 49714,
+   "url": "https://x.com/insane_analyst/status/2109438815404519905",
+   "disc_score": 14,
+   "checks": {
+    "1": 14
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1791768881
+  },
+  "2109438719438815715": {
+   "created": 1791764356,
+   "author": "Quez_Fame",
+   "followers": 2305,
+   "url": "https://x.com/Quez_Fame/status/2109438719438815715",
+   "disc_score": 1,
+   "checks": {
+    "1": 1
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1791768881
+  },
+  "2109438710546866523": {
+   "created": 1791764354,
+   "author": "damnang2",
+   "followers": 64842,
+   "url": "https://x.com/damnang2/status/2109438710546866523",
+   "disc_score": 1,
+   "checks": {
+    "1": 1
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1791768881
+  },
+  "2109438352051355720": {
+   "created": 1791764269,
+   "author": "Simemeulation",
+   "followers": 823,
+   "url": "https://x.com/Simemeulation/status/2109438352051355720",
+   "disc_score": 2,
+   "checks": {
+    "1": 2
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1791768881
+  },
+  "2109437835925484002": {
+   "created": 1791764146,
+   "author": "AIQuanting",
+   "followers": 614,
+   "url": "https://x.com/AIQuanting/status/2109437835925484002",
+   "disc_score": 1,
+   "checks": {
+    "1": 1
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1791768881
+  },
+  "2109437728865857966": {
+   "created": 1791764120,
+   "author": "senyiCS",
+   "followers": 8400,
+   "url": "https://x.com/senyiCS/status/2109437728865857966",
+   "disc_score": 1,
+   "checks": {
+    "1": 1
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1791768881
+  },
+  "2109437347029012887": {
+   "created": 1791764029,
+   "author": "zacktickman",
+   "followers": 998,
+   "url": "https://x.com/zacktickman/status/2109437347029012887",
+   "disc_score": 1,
+   "checks": {
+    "1": 1
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1791768881
+  },
+  "2109434157839327738": {
+   "created": 1791763269,
+   "author": "pequityresearch",
+   "followers": 59425,
+   "url": "https://x.com/pequityresearch/status/2109434157839327738",
+   "disc_score": 79,
+   "checks": {
+    "1": 79
+   },
+   "promoted": true,
+   "miss": 0,
+   "added": 1791768881
+  },
+  "2109430723795198329": {
+   "created": 1791762450,
+   "author": "Watchinu31",
+   "followers": 29,
+   "url": "https://x.com/Watchinu31/status/2109430723795198329",
+   "disc_score": 0,
+   "checks": {
+    "1": 0
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1791768881
   }
  },
  "baseline": {
   "1": [
-   [
-    1787638881,
-    0.0
-   ],
-   [
-    1787638881,
-    0.0
-   ],
-   [
-    1787638881,
-    0.0
-   ],
-   [
-    1787638881,
-    0.0
-   ],
-   [
-    1787638881,
-    0.0
-   ],
-   [
-    1787638881,
-    0.0
-   ],
-   [
-    1787638881,
-    0.0
-   ],
-   [
-    1787638881,
-    0.0
-   ],
-   [
-    1787638881,
-    0.0
-   ],
-   [
-    1787638881,
-    0.0
-   ],
-   [
-    1787638881,
-    0.0
-   ],
-   [
-    1787638881,
-    0.0
-   ],
    [
     1787638881,
     0.0
@@ -1615,6 +1710,54 @@
    [
     1791757152,
     1
+   ],
+   [
+    1791768882,
+    0
+   ],
+   [
+    1791768882,
+    2
+   ],
+   [
+    1791768882,
+    1
+   ],
+   [
+    1791768882,
+    14
+   ],
+   [
+    1791768882,
+    1
+   ],
+   [
+    1791768882,
+    1
+   ],
+   [
+    1791768882,
+    2
+   ],
+   [
+    1791768882,
+    1
+   ],
+   [
+    1791768882,
+    1
+   ],
+   [
+    1791768882,
+    1
+   ],
+   [
+    1791768882,
+    79
+   ],
+   [
+    1791768882,
+    0
    ]
   ]
  },
@@ -1723,6 +1866,11 @@
    1791480855,
    "2108233962166632958",
    28
+  ],
+  [
+   1791768882,
+   "2109434157839327738",
+   79
   ]
  ],
  "seeded": true
