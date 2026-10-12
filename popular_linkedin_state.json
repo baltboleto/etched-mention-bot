@@ -1,31 +1,5 @@
 {
  "watch": {
-  "7514791430150647808": {
-   "created": 1791665895,
-   "author": "apeira",
-   "url": "https://www.linkedin.com/posts/crepuscolo_were-hosting-a-fireside-chat-at-the-hackerhouse-activity-7514791430150647808-ZGtx",
-   "text": "We\u2019re hosting a fireside chat at the hackerhouse with Cory Levy, founder of Z Fellows.\n\nZ-Fellows gives young founders $10k to focus on what they're building, fly to SF and get mentored by elite founders of companies such as Netflix, Instacart and Figma. Fellows include the founders of Cursor, Whop and Etched.\n\nSunday 11 Oct at 8pm, 3 spots left.\nLink in the first comment.",
-   "disc_score": 16,
-   "checks": {
-    "24": 26
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791668790
-  },
-  "7514854854918328320": {
-   "created": 1791681016,
-   "author": "WirePulse Daily",
-   "url": "https://www.linkedin.com/posts/wirepulsedaily_news-technews-ai-activity-7514854854918328320-ahad",
-   "text": "AI chip startup Etched is fielding $40B-$50B funding offers \u2014 double its $21B valuation weeks ago.\nJane Street led the last round and is also Etched's first customer, with $1B+ in chip orders booked for the Nvidia challenger.\nPresented by Maya, WirePulse Daily's AI anchor (AI-generated explainer)\n#news #technews #AI #chips #Nvidia",
-   "disc_score": 0,
-   "checks": {
-    "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791683531
-  },
   "7514929967433060353": {
    "created": 1791698924,
    "author": "Ravi Lakshmipathy",
@@ -45,19 +19,8 @@
    "url": "https://www.linkedin.com/posts/shubham-kumar-6179a63ab_tech-companies-tier-list-1-s-tier-basically-activity-7514990681443016704-8J1m",
    "text": "Tech Companies Tier List :\n\n1) S+ tier (basically mythic status)\n\n\u2022Renaissance Technologies - Medallion Fund\n\u2022NSA, pure research side\n\u2022OpenAI (core research / superalignment types)\n\u2022SpaceX (Starship + propulsion specifically)\n\u2022TGS\n\u2022Anthropic (interpretability people)\n\u2022DeepMind - AlphaFold / geometry-heavy work\n\u2022NVIDIA architecture (Blackwell / Rubin era)\n\n2) S tier (elite, but slightly less legendary)\n\u2022NSA CNODP\n\u2022Anduril\n\u2022Hudson River Trading\n\u2022Apple \u2014 Silicon Engineering Group\n\u2022Tesla (Autopilot / AI core)\n\u2022Neuralink\n\u2022Five Rings\n\u2022Headlands\n\u2022xAI\n\u2022Meta (FAIR)\n\u2022Tenstorrent\n\u2022Oxide\n\u2022AMD RTG (ROCm / compiler / low-level stack)\n\u2022Radix\n\u2022Citadel Securities (actual algo teams, not generic roles)\n\u2022Jane ",
    "disc_score": 8,
-   "checks": {},
-   "promoted": false,
-   "miss": 0,
-   "added": 1791725244
-  },
-  "7514895488425418752": {
-   "created": 1791690704,
-   "author": "RSV Global LLC FZ",
-   "url": "https://www.linkedin.com/posts/rsv-global-llc-fz_the-voluntary-standard-issue-172-activity-7514895488425418752-pao5",
-   "text": "The most consequential pattern in AI this week was not a capability announcement. It was the structure of accountability.\n\nThe UK Information Commissioner's Office got 10 AI firms to pledge data-protection changes on October 8. On October 9, it opened a six-week public inquiry to understand what agentic AI is and what data it processes. The regulator is simultaneously certifying compliance and gathering the evidence needed to define it. The pledges are not a governance mechanism. They are a placeholder for one.\n\nThe White House AI accord, signed September 29, has the same structure at a different scale. Signatories include OpenAI, Anthropic, Google, Meta, xAI, and Nvidia. No auditor is named",
-   "disc_score": 3,
    "checks": {
-    "24": 3
+    "24": 16
    },
    "promoted": false,
    "miss": 0,
@@ -82,7 +45,9 @@
    "url": "https://www.linkedin.com/posts/vitalsergio_ai-artificialintelligence-adobe-activity-7515003312098799616-VtOn",
    "text": "One developer cloned seven Adobe apps with AI last week and gave them all away for free.\n\nYour feed is going to tell you software is over. It is not. But something did just change, and it is not the thing people are celebrating.\n\nWhat happened: Brandon Thomas, an engineer with about fifteen years of experience and a decade in Rust, released Artcraft. Seven open source apps mirroring Photoshop, Illustrator, Premiere, Lightroom, After Effects, InDesign and Acrobat Pro. Built in Rust with AI assisted reverse engineering. His motivation was Adobe's cancellation fees, the same practice behind the $150M settlement Adobe agreed to in March while denying wrongdoing. His summary: \"software is over.\"\n",
    "disc_score": 2,
-   "checks": {},
+   "checks": {
+    "24": 3
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791725244
@@ -93,8 +58,10 @@
    "url": "https://www.linkedin.com/posts/timjcarden_our-san-francisco-map-stopped-at-the-city-activity-7515033534802292736-rDkP",
    "text": "Our San Francisco map stopped at the city line.\n\nWithin 55 km south of it sit Nvidia, Apple, Google and Meta, worth $16.7T together. That's 7x everything on the SF map.\n\nHere's the AI map of Silicon Valley, outside SF:\n\n1. Nvidia, $5.77T. AI chips, Santa Clara.\n2. Apple, $4.87T. Cupertino.\n3. Alphabet, $4.21T. Google and Gemini, Mountain View.\n4. Meta, $1.88T. Menlo Park.\n5. Broadcom, $1.79T. Custom AI chips, Palo Alto.\n6. AMD, $1.06T. AI GPUs, Santa Clara.\n7. Intel, $591B. Santa Clara.\n8. xAI, $250B in the SpaceX merger. Palo Alto.\n9. Waymo, $126B. Robotaxis, Mountain View.\n10. Cerebras, $42.1B. Wafer-scale chips, Sunnyvale.\n11. Figure, $39B. Humanoid robots, San Jose.\n12. SSI, $32B. Ilya S",
    "disc_score": 1,
-   "checks": {},
-   "promoted": false,
+   "checks": {
+    "24": 394
+   },
+   "promoted": true,
    "miss": 0,
    "added": 1791725244
   },
@@ -104,7 +71,9 @@
    "url": "https://www.linkedin.com/posts/emao-school-163105377_etched-desaf%C3%ADa-a-nvidia-recibe-ofertas-de-activity-7515061389636423681-tysj",
    "text": "Etched eval\u00faa ofertas de financiaci\u00f3n que elevan su valoraci\u00f3n entre $40.000 y $50.000 millones de d\u00f3lares, apenas semanas despu\u00e9s de cerrar su ronda de $700 millones a una valoraci\u00f3n de $21.000 millones.\n\nLa startup consolida un libro de pedidos superior a $1.000 millones e infraestructura cr\u00edtica para acelerar la inferencia especializada en IA, desafiando el monopolio de Nvidia.\n\nEl reclutamiento del 15% de su plantilla t\u00e9cnica directamente desde Nvidia y el acceso prioritario a TSMC (nodo N4P) posicionan a la compa\u00f1\u00eda como un activo de escasez estrat\u00e9gica.",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791733167
@@ -115,7 +84,9 @@
    "url": "https://www.linkedin.com/posts/markdhirsch_ai-semiconductors-aiinfrastructure-activity-7515045660224552960-tWEe",
    "text": "\ud835\udde7\ud835\uddf5\ud835\uddf2 \ud835\udddb\ud835\uddf6\ud835\uddff\ud835\ude00\ud835\uddf0\ud835\uddf5 \ud835\udde5\ud835\uddf2\ud835\uddfd\ud835\uddfc\ud835\uddff\ud835\ude01 #\ud835\udfef\ud835\udfec: \ud835\uddd8\ud835\ude03\ud835\uddf2\ud835\uddff\ud835\ude06\ud835\uddef\ud835\uddfc\ud835\uddf1\ud835\ude06 \ud835\udddb\ud835\uddee\ud835\ude00 \ud835\uddee \ud835\uddd7\ud835\uddf6\ud835\uddf3\ud835\uddf3\ud835\uddf2\ud835\uddff\ud835\uddf2\ud835\uddfb\ud835\ude01 \ud835\uddd5\ud835\uddfc\ud835\ude01\ud835\ude01\ud835\uddf9\ud835\uddf2\ud835\uddfb\ud835\uddf2\ud835\uddf0\ud835\uddf8\n\nBroadcom is arranging a $60 billion syndication to fund Anthropic's scale-up, and it is in early talks on more than $50 billion for OpenAI. The chip supplier is now the lender.\n\nThat set the tone. Everybody this week named a different bottleneck.\nMediaTek said power. Not chips, not memory. Lisa Su flew to Taiwan to meet TSMC, Foxconn, Quanta, Asus and Acer and said AI chip demand will outrun supply for years, with packaging and HBM as the constraint. She also asked Samsung to scale HBM4.\n\nThe site people said all three at once: power, water and permitting. Finland ordered Google to stop work at two northern sites after roughly 530 ",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 3
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791733167
@@ -126,7 +97,9 @@
    "url": "https://www.linkedin.com/posts/adivor_61-722-manuscritos-10-centavos-y-una-activity-7515092354773569536-u_l-",
    "text": "#61 \u2013 722 Manuscritos, 10 Centavos y una Regla Contra la\u00a0Crueldad\n\nSynapsis #61: ChatGPT empez\u00f3 a fabricar calculadoras y formularios dentro del chat con GPT-6, Claude Haiku 5.5 baj\u00f3 90% de precio con asterisco y Anthropic prohibi\u00f3 la crueldad sostenida hacia Claude. Adem\u00e1s: Gemini agent, Mistral Large 4, 722 manuscritos de OpenAI, la marca de agua textGrain y Etched. Qu\u00e9 significa para tu PyME....\n\nhttps://lnkd.in/eb-_26TP",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791742911
@@ -163,34 +136,98 @@
    "promoted": false,
    "miss": 0,
    "added": 1791789693
+  },
+  "7515361575201832960": {
+   "created": 1791801828,
+   "author": "Ian Foley",
+   "url": "https://www.linkedin.com/posts/foleyian_ai-remained-dominant-at-this-years-sf-tech-activity-7515361575201832960-_Mpw",
+   "text": "AI remained dominant at this year\u2019s SF Tech Week, with most side events reaching capacity as people arrived from around the world. My focus was on deep tech investing, with an interest to learn more about defence and neural compute. \n\nAt an event put on by TriplePoint Capital, the discussion gave context to US deep tech funding doubling to $141BN in 2025, as AI demand exposes physical constraints that software alone cannot solve. Robert Wachen of Etched explained how faster growth can worsen the financing problem, with 6-month supply lead times requiring component purchases ahead of anticipated sales. \n\nAt one of the defence tech events, Shield Capital\u2019s Mike Brown said approximately 80% of ",
+   "disc_score": 7,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791827728
+  },
+  "7515418668130988032": {
+   "created": 1791815440,
+   "author": "Marina Petrenko",
+   "url": "https://www.linkedin.com/posts/marynapetrenko_ai-ailist-techjobs-activity-7515418668130988032-nkbG",
+   "text": "\u2757We found 30 AI infrastructure companies hiring fast and sorted them by what they build. Here\u2019s your guide, with research from OutGeek: Women in Tech. \ud83d\udc47\nChips, data centers, GPU clouds: the least visible corner of #AI, with some of its most stable jobs, and one where women are still rare. Don\u2019t wait for someone to tell you you\u2019re ready, just apply. Women in AI are missing out on a $100K salary difference. Really.\n\n\ud83d\udd0c The Chipmakers (chips built to run AI, not just train it)\nSambaNova: AI chips plus its own cloud to run them. The fastest grower on the whole list!\nPositron AI: inference hardware (Reno, not the Bay Area!)\nFractile: inference processors (London)\nEtched: chips built for one kind o",
+   "disc_score": 41,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791827728
+  },
+  "7515430035290234881": {
+   "created": 1791818150,
+   "author": "Jules Ferrer",
+   "url": "https://www.linkedin.com/posts/jules-ferrer_ru%C3%A9e-vers-le-pre-ipo-spv-frais-et-valos-activity-7515430035290234881-57bP",
+   "text": "Pourquoi j'ai quitt\u00e9 le VC early stage pour monter Rift Capital ? J'en parle avec Solenne Niedercorn-Desouches sur Finscale.\n\nLe d\u00e9clic, c'est San Francisco. Les cycles de lev\u00e9e se raccourcissaient, les montants explosaient, et le capital se concentrait sur une poign\u00e9e de soci\u00e9t\u00e9s.\nAujourd'hui les meilleures bo\u00eetes d'IA l\u00e8vent tous les deux ou trois mois.\nPar exemple Etched qui passe de $10 Md en juillet 2026 \u00e0 $20 Md en aout \u00e0 $40/50 Md en ce moment-m\u00eame.\n\nCes soci\u00e9t\u00e9s sont quasi inaccessibles si vous n'\u00eates pas un fonds de premier rang. Rift Capital structure ce type d'acc\u00e8s pour les family offices et asset managers.\n\nDans l'\u00e9pisode :\n\u2022 comment on a eu acc\u00e8s \u00e0 un deal gr\u00e2ce \u00e0 un ancien boa",
+   "disc_score": 39,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791827728
+  },
+  "7515334771091238912": {
+   "created": 1791795437,
+   "author": "Ben Scott",
+   "url": "https://www.linkedin.com/posts/benscott22_creativeprovenance-humanauthorship-intellectualproperty-activity-7515334771091238912-3ne7",
+   "text": "The manuscript has a history. That history is becoming more valuable.\n\nWIRED\u2019s reporting on Books By People highlights an interesting development: human-authorship certification that examines early drafts, research materials and editorial records alongside declarations and software analysis.\n\nFor creators, this raises a wider question: how much of the process behind valuable work are we preserving?\n\nThe first draft. The revisions. The source material. The editor\u2019s feedback. Any AI interactions. The author\u2019s subsequent changes.\n\nAt Etched, we preserve that development history so creators and their advisers have a record to review when questions arise about contribution, authorship or ownershi",
+   "disc_score": 16,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791827728
+  },
+  "7515442540414767105": {
+   "created": 1791821131,
+   "author": "Bill Kim",
+   "url": "https://www.linkedin.com/posts/activity-7515442540414767105-cfm3",
+   "text": "A few weeks ago I joined Etched, and I\u2019m now building out the Signal & Power Integrity team. We\u2019re hiring.\n\nNo legacy playbooks. \nYou\u2019ll own SI/PI end to end for next-generation AI accelerators. \n\nIf you want your work to shape the hardware instead of maintaining someone else\u2019s process, let\u2019s talk.\n\nSI/PI Engineer:\nhttps://lnkd.in/gc3NPAMQ\nPower Integrity Engineer:\nhttps://lnkd.in/giDrrzBz\n\nMessage me directly or reach out to our recruiter, Engie M..\n\n#hiring #signalintegrity #powerintegrity #AIhardware #semiconductors",
+   "disc_score": 40,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791827728
+  },
+  "7515429605286277120": {
+   "created": 1791818047,
+   "author": "Semiconductor Engineering",
+   "url": "https://www.linkedin.com/posts/semiconductor-engineering_startup-funding-q3-2026-activity-7515429605286277120-eY42",
+   "text": "80 startups raised $8.5B in Q3, with big hauls by companies tackling data movement and memory. Nearly $7.5B went to just 22 startups.\nA closer look at where investors are placing their bets: Startup Funding: Q3 2026.\nBy Jesse Allen.\nhttps://lnkd.in/gSdQ4vep\n\n#startups #startupfunding #semiconductor Quadric ChipAgents Ayar Labs\nSambaNova Etched Positron AI EUCLYD SiMa.ai Acrab HyperAccel Velaura AI Celera Semiconductor ChipMango Agentrys Hiveware - Verification without bottlenecks VerifAIX, Inc. Fab2 Multibeam Corporation Clas-SiC Wafer Fab Ltd Kepler Computing TeRAM, Inc. Topologic Point2 Technology\nLumilens OLIX CScale e-peas Efficient Computer Oxmiq Labs  Oratomic \nQNu Labs SCI Semiconduct",
+   "disc_score": 20,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791827728
+  },
+  "7515358993247240192": {
+   "created": 1791801212,
+   "author": "Startup",
+   "url": "https://www.linkedin.com/posts/startupsi_sequoia-capital-backed-nuvacore-targets-25b-activity-7515358993247240192-RW-W",
+   "text": "Sequoia Capital Backed NUVACORE Targets $2.5B Valuation Without a Product\n\nNuvacore, a California-based semiconductor startup founded by former Apple CPU architect Gerard Williams III , is reportedly seeking hundreds of millions of dollars at a $2.5 billion valuation, despite not yet having a commercial product.\n\nAccording to Reuters, the six-month-old company is pursuing the fundraising as demand for computing infrastructure grows alongside AI data centres. The round has not closed, and its size and valuation could change.\n\nSequoia Capital led Nuvacore's previously announced seed round in April 2026. The startup is now developing a new general-purpose CPU architecture designed for the chang",
+   "disc_score": 3,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791827728
+  },
+  "7515335567891550208": {
+   "created": 1791795627,
+   "author": "Sabapplier AI",
+   "url": "https://www.linkedin.com/posts/sabapplier_zfellows-startupfellowship-startupfunding-activity-7515335567891550208-_0l7",
+   "text": "No incorporated company. No age limit. No requirement to quit your job or school.\n\nThat\u2019s part of what makes Z Fellows different from most startup programs.\nIt\u2019s a one-week fellowship for very early-stage technical builders \u2014 including people who are still working on a side project, studying, or figuring out whether their idea can become a company.\nEach cohort brings together roughly 10 builders and connects them directly with experienced founders and investors.\nAnd you don't need to arrive with a fully formed startup.\nYou can apply with a startup, project or side project, as a solo founder or team.\n\nThere\u2019s also an optional investment:\n\ud83d\udcb0 $10,000 investment\n\ud83d\udcc8 $1 billion valuation cap\nYou can",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791827728
   }
  },
  "baseline": {
   "24": [
-   [
-    1788038256,
-    7
-   ],
-   [
-    1788038256,
-    13
-   ],
-   [
-    1788038256,
-    0
-   ],
-   [
-    1788039791,
-    0
-   ],
-   [
-    1788054082,
-    0
-   ],
-   [
-    1788071943,
-    0
-   ],
    [
     1788071943,
     0
@@ -1766,6 +1803,30 @@
    [
     1791789693,
     8
+   ],
+   [
+    1791827728,
+    16
+   ],
+   [
+    1791827728,
+    3
+   ],
+   [
+    1791827728,
+    394
+   ],
+   [
+    1791827728,
+    0
+   ],
+   [
+    1791827728,
+    3
+   ],
+   [
+    1791827728,
+    0
    ]
   ]
  },
@@ -1934,6 +1995,11 @@
    1791678958,
    "7514457702136283136",
    324
+  ],
+  [
+   1791827728,
+   "7515033534802292736",
+   394
   ]
  ],
  "seeded": true
