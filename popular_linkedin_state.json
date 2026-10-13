@@ -1,31 +1,5 @@
 {
  "watch": {
-  "7515284090955431937": {
-   "created": 1791783354,
-   "author": "Grace Gong",
-   "url": "https://www.linkedin.com/posts/gracegong_aihardware-semiconductors-ai-activity-7515284090955431937-E0BM",
-   "text": "AI HARDWARE COMPANIES (HIRING LIST)\n\nHere are 35 AI hardware companies that are actively hiring right now, ranked by percentage headcount growth in the past 90 days. This is Week 105 of On My Radar, my weekly list of the companies I can't stop watching:\n\nTYLsemi - chiplet-based AI silicon (US)\nDelos Data - data-movement systems for AI compute (US)\nLumilens - photonic interconnect for AI (US)\nLuminous Computing - scalable AI accelerator (US)\nFractile - inference processors (UK)\nPositron AI - AI inference hardware (US)\nVolantis Semiconductor - photonic AI infrastructure (US)\nOLIX - token-production compute infrastructure (UK)\nMixx Technologies Inc - high-density silicon photonics for AI (US)\nE",
-   "disc_score": 47,
-   "checks": {
-    "24": 172
-   },
-   "promoted": true,
-   "miss": 0,
-   "added": 1791789693
-  },
-  "7515267559232000000": {
-   "created": 1791779413,
-   "author": "SELECTED",
-   "url": "https://www.linkedin.com/posts/select-edd_selected-branding-visualidentity-activity-7515267559232000000-tsh-",
-   "text": "DVC by Daniil Sergeev\n\nBranding and web design for DVC, a fund that brings together 190+ investors and has backed 120 AI startups, including Perplexity AI, Etched, and Thinking Machines Lab. The brand identity centers on multilayered and color cluster visuals, symbolizing a community of engineers, founders, and angels, all managed by a family of founders.\n\n#selected #branding #visualidentity #brandidentity #logo #logodesign",
-   "disc_score": 1,
-   "checks": {
-    "24": 43
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791789693
-  },
   "7515361575201832960": {
    "created": 1791801828,
    "author": "Ian Foley",
@@ -84,8 +58,10 @@
    "url": "https://www.linkedin.com/posts/activity-7515442540414767105-cfm3",
    "text": "A few weeks ago I joined Etched, and I\u2019m now building out the Signal & Power Integrity team. We\u2019re hiring.\n\nNo legacy playbooks. \nYou\u2019ll own SI/PI end to end for next-generation AI accelerators. \n\nIf you want your work to shape the hardware instead of maintaining someone else\u2019s process, let\u2019s talk.\n\nSI/PI Engineer:\nhttps://lnkd.in/gc3NPAMQ\nPower Integrity Engineer:\nhttps://lnkd.in/giDrrzBz\n\nMessage me directly or reach out to our recruiter, Engie M..\n\n#hiring #signalintegrity #powerintegrity #AIhardware #semiconductors",
    "disc_score": 40,
-   "checks": {},
-   "promoted": false,
+   "checks": {
+    "24": 255
+   },
+   "promoted": true,
    "miss": 0,
    "added": 1791827728
   },
@@ -134,7 +110,9 @@
    "url": "https://www.linkedin.com/posts/braxmillah-nyamuro-a877333b9_vestorraise-usbusiness-fundraising-activity-7515501580461330432-MxpB",
    "text": "Vestor Raise: US Funding Spotlight\n\nEtched has raised $300.0M to develop its specialized processor architecture and support its continued growth.\nUS\nStage: Series C\nRaised: $300.0M \nFocus: Accelerating production and customer testing of high-performance chips built specifically to run transformer models.\nFounders: Gavin Uberti, Robert W.\n\nFollow Etched as it continues to grow within the US semiconductor and hardware market. Discover businesses raising capital through Vestor Raise.\n#VestorRaise #USBusiness #Fundraising #Investment #Startups #Semiconductors #Hardware",
    "disc_score": 1,
-   "checks": {},
+   "checks": {
+    "24": 5
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791850719
@@ -145,7 +123,9 @@
    "url": "https://www.linkedin.com/posts/emerino8_hiring-signalintegrity-powerintegrity-activity-7515478289709359105-p-0b",
    "text": "Excited to have Bill Kim on board at Etched as our new Head of Signal Integrity / Power Integrity! \ud83c\udf89\n\nI\u2019m partnering with him to build out our SI/PI team in San Jose (Santana Row). If you\u2019re an SI/PI engineer who wants real ownership over next-gen AI hardware, send me a message! \ud83d\udce5 \n\n\n#SIPI #SignalIntegrity #PowerIntegrity #AIInference",
    "disc_score": 10,
-   "checks": {},
+   "checks": {
+    "24": 10
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791850719
@@ -156,7 +136,9 @@
    "url": "https://www.linkedin.com/posts/timjcarden_brutal-truth-the-most-valuable-private-ai-activity-7515471499881934850-7Qk-",
    "text": "Brutal truth: the most valuable private AI company is also the cheapest.\n\nAnthropic is priced at 14.8x its revenue. DeepSeek is priced at 104x. And 5 of the 20 have no revenue on record at all.\n\nHere are the 20 most valuable private AI companies, ranked by what investors pay for every $1 of revenue:\n\n1. Anthropic. 14.8x. $965B on $65B.\n2. Crusoe. 15.5x. $30.9B on ~$2B.\n3. OpenAI. 17.0x. $852B on ~$50B.\n4. Fireworks AI. 17.5x. $17.5B on $1B+.\n5. Perplexity. 27x. $20B on $750M+.\n6. Databricks. 27x. $190B on $7B+.\n7. Scale AI. 29x. $29B on $1B+.\n8. ElevenLabs. 37x. $22B on ~$600M.\n9. Harvey. 39x. $15.5B on $400M+.\n10. Moonshot AI. 50x. $50B on $1B+.\n11. Cognition. 53x. $48B on ~$900M.\n12. VAST ",
    "disc_score": 3,
-   "checks": {},
+   "checks": {
+    "24": 83
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791850719
@@ -167,7 +149,9 @@
    "url": "https://www.linkedin.com/posts/yigal-sharon-624a7253_ai-startups-venturecapital-activity-7515474313161097216-uC_U",
    "text": "THE NEXT UNICORN IS HIDING IN THE BASEMENT.\n\nEverybody wants to build the next OpenAI.\n\nVery glamorous.\n\nUnfortunately, OpenAI needs electricity, computing power, data, storage, security, orchestration, monitoring and about a thousand other things before it can answer your question about chicken soup.\n\nAnd somebody has to build them.\n\nMeet the less glamorous billionaires.\n\nEtched. Fireworks AI. TensorWave. LangChain. Modular. Baseten. Modal. Decart. Serval. Unconventional AI.\n\nDifferent companies. Different technologies.\n\nOne rather profitable observation:\n\nThe AI revolution has a plumbing problem.\n\nAnd the plumbers are becoming unicorns.\n\nSome are building faster inference.\n\nOthers make mod",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 1
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791850719
@@ -259,30 +243,67 @@
    "promoted": false,
    "miss": 0,
    "added": 1791903674
+  },
+  "7515817771906306048": {
+   "created": 1791910593,
+   "author": "Israel Suero",
+   "url": "https://www.linkedin.com/posts/israel-suero-294b40a3_venturecapital-ai-deeptech-activity-7515817771906306048-29QR",
+   "text": "It\u2019s been a while since I shared a Dash VC update here. Starting graduate school at Columbia University has kept me busy, but a ton is happening at the fund worth sharing. \n\nWe\u2019ve entered Q4 with tremendous momentum across the portfolio. A few highlights:\n\n\u2022 Etched raised another $700 million this summer in a round led by Jane Street at a $21 billion valuation, more than doubling its previous $10.3 billion valuation. Etched remains our best-performing portfolio company, and we believe this is only the beginning. Our team stays in close communication with Gavin Uberti, and hearing about the company\u2019s progress and ambitions firsthand continues to strengthen our conviction.\n\n\u2022 Aalo Atomics reac",
+   "disc_score": 12,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791923826
+  },
+  "7515803185584799744": {
+   "created": 1791907116,
+   "author": "Ishaan Agrawal",
+   "url": "https://www.linkedin.com/posts/ishaan-agrawal_i-got-rank-28642916-in-last-weeks-leetcode-activity-7515803185584799744-wnQ-",
+   "text": "I got rank 286/42,916 in last week's LeetCode contest! Solved all 4 question in 40 minutes.\n\nIn the past I have always struggled with math questions since I never took any math classes. The fourth problem required linear algebra: matrix exponentiation to compute a recurrence relationship for N <= 1e15.\n\nWell this time I solved it because of all the matrix math I've learned at Etched!\n\nI posted live unedited footage of my competing in the comments.\n\nELO update: 2449 -> 2454. Still have a lot to learn \ud83d\ude01",
+   "disc_score": 254,
+   "checks": {
+    "24": 254
+   },
+   "promoted": true,
+   "miss": 0,
+   "added": 1791923826
+  },
+  "7515802011297148928": {
+   "created": 1791906836,
+   "author": "Alvin Kim",
+   "url": "https://www.linkedin.com/posts/theonlyalvinkim_sftechweek-activity-7515802011297148928-fhc5",
+   "text": "2,000+ RSVPs. 500+ attendees. 2 panels. 1 day.\n\nSome of my favorite \ud83d\udcf8s from our panels below.\n\nGrateful to partner with a great group at SF Tech Week:\n\nFundraising at the Foundation: AI Infra\n- C.C. Gong, Greycroft\n- Haomiao Huang, PhD, Matter Venture Partners\n- Robert W., Etched\n- Mohit Gupta, TYLsemi\n\nInvesting at the Forefront: Defense & Deep Tech\n- Jocelyn Kinsey, DFJ Growth\n- Michael A. Brown, Shield Capital\n- James Brown, Schemata, Inc.\n\nThank you to Kyle Stanford, CAIA, for moderating, and to PitchBook for partnering with us.\n\n#SFTechWeek",
+   "disc_score": 47,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791923826
+  },
+  "7515814947591970816": {
+   "created": 1791909920,
+   "author": "Gary Lu, CPA",
+   "url": "https://www.linkedin.com/posts/garylucpa_privatemarkets-venturecapital-secondaries-activity-7515814947591970816--ZMM",
+   "text": "The Private Markets Are Moving Again Setter 30 (Q1 to Q3 2026)\n\nA few months ago, I wrote about the Setter 30 and what the rankings told us about where private-market investors were looking.\n\nWell, I'm officially late to the party.\n\nWhile I was down last week recovering, I finally had some time to catch up on both the Q2 and Q3 reports. Nothing like some forced downtime to nerd out on private-market data. And with Q3 having just come out, I figured why not look at the bigger picture across all three quarters?\n\nFirst, a huge thank you to Peter McGrath, who personally reached out and sent me the Q2 edition. You're the best!\n\nNow that we have three quarters of data, the story is getting much mo",
+   "disc_score": 9,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791923826
+  },
+  "7515858266711621632": {
+   "created": 1791920248,
+   "author": "SFPlayground",
+   "url": "https://www.linkedin.com/posts/sfplayground_sfplayground-industrialai-manufacturing-activity-7515858266711621632-tki0",
+   "text": "This Thursday, SFPlayground is bringing together some of the brightest minds in Industrial AI, Robotics, and Advanced Manufacturing to explore how AI is transforming the way we design, build, and manufacture physical products.\n\nFrom AI-powered CAD and autonomous quality inspection to intelligent supply chains and factory automation, AI is moving beyond software and into the physical world.\n\nWe\u2019re bringing together 3 Y Combinator founders, a seasoned hardware and AI operator, and a venture investor to discuss what it actually takes to bring these technologies from prototype to production.\n\n\ud83c\udfa4 Moderator\n\nVarad Mohod \u2014 Investor, Zacua Ventures | Robotics, Industrial AI & Manufacturing\n\n\ud83d\udd25 Feature",
+   "disc_score": 8,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791923826
   }
  },
  "baseline": {
   "24": [
-   [
-    1788361398,
-    49
-   ],
-   [
-    1788361398,
-    47
-   ],
-   [
-    1788361398,
-    1
-   ],
-   [
-    1788361398,
-    1
-   ],
-   [
-    1788361398,
-    0
-   ],
    [
     1788366825,
     22
@@ -1862,6 +1883,26 @@
    [
     1791907008,
     36
+   ],
+   [
+    1791923826,
+    255
+   ],
+   [
+    1791923826,
+    5
+   ],
+   [
+    1791923826,
+    10
+   ],
+   [
+    1791923826,
+    83
+   ],
+   [
+    1791923826,
+    1
    ]
   ]
  },
@@ -2040,6 +2081,16 @@
    1791875006,
    "7515284090955431937",
    172
+  ],
+  [
+   1791923826,
+   "7515442540414767105",
+   255
+  ],
+  [
+   1791923826,
+   "7515803185584799744",
+   254
   ]
  ],
  "seeded": true
