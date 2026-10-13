@@ -1,65 +1,15 @@
 {
  "watch": {
-  "7515033534802292736": {
-   "created": 1791723617,
-   "author": "Tim Carden",
-   "url": "https://www.linkedin.com/posts/timjcarden_our-san-francisco-map-stopped-at-the-city-activity-7515033534802292736-rDkP",
-   "text": "Our San Francisco map stopped at the city line.\n\nWithin 55 km south of it sit Nvidia, Apple, Google and Meta, worth $16.7T together. That's 7x everything on the SF map.\n\nHere's the AI map of Silicon Valley, outside SF:\n\n1. Nvidia, $5.77T. AI chips, Santa Clara.\n2. Apple, $4.87T. Cupertino.\n3. Alphabet, $4.21T. Google and Gemini, Mountain View.\n4. Meta, $1.88T. Menlo Park.\n5. Broadcom, $1.79T. Custom AI chips, Palo Alto.\n6. AMD, $1.06T. AI GPUs, Santa Clara.\n7. Intel, $591B. Santa Clara.\n8. xAI, $250B in the SpaceX merger. Palo Alto.\n9. Waymo, $126B. Robotaxis, Mountain View.\n10. Cerebras, $42.1B. Wafer-scale chips, Sunnyvale.\n11. Figure, $39B. Humanoid robots, San Jose.\n12. SSI, $32B. Ilya S",
-   "disc_score": 1,
-   "checks": {
-    "24": 394
-   },
-   "promoted": true,
-   "miss": 0,
-   "added": 1791725244
-  },
-  "7515061389636423681": {
-   "created": 1791730258,
-   "author": "Emao School",
-   "url": "https://www.linkedin.com/posts/emao-school-163105377_etched-desaf%C3%ADa-a-nvidia-recibe-ofertas-de-activity-7515061389636423681-tysj",
-   "text": "Etched eval\u00faa ofertas de financiaci\u00f3n que elevan su valoraci\u00f3n entre $40.000 y $50.000 millones de d\u00f3lares, apenas semanas despu\u00e9s de cerrar su ronda de $700 millones a una valoraci\u00f3n de $21.000 millones.\n\nLa startup consolida un libro de pedidos superior a $1.000 millones e infraestructura cr\u00edtica para acelerar la inferencia especializada en IA, desafiando el monopolio de Nvidia.\n\nEl reclutamiento del 15% de su plantilla t\u00e9cnica directamente desde Nvidia y el acceso prioritario a TSMC (nodo N4P) posicionan a la compa\u00f1\u00eda como un activo de escasez estrat\u00e9gica.",
-   "disc_score": 0,
-   "checks": {
-    "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791733167
-  },
-  "7515045660224552960": {
-   "created": 1791726508,
-   "author": "Mark Hirsch",
-   "url": "https://www.linkedin.com/posts/markdhirsch_ai-semiconductors-aiinfrastructure-activity-7515045660224552960-tWEe",
-   "text": "\ud835\udde7\ud835\uddf5\ud835\uddf2 \ud835\udddb\ud835\uddf6\ud835\uddff\ud835\ude00\ud835\uddf0\ud835\uddf5 \ud835\udde5\ud835\uddf2\ud835\uddfd\ud835\uddfc\ud835\uddff\ud835\ude01 #\ud835\udfef\ud835\udfec: \ud835\uddd8\ud835\ude03\ud835\uddf2\ud835\uddff\ud835\ude06\ud835\uddef\ud835\uddfc\ud835\uddf1\ud835\ude06 \ud835\udddb\ud835\uddee\ud835\ude00 \ud835\uddee \ud835\uddd7\ud835\uddf6\ud835\uddf3\ud835\uddf3\ud835\uddf2\ud835\uddff\ud835\uddf2\ud835\uddfb\ud835\ude01 \ud835\uddd5\ud835\uddfc\ud835\ude01\ud835\ude01\ud835\uddf9\ud835\uddf2\ud835\uddfb\ud835\uddf2\ud835\uddf0\ud835\uddf8\n\nBroadcom is arranging a $60 billion syndication to fund Anthropic's scale-up, and it is in early talks on more than $50 billion for OpenAI. The chip supplier is now the lender.\n\nThat set the tone. Everybody this week named a different bottleneck.\nMediaTek said power. Not chips, not memory. Lisa Su flew to Taiwan to meet TSMC, Foxconn, Quanta, Asus and Acer and said AI chip demand will outrun supply for years, with packaging and HBM as the constraint. She also asked Samsung to scale HBM4.\n\nThe site people said all three at once: power, water and permitting. Finland ordered Google to stop work at two northern sites after roughly 530 ",
-   "disc_score": 0,
-   "checks": {
-    "24": 3
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791733167
-  },
-  "7515092354773569536": {
-   "created": 1791737641,
-   "author": "Adivor Media",
-   "url": "https://www.linkedin.com/posts/adivor_61-722-manuscritos-10-centavos-y-una-activity-7515092354773569536-u_l-",
-   "text": "#61 \u2013 722 Manuscritos, 10 Centavos y una Regla Contra la\u00a0Crueldad\n\nSynapsis #61: ChatGPT empez\u00f3 a fabricar calculadoras y formularios dentro del chat con GPT-6, Claude Haiku 5.5 baj\u00f3 90% de precio con asterisco y Anthropic prohibi\u00f3 la crueldad sostenida hacia Claude. Adem\u00e1s: Gemini agent, Mistral Large 4, 722 manuscritos de OpenAI, la marca de agua textGrain y Etched. Qu\u00e9 significa para tu PyME....\n\nhttps://lnkd.in/eb-_26TP",
-   "disc_score": 0,
-   "checks": {
-    "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791742911
-  },
   "7515284090955431937": {
    "created": 1791783354,
    "author": "Grace Gong",
    "url": "https://www.linkedin.com/posts/gracegong_aihardware-semiconductors-ai-activity-7515284090955431937-E0BM",
    "text": "AI HARDWARE COMPANIES (HIRING LIST)\n\nHere are 35 AI hardware companies that are actively hiring right now, ranked by percentage headcount growth in the past 90 days. This is Week 105 of On My Radar, my weekly list of the companies I can't stop watching:\n\nTYLsemi - chiplet-based AI silicon (US)\nDelos Data - data-movement systems for AI compute (US)\nLumilens - photonic interconnect for AI (US)\nLuminous Computing - scalable AI accelerator (US)\nFractile - inference processors (UK)\nPositron AI - AI inference hardware (US)\nVolantis Semiconductor - photonic AI infrastructure (US)\nOLIX - token-production compute infrastructure (UK)\nMixx Technologies Inc - high-density silicon photonics for AI (US)\nE",
    "disc_score": 47,
-   "checks": {},
-   "promoted": false,
+   "checks": {
+    "24": 172
+   },
+   "promoted": true,
    "miss": 0,
    "added": 1791789693
   },
@@ -69,7 +19,9 @@
    "url": "https://www.linkedin.com/posts/select-edd_selected-branding-visualidentity-activity-7515267559232000000-tsh-",
    "text": "DVC by Daniil Sergeev\n\nBranding and web design for DVC, a fund that brings together 190+ investors and has backed 120 AI startups, including Perplexity AI, Etched, and Thinking Machines Lab. The brand identity centers on multilayered and color cluster visuals, symbolizing a community of engineers, founders, and angels, all managed by a family of founders.\n\n#selected #branding #visualidentity #brandidentity #logo #logodesign",
    "disc_score": 1,
-   "checks": {},
+   "checks": {
+    "24": 43
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791789693
@@ -80,7 +32,9 @@
    "url": "https://www.linkedin.com/posts/selfhost-pilot_amazon-is-reportedly-in-talks-to-acquire-activity-7515210973100638208-cmwV",
    "text": "Amazon is reportedly in talks to acquire the AI startup Decart for a deal that could be valued at around $7 billion, according to a Wall Street Journal report of 11 October 2026, carried by Reuters the same day (Reuters said it could not immediately verify the report). Neither Amazon nor Decart responded to requests for comment. The report said a deal could happen soon if the talks do not fall apart, and that Decart was valued at nearly $4 billion in May.\n\nHere is why that matters if you run AI on your own hardware. Decart is one of the few AI companies that published its video-editing model as open weights. Lucy Edit Dev, its text-guided video editor, is on Hugging Face - and so is the lice",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791789693
@@ -238,22 +192,43 @@
    "promoted": false,
    "miss": 0,
    "added": 1791850719
+  },
+  "7515611220536799232": {
+   "created": 1791861348,
+   "author": "Parv Modi",
+   "url": "https://www.linkedin.com/posts/parv-modi-3008p_venturecapital-ai-semiconductors-activity-7515611220536799232-UdeS",
+   "text": "Etched was valued at $5bn in December 2025. It is now reviewing offers at $40bn to $50bn.\n\nThe best-known investors bid $40bn. The $50bn came from lesser-known backers.\n\nThat is TechCrunch's reporting from one source, and the talks are early.\n\nThe rounds before it are on the record:\n\u2192 December 2025: $500m at $5bn, led by Stripes\n\u2192 July 2026: $300m at $10.3bn, led by Sequoia Capital\n\u2192 August 2026: $700m at $21bn, led by Jane Street, 26 days later\n\nWhat changed was proof. In June, Etched came out of stealth with a chip that worked on its first run at TSMC and more than $1bn of signed customer contracts. In 2023, the founders say, investors passed on them despite a 30-page memo arguing AI would",
+   "disc_score": 4,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791875006
+  },
+  "7515591288679899136": {
+   "created": 1791856596,
+   "author": "Gadgets Times",
+   "url": "https://www.linkedin.com/posts/gadgetstimesrd_gadgetstimesrd-tecnologaeda-semanatech-activity-7515591288679899136-wSFF",
+   "text": "\ud835\udddf\ud835\uddee \ud835\ude00\ud835\uddf2\ud835\uddfa\ud835\uddee\ud835\uddfb\ud835\uddee \ud835\uddf2\ud835\uddfb \ud835\uddfe\ud835\ude02\ud835\uddf2 \ud835\uddf9\ud835\uddee \ud835\udddc\ud835\uddd4 \ud835\ude00\ud835\uddee\ud835\uddf9\ud835\uddf6\ud835\uddfc\u0301 \ud835\uddf1\ud835\uddf2\ud835\uddf9 \ud835\uddf0\ud835\uddf5\ud835\uddee\ud835\ude01 \ud835\uddee\ud835\uddf9 \ud835\uddf9\ud835\uddee\ud835\uddfd\ud835\ude01\ud835\uddfc\ud835\uddfd\n\nApple prepara su casa inteligente, Microsoft lleva la IA local al laptop y un implante f\u00edsico en hardware de cripto cuesta m\u00e1s de US$86 millones. Esto es lo que importa esta semana \ud83d\udc47\n\n\ud83c\udf4e APPLE Y LA CASA INTELIGENTE\nMa\u00f1ana, martes 13, Apple celebra su evento \"Welcome home\". Se esperan el HomeView (hub con pantalla t\u00e1ctil y chip A18), un HomePod mini 2 con chip S10 y un Apple TV 4K con A19. HomePod y Apple TV llegar\u00edan el 30 de octubre; el HomeView, a mediados de noviembre. Quien importa o revende en RD tiene tres semanas para ajustar inventario y precios.\n\n\ud83d\udcbb PCS CON IA LOCAL\nMicrosoft present\u00f3 el Surface Laptop Ultra con el chip RTX Spark: desd",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791875006
+  },
+  "7515577079518834688": {
+   "created": 1791853208,
+   "author": "\u0130nvesttime",
+   "url": "https://www.linkedin.com/posts/i%CC%87nvesttime_24-ya%C5%9F%C4%B1ndaki-%C3%BC%C3%A7-giri%C5%9Fimcinin-ai-%C3%A7ip-%C5%9Firketi-activity-7515577079518834688-IG_D",
+   "text": "\u269c\ufe0f 24 Ya\u015f\u0131ndaki \u00dc\u00e7 Giri\u015fimcinin AI \u00c7ip \u015eirketi 21 Milyar Dolar De\u011ferlemeye Ula\u015ft\u0131\u269c\ufe0f\n\nYapay zeka modellerinin \u00e7al\u0131\u015ft\u0131r\u0131lmas\u0131 i\u00e7in \u00f6zel \u00e7ipler geli\u015ftiren Etched, ald\u0131\u011f\u0131 yeni yat\u0131r\u0131mla dikkat \u00e7ekici bir de\u011ferlemeye ula\u015ft\u0131. \u015eirket, 700 milyon dolarl\u0131k yeni yat\u0131r\u0131m turunu 21 milyar dolar de\u011ferleme \u00fczerinden tamamlad\u0131.\n\n\u015eirketin kurucular\u0131 ise hen\u00fcz 24 ya\u015f\u0131nda. Harvard\u2019dan ayr\u0131lan giri\u015fimciler taraf\u0131ndan 2022\u2019de kurulan Etched, k\u0131sa s\u00fcrede yapay zeka \u00e7ipleri alan\u0131ndaki \u00f6nemli giri\u015fimlerden biri haline geldi\u2026\n\n\u26d3\ufe0f\u200d\ud83d\udca5 Haber i\u00e7eri\u011finin tamam\u0131n\u0131 a\u015fa\u011f\u0131daki linkten ya da profilimizdeki bio ba\u011flant\u0131s\u0131ndan ula\u015fabilirsiniz.\n\n\ud83c\udf10 https://lnkd.in/dZEq3j8t",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791875006
   }
  },
  "baseline": {
   "24": [
-   [
-    1788071943,
-    0
-   ],
-   [
-    1788184021,
-    14
-   ],
-   [
-    1788206656,
-    6
-   ],
    [
     1788206656,
     1
@@ -1841,6 +1816,18 @@
    [
     1791827728,
     0
+   ],
+   [
+    1791875006,
+    172
+   ],
+   [
+    1791875006,
+    43
+   ],
+   [
+    1791875006,
+    0
    ]
   ]
  },
@@ -2014,6 +2001,11 @@
    1791827728,
    "7515033534802292736",
    394
+  ],
+  [
+   1791875006,
+   "7515284090955431937",
+   172
   ]
  ],
  "seeded": true
