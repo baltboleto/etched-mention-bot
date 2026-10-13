@@ -58,7 +58,9 @@
    "url": "https://www.linkedin.com/posts/jules-ferrer_ru%C3%A9e-vers-le-pre-ipo-spv-frais-et-valos-activity-7515430035290234881-57bP",
    "text": "Pourquoi j'ai quitt\u00e9 le VC early stage pour monter Rift Capital ? J'en parle avec Solenne Niedercorn-Desouches sur Finscale.\n\nLe d\u00e9clic, c'est San Francisco. Les cycles de lev\u00e9e se raccourcissaient, les montants explosaient, et le capital se concentrait sur une poign\u00e9e de soci\u00e9t\u00e9s.\nAujourd'hui les meilleures bo\u00eetes d'IA l\u00e8vent tous les deux ou trois mois.\nPar exemple Etched qui passe de $10 Md en juillet 2026 \u00e0 $20 Md en aout \u00e0 $40/50 Md en ce moment-m\u00eame.\n\nCes soci\u00e9t\u00e9s sont quasi inaccessibles si vous n'\u00eates pas un fonds de premier rang. Rift Capital structure ce type d'acc\u00e8s pour les family offices et asset managers.\n\nDans l'\u00e9pisode :\n\u2022 comment on a eu acc\u00e8s \u00e0 un deal gr\u00e2ce \u00e0 un ancien boa",
    "disc_score": 39,
-   "checks": {},
+   "checks": {
+    "24": 64
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791827728
@@ -93,7 +95,9 @@
    "url": "https://www.linkedin.com/posts/semiconductor-engineering_startup-funding-q3-2026-activity-7515429605286277120-eY42",
    "text": "80 startups raised $8.5B in Q3, with big hauls by companies tackling data movement and memory. Nearly $7.5B went to just 22 startups.\nA closer look at where investors are placing their bets: Startup Funding: Q3 2026.\nBy Jesse Allen.\nhttps://lnkd.in/gSdQ4vep\n\n#startups #startupfunding #semiconductor Quadric ChipAgents Ayar Labs\nSambaNova Etched Positron AI EUCLYD SiMa.ai Acrab HyperAccel Velaura AI Celera Semiconductor ChipMango Agentrys Hiveware - Verification without bottlenecks VerifAIX, Inc. Fab2 Multibeam Corporation Clas-SiC Wafer Fab Ltd Kepler Computing TeRAM, Inc. Topologic Point2 Technology\nLumilens OLIX CScale e-peas Efficient Computer Oxmiq Labs  Oratomic \nQNu Labs SCI Semiconduct",
    "disc_score": 20,
-   "checks": {},
+   "checks": {
+    "24": 36
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791827728
@@ -259,14 +263,6 @@
  },
  "baseline": {
   "24": [
-   [
-    1788346349,
-    1
-   ],
-   [
-    1788346349,
-    0
-   ],
    [
     1788361398,
     49
@@ -1858,6 +1854,14 @@
    [
     1791903674,
     0
+   ],
+   [
+    1791907008,
+    64
+   ],
+   [
+    1791907008,
+    36
    ]
   ]
  },
