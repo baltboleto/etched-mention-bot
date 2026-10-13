@@ -26,26 +26,15 @@
    "miss": 0,
    "added": 1791789693
   },
-  "7515210973100638208": {
-   "created": 1791765921,
-   "author": "SelfHost Pilot",
-   "url": "https://www.linkedin.com/posts/selfhost-pilot_amazon-is-reportedly-in-talks-to-acquire-activity-7515210973100638208-cmwV",
-   "text": "Amazon is reportedly in talks to acquire the AI startup Decart for a deal that could be valued at around $7 billion, according to a Wall Street Journal report of 11 October 2026, carried by Reuters the same day (Reuters said it could not immediately verify the report). Neither Amazon nor Decart responded to requests for comment. The report said a deal could happen soon if the talks do not fall apart, and that Decart was valued at nearly $4 billion in May.\n\nHere is why that matters if you run AI on your own hardware. Decart is one of the few AI companies that published its video-editing model as open weights. Lucy Edit Dev, its text-guided video editor, is on Hugging Face - and so is the lice",
-   "disc_score": 0,
-   "checks": {
-    "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791789693
-  },
   "7515361575201832960": {
    "created": 1791801828,
    "author": "Ian Foley",
    "url": "https://www.linkedin.com/posts/foleyian_ai-remained-dominant-at-this-years-sf-tech-activity-7515361575201832960-_Mpw",
    "text": "AI remained dominant at this year\u2019s SF Tech Week, with most side events reaching capacity as people arrived from around the world. My focus was on deep tech investing, with an interest to learn more about defence and neural compute. \n\nAt an event put on by TriplePoint Capital, the discussion gave context to US deep tech funding doubling to $141BN in 2025, as AI demand exposes physical constraints that software alone cannot solve. Robert Wachen of Etched explained how faster growth can worsen the financing problem, with 6-month supply lead times requiring component purchases ahead of anticipated sales. \n\nAt one of the defence tech events, Shield Capital\u2019s Mike Brown said approximately 80% of ",
    "disc_score": 7,
-   "checks": {},
+   "checks": {
+    "24": 11
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791827728
@@ -56,7 +45,9 @@
    "url": "https://www.linkedin.com/posts/marynapetrenko_ai-ailist-techjobs-activity-7515418668130988032-nkbG",
    "text": "\u2757We found 30 AI infrastructure companies hiring fast and sorted them by what they build. Here\u2019s your guide, with research from OutGeek: Women in Tech. \ud83d\udc47\nChips, data centers, GPU clouds: the least visible corner of #AI, with some of its most stable jobs, and one where women are still rare. Don\u2019t wait for someone to tell you you\u2019re ready, just apply. Women in AI are missing out on a $100K salary difference. Really.\n\n\ud83d\udd0c The Chipmakers (chips built to run AI, not just train it)\nSambaNova: AI chips plus its own cloud to run them. The fastest grower on the whole list!\nPositron AI: inference hardware (Reno, not the Bay Area!)\nFractile: inference processors (London)\nEtched: chips built for one kind o",
    "disc_score": 41,
-   "checks": {},
+   "checks": {
+    "24": 57
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791827728
@@ -78,7 +69,9 @@
    "url": "https://www.linkedin.com/posts/benscott22_creativeprovenance-humanauthorship-intellectualproperty-activity-7515334771091238912-3ne7",
    "text": "The manuscript has a history. That history is becoming more valuable.\n\nWIRED\u2019s reporting on Books By People highlights an interesting development: human-authorship certification that examines early drafts, research materials and editorial records alongside declarations and software analysis.\n\nFor creators, this raises a wider question: how much of the process behind valuable work are we preserving?\n\nThe first draft. The revisions. The source material. The editor\u2019s feedback. Any AI interactions. The author\u2019s subsequent changes.\n\nAt Etched, we preserve that development history so creators and their advisers have a record to review when questions arise about contribution, authorship or ownershi",
    "disc_score": 16,
-   "checks": {},
+   "checks": {
+    "24": 28
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791827728
@@ -111,7 +104,9 @@
    "url": "https://www.linkedin.com/posts/startupsi_sequoia-capital-backed-nuvacore-targets-25b-activity-7515358993247240192-RW-W",
    "text": "Sequoia Capital Backed NUVACORE Targets $2.5B Valuation Without a Product\n\nNuvacore, a California-based semiconductor startup founded by former Apple CPU architect Gerard Williams III , is reportedly seeking hundreds of millions of dollars at a $2.5 billion valuation, despite not yet having a commercial product.\n\nAccording to Reuters, the six-month-old company is pursuing the fundraising as demand for computing infrastructure grows alongside AI data centres. The round has not closed, and its size and valuation could change.\n\nSequoia Capital led Nuvacore's previously announced seed round in April 2026. The startup is now developing a new general-purpose CPU architecture designed for the chang",
    "disc_score": 3,
-   "checks": {},
+   "checks": {
+    "24": 30
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791827728
@@ -122,7 +117,9 @@
    "url": "https://www.linkedin.com/posts/sabapplier_zfellows-startupfellowship-startupfunding-activity-7515335567891550208-_0l7",
    "text": "No incorporated company. No age limit. No requirement to quit your job or school.\n\nThat\u2019s part of what makes Z Fellows different from most startup programs.\nIt\u2019s a one-week fellowship for very early-stage technical builders \u2014 including people who are still working on a side project, studying, or figuring out whether their idea can become a company.\nEach cohort brings together roughly 10 builders and connects them directly with experienced founders and investors.\nAnd you don't need to arrive with a fully formed startup.\nYou can apply with a startup, project or side project, as a solo founder or team.\n\nThere\u2019s also an optional investment:\n\ud83d\udcb0 $10,000 investment\n\ud83d\udcc8 $1 billion valuation cap\nYou can",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791827728
@@ -225,30 +222,43 @@
    "promoted": false,
    "miss": 0,
    "added": 1791875006
+  },
+  "7515730366549250048": {
+   "created": 1791889754,
+   "author": "Yigal Sharon",
+   "url": "https://www.linkedin.com/posts/yigal-sharon-624a7253_entrepreneurship-ai-startups-activity-7515730366549250048-cFAF",
+   "text": "THREE KIDS. A TOWEL FOR A BLANKET. AND A $21 BILLION GAMBLE AGAINST NVIDIA.\n\nIn 2023, Robert Wachen had a difficult conversation with his parents.\n\nBoth were lawyers.\n\nTheir son wanted to leave Harvard.\n\nTo build computer chips.\n\nTo compete with Nvidia.\n\nYou can imagine the family dinner.\n\nRobert was 21. He had already tried building around two dozen products. Most had failed.\n\nHis two friends, Gavin Uberti and Chris Zhu, were mathematical prodigies.\n\nGavin had been a world-class mathematics competitor and worked on AI compilers.\n\nChris had published mathematical research while still in high school.\n\nThey had identified an extraordinary opportunity.\n\nThe AI industry was spending fortunes tea",
+   "disc_score": 2,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791903674
+  },
+  "7515754341744590850": {
+   "created": 1791895471,
+   "author": "Raphael Volpert",
+   "url": "https://www.linkedin.com/posts/raphaelvolpert_we-are-hosting-two-very-special-fireside-activity-7515754341744590850-JcDE",
+   "text": "We are hosting two very special fireside chats at Alexandria Munich this week:\n\nDr. Robert Fink CTO of Helsing and co-inventor of Palantir Technologies Foundry.\n\nCory Levy Founder of Z Fellows early investor in Cursor, Cognition, Etched, Mach Industries.\n\nThis is just the beginning of bringing tier-S technology leaders to Alexandria in Munich.\nBoth events are limited to 20 participants, apply below:\n\nAd Astra",
+   "disc_score": 80,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791903674
+  },
+  "7515718406592163840": {
+   "created": 1791886903,
+   "author": "Alexandre Dewez",
+   "url": "https://www.linkedin.com/posts/alexandre-dewez_i-wrote-a-deep-dive-on-synopsys-inc-alongside-activity-7515718406592163840--KC6",
+   "text": "I wrote a deep-dive on Synopsys Inc.\n\nAlongside Cadence, Synopsys forms a \ud835\udc1d\ud835\udc2e\ud835\udc28\ud835\udc29\ud835\udc28\ud835\udc25\ud835\udc32 \ud835\udc22\ud835\udc27 \ud835\udc1c\ud835\udc21\ud835\udc22\ud835\udc29-\ud835\udc1d\ud835\udc1e\ud835\udc2c\ud835\udc22\ud835\udc20\ud835\udc27 \ud835\udc2c\ud835\udc28\ud835\udc1f\ud835\udc2d\ud835\udc30\ud835\udc1a\ud835\udc2b\ud835\udc1e. No company can bring a new chip to market without using one (or both for most). That holds whether the customer is Nvidia, a hyperscaler such as Amazon or Google building chips in-house, or a newcomer such as Etched. \ud835\udc12\ud835\udc32\ud835\udc27\ud835\udc28\ud835\udc29\ud835\udc2c\ud835\udc32\ud835\udc2c \ud835\udc1a\ud835\udc27\ud835\udc1d \ud835\udc02\ud835\udc1a\ud835\udc1d\ud835\udc1e\ud835\udc27\ud835\udc1c\ud835\udc1e \ud835\udc1a\ud835\udc2b\ud835\udc1e \ud835\udc1a \ud835\udc2d\ud835\udc28\ud835\udc25\ud835\udc25 \ud835\udc1b\ud835\udc28\ud835\udc28\ud835\udc2d\ud835\udc21 \ud835\udc22\ud835\udc27 \ud835\udc2c\ud835\udc1e\ud835\udc26\ud835\udc22\ud835\udc1c\ud835\udc28\ud835\udc27\ud835\udc1d\ud835\udc2e\ud835\udc1c\ud835\udc2d\ud835\udc28\ud835\udc2b\ud835\udc2c, \ud835\udc26\ud835\udc2e\ud835\udc1c\ud835\udc21 \ud835\udc1a\ud835\udc2c \ud835\udc15\ud835\udc22\ud835\udc2c\ud835\udc1a \ud835\udc22\ud835\udc2c \ud835\udc22\ud835\udc27 \ud835\udc29\ud835\udc1a\ud835\udc32\ud835\udc26\ud835\udc1e\ud835\udc27\ud835\udc2d\ud835\udc2c \ud835\udc1a\ud835\udc27\ud835\udc1d \ud835\udc0c\ud835\udc28\ud835\udc28\ud835\udc1d\ud835\udc32\u2019\ud835\udc2c \ud835\udc22\ud835\udc2c \ud835\udc22\ud835\udc27 \ud835\udc1c\ud835\udc2b\ud835\udc1e\ud835\udc1d\ud835\udc22\ud835\udc2d \ud835\udc2b\ud835\udc1a\ud835\udc2d\ud835\udc22\ud835\udc27\ud835\udc20\ud835\udc2c.\n\nArticle in the comments section. \u2b07\ufe0f",
+   "disc_score": 14,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1791903674
   }
  },
  "baseline": {
   "24": [
-   [
-    1788206656,
-    1
-   ],
-   [
-    1788220243,
-    1
-   ],
-   [
-    1788304770,
-    3
-   ],
-   [
-    1788307949,
-    2
-   ],
-   [
-    1788346349,
-    27
-   ],
    [
     1788346349,
     1
@@ -1827,6 +1837,26 @@
    ],
    [
     1791875006,
+    0
+   ],
+   [
+    1791903674,
+    11
+   ],
+   [
+    1791903674,
+    57
+   ],
+   [
+    1791903674,
+    28
+   ],
+   [
+    1791903674,
+    30
+   ],
+   [
+    1791903674,
     0
    ]
   ]
