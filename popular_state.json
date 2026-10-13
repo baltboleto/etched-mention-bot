@@ -1,43 +1,5 @@
 {
- "watch": {
-  "2110102948244267043": {
-   "created": 1791922721,
-   "author": "AIStockSavvy",
-   "followers": 42283,
-   "url": "https://x.com/AIStockSavvy/status/2110102948244267043",
-   "disc_score": 20,
-   "checks": {},
-   "promoted": false,
-   "miss": 0,
-   "added": 1791923738
-  },
-  "2110071225456156791": {
-   "created": 1791915158,
-   "author": "masayoshisson",
-   "followers": 7008,
-   "url": "https://x.com/masayoshisson/status/2110071225456156791",
-   "disc_score": 2,
-   "checks": {
-    "1": 2
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791923738
-  },
-  "2110068054495232426": {
-   "created": 1791914402,
-   "author": "VeraShokina",
-   "followers": 2263,
-   "url": "https://x.com/VeraShokina/status/2110068054495232426",
-   "disc_score": 3,
-   "checks": {
-    "1": null
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791923738
-  }
- },
+ "watch": {},
  "baseline": {
   "1": [
    [
