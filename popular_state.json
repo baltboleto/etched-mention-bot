@@ -1,54 +1,5 @@
 {
- "watch": {
-  "2109699813529080193": {
-   "created": 1791826606,
-   "author": "baxondaxonbax",
-   "followers": 521,
-   "url": "https://x.com/baxondaxonbax/status/2109699813529080193",
-   "disc_score": 0,
-   "checks": {},
-   "promoted": false,
-   "miss": 0,
-   "added": 1791827907
-  },
-  "2109676744156315681": {
-   "created": 1791821106,
-   "author": "djemai0493",
-   "followers": 54,
-   "url": "https://x.com/djemai0493/status/2109676744156315681",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791827907
-  },
-  "2109685122060697763": {
-   "created": 1791823103,
-   "author": "recursiveagi",
-   "followers": 973,
-   "url": "https://x.com/recursiveagi/status/2109685122060697763",
-   "disc_score": 3,
-   "checks": {
-    "1": 3
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791827907
-  },
-  "2109702664888180991": {
-   "created": 1791827286,
-   "author": "Future_Ripples",
-   "followers": 60,
-   "url": "https://x.com/Future_Ripples/status/2109702664888180991",
-   "disc_score": 0,
-   "checks": {},
-   "promoted": false,
-   "miss": 0,
-   "added": 1791827907
-  }
- },
+ "watch": {},
  "baseline": {
   "1": [
    [
