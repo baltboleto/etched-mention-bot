@@ -1,11 +1,21 @@
 {
- "watch": {},
+ "watch": {
+  "2110193727356686659": {
+   "created": 1791944364,
+   "author": "AJacksonHole",
+   "followers": 690,
+   "url": "https://x.com/AJacksonHole/status/2110193727356686659",
+   "disc_score": 0,
+   "checks": {
+    "1": 0
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1791950429
+  }
+ },
  "baseline": {
   "1": [
-   [
-    1787638881,
-    0.3
-   ],
    [
     1787638881,
     0.3
@@ -1601,6 +1611,10 @@
    [
     1791923739,
     2
+   ],
+   [
+    1791950429,
+    0
    ]
   ]
  },
