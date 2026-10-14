@@ -158,7 +158,9 @@
    "url": "https://www.linkedin.com/posts/i%CC%87nvesttime_24-ya%C5%9F%C4%B1ndaki-%C3%BC%C3%A7-giri%C5%9Fimcinin-ai-%C3%A7ip-%C5%9Firketi-activity-7515577079518834688-IG_D",
    "text": "\u269c\ufe0f 24 Ya\u015f\u0131ndaki \u00dc\u00e7 Giri\u015fimcinin AI \u00c7ip \u015eirketi 21 Milyar Dolar De\u011ferlemeye Ula\u015ft\u0131\u269c\ufe0f\n\nYapay zeka modellerinin \u00e7al\u0131\u015ft\u0131r\u0131lmas\u0131 i\u00e7in \u00f6zel \u00e7ipler geli\u015ftiren Etched, ald\u0131\u011f\u0131 yeni yat\u0131r\u0131mla dikkat \u00e7ekici bir de\u011ferlemeye ula\u015ft\u0131. \u015eirket, 700 milyon dolarl\u0131k yeni yat\u0131r\u0131m turunu 21 milyar dolar de\u011ferleme \u00fczerinden tamamlad\u0131.\n\n\u015eirketin kurucular\u0131 ise hen\u00fcz 24 ya\u015f\u0131nda. Harvard\u2019dan ayr\u0131lan giri\u015fimciler taraf\u0131ndan 2022\u2019de kurulan Etched, k\u0131sa s\u00fcrede yapay zeka \u00e7ipleri alan\u0131ndaki \u00f6nemli giri\u015fimlerden biri haline geldi\u2026\n\n\u26d3\ufe0f\u200d\ud83d\udca5 Haber i\u00e7eri\u011finin tamam\u0131n\u0131 a\u015fa\u011f\u0131daki linkten ya da profilimizdeki bio ba\u011flant\u0131s\u0131ndan ula\u015fabilirsiniz.\n\n\ud83c\udf10 https://lnkd.in/dZEq3j8t",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791875006
@@ -256,10 +258,6 @@
  },
  "baseline": {
   "24": [
-   [
-    1788374203,
-    5
-   ],
    [
     1788397638,
     2
@@ -1854,6 +1852,10 @@
    ],
    [
     1791935841,
+    0
+   ],
+   [
+    1791940366,
     0
    ]
   ]
