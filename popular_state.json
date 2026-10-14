@@ -1,45 +1,5 @@
 {
- "watch": {
-  "2110421740643852550": {
-   "created": 1791998727,
-   "author": "saltyq",
-   "followers": 20258,
-   "url": "https://x.com/saltyq/status/2110421740643852550",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1792004230
-  },
-  "2110421065516142891": {
-   "created": 1791998566,
-   "author": "saltyq",
-   "followers": 20258,
-   "url": "https://x.com/saltyq/status/2110421065516142891",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1792004230
-  },
-  "2110411726391067025": {
-   "created": 1791996339,
-   "author": "Megatherium",
-   "followers": 46,
-   "url": "https://x.com/Megatherium/status/2110411726391067025",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1792004230
-  }
- },
+ "watch": {},
  "baseline": {
   "1": [
    [
