@@ -97,7 +97,9 @@
    "url": "https://www.linkedin.com/posts/sfplayground_sfplayground-industrialai-manufacturing-activity-7515858266711621632-tki0",
    "text": "This Thursday, SFPlayground is bringing together some of the brightest minds in Industrial AI, Robotics, and Advanced Manufacturing to explore how AI is transforming the way we design, build, and manufacture physical products.\n\nFrom AI-powered CAD and autonomous quality inspection to intelligent supply chains and factory automation, AI is moving beyond software and into the physical world.\n\nWe\u2019re bringing together 3 Y Combinator founders, a seasoned hardware and AI operator, and a venture investor to discuss what it actually takes to bring these technologies from prototype to production.\n\n\ud83c\udfa4 Moderator\n\nVarad Mohod \u2014 Investor, Zacua Ventures | Robotics, Industrial AI & Manufacturing\n\n\ud83d\udd25 Feature",
    "disc_score": 8,
-   "checks": {},
+   "checks": {
+    "24": 30
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791923826
@@ -178,14 +180,34 @@
    "promoted": false,
    "miss": 0,
    "added": 1792003072
+  },
+  "7516226379424907265": {
+   "created": 1792008013,
+   "author": "Tripp Conrad",
+   "url": "https://www.linkedin.com/posts/tripp-conrad_goannacapital-gohired-talentacquisition-activity-7516226379424907265-vtOd",
+   "text": "An overdue welcome to Ritap R., who joined the Goanna Capital Management Talent team last month. \n\nRitap brings experience from Etched, 1X, Meta and Tesla, working across AI, robotics and some seriously complex engineering teams.\n\nHis understanding of what makes a candidate great for a specific company is exceptional. He digs into what the team is building, who succeeds there and why. That judgment is a big part of what makes him so good at this. \n\nExcited to have him putting it to work with founders and teams across the Goanna ecosystem. \n\nGlad youre here, Ritap!\n\n#GoannaCapital #GoHired #TalentAcquisition",
+   "disc_score": 15,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1792015691
+  },
+  "7516201126833049600": {
+   "created": 1792001992,
+   "author": "Sathwik Doddi",
+   "url": "https://www.linkedin.com/posts/sathwik-doddi_im-excited-to-announce-that-ill-be-joining-activity-7516201126833049600-FyyD",
+   "text": "I'm excited to announce that I'll be joining Etched in the spring as a Firmware Intern in San Jose, CA and IMC Trading in the summer as a Software Engineer Intern in Chicago, IL.\n\nI'm also looking for roommates, so feel free hit me up if you'll be in the South Bay this coming spring! I'm grateful to my family and friends for the support along the way, and would like to thank my recruiters (Karlie O'Keefe, Nigel Robinson, Sahil Agarwal) for the smooth processes!",
+   "disc_score": 350,
+   "checks": {
+    "24": 351
+   },
+   "promoted": true,
+   "miss": 0,
+   "added": 1792015691
   }
  },
  "baseline": {
   "24": [
-   [
-    1788447746,
-    10
-   ],
    [
     1788447746,
     74
@@ -1781,6 +1803,10 @@
    [
     1792003072,
     29
+   ],
+   [
+    1792015691,
+    30
    ]
   ]
  },
@@ -1969,6 +1995,11 @@
    1791923826,
    "7515803185584799744",
    254
+  ],
+  [
+   1792015691,
+   "7516201126833049600",
+   351
   ]
  ],
  "seeded": true
