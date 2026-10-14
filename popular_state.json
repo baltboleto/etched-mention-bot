@@ -1,15 +1,34 @@
 {
- "watch": {},
+ "watch": {
+  "2110355240998592561": {
+   "created": 1791982872,
+   "author": "cardenben328",
+   "followers": 147,
+   "url": "https://x.com/cardenben328/status/2110355240998592561",
+   "disc_score": 1,
+   "checks": {
+    "1": 1
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1791988732
+  },
+  "2110357576663666689": {
+   "created": 1791983429,
+   "author": "unwitty",
+   "followers": 240,
+   "url": "https://x.com/unwitty/status/2110357576663666689",
+   "disc_score": 0,
+   "checks": {
+    "1": 0
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1791988732
+  }
+ },
  "baseline": {
   "1": [
-   [
-    1787638881,
-    0.3
-   ],
-   [
-    1787638881,
-    0.3
-   ],
    [
     1787638881,
     0.3
@@ -1600,6 +1619,14 @@
    ],
    [
     1791950429,
+    0
+   ],
+   [
+    1791988732,
+    1
+   ],
+   [
+    1791988732,
     0
    ]
   ]
