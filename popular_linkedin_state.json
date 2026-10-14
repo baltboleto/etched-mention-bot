@@ -1,31 +1,5 @@
 {
  "watch": {
-  "7515418668130988032": {
-   "created": 1791815440,
-   "author": "Marina Petrenko",
-   "url": "https://www.linkedin.com/posts/marynapetrenko_ai-ailist-techjobs-activity-7515418668130988032-nkbG",
-   "text": "\u2757We found 30 AI infrastructure companies hiring fast and sorted them by what they build. Here\u2019s your guide, with research from OutGeek: Women in Tech. \ud83d\udc47\nChips, data centers, GPU clouds: the least visible corner of #AI, with some of its most stable jobs, and one where women are still rare. Don\u2019t wait for someone to tell you you\u2019re ready, just apply. Women in AI are missing out on a $100K salary difference. Really.\n\n\ud83d\udd0c The Chipmakers (chips built to run AI, not just train it)\nSambaNova: AI chips plus its own cloud to run them. The fastest grower on the whole list!\nPositron AI: inference hardware (Reno, not the Bay Area!)\nFractile: inference processors (London)\nEtched: chips built for one kind o",
-   "disc_score": 41,
-   "checks": {
-    "24": 57
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791827728
-  },
-  "7515430035290234881": {
-   "created": 1791818150,
-   "author": "Jules Ferrer",
-   "url": "https://www.linkedin.com/posts/jules-ferrer_ru%C3%A9e-vers-le-pre-ipo-spv-frais-et-valos-activity-7515430035290234881-57bP",
-   "text": "Pourquoi j'ai quitt\u00e9 le VC early stage pour monter Rift Capital ? J'en parle avec Solenne Niedercorn-Desouches sur Finscale.\n\nLe d\u00e9clic, c'est San Francisco. Les cycles de lev\u00e9e se raccourcissaient, les montants explosaient, et le capital se concentrait sur une poign\u00e9e de soci\u00e9t\u00e9s.\nAujourd'hui les meilleures bo\u00eetes d'IA l\u00e8vent tous les deux ou trois mois.\nPar exemple Etched qui passe de $10 Md en juillet 2026 \u00e0 $20 Md en aout \u00e0 $40/50 Md en ce moment-m\u00eame.\n\nCes soci\u00e9t\u00e9s sont quasi inaccessibles si vous n'\u00eates pas un fonds de premier rang. Rift Capital structure ce type d'acc\u00e8s pour les family offices et asset managers.\n\nDans l'\u00e9pisode :\n\u2022 comment on a eu acc\u00e8s \u00e0 un deal gr\u00e2ce \u00e0 un ancien boa",
-   "disc_score": 39,
-   "checks": {
-    "24": 64
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791827728
-  },
   "7515442540414767105": {
    "created": 1791821131,
    "author": "Bill Kim",
@@ -36,19 +10,6 @@
     "24": 255
    },
    "promoted": true,
-   "miss": 0,
-   "added": 1791827728
-  },
-  "7515429605286277120": {
-   "created": 1791818047,
-   "author": "Semiconductor Engineering",
-   "url": "https://www.linkedin.com/posts/semiconductor-engineering_startup-funding-q3-2026-activity-7515429605286277120-eY42",
-   "text": "80 startups raised $8.5B in Q3, with big hauls by companies tackling data movement and memory. Nearly $7.5B went to just 22 startups.\nA closer look at where investors are placing their bets: Startup Funding: Q3 2026.\nBy Jesse Allen.\nhttps://lnkd.in/gSdQ4vep\n\n#startups #startupfunding #semiconductor Quadric ChipAgents Ayar Labs\nSambaNova Etched Positron AI EUCLYD SiMa.ai Acrab HyperAccel Velaura AI Celera Semiconductor ChipMango Agentrys Hiveware - Verification without bottlenecks VerifAIX, Inc. Fab2 Multibeam Corporation Clas-SiC Wafer Fab Ltd Kepler Computing TeRAM, Inc. Topologic Point2 Technology\nLumilens OLIX CScale e-peas Efficient Computer Oxmiq Labs  Oratomic \nQNu Labs SCI Semiconduct",
-   "disc_score": 20,
-   "checks": {
-    "24": 36
-   },
-   "promoted": false,
    "miss": 0,
    "added": 1791827728
   },
@@ -136,7 +97,9 @@
    "url": "https://www.linkedin.com/posts/parv-modi-3008p_venturecapital-ai-semiconductors-activity-7515611220536799232-UdeS",
    "text": "Etched was valued at $5bn in December 2025. It is now reviewing offers at $40bn to $50bn.\n\nThe best-known investors bid $40bn. The $50bn came from lesser-known backers.\n\nThat is TechCrunch's reporting from one source, and the talks are early.\n\nThe rounds before it are on the record:\n\u2192 December 2025: $500m at $5bn, led by Stripes\n\u2192 July 2026: $300m at $10.3bn, led by Sequoia Capital\n\u2192 August 2026: $700m at $21bn, led by Jane Street, 26 days later\n\nWhat changed was proof. In June, Etched came out of stealth with a chip that worked on its first run at TSMC and more than $1bn of signed customer contracts. In 2023, the founders say, investors passed on them despite a 30-page memo arguing AI would",
    "disc_score": 4,
-   "checks": {},
+   "checks": {
+    "24": 5
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791875006
@@ -147,7 +110,9 @@
    "url": "https://www.linkedin.com/posts/gadgetstimesrd_gadgetstimesrd-tecnologaeda-semanatech-activity-7515591288679899136-wSFF",
    "text": "\ud835\udddf\ud835\uddee \ud835\ude00\ud835\uddf2\ud835\uddfa\ud835\uddee\ud835\uddfb\ud835\uddee \ud835\uddf2\ud835\uddfb \ud835\uddfe\ud835\ude02\ud835\uddf2 \ud835\uddf9\ud835\uddee \ud835\udddc\ud835\uddd4 \ud835\ude00\ud835\uddee\ud835\uddf9\ud835\uddf6\ud835\uddfc\u0301 \ud835\uddf1\ud835\uddf2\ud835\uddf9 \ud835\uddf0\ud835\uddf5\ud835\uddee\ud835\ude01 \ud835\uddee\ud835\uddf9 \ud835\uddf9\ud835\uddee\ud835\uddfd\ud835\ude01\ud835\uddfc\ud835\uddfd\n\nApple prepara su casa inteligente, Microsoft lleva la IA local al laptop y un implante f\u00edsico en hardware de cripto cuesta m\u00e1s de US$86 millones. Esto es lo que importa esta semana \ud83d\udc47\n\n\ud83c\udf4e APPLE Y LA CASA INTELIGENTE\nMa\u00f1ana, martes 13, Apple celebra su evento \"Welcome home\". Se esperan el HomeView (hub con pantalla t\u00e1ctil y chip A18), un HomePod mini 2 con chip S10 y un Apple TV 4K con A19. HomePod y Apple TV llegar\u00edan el 30 de octubre; el HomeView, a mediados de noviembre. Quien importa o revende en RD tiene tres semanas para ajustar inventario y precios.\n\n\ud83d\udcbb PCS CON IA LOCAL\nMicrosoft present\u00f3 el Surface Laptop Ultra con el chip RTX Spark: desd",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791875006
@@ -258,14 +223,6 @@
  },
  "baseline": {
   "24": [
-   [
-    1788397638,
-    2
-   ],
-   [
-    1788414438,
-    47
-   ],
    [
     1788434036,
     30
@@ -1856,6 +1813,14 @@
    ],
    [
     1791940366,
+    0
+   ],
+   [
+    1791950506,
+    5
+   ],
+   [
+    1791950506,
     0
    ]
   ]
