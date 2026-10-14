@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7515611220536799232": {
-   "created": 1791861348,
-   "author": "Parv Modi",
-   "url": "https://www.linkedin.com/posts/parv-modi-3008p_venturecapital-ai-semiconductors-activity-7515611220536799232-UdeS",
-   "text": "Etched was valued at $5bn in December 2025. It is now reviewing offers at $40bn to $50bn.\n\nThe best-known investors bid $40bn. The $50bn came from lesser-known backers.\n\nThat is TechCrunch's reporting from one source, and the talks are early.\n\nThe rounds before it are on the record:\n\u2192 December 2025: $500m at $5bn, led by Stripes\n\u2192 July 2026: $300m at $10.3bn, led by Sequoia Capital\n\u2192 August 2026: $700m at $21bn, led by Jane Street, 26 days later\n\nWhat changed was proof. In June, Etched came out of stealth with a chip that worked on its first run at TSMC and more than $1bn of signed customer contracts. In 2023, the founders say, investors passed on them despite a 30-page memo arguing AI would",
-   "disc_score": 4,
-   "checks": {
-    "24": 5
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791875006
-  },
   "7515730366549250048": {
    "created": 1791889754,
    "author": "Yigal Sharon",
@@ -58,7 +45,9 @@
    "url": "https://www.linkedin.com/posts/israel-suero-294b40a3_venturecapital-ai-deeptech-activity-7515817771906306048-29QR",
    "text": "It\u2019s been a while since I shared a Dash VC update here. Starting graduate school at Columbia University has kept me busy, but a ton is happening at the fund worth sharing. \n\nWe\u2019ve entered Q4 with tremendous momentum across the portfolio. A few highlights:\n\n\u2022 Etched raised another $700 million this summer in a round led by Jane Street at a $21 billion valuation, more than doubling its previous $10.3 billion valuation. Etched remains our best-performing portfolio company, and we believe this is only the beginning. Our team stays in close communication with Gavin Uberti, and hearing about the company\u2019s progress and ambitions firsthand continues to strengthen our conviction.\n\n\u2022 Aalo Atomics reac",
    "disc_score": 12,
-   "checks": {},
+   "checks": {
+    "24": 41
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791923826
@@ -82,7 +71,9 @@
    "url": "https://www.linkedin.com/posts/theonlyalvinkim_sftechweek-activity-7515802011297148928-fhc5",
    "text": "2,000+ RSVPs. 500+ attendees. 2 panels. 1 day.\n\nSome of my favorite \ud83d\udcf8s from our panels below.\n\nGrateful to partner with a great group at SF Tech Week:\n\nFundraising at the Foundation: AI Infra\n- C.C. Gong, Greycroft\n- Haomiao Huang, PhD, Matter Venture Partners\n- Robert W., Etched\n- Mohit Gupta, TYLsemi\n\nInvesting at the Forefront: Defense & Deep Tech\n- Jocelyn Kinsey, DFJ Growth\n- Michael A. Brown, Shield Capital\n- James Brown, Schemata, Inc.\n\nThank you to Kyle Stanford, CAIA, for moderating, and to PitchBook for partnering with us.\n\n#SFTechWeek",
    "disc_score": 47,
-   "checks": {},
+   "checks": {
+    "24": 68
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791923826
@@ -93,7 +84,9 @@
    "url": "https://www.linkedin.com/posts/garylucpa_privatemarkets-venturecapital-secondaries-activity-7515814947591970816--ZMM",
    "text": "The Private Markets Are Moving Again Setter 30 (Q1 to Q3 2026)\n\nA few months ago, I wrote about the Setter 30 and what the rankings told us about where private-market investors were looking.\n\nWell, I'm officially late to the party.\n\nWhile I was down last week recovering, I finally had some time to catch up on both the Q2 and Q3 reports. Nothing like some forced downtime to nerd out on private-market data. And with Q3 having just come out, I figured why not look at the bigger picture across all three quarters?\n\nFirst, a huge thank you to Peter McGrath, who personally reached out and sent me the Q2 edition. You're the best!\n\nNow that we have three quarters of data, the story is getting much mo",
    "disc_score": 9,
-   "checks": {},
+   "checks": {
+    "24": 29
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791923826
@@ -163,22 +156,32 @@
    "promoted": false,
    "miss": 0,
    "added": 1791985453
+  },
+  "7516193675371048960": {
+   "created": 1792000216,
+   "author": "Magnus O'Driscoll",
+   "url": "https://www.linkedin.com/posts/magnus-o-driscoll-b032785_invest-artificialintelligence-privatemarkets-activity-7516193675371048960-GdS1",
+   "text": "An interesting overview of the leading privately held AI companies, covering a much broader range of technologies than just large language models.Some of the better known companies and their products or platforms include:\n\nAnthropic: Claude\nOpenAI: ChatGPT, GPT models and Codex\nDatabricks: Data Intelligence Platform and Mosaic AI\nDeepSeek: DeepSeek models and AI assistant\nCognition: Devin, an AI software engineering agent\nFigure: Humanoid robots and Helix AI\nMoonshot AI: Kimi\nScale AI: Data Engine and model evaluation\nMistral AI: Le Chat and Mistral models\nElevenLabs: AI voice generation and conversational agents\nEtched: Specialised AI inference chips and systems\nPerplexity: AI search and Co",
+   "disc_score": 1,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1792003072
+  },
+  "7516174702151794688": {
+   "created": 1791995692,
+   "author": "Andrew Siropiatov",
+   "url": "https://www.linkedin.com/posts/andrew-siropiatov_the-podium-which-startup-idea-is-being-activity-7516174702151794688-nOaU",
+   "text": "\ud83c\udfc6 The Podium \u2014 which startup idea more than one company is chasing\n29 ideas drew more than one company each between 17 Jul and 13 Oct. Ranked by how many COMPANIES, not how much money. The leading three:\n\ud83e\udd47 AI agents doing the work \u2014 18 companies \u00b7 $976.4m reported\nButterfly Effect, Onyx, Ema, Freehand, BUSINESSNEXT, Arrakis, Natural, Vesta, Restate, Eagle Cloud, Ghost, Zeliq, Primo, 50skills, Granite, Kontext, Itoflow, Aisot Technologies\n\ud83e\udd48 Chips built for AI \u2014 15 companies \u00b7 $4.5bn reported\nFirmus, Infinigence AI, OLIX, Etched, Xsight Labs, EUCLYD, Callosum, DeepX, Ubitium, Velatir, MintNeuro, Solinide, Embedd, HexSeed Technology, Groq\n\ud83e\udd49 Grid & energy storage \u2014 13 companies \u00b7 $872.3m reporte",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1792003072
   }
  },
  "baseline": {
   "24": [
-   [
-    1788447746,
-    28
-   ],
-   [
-    1788447746,
-    2
-   ],
-   [
-    1788447746,
-    1
-   ],
    [
     1788447746,
     10
@@ -1766,6 +1769,18 @@
    [
     1791985453,
     21
+   ],
+   [
+    1792003072,
+    41
+   ],
+   [
+    1792003072,
+    68
+   ],
+   [
+    1792003072,
+    29
    ]
   ]
  },
