@@ -1,46 +1,47 @@
 {
  "watch": {
-  "2110355240998592561": {
-   "created": 1791982872,
-   "author": "cardenben328",
-   "followers": 147,
-   "url": "https://x.com/cardenben328/status/2110355240998592561",
-   "disc_score": 1,
-   "checks": {
-    "1": 1
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791988732
-  },
-  "2110357576663666689": {
-   "created": 1791983429,
-   "author": "unwitty",
-   "followers": 240,
-   "url": "https://x.com/unwitty/status/2110357576663666689",
+  "2110421740643852550": {
+   "created": 1791998727,
+   "author": "saltyq",
+   "followers": 20258,
+   "url": "https://x.com/saltyq/status/2110421740643852550",
    "disc_score": 0,
    "checks": {
     "1": 0
    },
    "promoted": false,
    "miss": 0,
-   "added": 1791988732
+   "added": 1792004230
+  },
+  "2110421065516142891": {
+   "created": 1791998566,
+   "author": "saltyq",
+   "followers": 20258,
+   "url": "https://x.com/saltyq/status/2110421065516142891",
+   "disc_score": 0,
+   "checks": {
+    "1": 0
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1792004230
+  },
+  "2110411726391067025": {
+   "created": 1791996339,
+   "author": "Megatherium",
+   "followers": 46,
+   "url": "https://x.com/Megatherium/status/2110411726391067025",
+   "disc_score": 0,
+   "checks": {
+    "1": 0
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1792004230
   }
  },
  "baseline": {
   "1": [
-   [
-    1787638881,
-    0.3
-   ],
-   [
-    1787638881,
-    0.3
-   ],
-   [
-    1787638881,
-    0.3
-   ],
    [
     1787638881,
     0.3
@@ -1627,6 +1628,18 @@
    ],
    [
     1791988732,
+    0
+   ],
+   [
+    1792004230,
+    0
+   ],
+   [
+    1792004230,
+    0
+   ],
+   [
+    1792004230,
     0
    ]
   ]
