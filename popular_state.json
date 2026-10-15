@@ -1,23 +1,32 @@
 {
  "watch": {
-  "2110670718040223771": {
-   "created": 1792058088,
-   "author": "g7z5e",
-   "followers": 19872,
-   "url": "https://x.com/g7z5e/status/2110670718040223771",
-   "disc_score": 0,
+  "2110733224146260298": {
+   "created": 1792072990,
+   "author": "ZhaoShengyeCN",
+   "followers": 3251,
+   "url": "https://x.com/ZhaoShengyeCN/status/2110733224146260298",
+   "disc_score": 1,
+   "checks": {
+    "1": 1
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1792076637
+  },
+  "2110740730326950039": {
+   "created": 1792074780,
+   "author": "jessiedong_",
+   "followers": 2240,
+   "url": "https://x.com/jessiedong_/status/2110740730326950039",
+   "disc_score": 6,
    "checks": {},
    "promoted": false,
    "miss": 0,
-   "added": 1792059156
+   "added": 1792076637
   }
  },
  "baseline": {
   "1": [
-   [
-    1787638881,
-    0.3
-   ],
    [
     1787638881,
     0.3
@@ -1613,6 +1622,10 @@
    [
     1792024368,
     3
+   ],
+   [
+    1792076639,
+    1
    ]
   ]
  },
