@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7515858266711621632": {
-   "created": 1791920248,
-   "author": "SFPlayground",
-   "url": "https://www.linkedin.com/posts/sfplayground_sfplayground-industrialai-manufacturing-activity-7515858266711621632-tki0",
-   "text": "This Thursday, SFPlayground is bringing together some of the brightest minds in Industrial AI, Robotics, and Advanced Manufacturing to explore how AI is transforming the way we design, build, and manufacture physical products.\n\nFrom AI-powered CAD and autonomous quality inspection to intelligent supply chains and factory automation, AI is moving beyond software and into the physical world.\n\nWe\u2019re bringing together 3 Y Combinator founders, a seasoned hardware and AI operator, and a venture investor to discuss what it actually takes to bring these technologies from prototype to production.\n\n\ud83c\udfa4 Moderator\n\nVarad Mohod \u2014 Investor, Zacua Ventures | Robotics, Industrial AI & Manufacturing\n\n\ud83d\udd25 Feature",
-   "disc_score": 8,
-   "checks": {
-    "24": 30
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791923826
-  },
   "7515992522804875264": {
    "created": 1791952257,
    "author": "Girish Hukkeri",
@@ -45,7 +32,9 @@
    "url": "https://www.linkedin.com/posts/emilyaireyuk_vc26-aimatch-datumra-activity-7516074734569177088--m5J",
    "text": "WE\u2019VE MADE THE VC26 FINALS!!!  \n\n\ud83c\udf89AI Match has been selected as a finalist in the Lean Teams category of VC26: Datumra\n\nSuper grateful to be considered amongst an incredible line up of giant finalists.\n\nI started building AI Match in February 2026, through the help of completing the free jam packed educational 4 week accelerator run by leaders in their field at HelpBnk\n\nI'm a single mum building a business around family life, and this journey has been anything but straightforward. But with the full support of the HelpBnk community, mentoring throughout the building stages, AI software and insights from a freelance developer, I've been able to turn a scribbled down idea into a live MVP platfo",
    "disc_score": 14,
-   "checks": {},
+   "checks": {
+    "24": 31
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791985453
@@ -154,10 +143,6 @@
  },
  "baseline": {
   "24": [
-   [
-    1788460702,
-    28
-   ],
    [
     1788460702,
     23
@@ -1753,6 +1738,10 @@
    [
     1792041452,
     2
+   ],
+   [
+    1792059233,
+    31
    ]
   ]
  },
