@@ -1,31 +1,5 @@
 {
  "watch": {
-  "7515992522804875264": {
-   "created": 1791952257,
-   "author": "Girish Hukkeri",
-   "url": "https://www.linkedin.com/posts/girish-hukkeri-b4621a345_consequently-hyperscalers-and-frontier-model-activity-7515992522804875264-tcgU",
-   "text": "Consequently, hyperscalers and frontier model laboratories were burning gigawatts of national grid power, suffering from acute GPU allocation shortages, and paying tens of thousands of dollars per chip for hardware that was structurally mismatched to the task of transformer inference. Out of this semiconductor bottleneck emerged Etched, conceived in 2022 by Harvard University computer science students Gavin Uberti, Chris Zhu, and Robert Wachen. Rejecting the conventional venture-capital dogma that competing directly against NVIDIA's hardware and CUDA software moat was suicide, Uberti and Zhu dropped out of Harvard and secured prestigious Thiel Fellowships, joined by Wachen to anchor enterpri",
-   "disc_score": 0,
-   "checks": {
-    "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791963444
-  },
-  "7515986557166743552": {
-   "created": 1791950835,
-   "author": "Verified Education & Training Premises",
-   "url": "https://www.linkedin.com/posts/verified-education-training-premises_deeplearningchipsetmarket-aichips-artificialintelligence-activity-7515986557166743552-onRy",
-   "text": "\ud83c\udf0d Deep Learning Chipset Market Forecast to Reach USD 1178.6 Billion by 2031 | \ud83d\udce5 \ud835\uddd7\ud835\uddfc\ud835\ude04\ud835\uddfb\ud835\uddf9\ud835\uddfc\ud835\uddee\ud835\uddf1 \ud835\udde3\ud835\uddd7\ud835\uddd9 \ud835\uddd5\ud835\uddff\ud835\uddfc\ud835\uddf0\ud835\uddf5\ud835\ude02\ud835\uddff\ud835\uddf2 @  https://lnkd.in/d_hmCxNs\n\n\ud83d\udcca \ud835\udc12\ud835\udc22\ud835\udc20\ud835\udc27\ud835\udc22\ud835\udc1f\ud835\udc22\ud835\udc1c\ud835\udc1a\ud835\udc27\ud835\udc2d \ud835\udc0c\ud835\udc1a\ud835\udc2b\ud835\udc24\ud835\udc1e\ud835\udc2d \ud835\udc06\ud835\udc2b\ud835\udc28\ud835\udc30\ud835\udc2d\ud835\udc21:\nThe Deep Learning Chipset Market is experiencing growth as organizations invest in artificial intelligence infrastructure, advanced computing systems, and machine learning applications.\n\n\ud83d\ude80 \ud835\udc0f\ud835\udc2b\ud835\udc22\ud835\udc26\ud835\udc1a\ud835\udc2b\ud835\udc32 \ud835\udc06\ud835\udc2b\ud835\udc28\ud835\udc30\ud835\udc2d\ud835\udc21 \ud835\udc03\ud835\udc2b\ud835\udc22\ud835\udc2f\ud835\udc1e\ud835\udc2b\ud835\udc2c:\nRising demand for generative AI, computer vision, natural language processing, and autonomous systems is accelerating the adoption of specialized deep learning chipsets. Growing investments in hyperscale data centers, cloud AI services, robotics, and intelligent edge devices are further supporting market expansion.\n\n\ud83d\udca1 \ud835\udc13\ud835\udc1e\ud835\udc1c\ud835\udc21\ud835\udc27\ud835\udc28\ud835\udc25",
-   "disc_score": 1,
-   "checks": {
-    "24": 2
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791963444
-  },
   "7516074734569177088": {
    "created": 1791971858,
    "author": "Emily Airey",
@@ -71,7 +45,9 @@
    "url": "https://www.linkedin.com/posts/magnus-o-driscoll-b032785_invest-artificialintelligence-privatemarkets-activity-7516193675371048960-GdS1",
    "text": "An interesting overview of the leading privately held AI companies, covering a much broader range of technologies than just large language models.Some of the better known companies and their products or platforms include:\n\nAnthropic: Claude\nOpenAI: ChatGPT, GPT models and Codex\nDatabricks: Data Intelligence Platform and Mosaic AI\nDeepSeek: DeepSeek models and AI assistant\nCognition: Devin, an AI software engineering agent\nFigure: Humanoid robots and Helix AI\nMoonshot AI: Kimi\nScale AI: Data Engine and model evaluation\nMistral AI: Le Chat and Mistral models\nElevenLabs: AI voice generation and conversational agents\nEtched: Specialised AI inference chips and systems\nPerplexity: AI search and Co",
    "disc_score": 1,
-   "checks": {},
+   "checks": {
+    "24": 1
+   },
    "promoted": false,
    "miss": 0,
    "added": 1792003072
@@ -82,7 +58,9 @@
    "url": "https://www.linkedin.com/posts/andrew-siropiatov_the-podium-which-startup-idea-is-being-activity-7516174702151794688-nOaU",
    "text": "\ud83c\udfc6 The Podium \u2014 which startup idea more than one company is chasing\n29 ideas drew more than one company each between 17 Jul and 13 Oct. Ranked by how many COMPANIES, not how much money. The leading three:\n\ud83e\udd47 AI agents doing the work \u2014 18 companies \u00b7 $976.4m reported\nButterfly Effect, Onyx, Ema, Freehand, BUSINESSNEXT, Arrakis, Natural, Vesta, Restate, Eagle Cloud, Ghost, Zeliq, Primo, 50skills, Granite, Kontext, Itoflow, Aisot Technologies\n\ud83e\udd48 Chips built for AI \u2014 15 companies \u00b7 $4.5bn reported\nFirmus, Infinigence AI, OLIX, Etched, Xsight Labs, EUCLYD, Callosum, DeepX, Ubitium, Velatir, MintNeuro, Solinide, Embedd, HexSeed Technology, Groq\n\ud83e\udd49 Grid & energy storage \u2014 13 companies \u00b7 $872.3m reporte",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1792003072
@@ -158,14 +136,6 @@
  },
  "baseline": {
   "24": [
-   [
-    1788470678,
-    2
-   ],
-   [
-    1788470678,
-    2
-   ],
    [
     1788478083,
     31
@@ -1757,6 +1727,14 @@
    [
     1792070709,
     6
+   ],
+   [
+    1792088266,
+    1
+   ],
+   [
+    1792088266,
+    0
    ]
   ]
  },
