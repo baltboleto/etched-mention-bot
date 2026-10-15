@@ -45,7 +45,9 @@
    "url": "https://www.linkedin.com/posts/ben-carden-aa4a92329_in-july-anthropic-and-openai-were-worth-activity-7516120915030474752-KZS2",
    "text": "In July, Anthropic and OpenAI were worth 3.4x the next 18 American AI startups combined. In October, 2.9x.\nNeither has priced a new round since May. The 18 behind them added $83B.\nHere's America's 20 most valuable AI startups, and what moved since July:\n\n1. Anthropic, $965B. IPO pending.\n2. OpenAI, $852B. In talks at ~$1.4T.\n3. Databricks, $190B. Up 42% since July.\n4. Anduril, $61B. In talks at ~$100B.\n5. Cognition, $48B. Up 85% since July.\n6. Prometheus, $41B. Jeff Bezos' AI lab.\n7. Figure AI, $39B. Humanoid robots.\n8. Safe Superintelligence, $32B. Ilya Sutskever's lab.\n9. Scale AI, $29B. Meta owns 49%.\n10. Reflection AI, $25B. Open-weight models.\n11. Etched, $21B. Was $5B in July.\n12. Perp",
    "disc_score": 1,
-   "checks": {},
+   "checks": {
+    "24": 107
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791985453
@@ -56,7 +58,9 @@
    "url": "https://www.linkedin.com/posts/vickygalfat34569_ai-semiconductors-hbm-activity-7516113069257830400-zJqA",
    "text": "https://lnkd.in/gnSRTMFv\n\n\ud83d\ude80 Bigger AI chips, more memory \u2014 but the same old bottleneck.\n\nEtched\u2019s $50B bet highlights a major challenge in the AI industry: HBM memory supply, rising prices, and a tightening supply chain. Can innovation keep up with demand?\n\n#AI #Semiconductors #HBM #TechTrends #ArtificialIntelligence #ChipIndustry",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 6
+   },
    "promoted": false,
    "miss": 0,
    "added": 1791985453
@@ -139,18 +143,21 @@
    "promoted": false,
    "miss": 0,
    "added": 1792041452
+  },
+  "7516483307711389696": {
+   "created": 1792069270,
+   "author": "Seconda Private Markets",
+   "url": "https://www.linkedin.com/posts/secondapm_here-are-25-high-conviction-companies-activity-7516483307711389696-OEIx",
+   "text": "\ud83d\udcc8  Here are 25 high-conviction companies capital allocators cannot afford to ignore\n\nAt Seconda Private Markets, we\u2019re tracking five sectors where technological breakthroughs, strategic capital and growing institutional interest are creating companies worth watching.\n\n1. Brain-computer interfaces (BCI)\n\n \ud83c\uddfa\ud83c\uddf8 Neuralink | $9.7B last priced-round valuation | Backed by Sequoia Capital, Founders Fund\n \ud83c\uddfa\ud83c\uddf8 Precision Neuroscience | $1B reported valuation | Backed by Pershing Square, Invus\n \ud83c\uddfa\ud83c\uddf8 Synchron | $900M reported private-market valuation | Backed by ARCH Venture Partners, Bezos Expeditions\n\ud83c\uddfa\ud83c\uddf8 Paradromics | Valuation undisclosed | Backed by Prime Movers Lab, Dolby Family Ventures\n\ud83c\uddfa\ud83c\uddf8 Blackrock Neu",
+   "disc_score": 1,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1792070709
   }
  },
  "baseline": {
   "24": [
-   [
-    1788460702,
-    23
-   ],
-   [
-    1788470678,
-    47
-   ],
    [
     1788470678,
     2
@@ -1742,6 +1749,14 @@
    [
     1792059233,
     31
+   ],
+   [
+    1792070709,
+    107
+   ],
+   [
+    1792070709,
+    6
    ]
   ]
  },
