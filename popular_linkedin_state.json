@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7515730366549250048": {
-   "created": 1791889754,
-   "author": "Yigal Sharon",
-   "url": "https://www.linkedin.com/posts/yigal-sharon-624a7253_entrepreneurship-ai-startups-activity-7515730366549250048-cFAF",
-   "text": "THREE KIDS. A TOWEL FOR A BLANKET. AND A $21 BILLION GAMBLE AGAINST NVIDIA.\n\nIn 2023, Robert Wachen had a difficult conversation with his parents.\n\nBoth were lawyers.\n\nTheir son wanted to leave Harvard.\n\nTo build computer chips.\n\nTo compete with Nvidia.\n\nYou can imagine the family dinner.\n\nRobert was 21. He had already tried building around two dozen products. Most had failed.\n\nHis two friends, Gavin Uberti and Chris Zhu, were mathematical prodigies.\n\nGavin had been a world-class mathematics competitor and worked on AI compilers.\n\nChris had published mathematical research while still in high school.\n\nThey had identified an extraordinary opportunity.\n\nThe AI industry was spending fortunes tea",
-   "disc_score": 2,
-   "checks": {
-    "24": 2
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791903674
-  },
   "7515754341744590850": {
    "created": 1791895471,
    "author": "Raphael Volpert",
@@ -21,19 +8,6 @@
    "disc_score": 80,
    "checks": {
     "24": 134
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791903674
-  },
-  "7515718406592163840": {
-   "created": 1791886903,
-   "author": "Alexandre Dewez",
-   "url": "https://www.linkedin.com/posts/alexandre-dewez_i-wrote-a-deep-dive-on-synopsys-inc-alongside-activity-7515718406592163840--KC6",
-   "text": "I wrote a deep-dive on Synopsys Inc.\n\nAlongside Cadence, Synopsys forms a \ud835\udc1d\ud835\udc2e\ud835\udc28\ud835\udc29\ud835\udc28\ud835\udc25\ud835\udc32 \ud835\udc22\ud835\udc27 \ud835\udc1c\ud835\udc21\ud835\udc22\ud835\udc29-\ud835\udc1d\ud835\udc1e\ud835\udc2c\ud835\udc22\ud835\udc20\ud835\udc27 \ud835\udc2c\ud835\udc28\ud835\udc1f\ud835\udc2d\ud835\udc30\ud835\udc1a\ud835\udc2b\ud835\udc1e. No company can bring a new chip to market without using one (or both for most). That holds whether the customer is Nvidia, a hyperscaler such as Amazon or Google building chips in-house, or a newcomer such as Etched. \ud835\udc12\ud835\udc32\ud835\udc27\ud835\udc28\ud835\udc29\ud835\udc2c\ud835\udc32\ud835\udc2c \ud835\udc1a\ud835\udc27\ud835\udc1d \ud835\udc02\ud835\udc1a\ud835\udc1d\ud835\udc1e\ud835\udc27\ud835\udc1c\ud835\udc1e \ud835\udc1a\ud835\udc2b\ud835\udc1e \ud835\udc1a \ud835\udc2d\ud835\udc28\ud835\udc25\ud835\udc25 \ud835\udc1b\ud835\udc28\ud835\udc28\ud835\udc2d\ud835\udc21 \ud835\udc22\ud835\udc27 \ud835\udc2c\ud835\udc1e\ud835\udc26\ud835\udc22\ud835\udc1c\ud835\udc28\ud835\udc27\ud835\udc1d\ud835\udc2e\ud835\udc1c\ud835\udc2d\ud835\udc28\ud835\udc2b\ud835\udc2c, \ud835\udc26\ud835\udc2e\ud835\udc1c\ud835\udc21 \ud835\udc1a\ud835\udc2c \ud835\udc15\ud835\udc22\ud835\udc2c\ud835\udc1a \ud835\udc22\ud835\udc2c \ud835\udc22\ud835\udc27 \ud835\udc29\ud835\udc1a\ud835\udc32\ud835\udc26\ud835\udc1e\ud835\udc27\ud835\udc2d\ud835\udc2c \ud835\udc1a\ud835\udc27\ud835\udc1d \ud835\udc0c\ud835\udc28\ud835\udc28\ud835\udc1d\ud835\udc32\u2019\ud835\udc2c \ud835\udc22\ud835\udc2c \ud835\udc22\ud835\udc27 \ud835\udc1c\ud835\udc2b\ud835\udc1e\ud835\udc1d\ud835\udc22\ud835\udc2d \ud835\udc2b\ud835\udc1a\ud835\udc2d\ud835\udc22\ud835\udc27\ud835\udc20\ud835\udc2c.\n\nArticle in the comments section. \u2b07\ufe0f",
-   "disc_score": 14,
-   "checks": {
-    "24": 21
    },
    "promoted": false,
    "miss": 0,
@@ -204,6 +178,17 @@
    "promoted": true,
    "miss": 0,
    "added": 1792015691
+  },
+  "7516269531544064000": {
+   "created": 1792018301,
+   "author": "Radical Ventures",
+   "url": "https://www.linkedin.com/posts/radicalventures_radical-portfolio-companies-etched-cyera-activity-7516269531544064000-ZRSC",
+   "text": "Radical Portfolio companies Etched, Cyera, and Periodic Labs were recognized by TechCrunch Disrupt as Pioneers \u2014 a group of fifteen companies already leading AI at scale. Ricursive Intelligence joins the Class of 2026, alongside startups building across infrastructure, security, health, and applied AI.\n\nCongratulations! We\u2019re proud to be on this journey with you.\n\nRead more at the link in comments.",
+   "disc_score": 6,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1792024415
   }
  },
  "baseline": {
