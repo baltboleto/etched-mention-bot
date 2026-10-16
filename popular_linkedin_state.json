@@ -1,38 +1,14 @@
 {
  "watch": {
-  "7516321143306276864": {
-   "created": 1792030607,
-   "author": "Embedded Systems @ Purdue",
-   "url": "https://www.linkedin.com/posts/embedded-purdue_etched-fireside-chat-hardware-software-codesign-activity-7516321143306276864-tXnt",
-   "text": "Etched is coming to Purdue! Interested in AI hardware, ASIC design, or recruiting at Etched? Join next Monday for a general info session from 6:00-6:45 PM featuring Stephen Krider, an Etched ASIC architect! Learn more about Etched, its work in AI hardware, and potential recruiting opportunities. \n\nRSVP here: https://luma.com/31hcglsw",
-   "disc_score": 11,
-   "checks": {
-    "24": 30
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1792041452
-  },
-  "7516314655628124160": {
-   "created": 1792029060,
-   "author": "Bay Area Jobs",
-   "url": "https://www.linkedin.com/posts/bay-area-jobs_httpsjobsrminecomjobusproduction-line-supervisor-activity-7516314655628124160-7hKk",
-   "text": "#hiring Production Line Supervisor\n\nApply here: https://lnkd.in/gQVBfYUN\n\nJob Description Job Description About EtchedEtched is building hardware for frontier intelligence. We co-design chips, racks, software, and manufacturing to deliver best-in-class throughput and latency across both prefill and decode workloads. Our first products are heavily focused on inference. Backed by hundreds of millions from top-tier investors and staffed by leading engineers, Etched is redefining the infrastructure layer for the fastest growing industry in history.Job SummaryEtched is building a new category of AI hardware: frontier inference clusters. To deliver them at the pace this market demands, were bringi",
-   "disc_score": 0,
-   "checks": {
-    "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1792041452
-  },
   "7516483307711389696": {
    "created": 1792069270,
    "author": "Seconda Private Markets",
    "url": "https://www.linkedin.com/posts/secondapm_here-are-25-high-conviction-companies-activity-7516483307711389696-OEIx",
    "text": "\ud83d\udcc8  Here are 25 high-conviction companies capital allocators cannot afford to ignore\n\nAt Seconda Private Markets, we\u2019re tracking five sectors where technological breakthroughs, strategic capital and growing institutional interest are creating companies worth watching.\n\n1. Brain-computer interfaces (BCI)\n\n \ud83c\uddfa\ud83c\uddf8 Neuralink | $9.7B last priced-round valuation | Backed by Sequoia Capital, Founders Fund\n \ud83c\uddfa\ud83c\uddf8 Precision Neuroscience | $1B reported valuation | Backed by Pershing Square, Invus\n \ud83c\uddfa\ud83c\uddf8 Synchron | $900M reported private-market valuation | Backed by ARCH Venture Partners, Bezos Expeditions\n\ud83c\uddfa\ud83c\uddf8 Paradromics | Valuation undisclosed | Backed by Prime Movers Lab, Dolby Family Ventures\n\ud83c\uddfa\ud83c\uddf8 Blackrock Neu",
    "disc_score": 1,
-   "checks": {},
+   "checks": {
+    "24": 6
+   },
    "promoted": false,
    "miss": 0,
    "added": 1792070709
@@ -128,10 +104,6 @@
  },
  "baseline": {
   "24": [
-   [
-    1788501568,
-    0
-   ],
    [
     1788501568,
     0
@@ -1727,6 +1699,10 @@
    [
     1792127141,
     0
+   ],
+   [
+    1792161528,
+    6
    ]
   ]
  },
