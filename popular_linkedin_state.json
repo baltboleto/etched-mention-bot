@@ -19,7 +19,9 @@
    "url": "https://www.linkedin.com/posts/activity-7516598697313402880-ErEo",
    "text": "While everyone is talking about AI models, who's shaping the future of the hardware that powers them?\n\nNext week, the CASPA 35th Annual Conference & CEO Summit will bring together 40+ CEOs from across the semiconductor and AI computing ecosystem:\n\n\u2022 Lip-Bu Tan \u2014 CEO, Intel\n\u2022 David Lam \u2014 Founder, Lam Research; Chairman & CEO, Multibeam\n\u2022 Chenming Hu \u2014 Pioneer of the 3D Transistor; Professor Emeritus, UC Berkeley\n\u2022 Michael Xie \u2014 President & Co-founder, Fortinet\n\u2022 Irving Tan\u2014 CEO, Western Digital\n\u2022 Sassine Ghazi \u2014 CEO, Synopsys\n\u2022 Michael Hurlston \u2014 CEO, Lumentum\n\u2022 Andrew Feldman \u2014 CEO, Cerebras\n\u2022 Bill Brennan \u2014 CEO, Credo\n\u2022 Gavin Uberti \u2014 CEO, Etched\n\u2022 Hong Hou\u2014 CEO, Semtech\n\u2022 Rodrigo Liang \u2014 C",
    "disc_score": 4,
-   "checks": {},
+   "checks": {
+    "24": 24
+   },
    "promoted": false,
    "miss": 0,
    "added": 1792102545
@@ -30,7 +32,9 @@
    "url": "https://www.linkedin.com/posts/hakeemshibly_companies-are-still-hiring-swes-you-just-activity-7516604871546994689-Q-LR",
    "text": "Companies are still hiring SWEs, you just need to know where to look. New Levels.fyi data from our negotiation service shows which companies are extending offers and interviewing candidates right now.\n\nThis past month, candidates working with the Levels.fyi negotiation team held offers or reached late-stage interviews at 58 companies. Every company here has a real candidate at the finish line in October.\n\nGoogle, Meta, Apple, Amazon, Microsoft and NVIDIA are on it, as you\u2019d expect. \n\nBut the other companies on the list are what\u2019s more interesting. Roughly organized by industry:\n- AI: Sakana AI, Etched, Trajectory Labs, PBC, Logical Intelligence, Typeface\n- Fintech: Addepar, Airwallex, Firebl",
    "disc_score": 7,
-   "checks": {},
+   "checks": {
+    "24": 92
+   },
    "promoted": false,
    "miss": 0,
    "added": 1792102545
@@ -115,18 +119,32 @@
    "promoted": false,
    "miss": 0,
    "added": 1792171430
+  },
+  "7516910168618553344": {
+   "created": 1792171041,
+   "author": "Will Wells",
+   "url": "https://www.linkedin.com/posts/willwellshummingbird_who-likes-chips-ping-me-if-you-activity-7516910168618553344-luRZ",
+   "text": "Who likes chips? \ud83c\udf5f \ud83c\udde9\ud83c\uddea \n\nPing me if you\u2019re at GTC NVIDIA in Berlin next week and want to talk metrology, beyond CMOS, 2D/3D materials, photonics, emerging memory, matrix-multiplication logic, or anything else that you normally talk about at the pub on a Friday night \ud83c\udf7a \u2026 \n\nSydney Sykes Lina Wenner Nicolas Autret Young Sohn Julie Forel Walter Goodwin Valentin Maximilian Sam CashValentin Maximilian Sam Cash Tom Walton Pocock Sam Harrison Inaki Berenguer George Zervas Farah Comis Ian Hogarth Bernardo Kastrup Jascha Achterberg Gavin Uberti",
+   "disc_score": 8,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1792184759
+  },
+  "7516953094983704576": {
+   "created": 1792181276,
+   "author": "Jen Wang",
+   "url": "https://www.linkedin.com/posts/jenniferwangg_talent-leaders-spend-their-days-building-activity-7516953094983704576-hR4K",
+   "text": "Talent leaders spend their days building great teams, but rarely get the time to build for themselves.\n\nSo this past Wed, we brought together talent leaders from fast-growing startups (incl. folks from Etched, Assort Health, Serval, Shepherd, and many more) to swap notes and build AI tools of their own.\n\nOne theme that stood out: sourcing great talent remains one of the biggest challenges and trusted networks are becoming an increasingly valuable channel for finding the right people.\n\nBig thanks to our co-hosts at Costanoa Ventures and Build First. We love bringing this community together and would love to do more! \n\nIf you or someone in your network would like to join us next time, my DMs a",
+   "disc_score": 9,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1792184759
   }
  },
  "baseline": {
   "24": [
-   [
-    1788514776,
-    52
-   ],
-   [
-    1788514776,
-    0
-   ],
    [
     1788514776,
     50
@@ -1718,6 +1736,14 @@
    [
     1792175119,
     112
+   ],
+   [
+    1792184759,
+    24
+   ],
+   [
+    1792184759,
+    92
    ]
   ]
  },
