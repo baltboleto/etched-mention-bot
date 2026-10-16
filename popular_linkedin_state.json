@@ -82,7 +82,9 @@
    "url": "https://www.linkedin.com/posts/adivor-ai_aistrategy-businessarchitecture-googlecloud-activity-7516626497399533568-vlqW",
    "text": "The AI model is no longer the business. The real business is your company's memory and permission layer.\n\nLast week, three events unfolded that might seem unrelated, but share a common thread:\n\nAnthropic dropped Haiku 5.5 prices by 90% for short queries, but 5x the rate when exceeding 100,000 tokens.\n\nGoogle Cloud introduced Gemini Agent \u2014 complete with its own email and calendar \u2014 distributing tasks between Gemini and rival Claude models.\n\nEtched, an inference chip startup, saw its valuation skyrocket toward 40\u201350 billion dollars before mass chip rollouts.\n\nWhat does this trifecta reveal?\nAI models are becoming cheap commodities. Tech giants no longer care whether you run their model or a c",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 5
+   },
    "promoted": false,
    "miss": 0,
    "added": 1792111016
@@ -145,10 +147,6 @@
  },
  "baseline": {
   "24": [
-   [
-    1788514776,
-    50
-   ],
    [
     1788531678,
     2
@@ -1744,6 +1742,10 @@
    [
     1792184759,
     92
+   ],
+   [
+    1792193678,
+    5
    ]
   ]
  },
