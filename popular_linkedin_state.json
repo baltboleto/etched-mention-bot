@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7516193675371048960": {
-   "created": 1792000216,
-   "author": "Magnus O'Driscoll",
-   "url": "https://www.linkedin.com/posts/magnus-o-driscoll-b032785_invest-artificialintelligence-privatemarkets-activity-7516193675371048960-GdS1",
-   "text": "An interesting overview of the leading privately held AI companies, covering a much broader range of technologies than just large language models.Some of the better known companies and their products or platforms include:\n\nAnthropic: Claude\nOpenAI: ChatGPT, GPT models and Codex\nDatabricks: Data Intelligence Platform and Mosaic AI\nDeepSeek: DeepSeek models and AI assistant\nCognition: Devin, an AI software engineering agent\nFigure: Humanoid robots and Helix AI\nMoonshot AI: Kimi\nScale AI: Data Engine and model evaluation\nMistral AI: Le Chat and Mistral models\nElevenLabs: AI voice generation and conversational agents\nEtched: Specialised AI inference chips and systems\nPerplexity: AI search and Co",
-   "disc_score": 1,
-   "checks": {
-    "24": 1
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1792003072
-  },
   "7516226379424907265": {
    "created": 1792008013,
    "author": "Tripp Conrad",
@@ -23,19 +10,6 @@
     "24": 63
    },
    "promoted": false,
-   "miss": 0,
-   "added": 1792015691
-  },
-  "7516201126833049600": {
-   "created": 1792001992,
-   "author": "Sathwik Doddi",
-   "url": "https://www.linkedin.com/posts/sathwik-doddi_im-excited-to-announce-that-ill-be-joining-activity-7516201126833049600-FyyD",
-   "text": "I'm excited to announce that I'll be joining Etched in the spring as a Firmware Intern in San Jose, CA and IMC Trading in the summer as a Software Engineer Intern in Chicago, IL.\n\nI'm also looking for roommates, so feel free hit me up if you'll be in the South Bay this coming spring! I'm grateful to my family and friends for the support along the way, and would like to thank my recruiters (Karlie O'Keefe, Nigel Robinson, Sahil Agarwal) for the smooth processes!",
-   "disc_score": 350,
-   "checks": {
-    "24": 351
-   },
-   "promoted": true,
    "miss": 0,
    "added": 1792015691
   },
@@ -154,6 +128,17 @@
    "promoted": false,
    "miss": 0,
    "added": 1792111016
+  },
+  "7516743829182517249": {
+   "created": 1792131383,
+   "author": "Anand A. Kekre",
+   "url": "https://www.linkedin.com/posts/aakekre_aiinfrastructure-inference-kvcache-activity-7516743829182517249-63R8",
+   "text": "Everyone is watching CoreWeave\u2019s stock. I am watching the economics of inference.\n\nCoreWeave\u2019s stock has fallen sharply this week, while its bonds and credit-default swaps are signaling growing investor concerns about AI infrastructure debt.\n\nThe question isn\u2019t whether AI demand exists. It\u2019s whether the economics of GPU infrastructure can sustainably support the billions being invested.\n\nThe neocloud playbook has been straightforward:\u00a0raise billions in venture capital and debt financing, acquire GPUs, rent out compute, and maximize utilization. With enormous amounts of capital flowing into AI infrastructure, access to GPUs became a competitive advantage in itself. \n\nBut capital alone cannot ",
+   "disc_score": 5,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1792134490
   }
  },
  "baseline": {
