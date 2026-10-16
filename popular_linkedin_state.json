@@ -13,19 +13,6 @@
    "miss": 0,
    "added": 1792003072
   },
-  "7516174702151794688": {
-   "created": 1791995692,
-   "author": "Andrew Siropiatov",
-   "url": "https://www.linkedin.com/posts/andrew-siropiatov_the-podium-which-startup-idea-is-being-activity-7516174702151794688-nOaU",
-   "text": "\ud83c\udfc6 The Podium \u2014 which startup idea more than one company is chasing\n29 ideas drew more than one company each between 17 Jul and 13 Oct. Ranked by how many COMPANIES, not how much money. The leading three:\n\ud83e\udd47 AI agents doing the work \u2014 18 companies \u00b7 $976.4m reported\nButterfly Effect, Onyx, Ema, Freehand, BUSINESSNEXT, Arrakis, Natural, Vesta, Restate, Eagle Cloud, Ghost, Zeliq, Primo, 50skills, Granite, Kontext, Itoflow, Aisot Technologies\n\ud83e\udd48 Chips built for AI \u2014 15 companies \u00b7 $4.5bn reported\nFirmus, Infinigence AI, OLIX, Etched, Xsight Labs, EUCLYD, Callosum, DeepX, Ubitium, Velatir, MintNeuro, Solinide, Embedd, HexSeed Technology, Groq\n\ud83e\udd49 Grid & energy storage \u2014 13 companies \u00b7 $872.3m reporte",
-   "disc_score": 0,
-   "checks": {
-    "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1792003072
-  },
   "7516226379424907265": {
    "created": 1792008013,
    "author": "Tripp Conrad",
@@ -71,7 +58,9 @@
    "url": "https://www.linkedin.com/posts/embedded-purdue_etched-fireside-chat-hardware-software-codesign-activity-7516321143306276864-tXnt",
    "text": "Etched is coming to Purdue! Interested in AI hardware, ASIC design, or recruiting at Etched? Join next Monday for a general info session from 6:00-6:45 PM featuring Stephen Krider, an Etched ASIC architect! Learn more about Etched, its work in AI hardware, and potential recruiting opportunities. \n\nRSVP here: https://luma.com/31hcglsw",
    "disc_score": 11,
-   "checks": {},
+   "checks": {
+    "24": 30
+   },
    "promoted": false,
    "miss": 0,
    "added": 1792041452
@@ -82,7 +71,9 @@
    "url": "https://www.linkedin.com/posts/bay-area-jobs_httpsjobsrminecomjobusproduction-line-supervisor-activity-7516314655628124160-7hKk",
    "text": "#hiring Production Line Supervisor\n\nApply here: https://lnkd.in/gQVBfYUN\n\nJob Description Job Description About EtchedEtched is building hardware for frontier intelligence. We co-design chips, racks, software, and manufacturing to deliver best-in-class throughput and latency across both prefill and decode workloads. Our first products are heavily focused on inference. Backed by hundreds of millions from top-tier investors and staffed by leading engineers, Etched is redefining the infrastructure layer for the fastest growing industry in history.Job SummaryEtched is building a new category of AI hardware: frontier inference clusters. To deliver them at the pace this market demands, were bringi",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1792041452
@@ -167,14 +158,6 @@
  },
  "baseline": {
   "24": [
-   [
-    1788501568,
-    4
-   ],
-   [
-    1788501568,
-    1
-   ],
    [
     1788501568,
     0
@@ -1766,6 +1749,14 @@
    [
     1792111016,
     24
+   ],
+   [
+    1792127141,
+    30
+   ],
+   [
+    1792127141,
+    0
    ]
   ]
  },
