@@ -13,19 +13,6 @@
    "miss": 0,
    "added": 1791985453
   },
-  "7516113069257830400": {
-   "created": 1791980998,
-   "author": "VICKY GALFAT",
-   "url": "https://www.linkedin.com/posts/vickygalfat34569_ai-semiconductors-hbm-activity-7516113069257830400-zJqA",
-   "text": "https://lnkd.in/gnSRTMFv\n\n\ud83d\ude80 Bigger AI chips, more memory \u2014 but the same old bottleneck.\n\nEtched\u2019s $50B bet highlights a major challenge in the AI industry: HBM memory supply, rising prices, and a tightening supply chain. Can innovation keep up with demand?\n\n#AI #Semiconductors #HBM #TechTrends #ArtificialIntelligence #ChipIndustry",
-   "disc_score": 0,
-   "checks": {
-    "24": 6
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1791985453
-  },
   "7516193675371048960": {
    "created": 1792000216,
    "author": "Magnus O'Driscoll",
@@ -84,7 +71,9 @@
    "url": "https://www.linkedin.com/posts/radicalventures_radical-portfolio-companies-etched-cyera-activity-7516269531544064000-ZRSC",
    "text": "Radical Portfolio companies Etched, Cyera, and Periodic Labs were recognized by TechCrunch Disrupt as Pioneers \u2014 a group of fifteen companies already leading AI at scale. Ricursive Intelligence joins the Class of 2026, alongside startups building across infrastructure, security, health, and applied AI.\n\nCongratulations! We\u2019re proud to be on this journey with you.\n\nRead more at the link in comments.",
    "disc_score": 6,
-   "checks": {},
+   "checks": {
+    "24": 24
+   },
    "promoted": false,
    "miss": 0,
    "added": 1792024415
@@ -165,14 +154,32 @@
    "promoted": false,
    "miss": 0,
    "added": 1792102545
+  },
+  "7516649129960263680": {
+   "created": 1792108805,
+   "author": "Adivor Media",
+   "url": "https://www.linkedin.com/posts/adivor_aistrategy-businessarchitecture-googlecloud-activity-7516649129960263680-rR5I",
+   "text": "El modelo ya no es el negocio. El verdadero negocio es la memoria y los permisos de tu empresa.\n\nLa semana pasada ocurrieron tres hechos que parecen aislados, pero est\u00e1n profundamente conectados:\n\nAnthropic baj\u00f3 90% el precio de Haiku 5.5 para consultas cortas, pero quintuplica la tarifa si pasas de 100,000 tokens.\n\nGoogle Cloud lanz\u00f3 Gemini Agent, un agente con correo y calendario propio que ejecuta tareas repartiendo el trabajo entre modelos Gemini y Claude de su competidor.\n\nEtched, la startup de hardware de inferencia, casi duplic\u00f3 su valuaci\u00f3n a entre 40,000 y 50,000 millones de d\u00f3lares antes de vender masivamente su chip.\n\n\u00bfQu\u00e9 nos ense\u00f1a esta trifecta?\nQue los modelos de IA se est\u00e1n c",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1792111016
+  },
+  "7516626497399533568": {
+   "created": 1792103409,
+   "author": "Adivor Consulting",
+   "url": "https://www.linkedin.com/posts/adivor-ai_aistrategy-businessarchitecture-googlecloud-activity-7516626497399533568-vlqW",
+   "text": "The AI model is no longer the business. The real business is your company's memory and permission layer.\n\nLast week, three events unfolded that might seem unrelated, but share a common thread:\n\nAnthropic dropped Haiku 5.5 prices by 90% for short queries, but 5x the rate when exceeding 100,000 tokens.\n\nGoogle Cloud introduced Gemini Agent \u2014 complete with its own email and calendar \u2014 distributing tasks between Gemini and rival Claude models.\n\nEtched, an inference chip startup, saw its valuation skyrocket toward 40\u201350 billion dollars before mass chip rollouts.\n\nWhat does this trifecta reveal?\nAI models are becoming cheap commodities. Tech giants no longer care whether you run their model or a c",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1792111016
   }
  },
  "baseline": {
   "24": [
-   [
-    1788478083,
-    1
-   ],
    [
     1788501568,
     4
@@ -1768,6 +1775,10 @@
    [
     1792102545,
     63
+   ],
+   [
+    1792111016,
+    24
    ]
   ]
  },
