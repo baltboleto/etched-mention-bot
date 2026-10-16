@@ -41,7 +41,9 @@
    "url": "https://www.linkedin.com/posts/genedai_on-oct-12-i-pulled-the-ai-startups-in-sf-activity-7516560054989328384-qtqe",
    "text": "On Oct 12 I pulled the AI startups in SF and New York that were hiring recruiters, and kept only the ones where I could confirm who runs talent. 10 made it.\n\nHow they made the list: raised a round in the 12 months before Oct 12, grew headcount more than 75% over the past year (year-over-year change in employee count), and had at least 2 recruiting roles open. 26 recruiting roles across the 10:\n\n1) Serval - agentic AI (5 recruiting roles, Carlos Lezama, Head of Talent)\n2) DualEntry - AI accounting / ERP (4 recruiting roles, Shweta Sharma, Head of Talent)\n3) Etched - transformer ASIC chips (3 recruiting roles, Corey Richard, Head of Talent Strategy)\n4) Fluidstack - GPU cloud for AI training (2",
    "disc_score": 2,
-   "checks": {},
+   "checks": {
+    "24": 7
+   },
    "promoted": false,
    "miss": 0,
    "added": 1792102545
@@ -52,7 +54,9 @@
    "url": "https://www.linkedin.com/posts/activity-7516564330977484800-8b2B",
    "text": "It was an honor to represent Etched at International Test Conference 2026 and share the stage with technology leaders like Michael Campbell, Husnara Khan, David Greenhill and Saidapet Ramesh, Ph.D.!  Thanks for insightful questions and organizing the panel Savita Banerjee.",
    "disc_score": 25,
-   "checks": {},
+   "checks": {
+    "24": 112
+   },
    "promoted": false,
    "miss": 0,
    "added": 1792102545
@@ -115,14 +119,6 @@
  },
  "baseline": {
   "24": [
-   [
-    1788501568,
-    0
-   ],
-   [
-    1788514776,
-    11
-   ],
    [
     1788514776,
     52
@@ -1714,6 +1710,14 @@
    [
     1792161528,
     6
+   ],
+   [
+    1792175119,
+    7
+   ],
+   [
+    1792175119,
+    112
    ]
   ]
  },
