@@ -1,23 +1,21 @@
 {
  "watch": {
-  "2111151549779001401": {
-   "created": 1792172727,
-   "author": "Tajwan_Tamim",
-   "followers": 19711,
-   "url": "https://x.com/Tajwan_Tamim/status/2111151549779001401",
-   "disc_score": 0,
-   "checks": {},
+  "2111193588818485332": {
+   "created": 1792182750,
+   "author": "aryngupt",
+   "followers": 115,
+   "url": "https://x.com/aryngupt/status/2111193588818485332",
+   "disc_score": 1,
+   "checks": {
+    "1": 1
+   },
    "promoted": false,
    "miss": 0,
-   "added": 1792175078
+   "added": 1792186401
   }
  },
  "baseline": {
   "1": [
-   [
-    1787638881,
-    0.3
-   ],
    [
     1787638881,
     0.3
@@ -1612,6 +1610,10 @@
    ],
    [
     1792076639,
+    1
+   ],
+   [
+    1792186401,
     1
    ]
   ]
