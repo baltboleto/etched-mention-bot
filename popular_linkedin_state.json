@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7516483307711389696": {
-   "created": 1792069270,
-   "author": "Seconda Private Markets",
-   "url": "https://www.linkedin.com/posts/secondapm_here-are-25-high-conviction-companies-activity-7516483307711389696-OEIx",
-   "text": "\ud83d\udcc8  Here are 25 high-conviction companies capital allocators cannot afford to ignore\n\nAt Seconda Private Markets, we\u2019re tracking five sectors where technological breakthroughs, strategic capital and growing institutional interest are creating companies worth watching.\n\n1. Brain-computer interfaces (BCI)\n\n \ud83c\uddfa\ud83c\uddf8 Neuralink | $9.7B last priced-round valuation | Backed by Sequoia Capital, Founders Fund\n \ud83c\uddfa\ud83c\uddf8 Precision Neuroscience | $1B reported valuation | Backed by Pershing Square, Invus\n \ud83c\uddfa\ud83c\uddf8 Synchron | $900M reported private-market valuation | Backed by ARCH Venture Partners, Bezos Expeditions\n\ud83c\uddfa\ud83c\uddf8 Paradromics | Valuation undisclosed | Backed by Prime Movers Lab, Dolby Family Ventures\n\ud83c\uddfa\ud83c\uddf8 Blackrock Neu",
-   "disc_score": 1,
-   "checks": {
-    "24": 6
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1792070709
-  },
   "7516598697313402880": {
    "created": 1792096781,
    "author": "Coco Wang",
@@ -71,7 +58,9 @@
    "url": "https://www.linkedin.com/posts/adivor_aistrategy-businessarchitecture-googlecloud-activity-7516649129960263680-rR5I",
    "text": "El modelo ya no es el negocio. El verdadero negocio es la memoria y los permisos de tu empresa.\n\nLa semana pasada ocurrieron tres hechos que parecen aislados, pero est\u00e1n profundamente conectados:\n\nAnthropic baj\u00f3 90% el precio de Haiku 5.5 para consultas cortas, pero quintuplica la tarifa si pasas de 100,000 tokens.\n\nGoogle Cloud lanz\u00f3 Gemini Agent, un agente con correo y calendario propio que ejecuta tareas repartiendo el trabajo entre modelos Gemini y Claude de su competidor.\n\nEtched, la startup de hardware de inferencia, casi duplic\u00f3 su valuaci\u00f3n a entre 40,000 y 50,000 millones de d\u00f3lares antes de vender masivamente su chip.\n\n\u00bfQu\u00e9 nos ense\u00f1a esta trifecta?\nQue los modelos de IA se est\u00e1n c",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1792111016
@@ -143,14 +132,32 @@
    "promoted": false,
    "miss": 0,
    "added": 1792184759
+  },
+  "7517010333648158720": {
+   "created": 1792194922,
+   "author": "Matt Logan",
+   "url": "https://www.linkedin.com/posts/mcdlogan_venturecapital-ai-climatetech-activity-7517010333648158720-COmJ",
+   "text": "Thanks for having me, Augustin Sayer!\n\nOn the point below, there\u2019s more than one way to win in venture. But at Earthshot Ventures  we\u2019re focused on the companies with the most absolute upside, which sometimes means owning a smaller percentage when we believe a company can run forever.\n\nAlso, while our initial Etched and KoBold Metals checks didn\u2019t buy 10% ownership, they were the two biggest initial checks we\u2019d written at the time. We\u2019re not spraying and praying!\n\nLastly, I think this was the first time I\u2019ve talked publicly about my outbound sourcing strategy. Founders, answer my emails please. Gavin Uberti, Kurt House, Alex Haro, and Varun Sivaram did. If you do, perhaps your company too wi",
+   "disc_score": 4,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1792207451
+  },
+  "7517050593841164288": {
+   "created": 1792204521,
+   "author": "Bay Area Jobs",
+   "url": "https://www.linkedin.com/posts/bay-area-jobs_httpsjobsrminecomjobusinventory-warehouse-coordinator-activity-7517050593841164288-9RKy",
+   "text": "#hiring Inventory Warehouse Coordinator\n\nApply here: https://lnkd.in/gk_PmkH6\n\nJob Description Job Description About EtchedEtched is building hardware for frontier intelligence. We co-design chips, racks, software, and manufacturing to deliver best-in-class throughput and latency across both prefill and decode workloads. Our first products are heavily focused on inference. Backed by hundreds of millions from top-tier investors and staffed by leading engineers, Etched is redefining the infrastructure layer for the fastest growing industry in history.Job SummaryWe are hiring an Inventory Warehouse Coordinator to support inventory operations across Etched facilities and in-house engineering lab",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1792207451
   }
  },
  "baseline": {
   "24": [
-   [
-    1788531678,
-    2
-   ],
    [
     1788531678,
     40
@@ -1746,6 +1753,10 @@
    [
     1792193678,
     5
+   ],
+   [
+    1792207451,
+    0
    ]
   ]
  },
