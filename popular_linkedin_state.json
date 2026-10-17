@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7516743829182517249": {
-   "created": 1792131383,
-   "author": "Anand A. Kekre",
-   "url": "https://www.linkedin.com/posts/aakekre_aiinfrastructure-inference-kvcache-activity-7516743829182517249-63R8",
-   "text": "Everyone is watching CoreWeave\u2019s stock. I am watching the economics of inference.\n\nCoreWeave\u2019s stock has fallen sharply this week, while its bonds and credit-default swaps are signaling growing investor concerns about AI infrastructure debt.\n\nThe question isn\u2019t whether AI demand exists. It\u2019s whether the economics of GPU infrastructure can sustainably support the billions being invested.\n\nThe neocloud playbook has been straightforward:\u00a0raise billions in venture capital and debt financing, acquire GPUs, rent out compute, and maximize utilization. With enormous amounts of capital flowing into AI infrastructure, access to GPUs became a competitive advantage in itself. \n\nBut capital alone cannot ",
-   "disc_score": 5,
-   "checks": {
-    "24": 163
-   },
-   "promoted": true,
-   "miss": 0,
-   "added": 1792134490
-  },
   "7516819025872482304": {
    "created": 1792149311,
    "author": "Audacious Investor\u2122\ufe0f",
@@ -45,7 +32,9 @@
    "url": "https://www.linkedin.com/posts/willwellshummingbird_who-likes-chips-ping-me-if-you-activity-7516910168618553344-luRZ",
    "text": "Who likes chips? \ud83c\udf5f \ud83c\udde9\ud83c\uddea \n\nPing me if you\u2019re at GTC NVIDIA in Berlin next week and want to talk metrology, beyond CMOS, 2D/3D materials, photonics, emerging memory, matrix-multiplication logic, or anything else that you normally talk about at the pub on a Friday night \ud83c\udf7a \u2026 \n\nSydney Sykes Lina Wenner Nicolas Autret Young Sohn Julie Forel Walter Goodwin Valentin Maximilian Sam CashValentin Maximilian Sam Cash Tom Walton Pocock Sam Harrison Inaki Berenguer George Zervas Farah Comis Ian Hogarth Bernardo Kastrup Jascha Achterberg Gavin Uberti",
    "disc_score": 8,
-   "checks": {},
+   "checks": {
+    "24": 8
+   },
    "promoted": false,
    "miss": 0,
    "added": 1792184759
@@ -119,10 +108,6 @@
  },
  "baseline": {
   "24": [
-   [
-    1788545569,
-    64
-   ],
    [
     1788545569,
     10
@@ -1718,6 +1703,10 @@
    [
     1792251447,
     140
+   ],
+   [
+    1792265090,
+    8
    ]
   ]
  },
