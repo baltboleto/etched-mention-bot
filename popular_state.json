@@ -1,32 +1,5 @@
 {
- "watch": {
-  "2111213145725575323": {
-   "created": 1792187413,
-   "author": "minatmehul",
-   "followers": 58,
-   "url": "https://x.com/minatmehul/status/2111213145725575323",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1792194885
-  },
-  "2111210409026015609": {
-   "created": 1792186760,
-   "author": "r0b0t_sp1der",
-   "followers": 1378,
-   "url": "https://x.com/r0b0t_sp1der/status/2111210409026015609",
-   "disc_score": 2,
-   "checks": {
-    "1": 2
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1792194885
-  }
- },
+ "watch": {},
  "baseline": {
   "1": [
    [
