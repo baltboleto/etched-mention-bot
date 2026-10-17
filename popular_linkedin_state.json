@@ -45,7 +45,9 @@
    "url": "https://www.linkedin.com/posts/jenniferwangg_talent-leaders-spend-their-days-building-activity-7516953094983704576-hR4K",
    "text": "Talent leaders spend their days building great teams, but rarely get the time to build for themselves.\n\nSo this past Wed, we brought together talent leaders from fast-growing startups (incl. folks from Etched, Assort Health, Serval, Shepherd, and many more) to swap notes and build AI tools of their own.\n\nOne theme that stood out: sourcing great talent remains one of the biggest challenges and trusted networks are becoming an increasingly valuable channel for finding the right people.\n\nBig thanks to our co-hosts at Costanoa Ventures and Build First. We love bringing this community together and would love to do more! \n\nIf you or someone in your network would like to join us next time, my DMs a",
    "disc_score": 9,
-   "checks": {},
+   "checks": {
+    "24": 57
+   },
    "promoted": false,
    "miss": 0,
    "added": 1792184759
@@ -108,10 +110,6 @@
  },
  "baseline": {
   "24": [
-   [
-    1788545569,
-    10
-   ],
    [
     1788545569,
     12
@@ -1707,6 +1705,10 @@
    [
     1792265090,
     8
+   ],
+   [
+    1792268469,
+    57
    ]
   ]
  },
