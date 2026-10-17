@@ -26,32 +26,6 @@
    "miss": 0,
    "added": 1792102545
   },
-  "7516560054989328384": {
-   "created": 1792087568,
-   "author": "Gene Dai",
-   "url": "https://www.linkedin.com/posts/genedai_on-oct-12-i-pulled-the-ai-startups-in-sf-activity-7516560054989328384-qtqe",
-   "text": "On Oct 12 I pulled the AI startups in SF and New York that were hiring recruiters, and kept only the ones where I could confirm who runs talent. 10 made it.\n\nHow they made the list: raised a round in the 12 months before Oct 12, grew headcount more than 75% over the past year (year-over-year change in employee count), and had at least 2 recruiting roles open. 26 recruiting roles across the 10:\n\n1) Serval - agentic AI (5 recruiting roles, Carlos Lezama, Head of Talent)\n2) DualEntry - AI accounting / ERP (4 recruiting roles, Shweta Sharma, Head of Talent)\n3) Etched - transformer ASIC chips (3 recruiting roles, Corey Richard, Head of Talent Strategy)\n4) Fluidstack - GPU cloud for AI training (2",
-   "disc_score": 2,
-   "checks": {
-    "24": 7
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1792102545
-  },
-  "7516564330977484800": {
-   "created": 1792088587,
-   "author": "Sagar Sabade",
-   "url": "https://www.linkedin.com/posts/activity-7516564330977484800-8b2B",
-   "text": "It was an honor to represent Etched at International Test Conference 2026 and share the stage with technology leaders like Michael Campbell, Husnara Khan, David Greenhill and Saidapet Ramesh, Ph.D.!  Thanks for insightful questions and organizing the panel Savita Banerjee.",
-   "disc_score": 25,
-   "checks": {
-    "24": 112
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1792102545
-  },
   "7516649129960263680": {
    "created": 1792108805,
    "author": "Adivor Media",
@@ -84,8 +58,10 @@
    "url": "https://www.linkedin.com/posts/aakekre_aiinfrastructure-inference-kvcache-activity-7516743829182517249-63R8",
    "text": "Everyone is watching CoreWeave\u2019s stock. I am watching the economics of inference.\n\nCoreWeave\u2019s stock has fallen sharply this week, while its bonds and credit-default swaps are signaling growing investor concerns about AI infrastructure debt.\n\nThe question isn\u2019t whether AI demand exists. It\u2019s whether the economics of GPU infrastructure can sustainably support the billions being invested.\n\nThe neocloud playbook has been straightforward:\u00a0raise billions in venture capital and debt financing, acquire GPUs, rent out compute, and maximize utilization. With enormous amounts of capital flowing into AI infrastructure, access to GPUs became a competitive advantage in itself. \n\nBut capital alone cannot ",
    "disc_score": 5,
-   "checks": {},
-   "promoted": false,
+   "checks": {
+    "24": 163
+   },
+   "promoted": true,
    "miss": 0,
    "added": 1792134490
   },
@@ -154,14 +130,43 @@
    "promoted": false,
    "miss": 0,
    "added": 1792207451
+  },
+  "7517097091349987328": {
+   "created": 1792215607,
+   "author": "Evergreen Technologies (USA)",
+   "url": "https://www.linkedin.com/posts/evergreen-technologies-usa-3a7422198_httpszurlcosdn4b-etched-the-21-activity-7517097091349987328--tnm",
+   "text": "https://zurl.co/SdN4b \n\ud83d\ude80Etched: The $21 Billion Bet on Transformer-Specific Silicon\nThe provided video details the rise of Etched, a semiconductor startup that has developed a specialized chip called Sohu designed exclusively ...\nRead more at https://zurl.co/1no0p",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1792224025
+  },
+  "7517097065232035841": {
+   "created": 1792215601,
+   "author": "Evergreen Technologies LLC",
+   "url": "https://www.linkedin.com/posts/evergreen-tech-llc_httpszurlcosdn4b-etched-the-21-activity-7517097065232035841-S4cg",
+   "text": "https://zurl.co/SdN4b \n\ud83d\ude80Etched: The $21 Billion Bet on Transformer-Specific Silicon\nThe provided video details the rise of Etched, a semiconductor startup that has developed a specialized chip called Sohu designed exclusively ...\nRead more at https://zurl.co/1no0p",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1792224025
+  },
+  "7517077528608600065": {
+   "created": 1792210943,
+   "author": "Grace Gong",
+   "url": "https://www.linkedin.com/posts/gracegong_deeptech-robotics-ai-activity-7517077528608600065-NFxU",
+   "text": "AI DEEP TECH COMPANIES (HIRING LIST)\n\nHere are 35 AI deep tech companies that are actively hiring right now, ranked by percentage headcount growth in the past 90 days. This is Week 128 of On My Radar, my weekly list of the companies I can't stop watching:\n\nSkild AI - one brain to control many kinds of robots (Pittsburgh)\nX Square Robot (\u81ea\u53d8\u91cf\u673a\u5668\u4eba) - dexterous manipulation robots (Shenzhen)\nGenesis AI - generalist robots (Palo Alto)\nVelaura AI - ultra-low-power compute (Santa Clara)\nFigure - general-purpose humanoid robot (Sunnyvale)\nPhysical Intelligence - foundation models for robots (San Francisco)\nMaven Robotics - autonomous industrial robots (Santa Clara)\nPositron AI - inference hardware fo",
+   "disc_score": 50,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1792224025
   }
  },
  "baseline": {
   "24": [
-   [
-    1788531678,
-    40
-   ],
    [
     1788545569,
     3
@@ -1757,6 +1762,10 @@
    [
     1792207451,
     0
+   ],
+   [
+    1792224025,
+    163
    ]
   ]
  },
@@ -1950,6 +1959,11 @@
    1792015691,
    "7516201126833049600",
    351
+  ],
+  [
+   1792224025,
+   "7516743829182517249",
+   163
   ]
  ],
  "seeded": true
