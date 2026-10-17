@@ -1,19 +1,5 @@
 {
- "watch": {
-  "2111331373802012902": {
-   "created": 1792215600,
-   "author": "tech_evergreen",
-   "followers": 123,
-   "url": "https://x.com/tech_evergreen/status/2111331373802012902",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1792223966
-  }
- },
+ "watch": {},
  "baseline": {
   "1": [
    [
