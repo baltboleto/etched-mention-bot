@@ -1,25 +1,21 @@
 {
  "watch": {
-  "2111441412382179552": {
-   "created": 1792241836,
-   "author": "theantijobboard",
-   "followers": 3494,
-   "url": "https://x.com/theantijobboard/status/2111441412382179552",
-   "disc_score": 43,
+  "2111481750169985363": {
+   "created": 1792251453,
+   "author": "konig0000",
+   "followers": 26619,
+   "url": "https://x.com/konig0000/status/2111481750169985363",
+   "disc_score": 2,
    "checks": {
-    "1": null
+    "1": 2
    },
    "promoted": false,
    "miss": 0,
-   "added": 1792251411
+   "added": 1792259814
   }
  },
  "baseline": {
   "1": [
-   [
-    1787638881,
-    0.3
-   ],
    [
     1787638881,
     0.3
@@ -1615,6 +1611,10 @@
    [
     1792223966,
     0
+   ],
+   [
+    1792259815,
+    2
    ]
   ]
  },
