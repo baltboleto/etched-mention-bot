@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7516910168618553344": {
-   "created": 1792171041,
-   "author": "Will Wells",
-   "url": "https://www.linkedin.com/posts/willwellshummingbird_who-likes-chips-ping-me-if-you-activity-7516910168618553344-luRZ",
-   "text": "Who likes chips? \ud83c\udf5f \ud83c\udde9\ud83c\uddea \n\nPing me if you\u2019re at GTC NVIDIA in Berlin next week and want to talk metrology, beyond CMOS, 2D/3D materials, photonics, emerging memory, matrix-multiplication logic, or anything else that you normally talk about at the pub on a Friday night \ud83c\udf7a \u2026 \n\nSydney Sykes Lina Wenner Nicolas Autret Young Sohn Julie Forel Walter Goodwin Valentin Maximilian Sam CashValentin Maximilian Sam Cash Tom Walton Pocock Sam Harrison Inaki Berenguer George Zervas Farah Comis Ian Hogarth Bernardo Kastrup Jascha Achterberg Gavin Uberti",
-   "disc_score": 8,
-   "checks": {
-    "24": 8
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1792184759
-  },
   "7516953094983704576": {
    "created": 1792181276,
    "author": "Jen Wang",
@@ -58,7 +45,9 @@
    "url": "https://www.linkedin.com/posts/evergreen-technologies-usa-3a7422198_httpszurlcosdn4b-etched-the-21-activity-7517097091349987328--tnm",
    "text": "https://zurl.co/SdN4b \n\ud83d\ude80Etched: The $21 Billion Bet on Transformer-Specific Silicon\nThe provided video details the rise of Etched, a semiconductor startup that has developed a specialized chip called Sohu designed exclusively ...\nRead more at https://zurl.co/1no0p",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1792224025
@@ -69,7 +58,9 @@
    "url": "https://www.linkedin.com/posts/evergreen-tech-llc_httpszurlcosdn4b-etched-the-21-activity-7517097065232035841-S4cg",
    "text": "https://zurl.co/SdN4b \n\ud83d\ude80Etched: The $21 Billion Bet on Transformer-Specific Silicon\nThe provided video details the rise of Etched, a semiconductor startup that has developed a specialized chip called Sohu designed exclusively ...\nRead more at https://zurl.co/1no0p",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1792224025
@@ -101,14 +92,6 @@
  },
  "baseline": {
   "24": [
-   [
-    1788562240,
-    3
-   ],
-   [
-    1788582380,
-    154
-   ],
    [
     1788598547,
     5
@@ -1700,6 +1683,14 @@
    [
     1792299523,
     123
+   ],
+   [
+    1792302753,
+    0
+   ],
+   [
+    1792302753,
+    0
    ]
   ]
  },
