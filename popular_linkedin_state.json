@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7516870370000461824": {
-   "created": 1792161552,
-   "author": "Hans Roesch, PE",
-   "url": "https://www.linkedin.com/posts/hans-roesch-pe-98455546_capital-projects-electrical-infrastructure-activity-7516870370000461824-gD2f",
-   "text": "I\u2019m hiring an Electrical Infrastructure Engineer to join our Capital Projects and Facilities Engineering team at Etched in San Jose. As we scale our hardware, we\u2019re building the labs, rack testing environments, and data center infrastructure behind it. This person will have real ownership\u2014from figuring out what we need and developing electrical designs to working through construction, commissioning, and troubleshooting in the field. If that sounds interesting\u2014or someone comes to mind\u2014I\u2019d love to connect. \n\nhttps://lnkd.in/gZvCQamG",
-   "disc_score": 104,
-   "checks": {
-    "24": 140
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1792171430
-  },
   "7516910168618553344": {
    "created": 1792171041,
    "author": "Will Wells",
@@ -58,7 +45,9 @@
    "url": "https://www.linkedin.com/posts/bay-area-jobs_httpsjobsrminecomjobusinventory-warehouse-coordinator-activity-7517050593841164288-9RKy",
    "text": "#hiring Inventory Warehouse Coordinator\n\nApply here: https://lnkd.in/gk_PmkH6\n\nJob Description Job Description About EtchedEtched is building hardware for frontier intelligence. We co-design chips, racks, software, and manufacturing to deliver best-in-class throughput and latency across both prefill and decode workloads. Our first products are heavily focused on inference. Backed by hundreds of millions from top-tier investors and staffed by leading engineers, Etched is redefining the infrastructure layer for the fastest growing industry in history.Job SummaryWe are hiring an Inventory Warehouse Coordinator to support inventory operations across Etched facilities and in-house engineering lab",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1792207451
@@ -91,7 +80,9 @@
    "url": "https://www.linkedin.com/posts/gracegong_deeptech-robotics-ai-activity-7517077528608600065-NFxU",
    "text": "AI DEEP TECH COMPANIES (HIRING LIST)\n\nHere are 35 AI deep tech companies that are actively hiring right now, ranked by percentage headcount growth in the past 90 days. This is Week 128 of On My Radar, my weekly list of the companies I can't stop watching:\n\nSkild AI - one brain to control many kinds of robots (Pittsburgh)\nX Square Robot (\u81ea\u53d8\u91cf\u673a\u5668\u4eba) - dexterous manipulation robots (Shenzhen)\nGenesis AI - generalist robots (Palo Alto)\nVelaura AI - ultra-low-power compute (Santa Clara)\nFigure - general-purpose humanoid robot (Sunnyvale)\nPhysical Intelligence - foundation models for robots (San Francisco)\nMaven Robotics - autonomous industrial robots (Santa Clara)\nPositron AI - inference hardware fo",
    "disc_score": 50,
-   "checks": {},
+   "checks": {
+    "24": 123
+   },
    "promoted": false,
    "miss": 0,
    "added": 1792224025
@@ -110,14 +101,6 @@
  },
  "baseline": {
   "24": [
-   [
-    1788554858,
-    87
-   ],
-   [
-    1788562240,
-    3
-   ],
    [
     1788562240,
     3
@@ -1709,6 +1692,14 @@
    [
     1792283022,
     13
+   ],
+   [
+    1792299523,
+    0
+   ],
+   [
+    1792299523,
+    123
    ]
   ]
  },
