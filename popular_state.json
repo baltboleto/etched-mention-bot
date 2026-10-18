@@ -6,18 +6,27 @@
    "followers": 1456,
    "url": "https://x.com/Marty_Au79/status/2111577998860394954",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "1": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1792276356
+  },
+  "2111608215909937354": {
+   "created": 1792281605,
+   "author": "FarzamKarimi",
+   "followers": 564,
+   "url": "https://x.com/FarzamKarimi/status/2111608215909937354",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1792282970
   }
  },
  "baseline": {
   "1": [
-   [
-    1787638881,
-    0.3
-   ],
    [
     1787638881,
     0.3
@@ -1613,6 +1622,10 @@
    [
     1792259815,
     2
+   ],
+   [
+    1792282972,
+    0
    ]
   ]
  },
