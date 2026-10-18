@@ -1,17 +1,26 @@
 {
  "watch": {
-  "2111873145317826869": {
-   "created": 1792344769,
-   "author": "Yi_2026",
-   "followers": 755,
-   "url": "https://x.com/Yi_2026/status/2111873145317826869",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
+  "2111917742215319610": {
+   "created": 1792355401,
+   "author": "theinformation",
+   "followers": 1600389,
+   "url": "https://x.com/theinformation/status/2111917742215319610",
+   "disc_score": 4,
+   "checks": {},
    "promoted": false,
    "miss": 0,
-   "added": 1792350086
+   "added": 1792358728
+  },
+  "2111921881821614471": {
+   "created": 1792356388,
+   "author": "BretKerr",
+   "followers": 521,
+   "url": "https://x.com/BretKerr/status/2111921881821614471",
+   "disc_score": 3,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1792358728
   }
  },
  "baseline": {
