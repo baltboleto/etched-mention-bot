@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7516819025872482304": {
-   "created": 1792149311,
-   "author": "Audacious Investor\u2122\ufe0f",
-   "url": "https://www.linkedin.com/posts/audaciousinvestor_bain-capital-ventures-announces-16b-new-activity-7516819025872482304-zR1E",
-   "text": "\ud83d\udcb8 California, USA based Bain Capital Ventures (BCV) recently raised $1.6B at final close for Fund XI (\"Fund\")\n\n\ud83d\udca1 Investing from #preseed through #SeriesB in founders building across #artificialintelligence, #physicalai, #aiinfrastructure, #cybersecurity, #healthtech, #robotics, and #artificialintelligence enabled services\n\n\ud83c\udf0e #Global\n\n\ud83d\udcc8 PortCos include Etched, Atoms, TerraFirma, Tomo, Sunday, and more\n\n\ud83d\udcad \u201cAI will transform our world in ways we\u2019ve only begun to experience, and we\u2019ve been investing against that idea for the past decade.\u201d \u2013 Enrique Salem, Co-Managing Partner of Bain Capital Ventures\n\n\ud83d\uddde\ufe0f Business Wire https://lnkd.in/eUxYpbJg\n\n\ud83d\udc4f For the #AudaciousInvestors backing the next decade",
-   "disc_score": 0,
-   "checks": {
-    "24": 7
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1792153475
-  },
   "7516870370000461824": {
    "created": 1792161552,
    "author": "Hans Roesch, PE",
@@ -58,7 +45,9 @@
    "url": "https://www.linkedin.com/posts/mcdlogan_venturecapital-ai-climatetech-activity-7517010333648158720-COmJ",
    "text": "Thanks for having me, Augustin Sayer!\n\nOn the point below, there\u2019s more than one way to win in venture. But at Earthshot Ventures  we\u2019re focused on the companies with the most absolute upside, which sometimes means owning a smaller percentage when we believe a company can run forever.\n\nAlso, while our initial Etched and KoBold Metals checks didn\u2019t buy 10% ownership, they were the two biggest initial checks we\u2019d written at the time. We\u2019re not spraying and praying!\n\nLastly, I think this was the first time I\u2019ve talked publicly about my outbound sourcing strategy. Founders, answer my emails please. Gavin Uberti, Kurt House, Alex Haro, and Varun Sivaram did. If you do, perhaps your company too wi",
    "disc_score": 4,
-   "checks": {},
+   "checks": {
+    "24": 13
+   },
    "promoted": false,
    "miss": 0,
    "added": 1792207451
@@ -106,14 +95,21 @@
    "promoted": false,
    "miss": 0,
    "added": 1792224025
+  },
+  "7517343914484224000": {
+   "created": 1792274454,
+   "author": "Marty Gold",
+   "url": "https://www.linkedin.com/posts/martyraygold_17oct2026-frontier-tech-convergence-activity-7517343914484224000-AdQC",
+   "text": "Frontier Tech - Convergence & Biological Capital: October 17, 2026\n\n\n\ud83e\uddec The Binding Physical Constraints on Artificial Intelligence and Biological Longevity.\n\n\nThe technology sector is experiencing a violent hyper-divergence where the unit cost of digital intelligence is collapsing, yet the physical infrastructure required to generate it faces severe capital bottlenecks. While artificial intelligence inference costs plummet by up to 99.99% annually, driving enterprise software token spend growth to zero, hyperscaler electricity demand is triggering aggressive regulatory crackdowns. Physical resource constraints have superseded algorithmic design, highlighted by Finland halting $15 billion in ",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1792283022
   }
  },
  "baseline": {
   "24": [
-   [
-    1788545569,
-    12
-   ],
    [
     1788554858,
     87
@@ -1709,6 +1705,10 @@
    [
     1792268469,
     57
+   ],
+   [
+    1792283022,
+    13
    ]
   ]
  },
