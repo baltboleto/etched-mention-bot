@@ -1,34 +1,67 @@
 {
  "watch": {
-  "2111917742215319610": {
-   "created": 1792355401,
-   "author": "theinformation",
-   "followers": 1600389,
-   "url": "https://x.com/theinformation/status/2111917742215319610",
-   "disc_score": 4,
-   "checks": {},
-   "promoted": false,
-   "miss": 0,
-   "added": 1792358728
-  },
   "2111921881821614471": {
    "created": 1792356388,
    "author": "BretKerr",
    "followers": 521,
    "url": "https://x.com/BretKerr/status/2111921881821614471",
    "disc_score": 3,
-   "checks": {},
+   "checks": {
+    "1": null
+   },
    "promoted": false,
    "miss": 0,
    "added": 1792358728
+  },
+  "2111949430727270678": {
+   "created": 1792362957,
+   "author": "flowersslop",
+   "followers": 16533,
+   "url": "https://x.com/flowersslop/status/2111949430727270678",
+   "disc_score": 20,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1792366406
+  },
+  "2111947978902556966": {
+   "created": 1792362610,
+   "author": "econographs",
+   "followers": 4338,
+   "url": "https://x.com/econographs/status/2111947978902556966",
+   "disc_score": 0,
+   "checks": {
+    "1": 0
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1792366406
+  },
+  "2111959050523120069": {
+   "created": 1792365250,
+   "author": "aisafetycompute",
+   "followers": 126,
+   "url": "https://x.com/aisafetycompute/status/2111959050523120069",
+   "disc_score": 1,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1792366406
+  },
+  "2111958801436016855": {
+   "created": 1792365191,
+   "author": "aisafetycompute",
+   "followers": 126,
+   "url": "https://x.com/aisafetycompute/status/2111958801436016855",
+   "disc_score": 1,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1792366406
   }
  },
  "baseline": {
   "1": [
-   [
-    1787638881,
-    0.3
-   ],
    [
     1787638881,
     0.3
@@ -1623,6 +1656,10 @@
    ],
    [
     1792350087,
+    0
+   ],
+   [
+    1792366407,
     0
    ]
   ]
