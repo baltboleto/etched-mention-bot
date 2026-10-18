@@ -1,25 +1,21 @@
 {
  "watch": {
-  "2111827142270918968": {
-   "created": 1792333801,
-   "author": "suraj_sharma14",
-   "followers": 24693,
-   "url": "https://x.com/suraj_sharma14/status/2111827142270918968",
-   "disc_score": 147,
+  "2111873145317826869": {
+   "created": 1792344769,
+   "author": "Yi_2026",
+   "followers": 755,
+   "url": "https://x.com/Yi_2026/status/2111873145317826869",
+   "disc_score": 0,
    "checks": {
-    "1": 154
+    "1": 0
    },
-   "promoted": true,
+   "promoted": false,
    "miss": 0,
-   "added": 1792342058
+   "added": 1792350086
   }
  },
  "baseline": {
   "1": [
-   [
-    1787638881,
-    0.3
-   ],
    [
     1787638881,
     0.3
@@ -1615,6 +1611,10 @@
    [
     1792342058,
     154
+   ],
+   [
+    1792350087,
+    0
    ]
   ]
  },
