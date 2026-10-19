@@ -32,7 +32,9 @@
    "url": "https://www.linkedin.com/posts/ai-chips-datacenters_ai-artificialintelligence-ainews-activity-7517704473037737984-MH29",
    "text": "Daily AI Brief ranks 10 private AI chip companies by their latest reported valuation.\n\nEtched is listed at $21B, SambaNova at $11B and Positron AI at $5B.\n\nAlso on the list: Groq, Tenstorrent, Rebellions, d-Matrix, FuriosaAI, Tensordyne and Unconventional AI.\n\nRead more: https://lnkd.in/gF5xZcbc\n\n\ud83d\udcf0 Subscribe to the weekly Silicon Brief Newsletter: https://lnkd.in/ejfzg92J\n\n#ai #artificialintelligence #ainews #aichips #datacenters",
    "disc_score": 6,
-   "checks": {},
+   "checks": {
+    "24": 51
+   },
    "promoted": false,
    "miss": 0,
    "added": 1792365040
@@ -113,14 +115,21 @@
    "promoted": false,
    "miss": 0,
    "added": 1792443761
+  },
+  "7518068728912048128": {
+   "created": 1792447263,
+   "author": "AI Brief",
+   "url": "https://www.linkedin.com/posts/ai-brief_ai-artificialintelligence-ainews-activity-7518068728912048128-R_RO",
+   "text": "The list ranks private AI chip companies by latest reported valuation, a snapshot because the figures use different dates and bases.\n\nEtched is listed at $21B, SambaNova at $11B, and Tenstorrent at $6.2B after its new round.\n\nAlso on the list: Positron AI, Groq, Rebellions, d-Matrix, FuriosaAI, Tensordyne and Unconventional AI\n\nRead more: https://lnkd.in/gyq-4wAZ\n\n\ud83d\udcf0 Subscribe to the Daily AI Brief: https://lnkd.in/epHYTU3i\n\n#ai #artificialintelligence #ainews #aistartup",
+   "disc_score": 6,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1792453483
   }
  },
  "baseline": {
   "24": [
-   [
-    1788611372,
-    5
-   ],
    [
     1788622174,
     51
@@ -1716,6 +1725,10 @@
    [
     1792440621,
     1
+   ],
+   [
+    1792453483,
+    51
    ]
   ]
  },
