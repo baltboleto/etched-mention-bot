@@ -1,64 +1,21 @@
 {
  "watch": {
-  "2111959050523120069": {
-   "created": 1792365250,
-   "author": "aisafetycompute",
-   "followers": 126,
-   "url": "https://x.com/aisafetycompute/status/2111959050523120069",
-   "disc_score": 1,
-   "checks": {
-    "1": null
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1792366406
-  },
-  "2111958801436016855": {
-   "created": 1792365191,
-   "author": "aisafetycompute",
-   "followers": 126,
-   "url": "https://x.com/aisafetycompute/status/2111958801436016855",
-   "disc_score": 1,
-   "checks": {
-    "1": null
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1792366406
-  },
-  "2111973494955380805": {
-   "created": 1792368694,
-   "author": "sdamico",
-   "followers": 34817,
-   "url": "https://x.com/sdamico/status/2111973494955380805",
-   "disc_score": 7,
-   "checks": {
-    "1": 7
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1792374330
-  },
-  "2111979818912727168": {
-   "created": 1792370202,
-   "author": "PyreFiPulse",
-   "followers": 527,
-   "url": "https://x.com/PyreFiPulse/status/2111979818912727168",
+  "2112050642567217391": {
+   "created": 1792387087,
+   "author": "erikgaas",
+   "followers": 171,
+   "url": "https://x.com/erikgaas/status/2112050642567217391",
    "disc_score": 0,
    "checks": {
     "1": 0
    },
    "promoted": false,
    "miss": 0,
-   "added": 1792374330
+   "added": 1792393132
   }
  },
  "baseline": {
   "1": [
-   [
-    1787638881,
-    0.3
-   ],
    [
     1787638881,
     0.3
@@ -1653,6 +1610,10 @@
    ],
    [
     1792374330,
+    0
+   ],
+   [
+    1792393133,
     0
    ]
   ]
