@@ -19,7 +19,9 @@
    "url": "https://www.linkedin.com/posts/bassam-mejlaoui_10000-to-work-on-your-side-project-and-activity-7517615348951465984-5Pb1",
    "text": "$10,000 to work on your side project and the \"valuation\" is $1B.\n\nIt's called Z Fellows\n\nWhat you get:\n\n\u2022 $10K investment at a $1B valuation cap\n\u2022 1 week with founders of Netflix, Figma, Vercel, DoorDash and more\n\u2022 A cohort of just 10 builders\n\u2022 Help for the life of your company, not just that week\n\nWhat you don't need:\n\n\u2022 A company (they'll help you set one up)\n\u2022 A co-founder\n\u2022 To quit your job or drop out\n\u2022 To live in the US\n\nAlumni include founders of Cursor, Cognition and Etched, who joined before anyone knew their names.\n\nThe condition: you're a technical builder working on something real.\n\nNo deadline. Rolling applications, all ages, open worldwide.\n\nBookmark it and send it to the frie",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 1
+   },
    "promoted": false,
    "miss": 0,
    "added": 1792342117
@@ -78,14 +80,32 @@
    "promoted": false,
    "miss": 0,
    "added": 1792420389
+  },
+  "7518016753315176448": {
+   "created": 1792434871,
+   "author": "SFPlayground",
+   "url": "https://www.linkedin.com/posts/sfplayground_sfplayground-industrialai-manufacturing-activity-7518016753315176448-upky",
+   "text": "Last Thursday, SFPlayground brought together founders, investors, engineers, and operators at The Cove in San Francisco for our Industrial AI Summit: The Future of Manufacturing. \ud83c\udfed\ud83e\udd16\n\nFrom AI-powered CAD and automated quality inspection to intelligent procurement and supply chains, the opportunity isn\u2019t simply to automate individual tasks. It\u2019s to connect traditionally fragmented engineering and manufacturing workflows, reducing the time, cost, and complexity of bringing physical products from concept to production.\n\nBut unlike software, physical AI must contend with real-world constraints: reliability, precision, manufacturability, and the cost of failure. The companies that solve these chal",
+   "disc_score": 29,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1792440621
+  },
+  "7518024407320223744": {
+   "created": 1792436696,
+   "author": "Raja M.",
+   "url": "https://www.linkedin.com/posts/raja-m-_tenstorrent-hits-62b-valuation-to-scale-activity-7518024407320223744-yF0i",
+   "text": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips \n\nIn Brief\n\nPosted:\n\n11:37 AM PDT \u00b7 October 19, 2026\n\nImage Credits:Tenstorrent\n\nTenstorrent, a chip startup focused on inference, has raised $1.5 billion at a $6.2 billion valuation. The round comes five months after the 10-year-old Nvidia challenger reportedly received acquisition interest from Intel and Qualcomm at valuations of as much as $5 billion.\n\nThe fresh round, which more than doubled Tenstorrent\u2019s valuation from the $2.6 billion it fetched in late 2024, was led by Trace Capital, a new firm launched by Quiet Capital co-founder Ben Mahdavi, and Innovation X. Other backers included Cadence Ventures, Eclipse, Fidelity, Sa",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1792440621
   }
  },
  "baseline": {
   "24": [
-   [
-    1788611372,
-    1
-   ],
    [
     1788611372,
     5
@@ -1681,6 +1701,10 @@
    [
     1792420389,
     2
+   ],
+   [
+    1792440621,
+    1
    ]
   ]
  },
