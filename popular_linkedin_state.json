@@ -45,6 +45,28 @@
    "promoted": false,
    "miss": 0,
    "added": 1792365040
+  },
+  "7517823237435609088": {
+   "created": 1792388734,
+   "author": "Grace Gong",
+   "url": "https://www.linkedin.com/posts/gracegong_aiinference-aiinfrastructure-ai-activity-7517823237435609088-XVGY",
+   "text": "AI INFERENCE COMPANIES (HIRING LIST)\n\nHere are 31 AI inference companies that are actively hiring right now, ranked by percentage headcount growth in the past 90 days. This is Week 135 of On My Radar, my weekly list of the companies I can't stop watching:\n\nTogether AI - full-stack AI cloud (San Francisco)\nGimlet Labs - serverless inference infrastructure (San Francisco)\nAcrab - edge AI compute platform for agents (Singapore)\nParasail - inference cloud for AI-native startups (San Mateo)\nai& - AI platform with built-in inference (Yokohama)\nPositron AI - inference hardware (Reno)\nPrime Intellect - decentralized training and inference (San Francisco)\nBaseten - inference platform for deploying mo",
+   "disc_score": 46,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1792393230
+  },
+  "7517832421304606721": {
+   "created": 1792390923,
+   "author": "Marie-Anne Ganga",
+   "url": "https://www.linkedin.com/posts/marie-anne-ganga_ai-activity-7517832421304606721-JLrP",
+   "text": "#AI demand has to hold, in a world where cars fly.\n\nAnd it seems it does. The weeks\u2019 numbers show the opposite actually: demand for AI races ahead of what the industry has capacity to deliver.\n\nMorgan Stanley\u2019s latest estimates forecast AI spending at about $1 trillion a year for the next decade. TSMC raised its annual growth forecast. Memory prices quadrupled in a year, enough to pressure global smartphone shipments because data centers are outbidding consumers for chips, as every efficiency gain open new uses that demand more compute. Jevons paradox works overtime to push total AI demand up.\n\nToday\u2019s risk is somewhere else:\n\nCredit markets are pricing insurance risk and leverage. $1 millio",
+   "disc_score": 4,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1792393230
   }
  },
  "baseline": {
