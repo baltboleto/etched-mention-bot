@@ -32,7 +32,9 @@
    "url": "https://www.linkedin.com/posts/marie-anne-ganga_ai-activity-7517832421304606721-JLrP",
    "text": "#AI demand has to hold, in a world where cars fly.\n\nAnd it seems it does. The weeks\u2019 numbers show the opposite actually: demand for AI races ahead of what the industry has capacity to deliver.\n\nMorgan Stanley\u2019s latest estimates forecast AI spending at about $1 trillion a year for the next decade. TSMC raised its annual growth forecast. Memory prices quadrupled in a year, enough to pressure global smartphone shipments because data centers are outbidding consumers for chips, as every efficiency gain open new uses that demand more compute. Jevons paradox works overtime to push total AI demand up.\n\nToday\u2019s risk is somewhere else:\n\nCredit markets are pricing insurance risk and leverage. $1 millio",
    "disc_score": 4,
-   "checks": {},
+   "checks": {
+    "24": 5
+   },
    "promoted": false,
    "miss": 0,
    "added": 1792393230
@@ -124,14 +126,21 @@
    "promoted": false,
    "miss": 0,
    "added": 1792476118
+  },
+  "7518204762610118656": {
+   "created": 1792479696,
+   "author": "Saasverse",
+   "url": "https://www.linkedin.com/posts/saasverse-global_aichips-activity-7518204762610118656-956p",
+   "text": "Tenstorrent Hits $6.2 B valuation #AIChips\nTenstorrent just closed a $1.5B Series E at a $6.2B post-money valuation \u2014 five months after reportedly walking away from acquisition interest from Intel and Qualcomm at ~$5B.\n\nLed by Trace Capital and Innovation X, with 15 co-investors including ARK Investment Management LLC, Fidelity Investments, Morgan Stanley, T. Rowe Price, Sandisk, Cadence, Eclipse \u2014 and Tether Investments.\n\nThe bet, in one line: inference doesn't have to run on NVIDIA. RISC-V instead of licensed ISA. GDDR6 instead of HBM. Ethernet scale-out instead of NVLink. Open software stack instead of CUDA lock-in.\nThe turning point was May 1: Galaxy Blackhole servers running DeepSeek R1",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1792481845
   }
  },
  "baseline": {
   "24": [
-   [
-    1788624217,
-    66
-   ],
    [
     1788624217,
     10
@@ -1727,6 +1736,10 @@
    [
     1792476118,
     183
+   ],
+   [
+    1792481845,
+    5
    ]
   ]
  },
