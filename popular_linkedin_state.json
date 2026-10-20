@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7517832421304606721": {
-   "created": 1792390923,
-   "author": "Marie-Anne Ganga",
-   "url": "https://www.linkedin.com/posts/marie-anne-ganga_ai-activity-7517832421304606721-JLrP",
-   "text": "#AI demand has to hold, in a world where cars fly.\n\nAnd it seems it does. The weeks\u2019 numbers show the opposite actually: demand for AI races ahead of what the industry has capacity to deliver.\n\nMorgan Stanley\u2019s latest estimates forecast AI spending at about $1 trillion a year for the next decade. TSMC raised its annual growth forecast. Memory prices quadrupled in a year, enough to pressure global smartphone shipments because data centers are outbidding consumers for chips, as every efficiency gain open new uses that demand more compute. Jevons paradox works overtime to push total AI demand up.\n\nToday\u2019s risk is somewhere else:\n\nCredit markets are pricing insurance risk and leverage. $1 millio",
-   "disc_score": 4,
-   "checks": {
-    "24": 5
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1792393230
-  },
   "7517940804431028224": {
    "created": 1792416764,
    "author": "Agent Native",
@@ -45,7 +32,9 @@
    "url": "https://www.linkedin.com/posts/sfplayground_sfplayground-industrialai-manufacturing-activity-7518016753315176448-upky",
    "text": "Last Thursday, SFPlayground brought together founders, investors, engineers, and operators at The Cove in San Francisco for our Industrial AI Summit: The Future of Manufacturing. \ud83c\udfed\ud83e\udd16\n\nFrom AI-powered CAD and automated quality inspection to intelligent procurement and supply chains, the opportunity isn\u2019t simply to automate individual tasks. It\u2019s to connect traditionally fragmented engineering and manufacturing workflows, reducing the time, cost, and complexity of bringing physical products from concept to production.\n\nBut unlike software, physical AI must contend with real-world constraints: reliability, precision, manufacturability, and the cost of failure. The companies that solve these chal",
    "disc_score": 29,
-   "checks": {},
+   "checks": {
+    "24": 38
+   },
    "promoted": false,
    "miss": 0,
    "added": 1792440621
@@ -56,7 +45,9 @@
    "url": "https://www.linkedin.com/posts/raja-m-_tenstorrent-hits-62b-valuation-to-scale-activity-7518024407320223744-yF0i",
    "text": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips \n\nIn Brief\n\nPosted:\n\n11:37 AM PDT \u00b7 October 19, 2026\n\nImage Credits:Tenstorrent\n\nTenstorrent, a chip startup focused on inference, has raised $1.5 billion at a $6.2 billion valuation. The round comes five months after the 10-year-old Nvidia challenger reportedly received acquisition interest from Intel and Qualcomm at valuations of as much as $5 billion.\n\nThe fresh round, which more than doubled Tenstorrent\u2019s valuation from the $2.6 billion it fetched in late 2024, was led by Trace Capital, a new firm launched by Quiet Capital co-founder Ben Mahdavi, and Innovation X. Other backers included Cadence Ventures, Eclipse, Fidelity, Sa",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1792440621
@@ -67,7 +58,9 @@
    "url": "https://www.linkedin.com/posts/kenarciga_aichips-tenstorrentgrowth-nvidiarival-activity-7518043764771401728-Tjtp",
    "text": "The AI Chip War is Alive and Kicking!** \ud83e\udd2f\n\nTenstorrent, an upstart market competitor in AI inference chips, has just raised **$1.5 billion**, boosting its valuation to a staggering **$6.2 billion**! Just months after fielding acquisition interest from Intel and Qualcomm at up to **$5 billion**, Tenstorrent has more than **DOUBLED its valuation** from $2.6 billion in late 2024! \n\nCo-led by Trace Capital and Innovation X, confidence in their vision is sky-high. \u2728  \n\nCEO Jim Keller confirmed their strategy: independence to fuel the future of AI. The new funds will power development and deployment of chips for open-weight AI models and advanced video generation, directly targeting Nvidia's stron",
    "disc_score": 1,
-   "checks": {},
+   "checks": {
+    "24": 4
+   },
    "promoted": false,
    "miss": 0,
    "added": 1792443761
@@ -203,22 +196,21 @@
    "promoted": false,
    "miss": 0,
    "added": 1792515875
+  },
+  "7518365884726345728": {
+   "created": 1792518111,
+   "author": "Jean Lucca Aleskovich BA, PMP\u00ae",
+   "url": "https://www.linkedin.com/posts/jean-lucca-aleskovich-0036_semiconductors-osat-advancedpackaging-activity-7518365884726345728-cb-p",
+   "text": "\ud83d\udea8 America is funding the next generation of AI chips. But who will package, assemble and test them?\n\nThe U.S. semiconductor startup ecosystem is accelerating.\nOn October 19, Tenstorrent announced $1.5 billion in new funding to scale its AI computing business. Etched has raised substantial capital to scale its inference hardware. Ayar Labs is preparing its optical interconnect technology for high-volume manufacturing.\nAnd they are not alone.\n\n\ud83e\udde0 Some of the companies shaping the 2026 semiconductor landscape:\n\u2022 Tenstorrent \u2014 RISC-V CPUs and AI accelerators\n\u2022 Etched \u2014 specialized AI inference chips\n\u2022 Positron AI \u2014 memory-centric AI inference hardware\n\u2022 Cerebras \u2014 wafer-scale AI processors\n\u2022 Groq",
+   "disc_score": 16,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1792528492
   }
  },
  "baseline": {
   "24": [
-   [
-    1788629574,
-    32
-   ],
-   [
-    1788632221,
-    0
-   ],
-   [
-    1788674619,
-    0
-   ],
    [
     1788674619,
     0
@@ -1806,6 +1798,18 @@
    [
     1792515875,
     30
+   ],
+   [
+    1792528492,
+    38
+   ],
+   [
+    1792528492,
+    0
+   ],
+   [
+    1792528492,
+    4
    ]
   ]
  },
