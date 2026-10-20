@@ -1,17 +1,15 @@
 {
  "watch": {
-  "2112502203214901301": {
-   "created": 1792494748,
-   "author": "AnotherCodingX",
-   "followers": 62,
-   "url": "https://x.com/AnotherCodingX/status/2112502203214901301",
-   "disc_score": 1,
-   "checks": {
-    "1": 1
-   },
+  "2112602081525973329": {
+   "created": 1792518561,
+   "author": "cosign",
+   "followers": 7994,
+   "url": "https://x.com/cosign/status/2112602081525973329",
+   "disc_score": 12,
+   "checks": {},
    "promoted": false,
    "miss": 0,
-   "added": 1792501350
+   "added": 1792519238
   }
  },
  "baseline": {
