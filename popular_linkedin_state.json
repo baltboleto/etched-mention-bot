@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7517615348951465984": {
-   "created": 1792339169,
-   "author": "Bassam Mejlaoui \ud83d\udca1(Sam J)",
-   "url": "https://www.linkedin.com/posts/bassam-mejlaoui_10000-to-work-on-your-side-project-and-activity-7517615348951465984-5Pb1",
-   "text": "$10,000 to work on your side project and the \"valuation\" is $1B.\n\nIt's called Z Fellows\n\nWhat you get:\n\n\u2022 $10K investment at a $1B valuation cap\n\u2022 1 week with founders of Netflix, Figma, Vercel, DoorDash and more\n\u2022 A cohort of just 10 builders\n\u2022 Help for the life of your company, not just that week\n\nWhat you don't need:\n\n\u2022 A company (they'll help you set one up)\n\u2022 A co-founder\n\u2022 To quit your job or drop out\n\u2022 To live in the US\n\nAlumni include founders of Cursor, Cognition and Etched, who joined before anyone knew their names.\n\nThe condition: you're a technical builder working on something real.\n\nNo deadline. Rolling applications, all ages, open worldwide.\n\nBookmark it and send it to the frie",
-   "disc_score": 0,
-   "checks": {
-    "24": 1
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1792342117
-  },
   "7517704473037737984": {
    "created": 1792360418,
    "author": "AI Chips & Data Centers",
@@ -32,8 +19,10 @@
    "url": "https://www.linkedin.com/posts/gracegong_aiinference-aiinfrastructure-ai-activity-7517823237435609088-XVGY",
    "text": "AI INFERENCE COMPANIES (HIRING LIST)\n\nHere are 31 AI inference companies that are actively hiring right now, ranked by percentage headcount growth in the past 90 days. This is Week 135 of On My Radar, my weekly list of the companies I can't stop watching:\n\nTogether AI - full-stack AI cloud (San Francisco)\nGimlet Labs - serverless inference infrastructure (San Francisco)\nAcrab - edge AI compute platform for agents (Singapore)\nParasail - inference cloud for AI-native startups (San Mateo)\nai& - AI platform with built-in inference (Yokohama)\nPositron AI - inference hardware (Reno)\nPrime Intellect - decentralized training and inference (San Francisco)\nBaseten - inference platform for deploying mo",
    "disc_score": 46,
-   "checks": {},
-   "promoted": false,
+   "checks": {
+    "24": 183
+   },
+   "promoted": true,
    "miss": 0,
    "added": 1792393230
   },
@@ -113,14 +102,32 @@
    "promoted": false,
    "miss": 0,
    "added": 1792453483
+  },
+  "7518171543877767168": {
+   "created": 1792471776,
+   "author": "IgniteCore Technologies Inc.",
+   "url": "https://www.linkedin.com/posts/ignite-core-inc_ignitecore-aihardware-semiconductors-activity-7518171543877767168-o5Ic",
+   "text": "Specialized silicon just got a brutal customer test.\n\nThe Tech Buzz reports that Etched, an AI chip startup building ASICs optimized for transformer models, doubled its valuation to $21 billion in a month after Jane Street became the first customer to deploy its specialized AI cluster and then led a new funding round. The bet is familiar: general-purpose GPUs can do everything, while a chip tuned for one architecture can run that workload faster and cheaper. Jane Street\u2019s deployment is framed as an early real-world proof point in the search for Nvidia alternatives.\n\nThat pattern matters outside the chip race too. Products that feel simple to end users usually rest on infrastructure that has ",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1792476118
+  },
+  "7518177786503606272": {
+   "created": 1792473265,
+   "author": "Hyungjoon Son Yang",
+   "url": "https://www.linkedin.com/posts/hyungjoon-son-yang-4025a839_today-dream-labs-is-out-of-stealth-with-activity-7518177786503606272-dTvj",
+   "text": "4\uc6d4 26\uc77c\uc5d0 \uc7a5\uc694\uc5d8 \ub300\ud45c\ub2d8\uacfc 20\ubd84\uc9dc\ub9ac \ucf5c\uc744 \ud558\uac8c \ub418\uc5c8\uace0, \uadf8 \ubbf8\ud305 \uc911\uac04\uc5d0 \ud22c\uc790\ud558\uace0 \uc2f6\ub2e4\uace0 \ub9d0\uc500\ub4dc\ub838\uc2b5\ub2c8\ub2e4.\n\n\ud55c\uad6d\uc758 20\ub300 \ucc3d\uc5c5\uc790 \uc911\uc5d0 \ubbf8\uad6d\uc5d0\uc11c 20\ub300\ub4e4\uc774 \ucc3d\uc5c5\ud55c Cursor, Mercor, Cognition, Etched \uac19\uc740 \ud68c\uc0ac\ub97c \ub9cc\ub4e4 \ubd84\uc774 \ub098\uc62c \uc218 \ubc16\uc5d0 \uc5c6\uc744 \uac83\uc774\ub77c \ubbff\uc5c8\uace0, \uadf8 \uc21c\uac04\uc5d0 \ub4dc\ub9bc\ub7a9\uc2a4 \uc7a5\uc694\uc5d8 \ub300\ud45c\ub2d8\uc744 \ub9cc\ub0a0 \uc218 \uc788\uc5b4 \ub300\ub2e8\ud788 \uc6b4\uc774 \uc88b\uc558\ub2e4\uace0 \uc0dd\uac01\ud569\ub2c8\ub2e4. \n\n'GPT\ub85c \ucc3e\uc544\ubd10'\uc758 \ub85c\ubd07 \ubc84\uc804\uc744 \ub9cc\ub4ed\ub2c8\ub2e4. \ubca0\uc774\uc2a4\uac00 \ud568\uaed8\ud569\ub2c8\ub2e4! \ud83e\uddbe\n\n* \ud22c\uc790\uc720\uce58 \uae30\uc0ac: https://lnkd.in/gTuQFr_C",
+   "disc_score": 2,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1792476118
   }
  },
  "baseline": {
   "24": [
-   [
-    1788622174,
-    51
-   ],
    [
     1788624217,
     66
@@ -1716,6 +1723,10 @@
    [
     1792453483,
     51
+   ],
+   [
+    1792476118,
+    183
    ]
   ]
  },
@@ -1914,6 +1925,11 @@
    1792224025,
    "7516743829182517249",
    163
+  ],
+  [
+   1792476118,
+   "7517823237435609088",
+   183
   ]
  ],
  "seeded": true
