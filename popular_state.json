@@ -1,23 +1,21 @@
 {
  "watch": {
-  "2112447319690162350": {
-   "created": 1792481663,
-   "author": "svwmagazine",
-   "followers": 26,
-   "url": "https://x.com/svwmagazine/status/2112447319690162350",
+  "2112502203214901301": {
+   "created": 1792494748,
+   "author": "AnotherCodingX",
+   "followers": 62,
+   "url": "https://x.com/AnotherCodingX/status/2112502203214901301",
    "disc_score": 1,
-   "checks": {},
+   "checks": {
+    "1": 1
+   },
    "promoted": false,
    "miss": 0,
-   "added": 1792481778
+   "added": 1792501350
   }
  },
  "baseline": {
   "1": [
-   [
-    1787638881,
-    0.7
-   ],
    [
     1787638881,
     0.7
@@ -1612,6 +1610,10 @@
    ],
    [
     1792453439,
+    1
+   ],
+   [
+    1792501350,
     1
    ]
   ]
