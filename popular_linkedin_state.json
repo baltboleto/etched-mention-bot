@@ -71,7 +71,9 @@
    "url": "https://www.linkedin.com/posts/ai-brief_ai-artificialintelligence-ainews-activity-7518068728912048128-R_RO",
    "text": "The list ranks private AI chip companies by latest reported valuation, a snapshot because the figures use different dates and bases.\n\nEtched is listed at $21B, SambaNova at $11B, and Tenstorrent at $6.2B after its new round.\n\nAlso on the list: Positron AI, Groq, Rebellions, d-Matrix, FuriosaAI, Tensordyne and Unconventional AI\n\nRead more: https://lnkd.in/gyq-4wAZ\n\n\ud83d\udcf0 Subscribe to the Daily AI Brief: https://lnkd.in/epHYTU3i\n\n#ai #artificialintelligence #ainews #aistartup",
    "disc_score": 6,
-   "checks": {},
+   "checks": {
+    "24": 11
+   },
    "promoted": false,
    "miss": 0,
    "added": 1792453483
@@ -207,14 +209,21 @@
    "promoted": false,
    "miss": 0,
    "added": 1792528492
+  },
+  "7518405150693154816": {
+   "created": 1792527473,
+   "author": "Jure Snoj",
+   "url": "https://www.linkedin.com/posts/jure-snoj-5aa8311a4_our-results-from-j%C3%BClich-show-how-quantum-activity-7518405150693154816-67St",
+   "text": "Interesting pattern with compute I keep seeing.  \n\nSo NVIDIA just used 8k GPUs to simulate a quantum computer that doesn't exist yet.  \n\nThe pattern is chips built for a specialized usecase solving problems better then general compute, and almost all one of them still needs GPUs to work.  \n\nEveryone's heard of the inference chips, Groq, Etched, Cerebras, plus the hyperscalers' own, TPUs, Trainium, Maia.  As well as the large labs adding chips built for fast inference, but they still train their models on GPUs.  \n\nAnd it's happening in every frontier field.  \n\nIn Quantum, if you know anything about it, it\u2019s that you need a lot of error correcting, so they need GPUs next to them fixing those e",
+   "disc_score": 1,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1792540339
   }
  },
  "baseline": {
   "24": [
-   [
-    1788674619,
-    0
-   ],
    [
     1788714106,
     7
@@ -1810,6 +1819,10 @@
    [
     1792528492,
     4
+   ],
+   [
+    1792540339,
+    11
    ]
   ]
  },
