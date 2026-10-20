@@ -1,19 +1,5 @@
 {
- "watch": {
-  "2112309125291937811": {
-   "created": 1792448714,
-   "author": "0xJumbo",
-   "followers": 634,
-   "url": "https://x.com/0xJumbo/status/2112309125291937811",
-   "disc_score": 1,
-   "checks": {
-    "1": 1
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1792453438
-  }
- },
+ "watch": {},
  "baseline": {
   "1": [
    [
