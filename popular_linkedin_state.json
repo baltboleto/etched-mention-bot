@@ -32,7 +32,9 @@
    "url": "https://www.linkedin.com/posts/agent-native-dev_ai-chip-companies-dont-hire-like-chip-companies-activity-7517940804431028224-DTSL",
    "text": "AI chip companies don't hire like chip companies anymore.\n\nThe AI chip companies on our board have 243 open roles. \n\nMost sit at four companies: Cerebras (75), Etched (45), Graphcore (38) and FuriosaAI (26).\n\nThe split is what stands out:\n- 53% are software: inference cloud, compilers, kernels, runtime, infrastructure\n- 17% are chip design and validation: RTL, verification, physical design, silicon\n\nMore than three software roles for every silicon role. \n\nThe reason is that a chip sells when real models run fast on it, on day one, without the customer rewriting their stack.\n\nNvidia proved this as CUDA was built for years before anyone cared, and that software layer is what every challenger i",
    "disc_score": 3,
-   "checks": {},
+   "checks": {
+    "24": 3
+   },
    "promoted": false,
    "miss": 0,
    "added": 1792420389
@@ -43,7 +45,9 @@
    "url": "https://www.linkedin.com/posts/activity-7517949203004743682-DK3Z",
    "text": "We had an incredible session in our Next-Generation Data Centers and Energy Management Systems course at UC Berkeley, featuring a guest lecture from Travis Gaskill, Lead Thermal Engineer at Etched. Drawing on his experience at both Etched and NVIDIA (where he helped pioneer the liquid-cooled NVL72 architecture), Travis walked us through \"A Hardware-Centric Look at AI and the Thermal Bottlenecks on the Horizon.\"\n\nHere are a few standout takeaways from his deep dive into the physical limits of AI compute:\n\n- Density drives liquid cooling: We didn't move to liquid cooling just to remove heat. We moved to liquid cooling because interconnecting chips need to be physically as close as possible to ",
    "disc_score": 5,
-   "checks": {},
+   "checks": {
+    "24": 30
+   },
    "promoted": false,
    "miss": 0,
    "added": 1792420389
@@ -179,18 +183,43 @@
    "promoted": false,
    "miss": 0,
    "added": 1792501397
+  },
+  "7518323934895816705": {
+   "created": 1792508109,
+   "author": "Douglas Duckworth",
+   "url": "https://www.linkedin.com/posts/activity-7518323934895816705-NKrt",
+   "text": "Before South Africa diamonds were rare because at that time they only existed in river beds. Prices were high and pretty much they were only held by the ruling class.  \n\nWhen diamonds began to be mined on an industrial scale, their supply far outweighed demand. Prices dropped and they were at risk of being yet another semi-precious stone. Rather than trying to compete on price, Cecil Rhodes (De Beers founder), bought out all mining competitors to then artificially restrict supply. That strategy worked for a few hundred years until science found a way to manufacture artificial diamonds which are virtually indistinguishable from those that come from the ground.  \n\nI think it's clear that's wha",
+   "disc_score": 5,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1792515875
+  },
+  "7518332737334693888": {
+   "created": 1792510208,
+   "author": "Beyond Branding",
+   "url": "https://www.linkedin.com/posts/beyond-branding-global_branding-visualidentity-brandidentity-activity-7518332737334693888-kisL",
+   "text": "DVC by Daniil Sergeev\n\nBranding and web design for DVC, a fund that brings together 190+ investors and has backed 120 AI startups, including Perplexity AI, Etched, and Thinking Machines Lab. The brand identity centers on multilayered and color cluster visuals, symbolizing a community of engineers, founders, and angels, all managed by a family of founders.\n\n#branding #visualidentity #brandidentity",
+   "disc_score": 11,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1792515875
+  },
+  "7518342084932644864": {
+   "created": 1792512437,
+   "author": "Oluwatimilehin Ileladewa",
+   "url": "https://www.linkedin.com/posts/ileladewa-oluwatimilehin_shorts-technews-aichips-activity-7518342084932644864-1bRr",
+   "text": "Money Raced, Hiring Barely Moved: Etched, Ubers $2.3B Deal\n\n#Shorts #TechNews #AIChips #Uber #JobsReport",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1792515875
   }
  },
  "baseline": {
   "24": [
-   [
-    1788624217,
-    10
-   ],
-   [
-    1788629574,
-    2
-   ],
    [
     1788629574,
     32
@@ -1782,6 +1811,14 @@
    [
     1792481845,
     5
+   ],
+   [
+    1792515875,
+    3
+   ],
+   [
+    1792515875,
+    30
    ]
   ]
  },
