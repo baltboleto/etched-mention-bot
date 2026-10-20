@@ -1,23 +1,21 @@
 {
  "watch": {
-  "2112602081525973329": {
-   "created": 1792518561,
-   "author": "cosign",
-   "followers": 7994,
-   "url": "https://x.com/cosign/status/2112602081525973329",
-   "disc_score": 12,
-   "checks": {},
+  "2112639175040135537": {
+   "created": 1792527404,
+   "author": "Snojj25",
+   "followers": 825,
+   "url": "https://x.com/Snojj25/status/2112639175040135537",
+   "disc_score": 14,
+   "checks": {
+    "1": 14
+   },
    "promoted": false,
    "miss": 0,
-   "added": 1792519238
+   "added": 1792531917
   }
  },
  "baseline": {
   "1": [
-   [
-    1787638881,
-    0.7
-   ],
    [
     1787638881,
     0.7
@@ -1613,6 +1611,10 @@
    [
     1792501350,
     1
+   ],
+   [
+    1792531918,
+    14
    ]
   ]
  },
