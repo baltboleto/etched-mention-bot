@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7518068728912048128": {
-   "created": 1792447263,
-   "author": "AI Brief",
-   "url": "https://www.linkedin.com/posts/ai-brief_ai-artificialintelligence-ainews-activity-7518068728912048128-R_RO",
-   "text": "The list ranks private AI chip companies by latest reported valuation, a snapshot because the figures use different dates and bases.\n\nEtched is listed at $21B, SambaNova at $11B, and Tenstorrent at $6.2B after its new round.\n\nAlso on the list: Positron AI, Groq, Rebellions, d-Matrix, FuriosaAI, Tensordyne and Unconventional AI\n\nRead more: https://lnkd.in/gyq-4wAZ\n\n\ud83d\udcf0 Subscribe to the Daily AI Brief: https://lnkd.in/epHYTU3i\n\n#ai #artificialintelligence #ainews #aistartup",
-   "disc_score": 6,
-   "checks": {
-    "24": 11
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1792453483
-  },
   "7518171543877767168": {
    "created": 1792471776,
    "author": "IgniteCore Technologies Inc.",
@@ -69,7 +56,9 @@
    "url": "https://www.linkedin.com/posts/andrew-siropiatov_the-podium-which-startup-idea-is-being-activity-7518248902719045632-4io-",
    "text": "\ud83c\udfc6 The Podium \u2014 which startup idea more than one company is chasing\n28 ideas drew more than one company each in the 90 days to 20 Oct. Ranked by how many COMPANIES, not how much money. The leading three:\n\ud83e\udd47 Chips built for AI \u2014 18 companies \u00b7 $6.1bn reported\nFirmus, Tenstorrent, Infinigence AI, OLIX, Etched, Xsight Labs, EUCLYD, Salience Labs, Callosum, DeepX, Ubitium, Velatir, MintNeuro, Solinide, Embedd, HexSeed Technology, Groq, SUNMMIO\n\ud83e\udd48 AI agents doing the work \u2014 18 companies \u00b7 $951.4m reported\nButterfly Effect, Onyx, Ema, Freehand, BUSINESSNEXT, Arrakis, Vesta, Restate, Eagle Cloud, Ghost, Zeliq, Primo, 50skills, Shamrock AI, Granite, Kontext, Itoflow, Aisot Technologies\n\ud83e\udd49 Grid & energy ",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1792496090
@@ -233,10 +222,6 @@
  },
  "baseline": {
   "24": [
-   [
-    1788892835,
-    54
-   ],
    [
     1788892835,
     11
@@ -1832,6 +1817,10 @@
    [
     1792576516,
     31
+   ],
+   [
+    1792577217,
+    0
    ]
   ]
  },
