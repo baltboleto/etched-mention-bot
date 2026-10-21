@@ -1,31 +1,5 @@
 {
  "watch": {
-  "7517940804431028224": {
-   "created": 1792416764,
-   "author": "Agent Native",
-   "url": "https://www.linkedin.com/posts/agent-native-dev_ai-chip-companies-dont-hire-like-chip-companies-activity-7517940804431028224-DTSL",
-   "text": "AI chip companies don't hire like chip companies anymore.\n\nThe AI chip companies on our board have 243 open roles. \n\nMost sit at four companies: Cerebras (75), Etched (45), Graphcore (38) and FuriosaAI (26).\n\nThe split is what stands out:\n- 53% are software: inference cloud, compilers, kernels, runtime, infrastructure\n- 17% are chip design and validation: RTL, verification, physical design, silicon\n\nMore than three software roles for every silicon role. \n\nThe reason is that a chip sells when real models run fast on it, on day one, without the customer rewriting their stack.\n\nNvidia proved this as CUDA was built for years before anyone cared, and that software layer is what every challenger i",
-   "disc_score": 3,
-   "checks": {
-    "24": 3
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1792420389
-  },
-  "7517949203004743682": {
-   "created": 1792418766,
-   "author": "Thomas Schutzius",
-   "url": "https://www.linkedin.com/posts/activity-7517949203004743682-DK3Z",
-   "text": "We had an incredible session in our Next-Generation Data Centers and Energy Management Systems course at UC Berkeley, featuring a guest lecture from Travis Gaskill, Lead Thermal Engineer at Etched. Drawing on his experience at both Etched and NVIDIA (where he helped pioneer the liquid-cooled NVL72 architecture), Travis walked us through \"A Hardware-Centric Look at AI and the Thermal Bottlenecks on the Horizon.\"\n\nHere are a few standout takeaways from his deep dive into the physical limits of AI compute:\n\n- Density drives liquid cooling: We didn't move to liquid cooling just to remove heat. We moved to liquid cooling because interconnecting chips need to be physically as close as possible to ",
-   "disc_score": 5,
-   "checks": {
-    "24": 30
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1792420389
-  },
   "7518016753315176448": {
    "created": 1792434871,
    "author": "SFPlayground",
@@ -220,6 +194,28 @@
    "promoted": false,
    "miss": 0,
    "added": 1792540339
+  },
+  "7518516524312182784": {
+   "created": 1792554026,
+   "author": "Li Liu",
+   "url": "https://www.linkedin.com/posts/li-liu-7ab700236_robots-are-eating-all-the-venture-money-and-activity-7518516524312182784-hdo4",
+   "text": "robots are eating all the venture money and nobody's talking about it\n\nphysical AI funding hit $47.4B across 521 deals in just the first half of 2026.\n\nXPENG Robotics just raised $900M+ in its first round, valued above $6.3B, the largest embodied-AI round ever.\n\nNvidia dropped $1B into Poolside in a deal reportedly worth $7B, pushing Poolside's valuation to $12B.\n\nGeneral Intuition is seeking a $6B pre-money valuation for physical AI training, a 161% jump.\n\nAlibaba raised $10.2B to fund full-stack AI, plus another HK$80B follow-on share sale.\n\nStandard Bots pulled in $63M Series B for AI-native robotics.\n\nEtched doubled its valuation to $21B.\n\nthe median robotics Series A check is now $5.2M ",
+   "disc_score": 13,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1792557885
+  },
+  "7518517724042567680": {
+   "created": 1792554312,
+   "author": "Amit Mangal",
+   "url": "https://www.linkedin.com/posts/amitmangal_ai-funding-activity-7518517724042567680-69xr",
+   "text": "One quarter. $159 billion in venture funding. A record 27 cheques of $1 billion or more.\n\nSo where is AI money actually going? \n\nWe tracked 36 deals over the last 3 months. Five clear lanes:\n\n1. Frontier labs: SSI $5B (reported), Moonshot $3.5B, Mistral ~$3.5B, River AI $1.1B\n2. Compute, chips and data centres: Crusoe $3.9B, Firmus $2B, Tenstorrent $1.5B, Positron $875M, Etched $700M\n3. Data and agent infrastructure: Databricks $5B, Temporal $550M, Zenity $125M, Daytona $60M\n4. Coding agents: Cognition $2B, Factory $200M, CodeRabbit $143M\n5. Enterprise and vertical agents: Wonderful $550M, EliseAI $350M, HappyRobot $150M, Town $108M, Ema $77M\n\nAnd it is no longer just equity. Waymo closed it",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1792557885
   }
  },
  "baseline": {
