@@ -1,23 +1,21 @@
 {
  "watch": {
-  "2112682902999765417": {
-   "created": 1792537830,
-   "author": "DCryptDeezNutz",
-   "followers": 548,
-   "url": "https://x.com/DCryptDeezNutz/status/2112682902999765417",
-   "disc_score": 2,
-   "checks": {},
+  "2112731060954071049": {
+   "created": 1792549312,
+   "author": "cauliflwr_human",
+   "followers": 1794,
+   "url": "https://x.com/cauliflwr_human/status/2112731060954071049",
+   "disc_score": 3,
+   "checks": {
+    "1": 3
+   },
    "promoted": false,
    "miss": 0,
-   "added": 1792541389
+   "added": 1792558180
   }
  },
  "baseline": {
   "1": [
-   [
-    1787638881,
-    0.7
-   ],
    [
     1787638881,
     0.7
@@ -1613,6 +1611,10 @@
    [
     1792531918,
     14
+   ],
+   [
+    1792558181,
+    3
    ]
   ]
  },
