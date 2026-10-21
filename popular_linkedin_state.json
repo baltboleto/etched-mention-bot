@@ -13,19 +13,6 @@
    "miss": 0,
    "added": 1792496090
   },
-  "7518248902719045632": {
-   "created": 1792490220,
-   "author": "Andrew Siropiatov",
-   "url": "https://www.linkedin.com/posts/andrew-siropiatov_the-podium-which-startup-idea-is-being-activity-7518248902719045632-4io-",
-   "text": "\ud83c\udfc6 The Podium \u2014 which startup idea more than one company is chasing\n28 ideas drew more than one company each in the 90 days to 20 Oct. Ranked by how many COMPANIES, not how much money. The leading three:\n\ud83e\udd47 Chips built for AI \u2014 18 companies \u00b7 $6.1bn reported\nFirmus, Tenstorrent, Infinigence AI, OLIX, Etched, Xsight Labs, EUCLYD, Salience Labs, Callosum, DeepX, Ubitium, Velatir, MintNeuro, Solinide, Embedd, HexSeed Technology, Groq, SUNMMIO\n\ud83e\udd48 AI agents doing the work \u2014 18 companies \u00b7 $951.4m reported\nButterfly Effect, Onyx, Ema, Freehand, BUSINESSNEXT, Arrakis, Vesta, Restate, Eagle Cloud, Ghost, Zeliq, Primo, 50skills, Shamrock AI, Granite, Kontext, Itoflow, Aisot Technologies\n\ud83e\udd49 Grid & energy ",
-   "disc_score": 0,
-   "checks": {
-    "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1792496090
-  },
   "7518264836112154625": {
    "created": 1792494019,
    "author": "Faris Brni",
@@ -34,19 +21,6 @@
    "disc_score": 0,
    "checks": {
     "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1792496090
-  },
-  "7518227203575394304": {
-   "created": 1792485047,
-   "author": "Dhairya Shah",
-   "url": "https://www.linkedin.com/posts/dhairya-caard_i-asked-cory-levy-which-2-qualities-are-activity-7518227203575394304-X37A",
-   "text": "I asked Cory Levy \nwhich 2 qualities are the scarcest in founders\n\nLast Wednesday I took a spontaneous trip to Munich to meet him.\n\nCory founded Z Fellows. He backed the builders behind Cursor, Cognition and Etched before anyone knew their names, and was a first believer in Ramp and Vise.\n\nHis answer \u201cCare and impatience.\u201d\n\nImpatience as in people who move very, very fast with everything. Care as in caring about the problem and being fully yourself, quirks included.\n\nThat one made me smile.\nMy name, Dhairya, means patience. \nI was born without it :)\n\n3 more things:\n\n\u2192 You need heat-seeking and endurance\nSam spent 7 years on Loopt before OpenAI. \u201cIt\u2019s okay to not know.\u201d\n\n\u2192 Solve what\u2019s 6 inch",
-   "disc_score": 10,
-   "checks": {
-    "24": 31
    },
    "promoted": false,
    "miss": 0,
@@ -123,7 +97,9 @@
    "url": "https://www.linkedin.com/posts/jure-snoj-5aa8311a4_our-results-from-j%C3%BClich-show-how-quantum-activity-7518405150693154816-67St",
    "text": "Interesting pattern with compute I keep seeing.  \n\nSo NVIDIA just used 8k GPUs to simulate a quantum computer that doesn't exist yet.  \n\nThe pattern is chips built for a specialized usecase solving problems better then general compute, and almost all one of them still needs GPUs to work.  \n\nEveryone's heard of the inference chips, Groq, Etched, Cerebras, plus the hyperscalers' own, TPUs, Trainium, Maia.  As well as the large labs adding chips built for fast inference, but they still train their models on GPUs.  \n\nAnd it's happening in every frontier field.  \n\nIn Quantum, if you know anything about it, it\u2019s that you need a lot of error correcting, so they need GPUs next to them fixing those e",
    "disc_score": 1,
-   "checks": {},
+   "checks": {
+    "24": 1
+   },
    "promoted": false,
    "miss": 0,
    "added": 1792540339
@@ -241,10 +217,6 @@
  },
  "baseline": {
   "24": [
-   [
-    1788933539,
-    0
-   ],
    [
     1788952932,
     2
@@ -1840,6 +1812,10 @@
    [
     1792609990,
     29
+   ],
+   [
+    1792621457,
+    1
    ]
   ]
  },
