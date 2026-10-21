@@ -45,7 +45,9 @@
    "url": "https://www.linkedin.com/posts/cms-equip-for-start-ups_great-few-days-in-barcelona-with-the-cms-activity-7518259322871599104-bnnp",
    "text": "Great few days in Barcelona with the CMS equIP for Start-ups team for the first edition of Shift AI Europe 2026! \ud83c\uddea\ud83c\uddf8 \ud83d\ude80\n \nIt was brilliant to be there alongside two of our equIP members, Etched Tech and The Padel Foundation, and to spend a couple of days meeting founders, investors and others across the start-up ecosystem.\n \nA big thank you to everyone who stopped by, joined us for a conversation or caught one of the sessions.\n \nIf you're a start-up or scale-up and missed us in Barcelona, but would like to find out more about CMS equIP and how we support ambitious businesses as they grow, feel free to reach out to Stephen Tierney, CMS equIP Programme Manager.\n\nA huge thank you to Ben Scott, Ni",
    "disc_score": 7,
-   "checks": {},
+   "checks": {
+    "24": 28
+   },
    "promoted": false,
    "miss": 0,
    "added": 1792496090
@@ -69,7 +71,9 @@
    "url": "https://www.linkedin.com/posts/activity-7518264836112154625-M3M3",
    "text": "Tenstorrent just raised $1.5B at a $6.2B valuation \ud83e\udd2f\nThat\u2019s more than 2x their $2.6B valuation from late 2024, and just five months after Intel and Qualcomm reportedly wanted to buy them.\n\nJim Keller chose to stay independent, and it might be the smartest bet in AI hardware right now: open chips for open models.\n\nHere\u2019s what we know so far:\n\u2192 $1.5B Series E at a $6.2B valuation\n\u2192 Led by Trace Capital and Innovation X\n\u2192 ARK Invest, Fidelity, Morgan Stanley, Sandisk, and Tether also invested\n\u2192 Their last round was $693M+ in December 2024\n\nHere\u2019s why Tenstorrent is winning:\n\n1\ufe0f\u20e3 They\u2019re run by a legendary chip designer\n- CEO Jim Keller led the teams behind Apple\u2019s A4/A5, AMD Zen, and Tesla\u2019s se",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1792496090
@@ -93,7 +97,9 @@
    "url": "https://www.linkedin.com/posts/vikraam-d-7881b4294_ai-artificialintelligence-aichips-activity-7518281249346519041-q5E5",
    "text": "\ud83d\udcb0 Jim Keller's AI Chip Startup Just Doubled Its Valuation to $6.2B \u2014 Here's Why Investors Are Betting Big!\n\nNvidia has a serious challenger \u2014 and it just raised $1.5 BILLION to prove it. \ud83d\ude80\n\nTenstorrent, the AI chip startup led by legendary chip architect Jim Keller, just closed a massive Series E round at a $6.2 billion valuation.\n\nThat's more than DOUBLE its $2.6B valuation from just a year ago.\n\nHere's what you need to know \ud83d\udc47\n\n\ud83d\udd39 The round was led by Trace Capital and Innovation X\n\ud83d\udd39 Backers include Fidelity, Morgan Stanley, ARK Invest, T. Rowe Price, SanDisk, and Tether Investments\n\ud83d\udd39 The company turned down acquisition offers from Intel and Qualcomm \u2014 choosing independence over a buyout\n\ud83d\udd39 T",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1792501397
@@ -104,7 +110,9 @@
    "url": "https://www.linkedin.com/posts/activity-7518323934895816705-NKrt",
    "text": "Before South Africa diamonds were rare because at that time they only existed in river beds. Prices were high and pretty much they were only held by the ruling class.  \n\nWhen diamonds began to be mined on an industrial scale, their supply far outweighed demand. Prices dropped and they were at risk of being yet another semi-precious stone. Rather than trying to compete on price, Cecil Rhodes (De Beers founder), bought out all mining competitors to then artificially restrict supply. That strategy worked for a few hundred years until science found a way to manufacture artificial diamonds which are virtually indistinguishable from those that come from the ground.  \n\nI think it's clear that's wha",
    "disc_score": 5,
-   "checks": {},
+   "checks": {
+    "24": 5
+   },
    "promoted": false,
    "miss": 0,
    "added": 1792515875
@@ -218,26 +226,32 @@
    "promoted": false,
    "miss": 0,
    "added": 1792576516
+  },
+  "7518610013012291584": {
+   "created": 1792576316,
+   "author": "Vladislav Fedoseev",
+   "url": "https://www.linkedin.com/posts/vladislav-fedoseev-allformance_not-another-word-about-ai-seriously-for-activity-7518610013012291584-99_i",
+   "text": "Not another word about AI. Seriously.\nFor the rest of this post, I'm calling it \u00abZhiza\u00bb. It's Russian slang for something painfully relatable. And right now, it really is.\n\u00abZhiza\u00bb is changing the rules of the game, and we're seeing just how much stress and uncertainty this creates, even for highly experienced founders.\nWhere is your moat if someone can replicate your product in a week?\n\u00abZhiza\u00bb budgets keep growing, but are they actually delivering ROI?\nWhat should we still pay humans to do, and how should we divide responsibility between people and \u00abZhiza\u00bb agents?\nOn October 22\u201323, R-Founders, a global community for entrepreneurs, CEOs, and business leaders, is hosting a major online confere",
+   "disc_score": 20,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1792594752
+  },
+  "7518612454940073984": {
+   "created": 1792576898,
+   "author": "AI Funding News",
+   "url": "https://www.linkedin.com/posts/ai-funding-news_ai-artificialintelligence-ainews-activity-7518612454940073984-XYUw",
+   "text": "Etched leads our list of private AI chip companies by latest reported valuation, at $21B (Aug 2026).\n\u2800\nSambaNova follows at $11B (Jul 2026), and Tenstorrent moves to third at $6.2B after its Series E this month.\n\u2800\nAlso on the list: Positron AI, Unconventional AI, Groq, Rebellions, d-Matrix, Tensordyne and FuriosaAI. Every valuation shows its date, so older marks are not directly comparable.\n\u2800\nRead more: https://lnkd.in/gHSUYSzF\n\u2800\n\ud83d\udcf0 Subscribe to the AI Funding Brief: https://lnkd.in/gZXd-JiK\n\u2800\n#ai #artificialintelligence #ainews #aifunding",
+   "disc_score": 4,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1792594752
   }
  },
  "baseline": {
   "24": [
-   [
-    1788892835,
-    11
-   ],
-   [
-    1788892835,
-    4
-   ],
-   [
-    1788892835,
-    60
-   ],
-   [
-    1788892835,
-    15
-   ],
    [
     1788902903,
     0
@@ -1821,6 +1835,22 @@
    [
     1792577217,
     0
+   ],
+   [
+    1792594752,
+    28
+   ],
+   [
+    1792594752,
+    0
+   ],
+   [
+    1792594752,
+    0
+   ],
+   [
+    1792594752,
+    5
    ]
   ]
  },
