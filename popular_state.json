@@ -1,39 +1,15 @@
 {
  "watch": {
-  "2112955465730601407": {
-   "created": 1792602814,
-   "author": "AugmentMarkets",
-   "followers": 727,
-   "url": "https://x.com/AugmentMarkets/status/2112955465730601407",
-   "disc_score": 6,
-   "checks": {
-    "1": 6
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1792609827
-  },
-  "2112973192134631934": {
-   "created": 1792607040,
-   "author": "amspector100",
-   "followers": 7882,
-   "url": "https://x.com/amspector100/status/2112973192134631934",
-   "disc_score": 4,
+  "2113019411682431029": {
+   "created": 1792618060,
+   "author": "ned2k_",
+   "followers": 52,
+   "url": "https://x.com/ned2k_/status/2113019411682431029",
+   "disc_score": 1,
    "checks": {},
    "promoted": false,
    "miss": 0,
-   "added": 1792609827
-  },
-  "2112970959607235009": {
-   "created": 1792606508,
-   "author": "aidanmantine",
-   "followers": 5175,
-   "url": "https://x.com/aidanmantine/status/2112970959607235009",
-   "disc_score": 0,
-   "checks": {},
-   "promoted": false,
-   "miss": 0,
-   "added": 1792609827
+   "added": 1792621407
   }
  },
  "baseline": {
