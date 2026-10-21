@@ -1,44 +1,5 @@
 {
  "watch": {
-  "7518016753315176448": {
-   "created": 1792434871,
-   "author": "SFPlayground",
-   "url": "https://www.linkedin.com/posts/sfplayground_sfplayground-industrialai-manufacturing-activity-7518016753315176448-upky",
-   "text": "Last Thursday, SFPlayground brought together founders, investors, engineers, and operators at The Cove in San Francisco for our Industrial AI Summit: The Future of Manufacturing. \ud83c\udfed\ud83e\udd16\n\nFrom AI-powered CAD and automated quality inspection to intelligent procurement and supply chains, the opportunity isn\u2019t simply to automate individual tasks. It\u2019s to connect traditionally fragmented engineering and manufacturing workflows, reducing the time, cost, and complexity of bringing physical products from concept to production.\n\nBut unlike software, physical AI must contend with real-world constraints: reliability, precision, manufacturability, and the cost of failure. The companies that solve these chal",
-   "disc_score": 29,
-   "checks": {
-    "24": 38
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1792440621
-  },
-  "7518024407320223744": {
-   "created": 1792436696,
-   "author": "Raja M.",
-   "url": "https://www.linkedin.com/posts/raja-m-_tenstorrent-hits-62b-valuation-to-scale-activity-7518024407320223744-yF0i",
-   "text": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips \n\nIn Brief\n\nPosted:\n\n11:37 AM PDT \u00b7 October 19, 2026\n\nImage Credits:Tenstorrent\n\nTenstorrent, a chip startup focused on inference, has raised $1.5 billion at a $6.2 billion valuation. The round comes five months after the 10-year-old Nvidia challenger reportedly received acquisition interest from Intel and Qualcomm at valuations of as much as $5 billion.\n\nThe fresh round, which more than doubled Tenstorrent\u2019s valuation from the $2.6 billion it fetched in late 2024, was led by Trace Capital, a new firm launched by Quiet Capital co-founder Ben Mahdavi, and Innovation X. Other backers included Cadence Ventures, Eclipse, Fidelity, Sa",
-   "disc_score": 0,
-   "checks": {
-    "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1792440621
-  },
-  "7518043764771401728": {
-   "created": 1792441312,
-   "author": "Ken Arciga",
-   "url": "https://www.linkedin.com/posts/kenarciga_aichips-tenstorrentgrowth-nvidiarival-activity-7518043764771401728-Tjtp",
-   "text": "The AI Chip War is Alive and Kicking!** \ud83e\udd2f\n\nTenstorrent, an upstart market competitor in AI inference chips, has just raised **$1.5 billion**, boosting its valuation to a staggering **$6.2 billion**! Just months after fielding acquisition interest from Intel and Qualcomm at up to **$5 billion**, Tenstorrent has more than **DOUBLED its valuation** from $2.6 billion in late 2024! \n\nCo-led by Trace Capital and Innovation X, confidence in their vision is sky-high. \u2728  \n\nCEO Jim Keller confirmed their strategy: independence to fuel the future of AI. The new funds will power development and deployment of chips for open-weight AI models and advanced video generation, directly targeting Nvidia's stron",
-   "disc_score": 1,
-   "checks": {
-    "24": 4
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1792443761
-  },
   "7518068728912048128": {
    "created": 1792447263,
    "author": "AI Brief",
@@ -58,7 +19,9 @@
    "url": "https://www.linkedin.com/posts/ignite-core-inc_ignitecore-aihardware-semiconductors-activity-7518171543877767168-o5Ic",
    "text": "Specialized silicon just got a brutal customer test.\n\nThe Tech Buzz reports that Etched, an AI chip startup building ASICs optimized for transformer models, doubled its valuation to $21 billion in a month after Jane Street became the first customer to deploy its specialized AI cluster and then led a new funding round. The bet is familiar: general-purpose GPUs can do everything, while a chip tuned for one architecture can run that workload faster and cheaper. Jane Street\u2019s deployment is framed as an early real-world proof point in the search for Nvidia alternatives.\n\nThat pattern matters outside the chip race too. Products that feel simple to end users usually rest on infrastructure that has ",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 1
+   },
    "promoted": false,
    "miss": 0,
    "added": 1792476118
@@ -69,7 +32,9 @@
    "url": "https://www.linkedin.com/posts/hyungjoon-son-yang-4025a839_today-dream-labs-is-out-of-stealth-with-activity-7518177786503606272-dTvj",
    "text": "4\uc6d4 26\uc77c\uc5d0 \uc7a5\uc694\uc5d8 \ub300\ud45c\ub2d8\uacfc 20\ubd84\uc9dc\ub9ac \ucf5c\uc744 \ud558\uac8c \ub418\uc5c8\uace0, \uadf8 \ubbf8\ud305 \uc911\uac04\uc5d0 \ud22c\uc790\ud558\uace0 \uc2f6\ub2e4\uace0 \ub9d0\uc500\ub4dc\ub838\uc2b5\ub2c8\ub2e4.\n\n\ud55c\uad6d\uc758 20\ub300 \ucc3d\uc5c5\uc790 \uc911\uc5d0 \ubbf8\uad6d\uc5d0\uc11c 20\ub300\ub4e4\uc774 \ucc3d\uc5c5\ud55c Cursor, Mercor, Cognition, Etched \uac19\uc740 \ud68c\uc0ac\ub97c \ub9cc\ub4e4 \ubd84\uc774 \ub098\uc62c \uc218 \ubc16\uc5d0 \uc5c6\uc744 \uac83\uc774\ub77c \ubbff\uc5c8\uace0, \uadf8 \uc21c\uac04\uc5d0 \ub4dc\ub9bc\ub7a9\uc2a4 \uc7a5\uc694\uc5d8 \ub300\ud45c\ub2d8\uc744 \ub9cc\ub0a0 \uc218 \uc788\uc5b4 \ub300\ub2e8\ud788 \uc6b4\uc774 \uc88b\uc558\ub2e4\uace0 \uc0dd\uac01\ud569\ub2c8\ub2e4. \n\n'GPT\ub85c \ucc3e\uc544\ubd10'\uc758 \ub85c\ubd07 \ubc84\uc804\uc744 \ub9cc\ub4ed\ub2c8\ub2e4. \ubca0\uc774\uc2a4\uac00 \ud568\uaed8\ud569\ub2c8\ub2e4! \ud83e\uddbe\n\n* \ud22c\uc790\uc720\uce58 \uae30\uc0ac: https://lnkd.in/gTuQFr_C",
    "disc_score": 2,
-   "checks": {},
+   "checks": {
+    "24": 17
+   },
    "promoted": false,
    "miss": 0,
    "added": 1792476118
@@ -80,7 +45,9 @@
    "url": "https://www.linkedin.com/posts/saasverse-global_aichips-activity-7518204762610118656-956p",
    "text": "Tenstorrent Hits $6.2 B valuation #AIChips\nTenstorrent just closed a $1.5B Series E at a $6.2B post-money valuation \u2014 five months after reportedly walking away from acquisition interest from Intel and Qualcomm at ~$5B.\n\nLed by Trace Capital and Innovation X, with 15 co-investors including ARK Investment Management LLC, Fidelity Investments, Morgan Stanley, T. Rowe Price, Sandisk, Cadence, Eclipse \u2014 and Tether Investments.\n\nThe bet, in one line: inference doesn't have to run on NVIDIA. RISC-V instead of licensed ISA. GDDR6 instead of HBM. Ethernet scale-out instead of NVLink. Open software stack instead of CUDA lock-in.\nThe turning point was May 1: Galaxy Blackhole servers running DeepSeek R1",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 1
+   },
    "promoted": false,
    "miss": 0,
    "added": 1792481845
@@ -124,7 +91,9 @@
    "url": "https://www.linkedin.com/posts/dhairya-caard_i-asked-cory-levy-which-2-qualities-are-activity-7518227203575394304-X37A",
    "text": "I asked Cory Levy \nwhich 2 qualities are the scarcest in founders\n\nLast Wednesday I took a spontaneous trip to Munich to meet him.\n\nCory founded Z Fellows. He backed the builders behind Cursor, Cognition and Etched before anyone knew their names, and was a first believer in Ramp and Vise.\n\nHis answer \u201cCare and impatience.\u201d\n\nImpatience as in people who move very, very fast with everything. Care as in caring about the problem and being fully yourself, quirks included.\n\nThat one made me smile.\nMy name, Dhairya, means patience. \nI was born without it :)\n\n3 more things:\n\n\u2192 You need heat-seeking and endurance\nSam spent 7 years on Loopt before OpenAI. \u201cIt\u2019s okay to not know.\u201d\n\n\u2192 Solve what\u2019s 6 inch",
    "disc_score": 10,
-   "checks": {},
+   "checks": {
+    "24": 31
+   },
    "promoted": false,
    "miss": 0,
    "added": 1792496090
@@ -216,26 +185,54 @@
    "promoted": false,
    "miss": 0,
    "added": 1792557885
+  },
+  "7518585628016685056": {
+   "created": 1792570502,
+   "author": "Keugene Lee",
+   "url": "https://www.linkedin.com/posts/keugene-lee-286246268_roy-lee-so-inspirational-man-after-rewatching-activity-7518585628016685056-LznO",
+   "text": "Roy Lee, so inspirational man. After rewatching his NYU talk for the second time, Ive decided to go all in on Understudy and go all in on social media and virality to hit $10 mil ARR! Roy Lee is truly my hero, my Andrew Tate, my David Goggins. When Im feeling down, I watch his old videos and get inspired to take over the world \n\nHere are some reasons why Im taking the risk to make this startup: \n\n1. It is my dream to make a startup! It would be amazing to work on my startup everyday, make those Stripe dashboards go up, and make my dream a reality. Living the startup life is the coolest possible dimension to live in! Roy Lee has met so many startup founders! I want to meet these cool guys, Ro",
+   "disc_score": 1,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1792576516
+  },
+  "7518535898997760000": {
+   "created": 1792558645,
+   "author": "Shafwan Safi",
+   "url": "https://www.linkedin.com/posts/shafwan-safi_crukx-started-as-an-observability-company-activity-7518535898997760000-gNoH",
+   "text": "Crukx started as an observability company.\n\nThen we realised watching wasted compute wasn\u2019t interesting enough.\n\nSo we decided to remove it.\nToday: 7B exact fine-tune swaps in 92\u2013137ms.\n2.4\u20133.7\u00d7 smaller RL updates in our NVIDIA-format benchmark.\n\nBit-exact models. Same outputs.\nOne base. Many models. Less infrastructure.\n\nWe\u2019re opening Crukx to a few serious AI teams and research labs.\n\nNVIDIA   Hugging Face   Fireworks AI   Together AI   Baseten   Etched   CoreWeave  Solari Pinetree Research \n\nBring us the workload that hurts.\ncrukx.tech",
+   "disc_score": 18,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1792576516
+  },
+  "7518589582100307968": {
+   "created": 1792571445,
+   "author": "The Brandingverse",
+   "url": "https://www.linkedin.com/posts/the-brandingverse_design-branding-visualidentity-activity-7518589582100307968-NGBT",
+   "text": "Branding for DVC by Daniil Sergeev\n\nBranding and web design for DVC, a fund that brings together 190+ investors and has backed 120 AI startups, including Perplexity AI, Etched, and Thinking Machines Lab. The brand identity centers on multilayered and color cluster visuals, symbolizing a community of engineers, founders, and angels, all managed by a family of founders.\n\n\ud83d\udccc Save this one for inspo.\u00a0\n\u267b\ufe0f Share it with every designer you know.\n\n#design #branding #visualidentity",
+   "disc_score": 1,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1792576516
+  },
+  "7518536976522907649": {
+   "created": 1792558902,
+   "author": "TechBiz",
+   "url": "https://www.linkedin.com/posts/techbiz_ai-chips-tenstorrent-activity-7518536976522907649-jvG4",
+   "text": "Tenstorrent closed a $1.5 billion round at a $6.2 billion valuation on October 20, per TechCrunch. CEO Jim Keller's decision to stay independent after Intel and Qualcomm buyout interest signals confidence in inference chips for open-weight models. With capital flowing to AI hardware startups like Etched, the race for a credible Nvidia alternative is entering volume production.\n#AI #Chips #Tenstorrent #TechBiz",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1792576516
   }
  },
  "baseline": {
   "24": [
-   [
-    1788714106,
-    7
-   ],
-   [
-    1788776249,
-    0
-   ],
-   [
-    1788822207,
-    0
-   ],
-   [
-    1788860477,
-    18
-   ],
    [
     1788892835,
     54
@@ -1819,6 +1816,22 @@
    [
     1792540339,
     11
+   ],
+   [
+    1792576516,
+    1
+   ],
+   [
+    1792576516,
+    17
+   ],
+   [
+    1792576516,
+    1
+   ],
+   [
+    1792576516,
+    31
    ]
   ]
  },
