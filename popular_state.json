@@ -1,25 +1,21 @@
 {
  "watch": {
-  "2112731060954071049": {
-   "created": 1792549312,
-   "author": "cauliflwr_human",
-   "followers": 1794,
-   "url": "https://x.com/cauliflwr_human/status/2112731060954071049",
-   "disc_score": 3,
+  "2112819621040398768": {
+   "created": 1792570426,
+   "author": "KeugeneLee",
+   "followers": 48,
+   "url": "https://x.com/KeugeneLee/status/2112819621040398768",
+   "disc_score": 0,
    "checks": {
-    "1": 3
+    "1": 0
    },
    "promoted": false,
    "miss": 0,
-   "added": 1792558180
+   "added": 1792576402
   }
  },
  "baseline": {
   "1": [
-   [
-    1787638881,
-    0.7
-   ],
    [
     1787638881,
     0.7
@@ -1615,6 +1611,10 @@
    [
     1792558181,
     3
+   ],
+   [
+    1792576407,
+    0
    ]
   ]
  },
