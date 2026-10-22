@@ -1,57 +1,5 @@
 {
  "watch": {
-  "7518585628016685056": {
-   "created": 1792570502,
-   "author": "Keugene Lee",
-   "url": "https://www.linkedin.com/posts/keugene-lee-286246268_roy-lee-so-inspirational-man-after-rewatching-activity-7518585628016685056-LznO",
-   "text": "Roy Lee, so inspirational man. After rewatching his NYU talk for the second time, Ive decided to go all in on Understudy and go all in on social media and virality to hit $10 mil ARR! Roy Lee is truly my hero, my Andrew Tate, my David Goggins. When Im feeling down, I watch his old videos and get inspired to take over the world \n\nHere are some reasons why Im taking the risk to make this startup: \n\n1. It is my dream to make a startup! It would be amazing to work on my startup everyday, make those Stripe dashboards go up, and make my dream a reality. Living the startup life is the coolest possible dimension to live in! Roy Lee has met so many startup founders! I want to meet these cool guys, Ro",
-   "disc_score": 1,
-   "checks": {
-    "24": 1
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1792576516
-  },
-  "7518589582100307968": {
-   "created": 1792571445,
-   "author": "The Brandingverse",
-   "url": "https://www.linkedin.com/posts/the-brandingverse_design-branding-visualidentity-activity-7518589582100307968-NGBT",
-   "text": "Branding for DVC by Daniil Sergeev\n\nBranding and web design for DVC, a fund that brings together 190+ investors and has backed 120 AI startups, including Perplexity AI, Etched, and Thinking Machines Lab. The brand identity centers on multilayered and color cluster visuals, symbolizing a community of engineers, founders, and angels, all managed by a family of founders.\n\n\ud83d\udccc Save this one for inspo.\u00a0\n\u267b\ufe0f Share it with every designer you know.\n\n#design #branding #visualidentity",
-   "disc_score": 1,
-   "checks": {
-    "24": 12
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1792576516
-  },
-  "7518610013012291584": {
-   "created": 1792576316,
-   "author": "Vladislav Fedoseev",
-   "url": "https://www.linkedin.com/posts/vladislav-fedoseev-allformance_not-another-word-about-ai-seriously-for-activity-7518610013012291584-99_i",
-   "text": "Not another word about AI. Seriously.\nFor the rest of this post, I'm calling it \u00abZhiza\u00bb. It's Russian slang for something painfully relatable. And right now, it really is.\n\u00abZhiza\u00bb is changing the rules of the game, and we're seeing just how much stress and uncertainty this creates, even for highly experienced founders.\nWhere is your moat if someone can replicate your product in a week?\n\u00abZhiza\u00bb budgets keep growing, but are they actually delivering ROI?\nWhat should we still pay humans to do, and how should we divide responsibility between people and \u00abZhiza\u00bb agents?\nOn October 22\u201323, R-Founders, a global community for entrepreneurs, CEOs, and business leaders, is hosting a major online confere",
-   "disc_score": 20,
-   "checks": {
-    "24": 35
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1792594752
-  },
-  "7518612454940073984": {
-   "created": 1792576898,
-   "author": "AI Funding News",
-   "url": "https://www.linkedin.com/posts/ai-funding-news_ai-artificialintelligence-ainews-activity-7518612454940073984-XYUw",
-   "text": "Etched leads our list of private AI chip companies by latest reported valuation, at $21B (Aug 2026).\n\u2800\nSambaNova follows at $11B (Jul 2026), and Tenstorrent moves to third at $6.2B after its Series E this month.\n\u2800\nAlso on the list: Positron AI, Unconventional AI, Groq, Rebellions, d-Matrix, Tensordyne and FuriosaAI. Every valuation shows its date, so older marks are not directly comparable.\n\u2800\nRead more: https://lnkd.in/gHSUYSzF\n\u2800\n\ud83d\udcf0 Subscribe to the AI Funding Brief: https://lnkd.in/gZXd-JiK\n\u2800\n#ai #artificialintelligence #ainews #aifunding",
-   "disc_score": 4,
-   "checks": {
-    "24": 5
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1792594752
-  },
   "7518719155160649728": {
    "created": 1792602337,
    "author": "Djavad Amiri",
@@ -106,7 +54,9 @@
    "url": "https://www.linkedin.com/posts/raja-m-_blackstones-jas-khaira-says-fears-over-ai-buildout-activity-7518809539492696064-pmb-",
    "text": "Blackstone\u2019s Jas Khaira says fears over AI-buildout debt are overblown \n\nPrivate equity giant Blackstone is putting itself at the center of the AI boom, firm veteran Jas Khaira discussed last week on stage at TechCrunch Disrupt. \n\nIt is writing checks via various strategies, ranging from offering massive loans to data centers to investing in frontier AI models and applications.\n\nEarlier this year, the firm launched Blackstone N1 (BXN1), a San Francisco-based central hub for its AI initiatives. The group is led by Khaira, who relocated from New York to be at the epicenter of AI.\n\nUnlike earlier tech cycles such as mobile or SaaS, which allowed companies to reach significant scale with moderat",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1792644136
@@ -158,10 +108,6 @@
  },
  "baseline": {
   "24": [
-   [
-    1789045490,
-    21
-   ],
    [
     1789045490,
     0
@@ -1757,6 +1703,10 @@
    [
     1792699181,
     22
+   ],
+   [
+    1792710529,
+    0
    ]
   ]
  },
