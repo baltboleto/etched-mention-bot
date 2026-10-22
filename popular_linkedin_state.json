@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7518365884726345728": {
-   "created": 1792518111,
-   "author": "Jean Lucca Aleskovich BA, PMP\u00ae",
-   "url": "https://www.linkedin.com/posts/jean-lucca-aleskovich-0036_semiconductors-osat-advancedpackaging-activity-7518365884726345728-cb-p",
-   "text": "\ud83d\udea8 America is funding the next generation of AI chips. But who will package, assemble and test them?\n\nThe U.S. semiconductor startup ecosystem is accelerating.\nOn October 19, Tenstorrent announced $1.5 billion in new funding to scale its AI computing business. Etched has raised substantial capital to scale its inference hardware. Ayar Labs is preparing its optical interconnect technology for high-volume manufacturing.\nAnd they are not alone.\n\n\ud83e\udde0 Some of the companies shaping the 2026 semiconductor landscape:\n\u2022 Tenstorrent \u2014 RISC-V CPUs and AI accelerators\n\u2022 Etched \u2014 specialized AI inference chips\n\u2022 Positron AI \u2014 memory-centric AI inference hardware\n\u2022 Cerebras \u2014 wafer-scale AI processors\n\u2022 Groq",
-   "disc_score": 16,
-   "checks": {
-    "24": 29
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1792528492
-  },
   "7518405150693154816": {
    "created": 1792527473,
    "author": "Jure Snoj",
@@ -47,7 +34,7 @@
    "disc_score": 0,
    "checks": {},
    "promoted": false,
-   "miss": 1,
+   "miss": 2,
    "added": 1792557885
   },
   "7518585628016685056": {
@@ -67,7 +54,9 @@
    "url": "https://www.linkedin.com/posts/shafwan-safi_crukx-started-as-an-observability-company-activity-7518535898997760000-gNoH",
    "text": "Crukx started as an observability company.\n\nThen we realised watching wasted compute wasn\u2019t interesting enough.\n\nSo we decided to remove it.\nToday: 7B exact fine-tune swaps in 92\u2013137ms.\n2.4\u20133.7\u00d7 smaller RL updates in our NVIDIA-format benchmark.\n\nBit-exact models. Same outputs.\nOne base. Many models. Less infrastructure.\n\nWe\u2019re opening Crukx to a few serious AI teams and research labs.\n\nNVIDIA   Hugging Face   Fireworks AI   Together AI   Baseten   Etched   CoreWeave  Solari Pinetree Research \n\nBring us the workload that hurts.\ncrukx.tech",
    "disc_score": 18,
-   "checks": {},
+   "checks": {
+    "24": 32
+   },
    "promoted": false,
    "miss": 0,
    "added": 1792576516
@@ -89,7 +78,9 @@
    "url": "https://www.linkedin.com/posts/techbiz_ai-chips-tenstorrent-activity-7518536976522907649-jvG4",
    "text": "Tenstorrent closed a $1.5 billion round at a $6.2 billion valuation on October 20, per TechCrunch. CEO Jim Keller's decision to stay independent after Intel and Qualcomm buyout interest signals confidence in inference chips for open-weight models. With capital flowing to AI hardware startups like Etched, the race for a credible Nvidia alternative is entering volume production.\n#AI #Chips #Tenstorrent #TechBiz",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1792576516
@@ -174,14 +165,6 @@
  },
  "baseline": {
   "24": [
-   [
-    1788952932,
-    4
-   ],
-   [
-    1788970321,
-    52
-   ],
    [
     1788981563,
     39
@@ -1773,6 +1756,14 @@
    [
     1792644136,
     13
+   ],
+   [
+    1792648231,
+    32
+   ],
+   [
+    1792648231,
+    0
    ]
   ]
  },
