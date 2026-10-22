@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7518405150693154816": {
-   "created": 1792527473,
-   "author": "Jure Snoj",
-   "url": "https://www.linkedin.com/posts/jure-snoj-5aa8311a4_our-results-from-j%C3%BClich-show-how-quantum-activity-7518405150693154816-67St",
-   "text": "Interesting pattern with compute I keep seeing.  \n\nSo NVIDIA just used 8k GPUs to simulate a quantum computer that doesn't exist yet.  \n\nThe pattern is chips built for a specialized usecase solving problems better then general compute, and almost all one of them still needs GPUs to work.  \n\nEveryone's heard of the inference chips, Groq, Etched, Cerebras, plus the hyperscalers' own, TPUs, Trainium, Maia.  As well as the large labs adding chips built for fast inference, but they still train their models on GPUs.  \n\nAnd it's happening in every frontier field.  \n\nIn Quantum, if you know anything about it, it\u2019s that you need a lot of error correcting, so they need GPUs next to them fixing those e",
-   "disc_score": 1,
-   "checks": {
-    "24": 1
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1792540339
-  },
   "7518516524312182784": {
    "created": 1792554026,
    "author": "Li Liu",
@@ -26,24 +13,15 @@
    "miss": 0,
    "added": 1792557885
   },
-  "7518517724042567680": {
-   "created": 1792554312,
-   "author": "Amit Mangal",
-   "url": "https://www.linkedin.com/posts/amitmangal_ai-funding-activity-7518517724042567680-69xr",
-   "text": "One quarter. $159 billion in venture funding. A record 27 cheques of $1 billion or more.\n\nSo where is AI money actually going? \n\nWe tracked 36 deals over the last 3 months. Five clear lanes:\n\n1. Frontier labs: SSI $5B (reported), Moonshot $3.5B, Mistral ~$3.5B, River AI $1.1B\n2. Compute, chips and data centres: Crusoe $3.9B, Firmus $2B, Tenstorrent $1.5B, Positron $875M, Etched $700M\n3. Data and agent infrastructure: Databricks $5B, Temporal $550M, Zenity $125M, Daytona $60M\n4. Coding agents: Cognition $2B, Factory $200M, CodeRabbit $143M\n5. Enterprise and vertical agents: Wonderful $550M, EliseAI $350M, HappyRobot $150M, Town $108M, Ema $77M\n\nAnd it is no longer just equity. Waymo closed it",
-   "disc_score": 0,
-   "checks": {},
-   "promoted": false,
-   "miss": 2,
-   "added": 1792557885
-  },
   "7518585628016685056": {
    "created": 1792570502,
    "author": "Keugene Lee",
    "url": "https://www.linkedin.com/posts/keugene-lee-286246268_roy-lee-so-inspirational-man-after-rewatching-activity-7518585628016685056-LznO",
    "text": "Roy Lee, so inspirational man. After rewatching his NYU talk for the second time, Ive decided to go all in on Understudy and go all in on social media and virality to hit $10 mil ARR! Roy Lee is truly my hero, my Andrew Tate, my David Goggins. When Im feeling down, I watch his old videos and get inspired to take over the world \n\nHere are some reasons why Im taking the risk to make this startup: \n\n1. It is my dream to make a startup! It would be amazing to work on my startup everyday, make those Stripe dashboards go up, and make my dream a reality. Living the startup life is the coolest possible dimension to live in! Roy Lee has met so many startup founders! I want to meet these cool guys, Ro",
    "disc_score": 1,
-   "checks": {},
+   "checks": {
+    "24": 1
+   },
    "promoted": false,
    "miss": 0,
    "added": 1792576516
@@ -67,7 +45,9 @@
    "url": "https://www.linkedin.com/posts/the-brandingverse_design-branding-visualidentity-activity-7518589582100307968-NGBT",
    "text": "Branding for DVC by Daniil Sergeev\n\nBranding and web design for DVC, a fund that brings together 190+ investors and has backed 120 AI startups, including Perplexity AI, Etched, and Thinking Machines Lab. The brand identity centers on multilayered and color cluster visuals, symbolizing a community of engineers, founders, and angels, all managed by a family of founders.\n\n\ud83d\udccc Save this one for inspo.\u00a0\n\u267b\ufe0f Share it with every designer you know.\n\n#design #branding #visualidentity",
    "disc_score": 1,
-   "checks": {},
+   "checks": {
+    "24": 12
+   },
    "promoted": false,
    "miss": 0,
    "added": 1792576516
@@ -91,7 +71,9 @@
    "url": "https://www.linkedin.com/posts/vladislav-fedoseev-allformance_not-another-word-about-ai-seriously-for-activity-7518610013012291584-99_i",
    "text": "Not another word about AI. Seriously.\nFor the rest of this post, I'm calling it \u00abZhiza\u00bb. It's Russian slang for something painfully relatable. And right now, it really is.\n\u00abZhiza\u00bb is changing the rules of the game, and we're seeing just how much stress and uncertainty this creates, even for highly experienced founders.\nWhere is your moat if someone can replicate your product in a week?\n\u00abZhiza\u00bb budgets keep growing, but are they actually delivering ROI?\nWhat should we still pay humans to do, and how should we divide responsibility between people and \u00abZhiza\u00bb agents?\nOn October 22\u201323, R-Founders, a global community for entrepreneurs, CEOs, and business leaders, is hosting a major online confere",
    "disc_score": 20,
-   "checks": {},
+   "checks": {
+    "24": 35
+   },
    "promoted": false,
    "miss": 0,
    "added": 1792594752
@@ -102,7 +84,9 @@
    "url": "https://www.linkedin.com/posts/ai-funding-news_ai-artificialintelligence-ainews-activity-7518612454940073984-XYUw",
    "text": "Etched leads our list of private AI chip companies by latest reported valuation, at $21B (Aug 2026).\n\u2800\nSambaNova follows at $11B (Jul 2026), and Tenstorrent moves to third at $6.2B after its Series E this month.\n\u2800\nAlso on the list: Positron AI, Unconventional AI, Groq, Rebellions, d-Matrix, Tensordyne and FuriosaAI. Every valuation shows its date, so older marks are not directly comparable.\n\u2800\nRead more: https://lnkd.in/gHSUYSzF\n\u2800\n\ud83d\udcf0 Subscribe to the AI Funding Brief: https://lnkd.in/gZXd-JiK\n\u2800\n#ai #artificialintelligence #ainews #aifunding",
    "disc_score": 4,
-   "checks": {},
+   "checks": {
+    "24": 5
+   },
    "promoted": false,
    "miss": 0,
    "added": 1792594752
@@ -161,26 +145,32 @@
    "promoted": false,
    "miss": 0,
    "added": 1792644136
+  },
+  "7518914403145019392": {
+   "created": 1792648888,
+   "author": "Next in Branding",
+   "url": "https://www.linkedin.com/posts/next-in-branding_dvc-venturebranding-nextinbranding-activity-7518914403145019392-AknD",
+   "text": "\ud83d\udca5 DVC by Daniil Sergeev\n\nWhat does a venture fund look like when the portfolio is the proof and the community is the product?\n\nDVC operates at a genuinely interesting intersection in the AI investment landscape: 190+ investors, 120 backed startups, and a portfolio that includes Perplexity AI, Etched, and Thinking Machines Lab \u2014 the kind of names that do considerable brand work on their own. But the identity brief goes deeper than portfolio credentials. A fund managed by a family of founders, built around a community of engineers, founders, and angels, is a fundamentally different organism than a traditional venture structure. The multilayered color cluster visuals understand that distinction",
+   "disc_score": 3,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1792663862
+  },
+  "7518892310475046913": {
+   "created": 1792643621,
+   "author": "\u682a\u5f0f\u4f1a\u793e\u30a2\u30b9\u30af\u300c\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u30fb\u30bd\u30ea\u30e5\u30fc\u30b7\u30e7\u30f3\u90e8\u300d ASK_SSD",
+   "url": "https://www.linkedin.com/posts/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A2%E3%82%B9%E3%82%AF%E3%80%8C%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%BB%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E9%83%A8%E3%80%8D-ask-ssd-63b540228_ai-brief-stay-updated-on-ai-news-activity-7518892310475046913-gf7U",
+   "text": "Daily AI Brief\u306f\u3001\u672a\u4e0a\u5834AI\u534a\u5c0e\u4f53\u4f01\u696d10\u793e\u306e\u6700\u65b0\u516c\u8868\u8a55\u4fa1\u984d\u3092\u7d39\u4ecb\u3057\u3066\u3044\u307e\u3059\u3002Etched\u304c210\u5104\u30c9\u30eb\u3001SambaNova\u304c110\u5104\u30c9\u30eb\u3001Tenstorrent\u304c62\u5104\u30c9\u30eb\u3067\u4e0a\u4f4d\u306b\u5165\u308a\u3001\u5404\u793e\u306e\u6280\u8853\u3084\u4e8b\u696d\u6226\u7565\u3082\u6574\u7406\u3002\u8a55\u4fa1\u6642\u70b9\u3084\u7b97\u5b9a\u57fa\u6e96\u304c\u7570\u306a\u308b\u305f\u3081\u3001\u5358\u7d14\u6bd4\u8f03\u3067\u304d\u306a\u3044\u70b9\u306b\u3082\u7559\u610f\u3092\u4fc3\u3057\u3066\u3044\u307e\u3059\u3002\n\nhttps://x.gd/JUspF",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1792663862
   }
  },
  "baseline": {
   "24": [
-   [
-    1788981563,
-    39
-   ],
-   [
-    1788981563,
-    5
-   ],
-   [
-    1788990728,
-    0
-   ],
-   [
-    1789028829,
-    0
-   ],
    [
     1789039071,
     1
@@ -1764,6 +1754,22 @@
    [
     1792648231,
     0
+   ],
+   [
+    1792663862,
+    1
+   ],
+   [
+    1792663862,
+    12
+   ],
+   [
+    1792663862,
+    35
+   ],
+   [
+    1792663862,
+    5
    ]
   ]
  },
