@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7518516524312182784": {
-   "created": 1792554026,
-   "author": "Li Liu",
-   "url": "https://www.linkedin.com/posts/li-liu-7ab700236_robots-are-eating-all-the-venture-money-and-activity-7518516524312182784-hdo4",
-   "text": "robots are eating all the venture money and nobody's talking about it\n\nphysical AI funding hit $47.4B across 521 deals in just the first half of 2026.\n\nXPENG Robotics just raised $900M+ in its first round, valued above $6.3B, the largest embodied-AI round ever.\n\nNvidia dropped $1B into Poolside in a deal reportedly worth $7B, pushing Poolside's valuation to $12B.\n\nGeneral Intuition is seeking a $6B pre-money valuation for physical AI training, a 161% jump.\n\nAlibaba raised $10.2B to fund full-stack AI, plus another HK$80B follow-on share sale.\n\nStandard Bots pulled in $63M Series B for AI-native robotics.\n\nEtched doubled its valuation to $21B.\n\nthe median robotics Series A check is now $5.2M ",
-   "disc_score": 13,
-   "checks": {
-    "24": 13
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1792557885
-  },
   "7518585628016685056": {
    "created": 1792570502,
    "author": "Keugene Lee",
@@ -26,19 +13,6 @@
    "miss": 0,
    "added": 1792576516
   },
-  "7518535898997760000": {
-   "created": 1792558645,
-   "author": "Shafwan Safi",
-   "url": "https://www.linkedin.com/posts/shafwan-safi_crukx-started-as-an-observability-company-activity-7518535898997760000-gNoH",
-   "text": "Crukx started as an observability company.\n\nThen we realised watching wasted compute wasn\u2019t interesting enough.\n\nSo we decided to remove it.\nToday: 7B exact fine-tune swaps in 92\u2013137ms.\n2.4\u20133.7\u00d7 smaller RL updates in our NVIDIA-format benchmark.\n\nBit-exact models. Same outputs.\nOne base. Many models. Less infrastructure.\n\nWe\u2019re opening Crukx to a few serious AI teams and research labs.\n\nNVIDIA   Hugging Face   Fireworks AI   Together AI   Baseten   Etched   CoreWeave  Solari Pinetree Research \n\nBring us the workload that hurts.\ncrukx.tech",
-   "disc_score": 18,
-   "checks": {
-    "24": 32
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1792576516
-  },
   "7518589582100307968": {
    "created": 1792571445,
    "author": "The Brandingverse",
@@ -47,19 +21,6 @@
    "disc_score": 1,
    "checks": {
     "24": 12
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1792576516
-  },
-  "7518536976522907649": {
-   "created": 1792558902,
-   "author": "TechBiz",
-   "url": "https://www.linkedin.com/posts/techbiz_ai-chips-tenstorrent-activity-7518536976522907649-jvG4",
-   "text": "Tenstorrent closed a $1.5 billion round at a $6.2 billion valuation on October 20, per TechCrunch. CEO Jim Keller's decision to stay independent after Intel and Qualcomm buyout interest signals confidence in inference chips for open-weight models. With capital flowing to AI hardware startups like Etched, the race for a credible Nvidia alternative is entering volume production.\n#AI #Chips #Tenstorrent #TechBiz",
-   "disc_score": 0,
-   "checks": {
-    "24": 0
    },
    "promoted": false,
    "miss": 0,
@@ -97,8 +58,10 @@
    "url": "https://www.linkedin.com/posts/djavad-amiri-9034062_im-happy-to-share-that-ive-joined-etched-activity-7518719155160649728-SF2H",
    "text": "I'm happy to share that I've joined Etched as a Member of Technical Staff.\nAfter years in semiconductors, I'm excited to join a team pushing the boundaries of AI hardware, and I look forward to contributing to the work ahead.",
    "disc_score": 45,
-   "checks": {},
-   "promoted": false,
+   "checks": {
+    "24": 188
+   },
+   "promoted": true,
    "miss": 0,
    "added": 1792609990
   },
@@ -108,7 +71,9 @@
    "url": "https://www.linkedin.com/posts/augmentmarkets_the-q326-power-20-is-out-four-companies-activity-7518721159476088833-VqHI",
    "text": "The Q3'26 Power 20 is out.\n\nFour companies entered the rankings this quarter, all of them AI: Fireworks AI , Etched , Baseten and Higgsfield AI. Canva , Polymarket , Rippling and Perplexity dropped out. AI companies now hold 11 of the 20 places, up from eight in Q2.\n\nAnthropic kept the top spot. OpenAI moved ahead of Anduril Industries into second. Cognition climbed ten places to #10, the largest move among returning companies, and Etched entered at #18 with the list's largest estimated price gain, +152%.\n\nRankings as of September 30, 2026. Twenty profiles, eight honorable mentions and the full methodology: https://lnkd.in/evr9543a",
    "disc_score": 20,
-   "checks": {},
+   "checks": {
+    "24": 22
+   },
    "promoted": false,
    "miss": 0,
    "added": 1792609990
@@ -178,18 +143,21 @@
    "promoted": false,
    "miss": 0,
    "added": 1792668024
+  },
+  "7519114996765679616": {
+   "created": 1792696713,
+   "author": "Nilesh J.",
+   "url": "https://www.linkedin.com/feed/update/urn:li:groupPost:8272476-7519114995649970176",
+   "text": "Training an AI model happens once. Running it never stops.\n\nThat is why AI inference, the work of answering every prompt, search and agent request, has become one of the largest markets in technology.\n\n\u2705 The AI inference market is worth USD 116.06B in 2026 and is projected to reach USD 354.25B by 2035, growing 13.2% a year. Inference now takes roughly two-thirds of all AI compute, up from about a third in 2023.\n\nThe race is changing shape. Nvidia paid USD 20B to license Groq's inference technology, Google and Amazon are scaling their own chips, and challengers like Cerebras, SambaNova and Etched raised billions this year.\n\nThe real constraints are no longer compute alone. Memory and power no",
+   "disc_score": 1,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1792699181
   }
  },
  "baseline": {
   "24": [
-   [
-    1789039071,
-    1
-   ],
-   [
-    1789039071,
-    38
-   ],
    [
     1789045490,
     21
@@ -1781,6 +1749,14 @@
    [
     1792663862,
     5
+   ],
+   [
+    1792699181,
+    188
+   ],
+   [
+    1792699181,
+    22
    ]
   ]
  },
@@ -1984,6 +1960,11 @@
    1792476118,
    "7517823237435609088",
    183
+  ],
+  [
+   1792699181,
+   "7518719155160649728",
+   188
   ]
  ],
  "seeded": true
