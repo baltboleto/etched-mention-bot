@@ -26,19 +26,6 @@
    "miss": 0,
    "added": 1792644136
   },
-  "7518809539492696064": {
-   "created": 1792623886,
-   "author": "Raja M.",
-   "url": "https://www.linkedin.com/posts/raja-m-_blackstones-jas-khaira-says-fears-over-ai-buildout-activity-7518809539492696064-pmb-",
-   "text": "Blackstone\u2019s Jas Khaira says fears over AI-buildout debt are overblown \n\nPrivate equity giant Blackstone is putting itself at the center of the AI boom, firm veteran Jas Khaira discussed last week on stage at TechCrunch Disrupt. \n\nIt is writing checks via various strategies, ranging from offering massive loans to data centers to investing in frontier AI models and applications.\n\nEarlier this year, the firm launched Blackstone N1 (BXN1), a San Francisco-based central hub for its AI initiatives. The group is led by Khaira, who relocated from New York to be at the epicenter of AI.\n\nUnlike earlier tech cycles such as mobile or SaaS, which allowed companies to reach significant scale with moderat",
-   "disc_score": 0,
-   "checks": {
-    "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1792644136
-  },
   "7518914403145019392": {
    "created": 1792648888,
    "author": "Next in Branding",
@@ -71,7 +58,9 @@
    "url": "https://www.linkedin.com/posts/the-fab-analyst_aihardware-aicomputing-semiconductors-activity-7518985982344376320-2jP7",
    "text": "\ud835\udc00\ud835\udc08 \ud835\udc02\ud835\udc28\ud835\udc26\ud835\udc29\ud835\udc2e\ud835\udc2d\ud835\udc22\ud835\udc27\ud835\udc20 \ud835\udc07\ud835\udc1a\ud835\udc2b\ud835\udc1d\ud835\udc30\ud835\udc1a\ud835\udc2b\ud835\udc1e \ud835\udc0c\ud835\udc1a\ud835\udc2b\ud835\udc24\ud835\udc1e\ud835\udc2d 2025\u20132033: \ud835\udc06\ud835\udc25\ud835\udc28\ud835\udc1b\ud835\udc1a\ud835\udc25 \ud835\udc11\ud835\udc1e\ud835\udc2c\ud835\udc1e\ud835\udc1a\ud835\udc2b\ud835\udc1c\ud835\udc21 \ud835\udc11\ud835\udc1e\ud835\udc29\ud835\udc28\ud835\udc2b\ud835\udc2d. \ud835\udc11\ud835\udc1e\ud835\udc2a\ud835\udc2e\ud835\udc1e\ud835\udc2c\ud835\udc2d \ud835\udc1f\ud835\udc28\ud835\udc2b \ud835\udc12\ud835\udc1a\ud835\udc26\ud835\udc29\ud835\udc25\ud835\udc1e \ud835\udc02\ud835\udc28\ud835\udc29\ud835\udc32:\nhttps://lnkd.in/d53kYiXY (\ud835\udc14\ud835\udc2c\ud835\udc1e \ud835\udc0e\ud835\udc27\ud835\udc25\ud835\udc32 \ud835\udc02\ud835\udc28\ud835\udc2b\ud835\udc29\ud835\udc28\ud835\udc2b\ud835\udc1a\ud835\udc2d\ud835\udc1e \ud835\udc0c\ud835\udc1a\ud835\udc22\ud835\udc25 \ud835\udc08\ud835\udc03 \ud835\udc05\ud835\udc28\ud835\udc2b \ud835\udc05\ud835\udc2b\ud835\udc1e\ud835\udc1e \ud835\udc00\ud835\udc1c\ud835\udc1c\ud835\udc1e\ud835\udc2c\ud835\udc2c)\n\n\ud83d\udcca The broader global AI hardware market was valued at approximately USD 53.71 billion in 2023 and is projected to reach USD 473.53 billion by 2033, representing a reported 24.5% CAGR. These figures cover AI hardware broadly rather than AI computing hardware alone.\nAI workloads are reshaping semiconductor demand, from GPU-based training clusters to inference accelerators and edge-computing platforms. As enterprises scale generative AI, computing performance, memory bandwidth, power efficiency, and thermal management are becoming critic",
    "disc_score": 1,
-   "checks": {},
+   "checks": {
+    "24": 6
+   },
    "promoted": false,
    "miss": 0,
    "added": 1792668024
@@ -101,10 +90,6 @@
  },
  "baseline": {
   "24": [
-   [
-    1789057456,
-    31
-   ],
    [
     1789068989,
     28
@@ -1700,6 +1685,10 @@
    [
     1792737100,
     15
+   ],
+   [
+    1792756903,
+    6
    ]
   ]
  },
