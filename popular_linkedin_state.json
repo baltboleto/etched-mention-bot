@@ -86,6 +86,17 @@
    "promoted": false,
    "miss": 0,
    "added": 1792699181
+  },
+  "7519268897271910400": {
+   "created": 1792733406,
+   "author": "Guillermo Ruiz",
+   "url": "https://www.linkedin.com/posts/gruizesteban_aicompute-cuda-acceleratedcomputing-activity-7519268897271910400-VWyt",
+   "text": "This week, Google open-sourced TorchTPU and Amazon Web Services (AWS) open-sourced TorchNeuron. Two announcements and different accelerators, but similar idea: keep the developer experience familiar while changing the silicon underneath.\n\nAnd they are not alone. AMD, Intel, Modular, a Qualcomm company, Tenstorrent, Etched, MatX and others are approaching the AI compute stack from different angles.\n\nSo I tried to put the pieces together. Maybe the question is no longer \"Can I run this without CUDA?\" and we should start asking: \"What\u2019s the best piece of silicon for this workload?\"\n\n#AICompute #CUDA #AcceleratedComputing",
+   "disc_score": 19,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1792749820
   }
  },
  "baseline": {
