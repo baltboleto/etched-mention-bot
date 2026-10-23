@@ -1,31 +1,5 @@
 {
  "watch": {
-  "7518719155160649728": {
-   "created": 1792602337,
-   "author": "Djavad Amiri",
-   "url": "https://www.linkedin.com/posts/djavad-amiri-9034062_im-happy-to-share-that-ive-joined-etched-activity-7518719155160649728-SF2H",
-   "text": "I'm happy to share that I've joined Etched as a Member of Technical Staff.\nAfter years in semiconductors, I'm excited to join a team pushing the boundaries of AI hardware, and I look forward to contributing to the work ahead.",
-   "disc_score": 45,
-   "checks": {
-    "24": 188
-   },
-   "promoted": true,
-   "miss": 0,
-   "added": 1792609990
-  },
-  "7518721159476088833": {
-   "created": 1792602815,
-   "author": "Augment",
-   "url": "https://www.linkedin.com/posts/augmentmarkets_the-q326-power-20-is-out-four-companies-activity-7518721159476088833-VqHI",
-   "text": "The Q3'26 Power 20 is out.\n\nFour companies entered the rankings this quarter, all of them AI: Fireworks AI , Etched , Baseten and Higgsfield AI. Canva , Polymarket , Rippling and Perplexity dropped out. AI companies now hold 11 of the 20 places, up from eight in Q2.\n\nAnthropic kept the top spot. OpenAI moved ahead of Anduril Industries into second. Cognition climbed ten places to #10, the largest move among returning companies, and Etched entered at #18 with the list's largest estimated price gain, +152%.\n\nRankings as of September 30, 2026. Twenty profiles, eight honorable mentions and the full methodology: https://lnkd.in/evr9543a",
-   "disc_score": 20,
-   "checks": {
-    "24": 22
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1792609990
-  },
   "7518886051856150528": {
    "created": 1792642128,
    "author": "Ken N.",
@@ -71,7 +45,9 @@
    "url": "https://www.linkedin.com/posts/next-in-branding_dvc-venturebranding-nextinbranding-activity-7518914403145019392-AknD",
    "text": "\ud83d\udca5 DVC by Daniil Sergeev\n\nWhat does a venture fund look like when the portfolio is the proof and the community is the product?\n\nDVC operates at a genuinely interesting intersection in the AI investment landscape: 190+ investors, 120 backed startups, and a portfolio that includes Perplexity AI, Etched, and Thinking Machines Lab \u2014 the kind of names that do considerable brand work on their own. But the identity brief goes deeper than portfolio credentials. A fund managed by a family of founders, built around a community of engineers, founders, and angels, is a fundamentally different organism than a traditional venture structure. The multilayered color cluster visuals understand that distinction",
    "disc_score": 3,
-   "checks": {},
+   "checks": {
+    "24": 15
+   },
    "promoted": false,
    "miss": 0,
    "added": 1792663862
@@ -114,10 +90,6 @@
  },
  "baseline": {
   "24": [
-   [
-    1789057456,
-    0
-   ],
    [
     1789057456,
     31
@@ -1713,6 +1685,10 @@
    [
     1792730830,
     0
+   ],
+   [
+    1792737100,
+    15
    ]
   ]
  },
