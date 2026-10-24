@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7519268897271910400": {
-   "created": 1792733406,
-   "author": "Guillermo Ruiz",
-   "url": "https://www.linkedin.com/posts/gruizesteban_aicompute-cuda-acceleratedcomputing-activity-7519268897271910400-VWyt",
-   "text": "This week, Google open-sourced TorchTPU and Amazon Web Services (AWS) open-sourced TorchNeuron. Two announcements and different accelerators, but similar idea: keep the developer experience familiar while changing the silicon underneath.\n\nAnd they are not alone. AMD, Intel, Modular, a Qualcomm company, Tenstorrent, Etched, MatX and others are approaching the AI compute stack from different angles.\n\nSo I tried to put the pieces together. Maybe the question is no longer \"Can I run this without CUDA?\" and we should start asking: \"What\u2019s the best piece of silicon for this workload?\"\n\n#AICompute #CUDA #AcceleratedComputing",
-   "disc_score": 19,
-   "checks": {
-    "24": 26
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1792749820
-  },
   "7519388289859043329": {
    "created": 1792761871,
    "author": "Justina Lee",
@@ -58,7 +45,9 @@
    "url": "https://www.linkedin.com/posts/paul-fang-phd_ai-semiconductors-aiinfrastructure-activity-7519436661576093696-UKCD",
    "text": "If you're attending the Summit or VIP Dinner, come say hi! \ud83d\udc4b\n\n\ud83c\udf1f Featured Speakers & Industry Leaders:\n\u2022 Lip-Bu Tan \u2014 CEO, Intel\n\u2022 Andrew Feldman \u2014 CEO, Cerebras\n\u2022 Sassine Ghazi \u2014 CEO, Synopsys Inc\n\u2022 Naveen Rao \u2014 CEO, Unconventional AI\n\u2022 Rodrigo Liang \u2014 CEO, SambaNova\n\u2022 Raghib Hussain \u2014 CEO, Altera\n\u2022 Michael Hurlston \u2014 CEO, Lumentum\n\u2022 Mark Wade \u2014 CEO, Ayar Labs\n\u2022 Gavin Uberti \u2014 CEO, Etched\n\u2022 Dylan Patel \u2014 CEO, SemiAnalysis\n\u2022 Sid Sheth \u2014 CEO, d-Matrix\n\u2022 Sunghyun Park \u2014 CEO, Rebellions\n\u2022 Xin Guo \u2014 CEO, Solidigm\n\u2022 Irving Tan \u2014 CEO, WD\n\u2022 Ajit Manocha \u2014 CEO, SEMI\n\u2022 Anna Goldie \u2014 CEO, Recursive Intelligence\n\u2022 Faraj Aalaei \u2014 CEO, Cognichip\n\u2022 Mary Ellen Randall \u2014 CEO, @IEEE\n\u2022 Khurram Ismail \u2014 CPO, Sa",
    "disc_score": 15,
-   "checks": {},
+   "checks": {
+    "24": 33
+   },
    "promoted": false,
    "miss": 0,
    "added": 1792774726
@@ -154,10 +143,6 @@
  },
  "baseline": {
   "24": [
-   [
-    1789125579,
-    3
-   ],
    [
     1789131626,
     1
@@ -1753,6 +1738,10 @@
    [
     1792853457,
     3
+   ],
+   [
+    1792864574,
+    33
    ]
   ]
  },
