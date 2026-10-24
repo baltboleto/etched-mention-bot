@@ -1,35 +1,45 @@
 {
  "watch": {
-  "2113868089813352628": {
-   "created": 1792820401,
-   "author": "tech_evergreen",
-   "followers": 120,
-   "url": "https://x.com/tech_evergreen/status/2113868089813352628",
-   "disc_score": 0,
+  "2113943337963327953": {
+   "created": 1792838341,
+   "author": "FrancoisChauba1",
+   "followers": 5545,
+   "url": "https://x.com/FrancoisChauba1/status/2113943337963327953",
+   "disc_score": 1,
    "checks": {},
    "promoted": false,
    "miss": 0,
-   "added": 1792823416
+   "added": 1792841492
+  },
+  "2113920950182068563": {
+   "created": 1792833003,
+   "author": "thefusioncube",
+   "followers": 1281,
+   "url": "https://x.com/thefusioncube/status/2113920950182068563",
+   "disc_score": 2,
+   "checks": {
+    "1": 2
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1792841492
+  },
+  "2113919089957904827": {
+   "created": 1792832560,
+   "author": "thefusioncube",
+   "followers": 1281,
+   "url": "https://x.com/thefusioncube/status/2113919089957904827",
+   "disc_score": 2,
+   "checks": {
+    "1": 2
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1792841492
   }
  },
  "baseline": {
   "1": [
-   [
-    1787644702,
-    19
-   ],
-   [
-    1787644702,
-    1
-   ],
-   [
-    1787647942,
-    2
-   ],
-   [
-    1787652756,
-    0
-   ],
    [
     1787662792,
     4
@@ -1501,6 +1511,14 @@
    [
     1792609828,
     6
+   ],
+   [
+    1792841493,
+    2
+   ],
+   [
+    1792841493,
+    2
    ]
   ]
  },
