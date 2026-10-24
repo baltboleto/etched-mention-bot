@@ -1,108 +1,15 @@
 {
  "watch": {
-  "2113730148415537469": {
-   "created": 1792787513,
-   "author": "noelregrets",
-   "followers": 563,
-   "url": "https://x.com/noelregrets/status/2113730148415537469",
+  "2113795862816034831": {
+   "created": 1792803180,
+   "author": "AiForSuccess",
+   "followers": 187,
+   "url": "https://x.com/AiForSuccess/status/2113795862816034831",
    "disc_score": 0,
-   "checks": {
-    "1": null
-   },
+   "checks": {},
    "promoted": false,
    "miss": 0,
-   "added": 1792797202
-  },
-  "2113730145861189818": {
-   "created": 1792787512,
-   "author": "noelregrets",
-   "followers": 563,
-   "url": "https://x.com/noelregrets/status/2113730145861189818",
-   "disc_score": 6,
-   "checks": {
-    "1": null
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1792797202
-  },
-  "2113729122492973382": {
-   "created": 1792787268,
-   "author": "AugmentMarkets",
-   "followers": 728,
-   "url": "https://x.com/AugmentMarkets/status/2113729122492973382",
-   "disc_score": 0,
-   "checks": {
-    "1": null
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1792797202
-  },
-  "2113729119900852633": {
-   "created": 1792787268,
-   "author": "AugmentMarkets",
-   "followers": 728,
-   "url": "https://x.com/AugmentMarkets/status/2113729119900852633",
-   "disc_score": 1,
-   "checks": {
-    "1": null
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1792797202
-  },
-  "2113729117187182990": {
-   "created": 1792787267,
-   "author": "AugmentMarkets",
-   "followers": 728,
-   "url": "https://x.com/AugmentMarkets/status/2113729117187182990",
-   "disc_score": 1,
-   "checks": {
-    "1": null
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1792797202
-  },
-  "2113729114079207582": {
-   "created": 1792787266,
-   "author": "AugmentMarkets",
-   "followers": 728,
-   "url": "https://x.com/AugmentMarkets/status/2113729114079207582",
-   "disc_score": 1,
-   "checks": {
-    "1": null
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1792797202
-  },
-  "2113729111168307428": {
-   "created": 1792787265,
-   "author": "AugmentMarkets",
-   "followers": 728,
-   "url": "https://x.com/AugmentMarkets/status/2113729111168307428",
-   "disc_score": 1,
-   "checks": {
-    "1": null
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1792797202
-  },
-  "2113729108613976492": {
-   "created": 1792787265,
-   "author": "AugmentMarkets",
-   "followers": 728,
-   "url": "https://x.com/AugmentMarkets/status/2113729108613976492",
-   "disc_score": 1,
-   "checks": {
-    "1": null
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1792797202
+   "added": 1792805945
   }
  },
  "baseline": {
