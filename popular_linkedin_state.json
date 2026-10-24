@@ -58,7 +58,9 @@
    "url": "https://www.linkedin.com/posts/audaciousinvestor_introducing-radical-breakouts-fund-radical-activity-7519525006985465856-9psn",
    "text": "\ud83d\udcb8 Toronto, Canada based Radical Ventures recently raised over US$1 billion in commitments at first close for Radical Breakouts Fund. LPs include PSP Investments | Investissements PSP, CPP Investments | Investissements RPC, TD, BMO, CI Global Asset Management, OPTrust, and others \n\n\ud83d\udca1 Invest in late-stage AI scale-ups building the next generation of category-defining companies on a path toward becoming trillion-dollar businesses \n\n\ud83c\udf0d#Canada #UnitedStates #Europe \n\n\ud83d\udcc8 Portfolio companies include Cohere, Waabi, World Labs, DiscoveryLoop, Xanadu, Aspect Biosystems, Etched, Crusoe, among others \n\n\ud83d\udcad\"We compete to invest and partner with the best AI founders and companies in the world, and we win.\" \u2014 ",
    "disc_score": 1,
-   "checks": {},
+   "checks": {
+    "24": 1
+   },
    "promoted": false,
    "miss": 0,
    "added": 1792797234
@@ -80,7 +82,9 @@
    "url": "https://www.linkedin.com/posts/augmentmarkets_the-augment-power-20-q326-activity-7519494780561641472-v0Os",
    "text": "The top of the list got thinner and the AI share got wider. That's the story of the Augment Power 20 for Q3'26.\n\nThe six highest-ranked Power 20 names accounted for 16.2% of all activity on Augment in Q3, the lowest share ever and down from 47% in Q1. In the same quarter, AI companies made up 67.1% of activity among the 20 ranked names, a new high.\n\nEtched led price gains at +152% and ranked second in demand growth. Prometheus was the most active company on the platform. Impulse Space, Hadrian and Blue Origin posted the largest increases in buy-side orders quarter over quarter, so space and manufacturing names took three of the top four demand spots in a quarter dominated by AI.\n\nThe six cha",
    "disc_score": 9,
-   "checks": {},
+   "checks": {
+    "24": 9
+   },
    "promoted": false,
    "miss": 0,
    "added": 1792805703
@@ -91,7 +95,9 @@
    "url": "https://www.linkedin.com/posts/noelmoldvai_something-i-keep-looking-at-from-our-q3-power-activity-7519495849844969472-2RBf",
    "text": "Something I keep looking at from our Q3 Power 20 data. The six highest ranked names were 47% of all activity on Augment in Q1 and 16.2% in Q3, which is the lowest share we've seen since we started tracking these metrics  in late 2023.\n\nThat's share, not dollars, so the top names are still plenty active, it's just that a much bigger chunk of the orders are now going to the rest of the names on the list. Etched, Hadrian, Impulse Space and Blue Origin had the biggest jumps in buy-side demand quarter over quarter, and three of those four build physical things, which is not the list I would have guessed in January.\n\nMy read is that this is what broader participation across the private market look",
    "disc_score": 16,
-   "checks": {},
+   "checks": {
+    "24": 16
+   },
    "promoted": false,
    "miss": 0,
    "added": 1792805703
@@ -143,18 +149,6 @@
  },
  "baseline": {
   "24": [
-   [
-    1789131626,
-    1
-   ],
-   [
-    1789131626,
-    81
-   ],
-   [
-    1789131626,
-    0
-   ],
    [
     1789155281,
     229
@@ -1742,6 +1736,18 @@
    [
     1792864574,
     33
+   ],
+   [
+    1792880932,
+    1
+   ],
+   [
+    1792880932,
+    9
+   ],
+   [
+    1792880932,
+    16
    ]
   ]
  },
