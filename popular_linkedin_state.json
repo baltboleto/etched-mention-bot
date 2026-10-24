@@ -19,7 +19,9 @@
    "url": "https://www.linkedin.com/posts/justina-lee-3a0a4a44_for-years-high-frequency-trading-firms-fought-activity-7519388289859043329-2YwP",
    "text": "For years, high-frequency trading firms fought over every nanosecond in a battle to be the fastest. \n\nNow they're fighting for compute -- building data centers and investing in AI infrastructure startups -- as they increasingly use machine learning to predict market behavior. \n\n\u201cIf you don\u2019t want to be in that game, it\u2019s going to be difficult to stay involved in the more systematic trading strategies which are required today to be a market maker,\u201d Optiver's CEO tells us. \n\nRead more in our Big Take today (link in comments) by Katherine Doherty, Dina Bass and me. (You know it's a group effort when the story quotes - *in no particular order* - HRT, Tower Research, Jump Trading, Optiver, Citade",
    "disc_score": 18,
-   "checks": {},
+   "checks": {
+    "24": 55
+   },
    "promoted": false,
    "miss": 0,
    "added": 1792767922
@@ -30,7 +32,9 @@
    "url": "https://www.linkedin.com/posts/ai-insider-intel_ai-aiinfrastructure-datacenters-activity-7519395232694804480-gdu-",
    "text": "Blackstone is positioning itself at the center of AI financing, from data center loans to frontier models.\n\nSpeaking at TechCrunch Disrupt, Jas Khaira, who leads the firm\u2019s San Francisco AI hub Blackstone N1, described it as the largest owner of compute outside the hyperscalers, citing a $5B commitment to Crux AI, built with Google around its TPUs, and an investment in Etched.\n\nBlackstone pioneered GPU-backed neocloud lending with a $2.3B CoreWeave loan and co-led a $10B facility for Firmus.\n\nKhaira acknowledged rising rates and heavy debt have rattled markets but dismissed comparisons to 2008, noting most data center debt is backed by creditworthy hyperscalers. \n\nThe firm is also driving ad",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 5
+   },
    "promoted": false,
    "miss": 0,
    "added": 1792767922
@@ -41,7 +45,9 @@
    "url": "https://www.linkedin.com/posts/best-nanotech_indiasemiconductor-fabless-deeptech-activity-7519390348008255488-QxjH",
    "text": "THE SEMICONDUCTOR VC PLAYBOOK: WHAT AMERICA IS FUNDING \u2014 AND WHAT INDIA MUST BUILD NEXT\n\nThe winning product is no longer just a faster chip. Increasingly, it is a complete system:\nSilicon + Memory + Interconnect + Packaging + Software + Customers.\n\nGlobal semiconductor sales reached about $795.6B in 2025, and WSTS projects roughly $1.5T in 2026. U.S.-headquartered companies held 53.4% global market share and invested a record $76.8B in R&D. \n\nVC capital is following. U.S. semiconductor-related startups raised $6.2B in 2025, up 85% YoY. By the first five months of 2026, semiconductor startups globally had attracted about $10.7B. \n\nWHAT IS GETTING FUNDED?\n\u2192 AI inference & specialized accelera",
    "disc_score": 3,
-   "checks": {},
+   "checks": {
+    "24": 3
+   },
    "promoted": false,
    "miss": 0,
    "added": 1792767922
@@ -148,18 +154,6 @@
  },
  "baseline": {
   "24": [
-   [
-    1789097517,
-    22
-   ],
-   [
-    1789097517,
-    29
-   ],
-   [
-    1789125579,
-    15
-   ],
    [
     1789125579,
     3
@@ -1747,6 +1741,18 @@
    [
     1792823505,
     26
+   ],
+   [
+    1792853457,
+    55
+   ],
+   [
+    1792853457,
+    5
+   ],
+   [
+    1792853457,
+    3
    ]
   ]
  },
