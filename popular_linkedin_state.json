@@ -71,7 +71,9 @@
    "url": "https://www.linkedin.com/posts/adam-crawley-b2146753_the-demand-side-of-our-order-book-moved-in-activity-7519538986156056576-u6yE",
    "text": "The demand side of our order book moved in Q3 and it moved toward hardware. \n\nRanked by growth in buy-side orders versus Q2, the top four in Augment\u2019s Power 20 were Impulse Space, Etched, Hadrian and Blue Origin, so two space companies, a chip company and a manufacturer, with The Boring Company, Replit, Cognition and Kalshi behind them.\n\nWhat's interesting from an execution standpoint is that demand often shows up in a name before the sellers do. Buyers read the news and want in, and the shareholders who could sell are often employees and early investors who may not be in a hurry, so for a quarter or two you may see a lot of bids and a thin offer and the spread tells you that.\n\nSpace and man",
    "disc_score": 14,
-   "checks": {},
+   "checks": {
+    "24": 16
+   },
    "promoted": false,
    "miss": 0,
    "added": 1792805703
@@ -149,10 +151,6 @@
  },
  "baseline": {
   "24": [
-   [
-    1789155281,
-    229
-   ],
    [
     1789155713,
     34
@@ -1747,6 +1745,10 @@
    ],
    [
     1792880932,
+    16
+   ],
+   [
+    1792888434,
     16
    ]
   ]
