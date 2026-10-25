@@ -1,57 +1,7 @@
 {
- "watch": {
-  "2114294389711454321": {
-   "created": 1792922038,
-   "author": "benblainex",
-   "followers": 1190,
-   "url": "https://x.com/benblainex/status/2114294389711454321",
-   "disc_score": 1,
-   "checks": {},
-   "promoted": false,
-   "miss": 0,
-   "added": 1792922454
-  },
-  "2114291199779729866": {
-   "created": 1792921278,
-   "author": "benblainex",
-   "followers": 1190,
-   "url": "https://x.com/benblainex/status/2114291199779729866",
-   "disc_score": 0,
-   "checks": {},
-   "promoted": false,
-   "miss": 0,
-   "added": 1792922454
-  },
-  "2114291198785442155": {
-   "created": 1792921278,
-   "author": "benblainex",
-   "followers": 1190,
-   "url": "https://x.com/benblainex/status/2114291198785442155",
-   "disc_score": 1,
-   "checks": {},
-   "promoted": false,
-   "miss": 0,
-   "added": 1792922454
-  }
- },
+ "watch": {},
  "baseline": {
   "1": [
-   [
-    1787744736,
-    0
-   ],
-   [
-    1787744736,
-    3
-   ],
-   [
-    1787744736,
-    1
-   ],
-   [
-    1787752547,
-    1
-   ],
    [
     1787755540,
     6
