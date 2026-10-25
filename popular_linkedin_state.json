@@ -26,32 +26,6 @@
    "miss": 0,
    "added": 1792805703
   },
-  "7519494780561641472": {
-   "created": 1792787261,
-   "author": "Augment",
-   "url": "https://www.linkedin.com/posts/augmentmarkets_the-augment-power-20-q326-activity-7519494780561641472-v0Os",
-   "text": "The top of the list got thinner and the AI share got wider. That's the story of the Augment Power 20 for Q3'26.\n\nThe six highest-ranked Power 20 names accounted for 16.2% of all activity on Augment in Q3, the lowest share ever and down from 47% in Q1. In the same quarter, AI companies made up 67.1% of activity among the 20 ranked names, a new high.\n\nEtched led price gains at +152% and ranked second in demand growth. Prometheus was the most active company on the platform. Impulse Space, Hadrian and Blue Origin posted the largest increases in buy-side orders quarter over quarter, so space and manufacturing names took three of the top four demand spots in a quarter dominated by AI.\n\nThe six cha",
-   "disc_score": 9,
-   "checks": {
-    "24": 9
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1792805703
-  },
-  "7519495849844969472": {
-   "created": 1792787516,
-   "author": "Noel Moldvai",
-   "url": "https://www.linkedin.com/posts/noelmoldvai_something-i-keep-looking-at-from-our-q3-power-activity-7519495849844969472-2RBf",
-   "text": "Something I keep looking at from our Q3 Power 20 data. The six highest ranked names were 47% of all activity on Augment in Q1 and 16.2% in Q3, which is the lowest share we've seen since we started tracking these metrics  in late 2023.\n\nThat's share, not dollars, so the top names are still plenty active, it's just that a much bigger chunk of the orders are now going to the rest of the names on the list. Etched, Hadrian, Impulse Space and Blue Origin had the biggest jumps in buy-side demand quarter over quarter, and three of those four build physical things, which is not the list I would have guessed in January.\n\nMy read is that this is what broader participation across the private market look",
-   "disc_score": 16,
-   "checks": {
-    "24": 16
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1792805703
-  },
   "7519633806342066177": {
    "created": 1792820407,
    "author": "Evergreen Technologies (USA)",
@@ -76,17 +50,6 @@
    },
    "promoted": false,
    "miss": 0,
-   "added": 1792823505
-  },
-  "7519604073243836416": {
-   "created": 1792813318,
-   "author": "Parallax \u200e",
-   "url": "https://www.linkedin.com/posts/parallax001_people-talk-about-large-language-models-like-activity-7519604073243836416-CytN",
-   "text": "People talk about large language models like they are complex software organisms with hidden reasoning gears inside. If you actually open up the source code of a frontier transformer, over 99% of the compute time is spent running the exact same high-school math operation six times in a row.\n\nThe entire trillion-dollar AI industry is basically a giant wrapper around a single hardware instruction: GEMM (General Matrix Multiply).\n\nWhen you type a word into a model, it immediately converts that word into a list of numbers\u2014say, 4,096 floating-point values that capture its meaning in space. From that moment on, the chip doesn't know what English is. It just pushes that 4,096-number array through a",
-   "disc_score": 5,
-   "checks": {},
-   "promoted": false,
-   "miss": 2,
    "added": 1792823505
   },
   "7519598205127262208": {
