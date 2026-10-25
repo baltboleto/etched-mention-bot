@@ -1,57 +1,5 @@
 {
  "watch": {
-  "7519388289859043329": {
-   "created": 1792761871,
-   "author": "Justina Lee",
-   "url": "https://www.linkedin.com/posts/justina-lee-3a0a4a44_for-years-high-frequency-trading-firms-fought-activity-7519388289859043329-2YwP",
-   "text": "For years, high-frequency trading firms fought over every nanosecond in a battle to be the fastest. \n\nNow they're fighting for compute -- building data centers and investing in AI infrastructure startups -- as they increasingly use machine learning to predict market behavior. \n\n\u201cIf you don\u2019t want to be in that game, it\u2019s going to be difficult to stay involved in the more systematic trading strategies which are required today to be a market maker,\u201d Optiver's CEO tells us. \n\nRead more in our Big Take today (link in comments) by Katherine Doherty, Dina Bass and me. (You know it's a group effort when the story quotes - *in no particular order* - HRT, Tower Research, Jump Trading, Optiver, Citade",
-   "disc_score": 18,
-   "checks": {
-    "24": 55
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1792767922
-  },
-  "7519395232694804480": {
-   "created": 1792763527,
-   "author": "AI Insider",
-   "url": "https://www.linkedin.com/posts/ai-insider-intel_ai-aiinfrastructure-datacenters-activity-7519395232694804480-gdu-",
-   "text": "Blackstone is positioning itself at the center of AI financing, from data center loans to frontier models.\n\nSpeaking at TechCrunch Disrupt, Jas Khaira, who leads the firm\u2019s San Francisco AI hub Blackstone N1, described it as the largest owner of compute outside the hyperscalers, citing a $5B commitment to Crux AI, built with Google around its TPUs, and an investment in Etched.\n\nBlackstone pioneered GPU-backed neocloud lending with a $2.3B CoreWeave loan and co-led a $10B facility for Firmus.\n\nKhaira acknowledged rising rates and heavy debt have rattled markets but dismissed comparisons to 2008, noting most data center debt is backed by creditworthy hyperscalers. \n\nThe firm is also driving ad",
-   "disc_score": 0,
-   "checks": {
-    "24": 5
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1792767922
-  },
-  "7519390348008255488": {
-   "created": 1792762362,
-   "author": "Best NanoTech",
-   "url": "https://www.linkedin.com/posts/best-nanotech_indiasemiconductor-fabless-deeptech-activity-7519390348008255488-QxjH",
-   "text": "THE SEMICONDUCTOR VC PLAYBOOK: WHAT AMERICA IS FUNDING \u2014 AND WHAT INDIA MUST BUILD NEXT\n\nThe winning product is no longer just a faster chip. Increasingly, it is a complete system:\nSilicon + Memory + Interconnect + Packaging + Software + Customers.\n\nGlobal semiconductor sales reached about $795.6B in 2025, and WSTS projects roughly $1.5T in 2026. U.S.-headquartered companies held 53.4% global market share and invested a record $76.8B in R&D. \n\nVC capital is following. U.S. semiconductor-related startups raised $6.2B in 2025, up 85% YoY. By the first five months of 2026, semiconductor startups globally had attracted about $10.7B. \n\nWHAT IS GETTING FUNDED?\n\u2192 AI inference & specialized accelera",
-   "disc_score": 3,
-   "checks": {
-    "24": 3
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1792767922
-  },
-  "7519436661576093696": {
-   "created": 1792773404,
-   "author": "Dr. Paul Fang",
-   "url": "https://www.linkedin.com/posts/paul-fang-phd_ai-semiconductors-aiinfrastructure-activity-7519436661576093696-UKCD",
-   "text": "If you're attending the Summit or VIP Dinner, come say hi! \ud83d\udc4b\n\n\ud83c\udf1f Featured Speakers & Industry Leaders:\n\u2022 Lip-Bu Tan \u2014 CEO, Intel\n\u2022 Andrew Feldman \u2014 CEO, Cerebras\n\u2022 Sassine Ghazi \u2014 CEO, Synopsys Inc\n\u2022 Naveen Rao \u2014 CEO, Unconventional AI\n\u2022 Rodrigo Liang \u2014 CEO, SambaNova\n\u2022 Raghib Hussain \u2014 CEO, Altera\n\u2022 Michael Hurlston \u2014 CEO, Lumentum\n\u2022 Mark Wade \u2014 CEO, Ayar Labs\n\u2022 Gavin Uberti \u2014 CEO, Etched\n\u2022 Dylan Patel \u2014 CEO, SemiAnalysis\n\u2022 Sid Sheth \u2014 CEO, d-Matrix\n\u2022 Sunghyun Park \u2014 CEO, Rebellions\n\u2022 Xin Guo \u2014 CEO, Solidigm\n\u2022 Irving Tan \u2014 CEO, WD\n\u2022 Ajit Manocha \u2014 CEO, SEMI\n\u2022 Anna Goldie \u2014 CEO, Recursive Intelligence\n\u2022 Faraj Aalaei \u2014 CEO, Cognichip\n\u2022 Mary Ellen Randall \u2014 CEO, @IEEE\n\u2022 Khurram Ismail \u2014 CPO, Sa",
-   "disc_score": 15,
-   "checks": {
-    "24": 33
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1792774726
-  },
   "7519525006985465856": {
    "created": 1792794467,
    "author": "Audacious Investor\u2122\ufe0f",
@@ -134,7 +82,7 @@
    "disc_score": 5,
    "checks": {},
    "promoted": false,
-   "miss": 0,
+   "miss": 1,
    "added": 1792823505
   },
   "7519598205127262208": {
@@ -143,18 +91,49 @@
    "url": "https://www.linkedin.com/posts/%E8%B6%99%E5%85%83%E7%A5%A5-vincent-354380151_jtthbanscnws-iuwlgihtcljklfx-iwinppnathyt-activity-7519598205127262208-kBB7",
    "text": "\u7576\u5168\u7403\u5e02\u5834\u9084\u5728\u722d\u8ad6\u300cAI \u57fa\u790e\u8a2d\u65bd\u8cc7\u672c\u652f\u51fa\u662f\u5426\u904e\u71b1\u300d\u6642\uff0c\u6700\u5177\u654f\u92b3\u55c5\u89ba\u7684\u9802\u7d1a\u91cf\u5316\u8207\u9ad8\u983b\u9020\u5e02\u5546\uff08Jane Street\u3001Jump Trading\u3001HRT\u3001XTX\uff09\u65e9\u5df2\u6084\u7136\u91cd\u5851\u6230\u5c40\uff1a\u9019\u4e0d\u662f\u55ae\u7d14\u7684\u79d1\u6280\u8ddf\u98a8\uff0c\u800c\u662f\u4e00\u5834\u7531\u5229\u6f64\u9a45\u52d5\u3001\u6436\u4f54\u300c\u7b97\u529b\u8207\u5ef6\u9072\u5957\u5229\u300d\u7684\u9577\u671f\u7af6\u722d\u8ad6\u529b\u3002  ~ \u5728\u5c71\u6d1e\u88e1\u3001\u5927\u6d77\u908a\u3001\u5bd2\u6d41\u7684\u9ad8\u5730\n\n\u6703\u7528AI \u8cfa\u9322\u8207\u5957\u5229\u7684\u6a5f\u69cb\u5728\u5e79\u561b?\u5728\u7279\u5225\u7684\u5730\u65b9,\u518d\u51fa\u767c\n\n\u300c\u4e0b\u5834\u7576\u7b2c\u4e00\u4f4d\u7a2e\u5b50\u5ba2\u6236\u517c\u67b6\u69cb\u5e2b\u300d\u7684\u7522\u696d\u6df1\u8015\uff0c\u5728\u786c\u9ad4\u57fa\u5c64\u624e\u6839\n\n\u200b\u4e09\u5927\u95dc\u9375\u4eae\u9ede\uff083 Core Takeaways\uff09\n\n#\u200b\u5f9e\u300c\u4f7f\u7528\u8005\u300d\u5347\u7d1a\u70ba\u300c\u9020\u5c40\u8005\u300d\uff1a\u6df1\u5ea6\u7684\u5782\u76f4\u6574\u5408\nJane Street \u9818\u6295\u5c08\u7528\u6676\u7247\u65b0\u5275 Etched\uff08\u4f30\u503c\u9054 210 \u5104\u7f8e\u5143\uff09\u4e26\u89aa\u81ea\u64d4\u4efb\u9996\u4f4d\u5ba2\u6236\uff1bJump Trading \u5247\u6295\u8cc7 Positron \u7814\u767c\u4f4e\u5ef6\u9072\u63a8\u7406\u6676\u7247\u3002\u9020\u5e02\u5546\u4e0d\u518d\u88ab\u52d5\u7b49\u5f85\u901a\u7528\u6676\u7247\u6539\u6b3e\uff0c\u800c\u662f\u7528\u81ea\u8eab\u56b4\u82db\u7684\u4ea4\u6613\u74f6\u9838\u53cd\u54fa\u786c\u9ad4\u8a2d\u8a08\uff0c\u6253\u9020\u5c08\u5c6c\u786c\u9ad4\u8b77\u57ce\u6cb3\u3002  \n\n#\u200b\u81ea\u5efa\u7b97\u529b\u8207\u6975\u81f4\u51b7\u537b\uff1a\u91cd\u69cb\u5730\u7406\u512a\u52e2\n\u904e\u53bb\u9ad8\u983b\u4ea4\u6613\u722d\u596a\u300c\u8ab0\u7684\u4f3a\u670d\u5668\u96e2\u4ea4\u6613\u6240\u66f4\u8fd1\u300d\uff1b\u5982\u4eca\u5728\u632a\u5a01\u5cfd\u7063\u62bd\u53d6\u51b0\u6c34\u51b7\u537b\u3001\u5728\u82ac\u862d\u96ea\u6797\u65a5\u8cc7 10 \u5104\u6b50\u5143\u5efa\u7acb\u8cc7\u6599\u4e2d\u5fc3\uff08\u5982 XTX Markets\uff09\u3002\u80fd\u6e90\u53d6\u5f97\u8207\u6563\u71b1\u6548\u7387\uff0c\u5df2\u6210\u70ba\u65b0\u6642\u4ee3\u7684\u5957\u5229\u6210\u672c\u5206\u6c34\u5dba\u3002  \n\n#\u200b\u300c\u5957\u5229\u5229\u6f64\u300d\u652f\u6490\u7684\u96f6\u7126\u616e\u8cc7\u672c\u652f\u51fa\n\u5e02\u5834\u64d4\u6182 Neo-cloud \u8207 AI \u652f\u51fa\u6ce1\u6cab\uff0c\u4f46\u9020\u5e02\u5546\u63e1\u6709\u5145\u6c9b\u73fe\u91d1\u6d41\uff08Jane Street \u627f\u8afe\u6578\u5341\u5104\u7f8e\u5143\u6295\u5165\u7b97\u529b\uff0c\u80cc\u5f8c\u662f\u5e74\u8fd1 400 \u5104\u7f8e\u5143\u7684\u4ea4\u6613\u6de8\u6536\u76ca\u652f\u6490\uff09\u3002\u53ea\u8981\u904b\u7b97\u901f\u5ea6\u63d0\u5347\u5e36\u4f86\u7684\u5fae\u79d2\u7d1a\u512a\u52e2\u80fd\u8cfa\u53d6\u8d85\u8d8a\u8a2d\u5099\u6210\u672c\u7684\u8d85\u984d\u5229\u6f64\uff0c\u9019\u7b46\u7b97\u529b\u6295\u8cc7\u5c31\u5b8c\u5168\u5408\u7406\u3002\n\n#\u62ff\u4f86\u8cfa\u9322\n#\u5dee\u7570\u5316\u7b56\u7565\n#\u591a\u91cd\u8eab\u4efd",
    "disc_score": 3,
-   "checks": {},
+   "checks": {
+    "24": 3
+   },
    "promoted": false,
    "miss": 0,
    "added": 1792823505
+  },
+  "7519965331411607552": {
+   "created": 1792899449,
+   "author": "Li Liu",
+   "url": "https://www.linkedin.com/posts/li-liu-7ab700236_robots-are-eating-the-vc-market-alive-rn-activity-7519965331411607552-_VfP",
+   "text": "robots are eating the VC market alive rn\n\nNvidia licensed Poolside's Model Factory in a $7B pact and invested $1B directly. Poolside is now valued at $12B.\n\nPhysical AI funding hit $47.4B across 521 deals in the first half of 2026.\n\nXPENG Robotics raised over $900M in its first round at a post-money valuation above $6.3B.\n\nGeneral Intuition is seeking a $6B pre-money valuation for physical AI training, a 161% jump.\n\nEtched's valuation doubled to $21B.\n\nAlibaba raised $10.2B to fund full-stack AI infrastructure.\n\nLambda is seeking up to $3B in a pre-IPO round.\n\nStandard Bots raised $63M Series B. The median robotics Series A check is now $5.2M according to F4 Fund.\n\nThe money is moving from c",
+   "disc_score": 8,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1792905780
+  },
+  "7519939792273534976": {
+   "created": 1792893360,
+   "author": "Debashish Ghatak",
+   "url": "https://www.linkedin.com/posts/debashish-ghatak_ai-inference-engineer-is-the-hottest-title-activity-7519939792273534976-LHtW",
+   "text": "AI Inference Engineer is the hottest title in tech right now \ud83d\udd25\n\nI pulled every AI Inference job in our job board.\n\n374 open roles across 132 companies.\n\nWhere they are:\n\u2192 SF Bay Area: ~50%\nSan Francisco (80), Sunnyvale (35), San Jose (22), Palo Alto (21), Mountain View (14)\n\u2192 NYC: 35\n\u2192 Seattle: 35\n\u2192 London: 20\n\u2192 McLean, VA: 12 (all Capital One)\n\u2192 Paris: 9\n\nThen a long tail: Warsaw, Amsterdam, Berlin, Z\u00fcrich, Toronto, Bengaluru, Singapore.\n\nWhat they pay (US base, from the 111 postings that list a range):\n\u2192 Median range: $200k\u2013$286k\n\u2192 Bay Area: $200k\u2013$295k\n\u2192 Seattle: $200k\u2013$283k\n\u2192 NYC: $230k\u2013$286k\n\u2192 Rest of the US: $191k\u2013$250k\n\nBy company (median range)\n- Top tier: Netflix $383k\u2013$644k, Anthro",
+   "disc_score": 4,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1792905780
+  },
+  "7519952271326130177": {
+   "created": 1792896335,
+   "author": "Bay Area Jobs",
+   "url": "https://www.linkedin.com/posts/bay-area-jobs_httpsjobsrminecomjobusthermal-lab-lead-activity-7519952271326130177-vIhM",
+   "text": "#hiring Thermal Lab Lead\n\nApply here: https://lnkd.in/gJ2QYeSc\n\nJob Description Job Description About EtchedEtched is building hardware for frontier intelligence. We co-design chips, racks, software, and manufacturing to deliver best-in-class throughput and latency across both prefill and decode workloads. Our first products are heavily focused on inference. Backed by hundreds of millions from top-tier investors and staffed by leading engineers, Etched is redefining the infrastructure layer for the fastest growing industry in history.Job SummaryWe are seeking a highly motivated person to join our team as Thermal Lab Lead where you will help build and maintain a world class thermal lab to sup",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1792905780
   }
  },
  "baseline": {
   "24": [
-   [
-    1789155713,
-    34
-   ],
    [
     1789163961,
     50
@@ -1750,6 +1729,10 @@
    [
     1792888434,
     16
+   ],
+   [
+    1792905780,
+    3
    ]
   ]
  },
