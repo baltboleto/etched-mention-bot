@@ -1,5 +1,56 @@
 {
- "watch": {},
+ "watch": {
+  "2114518753652146500": {
+   "created": 1792975531,
+   "author": "deaguiarza",
+   "followers": 518,
+   "url": "https://x.com/deaguiarza/status/2114518753652146500",
+   "disc_score": 5,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1792976493
+  },
+  "2114505915227619350": {
+   "created": 1792972470,
+   "author": "Marlon1B2t",
+   "followers": 5,
+   "url": "https://x.com/Marlon1B2t/status/2114505915227619350",
+   "disc_score": 0,
+   "checks": {
+    "1": 0
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1792976493
+  },
+  "2114505368479109565": {
+   "created": 1792972340,
+   "author": "Marlon1B2t",
+   "followers": 5,
+   "url": "https://x.com/Marlon1B2t/status/2114505368479109565",
+   "disc_score": 0,
+   "checks": {
+    "1": 0
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1792976493
+  },
+  "2114504726691856632": {
+   "created": 1792972187,
+   "author": "ClorisSignal",
+   "followers": 2803,
+   "url": "https://x.com/ClorisSignal/status/2114504726691856632",
+   "disc_score": 6,
+   "checks": {
+    "1": 6
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1792976493
+  }
+ },
  "baseline": {
   "1": [
    [
@@ -1269,6 +1320,18 @@
    [
     1792905734,
     1
+   ],
+   [
+    1792976494,
+    0
+   ],
+   [
+    1792976494,
+    0
+   ],
+   [
+    1792976494,
+    6
    ]
   ]
  },
