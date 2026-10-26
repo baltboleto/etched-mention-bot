@@ -6,7 +6,9 @@
    "url": "https://www.linkedin.com/posts/li-liu-7ab700236_robots-are-eating-the-vc-market-alive-rn-activity-7519965331411607552-_VfP",
    "text": "robots are eating the VC market alive rn\n\nNvidia licensed Poolside's Model Factory in a $7B pact and invested $1B directly. Poolside is now valued at $12B.\n\nPhysical AI funding hit $47.4B across 521 deals in the first half of 2026.\n\nXPENG Robotics raised over $900M in its first round at a post-money valuation above $6.3B.\n\nGeneral Intuition is seeking a $6B pre-money valuation for physical AI training, a 161% jump.\n\nEtched's valuation doubled to $21B.\n\nAlibaba raised $10.2B to fund full-stack AI infrastructure.\n\nLambda is seeking up to $3B in a pre-IPO round.\n\nStandard Bots raised $63M Series B. The median robotics Series A check is now $5.2M according to F4 Fund.\n\nThe money is moving from c",
    "disc_score": 8,
-   "checks": {},
+   "checks": {
+    "24": 8
+   },
    "promoted": false,
    "miss": 0,
    "added": 1792905780
@@ -17,7 +19,9 @@
    "url": "https://www.linkedin.com/posts/debashish-ghatak_ai-inference-engineer-is-the-hottest-title-activity-7519939792273534976-LHtW",
    "text": "AI Inference Engineer is the hottest title in tech right now \ud83d\udd25\n\nI pulled every AI Inference job in our job board.\n\n374 open roles across 132 companies.\n\nWhere they are:\n\u2192 SF Bay Area: ~50%\nSan Francisco (80), Sunnyvale (35), San Jose (22), Palo Alto (21), Mountain View (14)\n\u2192 NYC: 35\n\u2192 Seattle: 35\n\u2192 London: 20\n\u2192 McLean, VA: 12 (all Capital One)\n\u2192 Paris: 9\n\nThen a long tail: Warsaw, Amsterdam, Berlin, Z\u00fcrich, Toronto, Bengaluru, Singapore.\n\nWhat they pay (US base, from the 111 postings that list a range):\n\u2192 Median range: $200k\u2013$286k\n\u2192 Bay Area: $200k\u2013$295k\n\u2192 Seattle: $200k\u2013$283k\n\u2192 NYC: $230k\u2013$286k\n\u2192 Rest of the US: $191k\u2013$250k\n\nBy company (median range)\n- Top tier: Netflix $383k\u2013$644k, Anthro",
    "disc_score": 4,
-   "checks": {},
+   "checks": {
+    "24": 7
+   },
    "promoted": false,
    "miss": 0,
    "added": 1792905780
@@ -28,7 +32,9 @@
    "url": "https://www.linkedin.com/posts/bay-area-jobs_httpsjobsrminecomjobusthermal-lab-lead-activity-7519952271326130177-vIhM",
    "text": "#hiring Thermal Lab Lead\n\nApply here: https://lnkd.in/gJ2QYeSc\n\nJob Description Job Description About EtchedEtched is building hardware for frontier intelligence. We co-design chips, racks, software, and manufacturing to deliver best-in-class throughput and latency across both prefill and decode workloads. Our first products are heavily focused on inference. Backed by hundreds of millions from top-tier investors and staffed by leading engineers, Etched is redefining the infrastructure layer for the fastest growing industry in history.Job SummaryWe are seeking a highly motivated person to join our team as Thermal Lab Lead where you will help build and maintain a world class thermal lab to sup",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1792905780
@@ -47,18 +53,6 @@
  },
  "baseline": {
   "24": [
-   [
-    1789166071,
-    0
-   ],
-   [
-    1789175144,
-    0
-   ],
-   [
-    1789203192,
-    3
-   ],
    [
     1789203192,
     0
@@ -1645,6 +1639,18 @@
    ],
    [
     1792908491,
+    0
+   ],
+   [
+    1792995216,
+    8
+   ],
+   [
+    1792995216,
+    7
+   ],
+   [
+    1792995216,
     0
    ]
   ]
