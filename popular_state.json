@@ -1,35 +1,69 @@
 {
  "watch": {
-  "2114703814565511413": {
-   "created": 1793019653,
+  "2114789740830740874": {
+   "created": 1793040139,
    "author": "landed_ai",
    "followers": 72,
-   "url": "https://x.com/landed_ai/status/2114703814565511413",
-   "disc_score": 1,
+   "url": "https://x.com/landed_ai/status/2114789740830740874",
+   "disc_score": 0,
    "checks": {},
    "promoted": false,
    "miss": 0,
-   "added": 1793020700
+   "added": 1793043162
+  },
+  "2114790912979259789": {
+   "created": 1793040419,
+   "author": "Tesla_Optimus_K",
+   "followers": 5735,
+   "url": "https://x.com/Tesla_Optimus_K/status/2114790912979259789",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1793043162
+  },
+  "2114781402260779244": {
+   "created": 1793038151,
+   "author": "m0xt_",
+   "followers": 5323,
+   "url": "https://x.com/m0xt_/status/2114781402260779244",
+   "disc_score": 4,
+   "checks": {
+    "1": 4
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1793043162
+  },
+  "2114771242859344178": {
+   "created": 1793035729,
+   "author": "DCryptDeezNutz",
+   "followers": 552,
+   "url": "https://x.com/DCryptDeezNutz/status/2114771242859344178",
+   "disc_score": 87,
+   "checks": {
+    "1": 88
+   },
+   "promoted": true,
+   "miss": 0,
+   "added": 1793043162
+  },
+  "2114771606618927246": {
+   "created": 1793035816,
+   "author": "retweetrwt",
+   "followers": 271,
+   "url": "https://x.com/retweetrwt/status/2114771606618927246",
+   "disc_score": 15,
+   "checks": {
+    "1": 15
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1793043162
   }
  },
  "baseline": {
   "1": [
-   [
-    1787841373,
-    0
-   ],
-   [
-    1787841373,
-    0
-   ],
-   [
-    1787841373,
-    20
-   ],
-   [
-    1787841373,
-    7
-   ],
    [
     1787875419,
     0
@@ -1289,6 +1323,18 @@
    [
     1792976494,
     6
+   ],
+   [
+    1793043162,
+    4
+   ],
+   [
+    1793043162,
+    88
+   ],
+   [
+    1793043162,
+    15
    ]
   ]
  },
@@ -1407,6 +1453,11 @@
    1792342058,
    "2111827142270918968",
    154
+  ],
+  [
+   1793043162,
+   "2114771242859344178",
+   88
   ]
  ],
  "seeded": true
