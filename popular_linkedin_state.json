@@ -1,31 +1,5 @@
 {
  "watch": {
-  "7519965331411607552": {
-   "created": 1792899449,
-   "author": "Li Liu",
-   "url": "https://www.linkedin.com/posts/li-liu-7ab700236_robots-are-eating-the-vc-market-alive-rn-activity-7519965331411607552-_VfP",
-   "text": "robots are eating the VC market alive rn\n\nNvidia licensed Poolside's Model Factory in a $7B pact and invested $1B directly. Poolside is now valued at $12B.\n\nPhysical AI funding hit $47.4B across 521 deals in the first half of 2026.\n\nXPENG Robotics raised over $900M in its first round at a post-money valuation above $6.3B.\n\nGeneral Intuition is seeking a $6B pre-money valuation for physical AI training, a 161% jump.\n\nEtched's valuation doubled to $21B.\n\nAlibaba raised $10.2B to fund full-stack AI infrastructure.\n\nLambda is seeking up to $3B in a pre-IPO round.\n\nStandard Bots raised $63M Series B. The median robotics Series A check is now $5.2M according to F4 Fund.\n\nThe money is moving from c",
-   "disc_score": 8,
-   "checks": {
-    "24": 8
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1792905780
-  },
-  "7519952271326130177": {
-   "created": 1792896335,
-   "author": "Bay Area Jobs",
-   "url": "https://www.linkedin.com/posts/bay-area-jobs_httpsjobsrminecomjobusthermal-lab-lead-activity-7519952271326130177-vIhM",
-   "text": "#hiring Thermal Lab Lead\n\nApply here: https://lnkd.in/gJ2QYeSc\n\nJob Description Job Description About EtchedEtched is building hardware for frontier intelligence. We co-design chips, racks, software, and manufacturing to deliver best-in-class throughput and latency across both prefill and decode workloads. Our first products are heavily focused on inference. Backed by hundreds of millions from top-tier investors and staffed by leading engineers, Etched is redefining the infrastructure layer for the fastest growing industry in history.Job SummaryWe are seeking a highly motivated person to join our team as Thermal Lab Lead where you will help build and maintain a world class thermal lab to sup",
-   "disc_score": 0,
-   "checks": {
-    "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1792905780
-  },
   "7520025100210061312": {
    "created": 1792913699,
    "author": "Jimmy Cheng",
@@ -60,6 +34,39 @@
    "promoted": false,
    "miss": 0,
    "added": 1793020873
+  },
+  "7520512935694290944": {
+   "created": 1793030008,
+   "author": "Ada Offonry",
+   "url": "https://www.linkedin.com/posts/activity-7520512935694290944-4Q4T",
+   "text": "Why are market makers spending 10-20 times more on Compute than before ChatGPT launched?\n\nEspecially when people like Ken Griffin say that AI is almost certainly in a bubble.\n\nDespite his views, Ken's market maker, Citadel Securities, keeps scaling up its use of AI chips.\n\nThe rest of the industry is doing the same. \n\nFor years, market makers competed on speed. \n\nNow they also compete on compute.\n\nThe money goes 3 ways:\n\n1. Cloud partnerships. Hudson River Trading signed a multi year deal with CoreWeave  and spends about $1bn a year on AI.\n\n2. Investments. Jane Street bought a $1bn stake in CoreWeave and led the round that valued chip startup Etched at $21bn.\n\n3. Building out their own data ",
+   "disc_score": 6,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1793043253
+  },
+  "7520560266619592704": {
+   "created": 1793041292,
+   "author": "Anton Golub",
+   "url": "https://www.linkedin.com/posts/antongolub_jane-street-hudson-river-trading-xtx-markets-activity-7520560266619592704-WlIw",
+   "text": "Jane Street, Hudson River Trading, XTX Markets & Citadel are investing $20bil in AI computing infrastructure\n\nJane Street signed $19 billion in multiyear AI cloud agreements with CoreWeave and Crusoe. Firm generated $39.6 billion in net trading revenue in 2025, so we're talking about AI investments are half of its annual trading revenue. It also led a $700 million investment round in Etched, an AI chipmaker valued at $21 billion, and has already installed Etched hardware in its own data center. \n\nXTX Markets operates more than 25,000 GPUs and over 1 exabyte of data storage. Firm trades $250 billion daily across global markets with just 300 employees. Its machine-learning models generate pric",
+   "disc_score": 9,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1793043253
+  },
+  "7520469513687994368": {
+   "created": 1793019655,
+   "author": "landed.jobs",
+   "url": "https://www.linkedin.com/posts/landed-jobs_hiring-softwareengineering-techjobs-activity-7520469513687994368-FoVF",
+   "text": "Ten US engineering roles posted this week, each with its pay range.\n\nVarda Space Industries is hiring a Senior Spacecraft Embedded Software Engineer in El Segundo, $169k-$216k.\nIronclad is hiring a Staff Software Engineer, Site Reliability in San Francisco, $210k-$235k.\nPerplexity is hiring a Member of Technical Staff (Software Engineer, Training Infrastructure) in San Francisco, $220k-$405k.\nSentry is hiring a Director of Engineering, Platform (Runtime & Stateful Systems) in San Francisco, $300k-$450k.\nQuindar is hiring a Platform Engineer in Denver, $145k-$186k.\nCommure is hiring an Engineering Manager, Provider Experience in Mountain View, $200k-$250k.\nZoox is hiring a Systems Test Engine",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1793043253
   }
  },
  "baseline": {
