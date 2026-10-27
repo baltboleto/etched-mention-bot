@@ -1,31 +1,5 @@
 {
  "watch": {
-  "7520398938034589697": {
-   "created": 1793002829,
-   "author": "Peter M. M.",
-   "url": "https://www.linkedin.com/posts/petermmoricz_jane-street-and-rivals-are-now-fighting-for-activity-7520398938034589697-Aej_",
-   "text": "Wall Street's speed traders go all in on AI.\nFor years, Jane Street, Hudson River Trading and their rivals fought over every nanosecond. Now they're also fighting for compute, the raw processing power behind AI.\n\nThe spending surge\n- One executive estimates market makers now spend 10 to 20 times more on compute than before ChatGPT launched.\n- Hudson River spends about $1 billion a year on AI, and that figure is rising.\n- Jane Street took a $1 billion stake in CoreWeave and pledged $6 billion in compute spending with it, plus a $13 billion deal with Crusoe.\n\nBuilding their own data centers\n- Hudson River runs part of its processing inside a former mine in a Norwegian mountain, cooled by fjord",
-   "disc_score": 3,
-   "checks": {
-    "24": 4
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1793020873
-  },
-  "7520427936454336512": {
-   "created": 1793009742,
-   "author": "Leviathan Tsunami",
-   "url": "https://www.linkedin.com/posts/leviathan-tsunami_wall-streets-speed-traders-go-all-in-on-activity-7520427936454336512-6bMi",
-   "text": "Wall Street's speed traders go all in on AI. Jane Street, HRT and rivals now spend 10 to 20 times more on AI compute than before ChatGPT. They're building data centres in Norway and Finland and backing chipmakers like Etched.\n\nRead the full article: https://lnkd.in/eSFEMd8F",
-   "disc_score": 0,
-   "checks": {
-    "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1793020873
-  },
   "7520512935694290944": {
    "created": 1793030008,
    "author": "Ada Offonry",
@@ -152,6 +126,28 @@
    "promoted": false,
    "miss": 0,
    "added": 1793130160
+  },
+  "7520914823296229378": {
+   "created": 1793125825,
+   "author": "Yelena Fadeyeva, CPA",
+   "url": "https://www.linkedin.com/posts/activity-7520914823296229378-z4Tm",
+   "text": "Hi all! My team at Etched is growing, and we\u2019re hiring a General Ledger, Close role to join our world-class finance team.\nWe\u2019ve shipped our first production racks to Jane Street, and customer demand has been sky-high.\n\nApply here: https://lnkd.in/g7kgjwFV\n\nTo learn more, reach out to Jake on my team at jake@etched.com",
+   "disc_score": 29,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1793141803
+  },
+  "7520913682168520704": {
+   "created": 1793125553,
+   "author": "Beautiful Branding",
+   "url": "https://www.linkedin.com/posts/beautiful-branding_branding-and-web-design-for-dvc-by-daniil-activity-7520913682168520704-1xDw",
+   "text": "Branding and web design for DVC by Daniil Sergeev\n\nDVC is a fund that brings together 190+ investors and has backed 120 AI startups, including Perplexity AI, Etched, and Thinking Machines Lab. \n\nThe brand identity centers on multilayered and color cluster visuals, symbolizing a community of engineers, founders, and angels, all managed by a family of founders.",
+   "disc_score": 10,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1793141803
   }
  },
  "baseline": {
