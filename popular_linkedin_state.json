@@ -6,7 +6,9 @@
    "url": "https://www.linkedin.com/posts/petermmoricz_jane-street-and-rivals-are-now-fighting-for-activity-7520398938034589697-Aej_",
    "text": "Wall Street's speed traders go all in on AI.\nFor years, Jane Street, Hudson River Trading and their rivals fought over every nanosecond. Now they're also fighting for compute, the raw processing power behind AI.\n\nThe spending surge\n- One executive estimates market makers now spend 10 to 20 times more on compute than before ChatGPT launched.\n- Hudson River spends about $1 billion a year on AI, and that figure is rising.\n- Jane Street took a $1 billion stake in CoreWeave and pledged $6 billion in compute spending with it, plus a $13 billion deal with Crusoe.\n\nBuilding their own data centers\n- Hudson River runs part of its processing inside a former mine in a Norwegian mountain, cooled by fjord",
    "disc_score": 3,
-   "checks": {},
+   "checks": {
+    "24": 4
+   },
    "promoted": false,
    "miss": 0,
    "added": 1793020873
@@ -17,7 +19,9 @@
    "url": "https://www.linkedin.com/posts/leviathan-tsunami_wall-streets-speed-traders-go-all-in-on-activity-7520427936454336512-6bMi",
    "text": "Wall Street's speed traders go all in on AI. Jane Street, HRT and rivals now spend 10 to 20 times more on AI compute than before ChatGPT. They're building data centres in Norway and Finland and backing chipmakers like Etched.\n\nRead the full article: https://lnkd.in/eSFEMd8F",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1793020873
@@ -50,7 +54,9 @@
    "url": "https://www.linkedin.com/posts/landed-jobs_hiring-softwareengineering-techjobs-activity-7520469513687994368-FoVF",
    "text": "Ten US engineering roles posted this week, each with its pay range.\n\nVarda Space Industries is hiring a Senior Spacecraft Embedded Software Engineer in El Segundo, $169k-$216k.\nIronclad is hiring a Staff Software Engineer, Site Reliability in San Francisco, $210k-$235k.\nPerplexity is hiring a Member of Technical Staff (Software Engineer, Training Infrastructure) in San Francisco, $220k-$405k.\nSentry is hiring a Director of Engineering, Platform (Runtime & Stateful Systems) in San Francisco, $300k-$450k.\nQuindar is hiring a Platform Engineer in Denver, $145k-$186k.\nCommure is hiring an Engineering Manager, Provider Experience in Mountain View, $200k-$250k.\nZoox is hiring a Systems Test Engine",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1793043253
@@ -109,22 +115,21 @@
    "promoted": false,
    "miss": 0,
    "added": 1793089066
+  },
+  "7520763577394221056": {
+   "created": 1793089765,
+   "author": "Rene van Pelt",
+   "url": "https://www.linkedin.com/posts/rene-van-pelt_ai-artificialintelligence-ainews-activity-7520763577394221056-cP8A",
+   "text": "Etched leads AI Brief's list of 10 private AI chip companies at a $21B valuation from August 2026, ahead of SambaNova at $11B. \n\nCerebras is not on it, because it has been public on Nasdaq since May 2026.\n\nThe list is ordered by latest reported valuation and ends with FuriosaAI at about $720M. The figures use different dates and bases, so they are a snapshot.\n\nOn the list: Etched, SambaNova, Tenstorrent, Positron AI, Unconventional AI, Groq, Rebellions, d-Matrix, Tensordyne and FuriosaAI.\n\nRead more here: https://lnkd.in/eWYkMSSG\n\nSubscribe to one of our AI Newsletters: https://lnkd.in/eu2DYMuX\n\n|#ai #artificialintelligence #ainews",
+   "disc_score": 1,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1793106792
   }
  },
  "baseline": {
   "24": [
-   [
-    1789209827,
-    14
-   ],
-   [
-    1789232913,
-    3
-   ],
-   [
-    1789276456,
-    1
-   ],
    [
     1789276456,
     2
@@ -1712,6 +1717,18 @@
    [
     1793020873,
     244
+   ],
+   [
+    1793106792,
+    4
+   ],
+   [
+    1793106792,
+    0
+   ],
+   [
+    1793106792,
+    0
    ]
   ]
  },
