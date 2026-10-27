@@ -1,30 +1,17 @@
 {
  "watch": {
-  "2115052201508848080": {
-   "created": 1793102715,
-   "author": "Franchise9494",
-   "followers": 1172,
-   "url": "https://x.com/Franchise9494/status/2115052201508848080",
-   "disc_score": 13,
+  "2115132927843631127": {
+   "created": 1793121961,
+   "author": "milkroaddaily",
+   "followers": 105983,
+   "url": "https://x.com/milkroaddaily/status/2115132927843631127",
+   "disc_score": 10,
    "checks": {
-    "1": null
+    "1": 10
    },
    "promoted": false,
    "miss": 0,
-   "added": 1793111955
-  },
-  "2115062751840096639": {
-   "created": 1793105230,
-   "author": "BoxLongs",
-   "followers": 5039,
-   "url": "https://x.com/BoxLongs/status/2115062751840096639",
-   "disc_score": 5,
-   "checks": {
-    "1": 5
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1793111955
+   "added": 1793130122
   }
  },
  "baseline": {
@@ -1340,6 +1327,10 @@
    [
     1793111955,
     5
+   ],
+   [
+    1793130122,
+    10
    ]
   ]
  },
