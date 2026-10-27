@@ -32,7 +32,9 @@
    "url": "https://www.linkedin.com/posts/activity-7520512935694290944-4Q4T",
    "text": "Why are market makers spending 10-20 times more on Compute than before ChatGPT launched?\n\nEspecially when people like Ken Griffin say that AI is almost certainly in a bubble.\n\nDespite his views, Ken's market maker, Citadel Securities, keeps scaling up its use of AI chips.\n\nThe rest of the industry is doing the same. \n\nFor years, market makers competed on speed. \n\nNow they also compete on compute.\n\nThe money goes 3 ways:\n\n1. Cloud partnerships. Hudson River Trading signed a multi year deal with CoreWeave  and spends about $1bn a year on AI.\n\n2. Investments. Jane Street bought a $1bn stake in CoreWeave and led the round that valued chip startup Etched at $21bn.\n\n3. Building out their own data ",
    "disc_score": 6,
-   "checks": {},
+   "checks": {
+    "24": 6
+   },
    "promoted": false,
    "miss": 0,
    "added": 1793043253
@@ -126,14 +128,21 @@
    "promoted": false,
    "miss": 0,
    "added": 1793106792
+  },
+  "7520869770536218625": {
+   "created": 1793115084,
+   "author": "\u2728Madhavi Rajan",
+   "url": "https://www.linkedin.com/posts/madhavi-rajan_caspa-semiconductors-aihardware-activity-7520869770536218625-yGeo",
+   "text": "Spent the weekend at the CASPA Annual Conference and CEO Summit engaging with the leaders charting the next phase of semiconductor innovation.\n\nThe hardware landscape is diversifying rapidly. Watching Gavin Uberti (CEO of Etched) and fellow panelists contrast emerging architectures underscored a clear market reality. The future of AI scaling belongs to domain specific, hyper efficient hardware options rather than general purpose compute alone.\n\nFor leadership, the fireside chat with Lip-Bu Tan on the Intel turnaround offered valuable insights into execution. His grounded approach to corporate governance was striking, specifically his philosophy on velocity over perfection. Aiming for 70% dec",
+   "disc_score": 17,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1793126655
   }
  },
  "baseline": {
   "24": [
-   [
-    1789276456,
-    2
-   ],
    [
     1789279669,
     0
@@ -1729,6 +1738,10 @@
    [
     1793106792,
     0
+   ],
+   [
+    1793126655,
+    6
    ]
   ]
  },
