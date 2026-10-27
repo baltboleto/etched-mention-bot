@@ -1,53 +1,34 @@
 {
  "watch": {
-  "2114991788486479887": {
-   "created": 1793088311,
-   "author": "EagleEyes1300",
-   "followers": 151,
-   "url": "https://x.com/EagleEyes1300/status/2114991788486479887",
-   "disc_score": 0,
-   "checks": {},
-   "promoted": false,
-   "miss": 0,
-   "added": 1793088979
-  },
-  "2114978613376188454": {
-   "created": 1793085170,
-   "author": "Anton_Golub",
-   "followers": 2590,
-   "url": "https://x.com/Anton_Golub/status/2114978613376188454",
-   "disc_score": 7,
+  "2115052201508848080": {
+   "created": 1793102715,
+   "author": "Franchise9494",
+   "followers": 1172,
+   "url": "https://x.com/Franchise9494/status/2115052201508848080",
+   "disc_score": 13,
    "checks": {
-    "1": 7
+    "1": null
    },
    "promoted": false,
    "miss": 0,
-   "added": 1793088979
+   "added": 1793111955
   },
-  "2114972191913853199": {
-   "created": 1793083639,
-   "author": "pearlzh_",
-   "followers": 944,
-   "url": "https://x.com/pearlzh_/status/2114972191913853199",
-   "disc_score": 47,
+  "2115062751840096639": {
+   "created": 1793105230,
+   "author": "BoxLongs",
+   "followers": 5039,
+   "url": "https://x.com/BoxLongs/status/2115062751840096639",
+   "disc_score": 5,
    "checks": {
-    "1": 47
+    "1": 5
    },
-   "promoted": true,
+   "promoted": false,
    "miss": 0,
-   "added": 1793088979
+   "added": 1793111955
   }
  },
  "baseline": {
   "1": [
-   [
-    1787916461,
-    0
-   ],
-   [
-    1787916461,
-    0
-   ],
    [
     1787952689,
     0
@@ -1355,6 +1336,10 @@
    [
     1793088979,
     47
+   ],
+   [
+    1793111955,
+    5
    ]
   ]
  },
