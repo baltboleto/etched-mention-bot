@@ -45,7 +45,9 @@
    "url": "https://www.linkedin.com/posts/antongolub_jane-street-hudson-river-trading-xtx-markets-activity-7520560266619592704-WlIw",
    "text": "Jane Street, Hudson River Trading, XTX Markets & Citadel are investing $20bil in AI computing infrastructure\n\nJane Street signed $19 billion in multiyear AI cloud agreements with CoreWeave and Crusoe. Firm generated $39.6 billion in net trading revenue in 2025, so we're talking about AI investments are half of its annual trading revenue. It also led a $700 million investment round in Etched, an AI chipmaker valued at $21 billion, and has already installed Etched hardware in its own data center. \n\nXTX Markets operates more than 25,000 GPUs and over 1 exabyte of data storage. Firm trades $250 billion daily across global markets with just 300 employees. Its machine-learning models generate pric",
    "disc_score": 9,
-   "checks": {},
+   "checks": {
+    "24": 126
+   },
    "promoted": false,
    "miss": 0,
    "added": 1793043253
@@ -139,14 +141,21 @@
    "promoted": false,
    "miss": 0,
    "added": 1793126655
+  },
+  "7520920086472228867": {
+   "created": 1793127080,
+   "author": "Robert Hurd, CPA",
+   "url": "https://www.linkedin.com/posts/robert-hurd-cpa-a9a09173_newbeginnings-activity-7520920086472228867-Y-BS",
+   "text": "Excited to share that I started a new chapter at Etched yesterday.\n\nI have always loved building things, and joining the team at Etched is where that curiosity becomes the work.\n\nThank you to the mentors, teammates, and friends who got me here. And most of all, to my wife (Vanessa Hurd, CPA) and family, who make every next step possible.\n\n#NewBeginnings",
+   "disc_score": 25,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1793130160
   }
  },
  "baseline": {
   "24": [
-   [
-    1789279669,
-    0
-   ],
    [
     1789279669,
     0
@@ -1742,6 +1751,10 @@
    [
     1793126655,
     6
+   ],
+   [
+    1793130160,
+    126
    ]
   ]
  },
