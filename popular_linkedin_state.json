@@ -65,6 +65,39 @@
    "promoted": false,
    "miss": 0,
    "added": 1793067685
+  },
+  "7520640834547920897": {
+   "created": 1793060501,
+   "author": "JP Chen",
+   "url": "https://www.linkedin.com/posts/jpcal6ix_private-capital-frenzy-etched-three-years-activity-7520640834547920897-rs7C",
+   "text": "PRIVATE CAPITAL FRENZY | Etched\n\nThree years ago, VCs were turning down Gavin Uberti. Today, at 24, he's CEO of an AI chip startup whose valuation doubled from $10.3B at Series C to $21B within two months. Investors are now reportedly offering $40B\u2013$50B valuations for its next private financing.\n\nHere's how a company few investors wanted became one everyone wants access to.\n\nGavin met Chris Zhu in a Harvard math class. Robert W. was his roommate. The three dropped out to challenge Nvidia with specialized AI inference chips.\n\nIn 2023, they spent 100 hours preparing a 30-page technical memo: AI inference would become a massive market requiring specialized hardware.\n\nMajor VCs passed. Etched ha",
+   "disc_score": 2,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1793081770
+  },
+  "7520650973430591488": {
+   "created": 1793062919,
+   "author": "Saasverse",
+   "url": "https://www.linkedin.com/posts/saasverse-global_aichips-semiconductors-artificialintelligence-activity-7520650973430591488-lTfj",
+   "text": "\u26a1 AI Chips \u2014 Valuation by Saasverse\nThe race to build the post-NVIDIA silicon stack now has a price list.\nOur landscape maps the 10 most valuable private AI chip companies. Three signals stand out:\n1\ufe0f\u20e3 Consolidation has already redrawn this map once. NVIDIA's ~$20B licensing deal for Groq's LPU technology, Marvell Technology's acquisition of Celestial AI, and Cerebras' IPO at a ~$95B market cap have all landed within the past year. Several names on this list will not stay private for long. \ud83e\udd1d\n2\ufe0f\u20e3 The top of the chart is still talk. Etched leads at $40B+ \u2014 an in-talks figure, nearly double its $21B last priced round. No other name on the list is close. \ud83d\udcc8\n3\ufe0f\u20e3 It is not a US-only race. South Kor",
+   "disc_score": 1,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1793081770
+  },
+  "7520638000423206912": {
+   "created": 1793059825,
+   "author": "Bo Li",
+   "url": "https://www.linkedin.com/posts/boli99_etched-fireside-chat-hardware-software-codesign-activity-7520638000423206912-Vq08",
+   "text": "Fireside chat with Etched, please RSVP if you're interested! \n\n\"Etched just launched this summer. We've built and shipped our first rack after a successful A0 tapeout, $1B+ in customer contracts, and a $21B Series C. Learn more about what hardware-software codesign looks like at gigawatt scale. We'll have pizza & merch!\" \n\nhttps://luma.com/64389ifr",
+   "disc_score": 1,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1793081770
   }
  },
  "baseline": {
