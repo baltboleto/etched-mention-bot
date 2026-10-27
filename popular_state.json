@@ -1,82 +1,41 @@
 {
  "watch": {
-  "2114882854651858954": {
-   "created": 1793062339,
-   "author": "Future_Ripples",
-   "followers": 162,
-   "url": "https://x.com/Future_Ripples/status/2114882854651858954",
+  "2114991788486479887": {
+   "created": 1793088311,
+   "author": "EagleEyes1300",
+   "followers": 151,
+   "url": "https://x.com/EagleEyes1300/status/2114991788486479887",
    "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
+   "checks": {},
    "promoted": false,
    "miss": 0,
-   "added": 1793067652
+   "added": 1793088979
   },
-  "2114877846548000964": {
-   "created": 1793061145,
-   "author": "Future_Ripples",
-   "followers": 162,
-   "url": "https://x.com/Future_Ripples/status/2114877846548000964",
-   "disc_score": 0,
+  "2114978613376188454": {
+   "created": 1793085170,
+   "author": "Anton_Golub",
+   "followers": 2590,
+   "url": "https://x.com/Anton_Golub/status/2114978613376188454",
+   "disc_score": 7,
    "checks": {
-    "1": 0
+    "1": 7
    },
    "promoted": false,
    "miss": 0,
-   "added": 1793067652
+   "added": 1793088979
   },
-  "2114877491693175158": {
-   "created": 1793061061,
-   "author": "Future_Ripples",
-   "followers": 162,
-   "url": "https://x.com/Future_Ripples/status/2114877491693175158",
-   "disc_score": 3,
+  "2114972191913853199": {
+   "created": 1793083639,
+   "author": "pearlzh_",
+   "followers": 944,
+   "url": "https://x.com/pearlzh_/status/2114972191913853199",
+   "disc_score": 47,
    "checks": {
-    "1": 3
+    "1": 47
    },
-   "promoted": false,
+   "promoted": true,
    "miss": 0,
-   "added": 1793067652
-  },
-  "2114875190756921820": {
-   "created": 1793060512,
-   "author": "solidwillity",
-   "followers": 1293,
-   "url": "https://x.com/solidwillity/status/2114875190756921820",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1793067652
-  },
-  "2114887463957361088": {
-   "created": 1793063438,
-   "author": "youmoo_ic",
-   "followers": 6,
-   "url": "https://x.com/youmoo_ic/status/2114887463957361088",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1793067652
-  },
-  "2114884188310741093": {
-   "created": 1793062657,
-   "author": "databarrels",
-   "followers": 30,
-   "url": "https://x.com/databarrels/status/2114884188310741093",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1793067652
+   "added": 1793088979
   }
  },
  "baseline": {
@@ -1388,6 +1347,14 @@
    [
     1793067652,
     0
+   ],
+   [
+    1793088979,
+    7
+   ],
+   [
+    1793088979,
+    47
    ]
   ]
  },
@@ -1511,6 +1478,11 @@
    1793043162,
    "2114771242859344178",
    88
+  ],
+  [
+   1793088979,
+   "2114972191913853199",
+   47
   ]
  ],
  "seeded": true
