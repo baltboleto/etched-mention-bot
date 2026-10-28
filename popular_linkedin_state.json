@@ -1,31 +1,5 @@
 {
  "watch": {
-  "7520512935694290944": {
-   "created": 1793030008,
-   "author": "Ada Offonry",
-   "url": "https://www.linkedin.com/posts/activity-7520512935694290944-4Q4T",
-   "text": "Why are market makers spending 10-20 times more on Compute than before ChatGPT launched?\n\nEspecially when people like Ken Griffin say that AI is almost certainly in a bubble.\n\nDespite his views, Ken's market maker, Citadel Securities, keeps scaling up its use of AI chips.\n\nThe rest of the industry is doing the same. \n\nFor years, market makers competed on speed. \n\nNow they also compete on compute.\n\nThe money goes 3 ways:\n\n1. Cloud partnerships. Hudson River Trading signed a multi year deal with CoreWeave  and spends about $1bn a year on AI.\n\n2. Investments. Jane Street bought a $1bn stake in CoreWeave and led the round that valued chip startup Etched at $21bn.\n\n3. Building out their own data ",
-   "disc_score": 6,
-   "checks": {
-    "24": 6
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1793043253
-  },
-  "7520560266619592704": {
-   "created": 1793041292,
-   "author": "Anton Golub",
-   "url": "https://www.linkedin.com/posts/antongolub_jane-street-hudson-river-trading-xtx-markets-activity-7520560266619592704-WlIw",
-   "text": "Jane Street, Hudson River Trading, XTX Markets & Citadel are investing $20bil in AI computing infrastructure\n\nJane Street signed $19 billion in multiyear AI cloud agreements with CoreWeave and Crusoe. Firm generated $39.6 billion in net trading revenue in 2025, so we're talking about AI investments are half of its annual trading revenue. It also led a $700 million investment round in Etched, an AI chipmaker valued at $21 billion, and has already installed Etched hardware in its own data center. \n\nXTX Markets operates more than 25,000 GPUs and over 1 exabyte of data storage. Firm trades $250 billion daily across global markets with just 300 employees. Its machine-learning models generate pric",
-   "disc_score": 9,
-   "checks": {
-    "24": 126
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1793043253
-  },
   "7520663720121847808": {
    "created": 1793065958,
    "author": "Rajeev Rajan",
@@ -84,7 +58,9 @@
    "url": "https://www.linkedin.com/posts/chihkuan-ho_caspa-semiconductors-siliconvalley-activity-7520736150089695233-_sDC",
    "text": "What an incredible experience volunteering at the CASPA 35th Annual Conference and CEO Summit last weekend! \ud83d\ude80\n\nHelping coordinate an event of this magnitude\u2014bringing close to 2,000 attendees and some of the brightest minds in the semiconductor industry to the Santa Clara Convention Center\u2014was truly inspiring. For this milestone event, I had the privilege of taking on two distinct and rewarding roles: serving as the Auditorium Lighting Control Operator and the Chief Editor of the Yearbook.\n\nA major highlight of the conference was the CEO Summit, where more than 35 Silicon Valley executives gathered to discuss the next wave of silicon capital, AI infrastructure, and the evolving economics of o",
    "disc_score": 12,
-   "checks": {},
+   "checks": {
+    "24": 25
+   },
    "promoted": false,
    "miss": 0,
    "added": 1793089066
@@ -95,7 +71,9 @@
    "url": "https://www.linkedin.com/posts/rene-van-pelt_ai-artificialintelligence-ainews-activity-7520763577394221056-cP8A",
    "text": "Etched leads AI Brief's list of 10 private AI chip companies at a $21B valuation from August 2026, ahead of SambaNova at $11B. \n\nCerebras is not on it, because it has been public on Nasdaq since May 2026.\n\nThe list is ordered by latest reported valuation and ends with FuriosaAI at about $720M. The figures use different dates and bases, so they are a snapshot.\n\nOn the list: Etched, SambaNova, Tenstorrent, Positron AI, Unconventional AI, Groq, Rebellions, d-Matrix, Tensordyne and FuriosaAI.\n\nRead more here: https://lnkd.in/eWYkMSSG\n\nSubscribe to one of our AI Newsletters: https://lnkd.in/eu2DYMuX\n\n|#ai #artificialintelligence #ainews",
    "disc_score": 1,
-   "checks": {},
+   "checks": {
+    "24": 3
+   },
    "promoted": false,
    "miss": 0,
    "added": 1793106792
@@ -143,18 +121,21 @@
    "promoted": false,
    "miss": 0,
    "added": 1793141803
+  },
+  "7521082092634677248": {
+   "created": 1793165705,
+   "author": "CASPA Office",
+   "url": "https://www.linkedin.com/posts/caspa-office-595263a_caspa-caspa35-ceosummit-activity-7521082092634677248-Bf9J",
+   "text": "CASPA 35th Annual Conference | The CEO Summit -  Day 2 Recap\n\nOn Saturday, October 24, Day 2 of the CASPA 35th Annual Conference: The CEO Summit brought together leaders from across the semiconductor and AI ecosystem for a full day of keynotes, panels, and executive conversations at the Santa Clara Convention Center.\n\nFrom chip design and advanced manufacturing to AI compute, data storage, optical interconnects, and cybersecurity, the discussions showed how interconnected the ecosystem has become.\n\n\u25b8 Morning Keynotes\nAjit Manocha, CEO of SEMI: \u201cTransforming Industry Collaboration: Navigating AI Era Inflections\u201d\nMary Ellen Randall, President & CEO of IEEE: \u201cAdvancing Humanity through Responsi",
+   "disc_score": 14,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1793177769
   }
  },
  "baseline": {
   "24": [
-   [
-    1789316110,
-    0
-   ],
-   [
-    1789321342,
-    0
-   ],
    [
     1789327636,
     46
@@ -1745,6 +1726,14 @@
    ],
    [
     1793153664,
+    3
+   ],
+   [
+    1793177769,
+    25
+   ],
+   [
+    1793177769,
     3
    ]
   ]
