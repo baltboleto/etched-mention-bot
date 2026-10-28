@@ -1,31 +1,5 @@
 {
  "watch": {
-  "7520736150089695233": {
-   "created": 1793083226,
-   "author": "Chih-Kuan Ho",
-   "url": "https://www.linkedin.com/posts/chihkuan-ho_caspa-semiconductors-siliconvalley-activity-7520736150089695233-_sDC",
-   "text": "What an incredible experience volunteering at the CASPA 35th Annual Conference and CEO Summit last weekend! \ud83d\ude80\n\nHelping coordinate an event of this magnitude\u2014bringing close to 2,000 attendees and some of the brightest minds in the semiconductor industry to the Santa Clara Convention Center\u2014was truly inspiring. For this milestone event, I had the privilege of taking on two distinct and rewarding roles: serving as the Auditorium Lighting Control Operator and the Chief Editor of the Yearbook.\n\nA major highlight of the conference was the CEO Summit, where more than 35 Silicon Valley executives gathered to discuss the next wave of silicon capital, AI infrastructure, and the evolving economics of o",
-   "disc_score": 12,
-   "checks": {
-    "24": 25
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1793089066
-  },
-  "7520763577394221056": {
-   "created": 1793089765,
-   "author": "Rene van Pelt",
-   "url": "https://www.linkedin.com/posts/rene-van-pelt_ai-artificialintelligence-ainews-activity-7520763577394221056-cP8A",
-   "text": "Etched leads AI Brief's list of 10 private AI chip companies at a $21B valuation from August 2026, ahead of SambaNova at $11B. \n\nCerebras is not on it, because it has been public on Nasdaq since May 2026.\n\nThe list is ordered by latest reported valuation and ends with FuriosaAI at about $720M. The figures use different dates and bases, so they are a snapshot.\n\nOn the list: Etched, SambaNova, Tenstorrent, Positron AI, Unconventional AI, Groq, Rebellions, d-Matrix, Tensordyne and FuriosaAI.\n\nRead more here: https://lnkd.in/eWYkMSSG\n\nSubscribe to one of our AI Newsletters: https://lnkd.in/eu2DYMuX\n\n|#ai #artificialintelligence #ainews",
-   "disc_score": 1,
-   "checks": {
-    "24": 3
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1793106792
-  },
   "7520869770536218625": {
    "created": 1793115084,
    "author": "\u2728Madhavi Rajan",
@@ -45,8 +19,10 @@
    "url": "https://www.linkedin.com/posts/robert-hurd-cpa-a9a09173_newbeginnings-activity-7520920086472228867-Y-BS",
    "text": "Excited to share that I started a new chapter at Etched yesterday.\n\nI have always loved building things, and joining the team at Etched is where that curiosity becomes the work.\n\nThank you to the mentors, teammates, and friends who got me here. And most of all, to my wife (Vanessa Hurd, CPA) and family, who make every next step possible.\n\n#NewBeginnings",
    "disc_score": 25,
-   "checks": {},
-   "promoted": false,
+   "checks": {
+    "24": 334
+   },
+   "promoted": true,
    "miss": 0,
    "added": 1793130160
   },
@@ -56,7 +32,9 @@
    "url": "https://www.linkedin.com/posts/activity-7520914823296229378-z4Tm",
    "text": "Hi all! My team at Etched is growing, and we\u2019re hiring a General Ledger, Close role to join our world-class finance team.\nWe\u2019ve shipped our first production racks to Jane Street, and customer demand has been sky-high.\n\nApply here: https://lnkd.in/g7kgjwFV\n\nTo learn more, reach out to Jake on my team at jake@etched.com",
    "disc_score": 29,
-   "checks": {},
+   "checks": {
+    "24": 149
+   },
    "promoted": false,
    "miss": 0,
    "added": 1793141803
@@ -67,7 +45,9 @@
    "url": "https://www.linkedin.com/posts/beautiful-branding_branding-and-web-design-for-dvc-by-daniil-activity-7520913682168520704-1xDw",
    "text": "Branding and web design for DVC by Daniil Sergeev\n\nDVC is a fund that brings together 190+ investors and has backed 120 AI startups, including Perplexity AI, Etched, and Thinking Machines Lab. \n\nThe brand identity centers on multilayered and color cluster visuals, symbolizing a community of engineers, founders, and angels, all managed by a family of founders.",
    "disc_score": 10,
-   "checks": {},
+   "checks": {
+    "24": 24
+   },
    "promoted": false,
    "miss": 0,
    "added": 1793141803
@@ -115,22 +95,32 @@
    "promoted": false,
    "miss": 0,
    "added": 1793202719
+  },
+  "7521264448121233408": {
+   "created": 1793209182,
+   "author": "Index Ventures",
+   "url": "https://www.linkedin.com/posts/index-ventures_congratulations-again-to-benjamin-s-and-activity-7521264448121233408-GJOf",
+   "text": "Congratulations again to Benjamin S. and the whole team at Flapping Airplanes on their $1B Series A.\n\nFresh off the announcement, our partner Mark Xu sat down with Ben, Flappy\u2019s CEO and co-founder. They talked about everything from his running the student incubator Prod, where he saw startups like Cursor, Mercor, Etched, and dozens of others up close, to building a research lab with a mission to make AI orders of magnitude more efficient. They also get into what Ben believes separates founders from everyone else, and the values he\u2019s bringing to the team: staying focused on fundamentals in an ecosystem full of distractions, and holding their research to the strongest baselines they can come u",
+   "disc_score": 46,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1793220817
+  },
+  "7521281448989999104": {
+   "created": 1793213236,
+   "author": "Jared Cohen",
+   "url": "https://www.linkedin.com/posts/cohenjar_i-dont-know-anyone-who-thinks-their-company-activity-7521281448989999104-ZBh_",
+   "text": "I don\u2019t know anyone who thinks their company does a particularly great job at onboarding new hires. It\u2019s one of the most overlooked parts of building a successful company and usually one of the highest-leverage things to improve upon.\n\nIt is honestly insane that people don't spend more time getting this right given onboarding sets the tone for someone\u2019s entire trajectory within the business. How fast a new hire gets productive, whether they become a top performer, and whether they feel supported while doing so can all be traced back to these early weeks. \n\nToday we\u2019re announcing the system that finally allows companies to launch new hires out of a cannon with repeatable and measurable succes",
+   "disc_score": 31,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1793220817
   }
  },
  "baseline": {
   "24": [
-   [
-    1789403967,
-    5
-   ],
-   [
-    1789418377,
-    0
-   ],
-   [
-    1789457015,
-    25
-   ],
    [
     1789457015,
     8
@@ -1718,6 +1708,18 @@
    [
     1793202719,
     36
+   ],
+   [
+    1793220817,
+    334
+   ],
+   [
+    1793220817,
+    149
+   ],
+   [
+    1793220817,
+    24
    ]
   ]
  },
@@ -1931,6 +1933,11 @@
    1793020873,
    "7520025100210061312",
    244
+  ],
+  [
+   1793220817,
+   "7520920086472228867",
+   334
   ]
  ],
  "seeded": true
