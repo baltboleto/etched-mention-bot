@@ -1,68 +1,34 @@
 {
  "watch": {
-  "2115348060779987029": {
-   "created": 1793173253,
-   "author": "nush_1320",
-   "followers": 6017,
-   "url": "https://x.com/nush_1320/status/2115348060779987029",
-   "disc_score": 0,
+  "2115450670585151719": {
+   "created": 1793197717,
+   "author": "InspiredCap",
+   "followers": 3076,
+   "url": "https://x.com/InspiredCap/status/2115450670585151719",
+   "disc_score": 8,
    "checks": {
-    "1": 0
+    "1": 8
    },
    "promoted": false,
    "miss": 0,
-   "added": 1793177653
+   "added": 1793202534
   },
-  "2115344985038192988": {
-   "created": 1793172520,
-   "author": "punyakrit_22",
-   "followers": 1776,
-   "url": "https://x.com/punyakrit_22/status/2115344985038192988",
-   "disc_score": 0,
+  "2115443515576528926": {
+   "created": 1793196011,
+   "author": "bdistel",
+   "followers": 3067,
+   "url": "https://x.com/bdistel/status/2115443515576528926",
+   "disc_score": 133,
    "checks": {
-    "1": 0
+    "1": 133
    },
-   "promoted": false,
+   "promoted": true,
    "miss": 0,
-   "added": 1793177653
-  },
-  "2115342798606225823": {
-   "created": 1793171999,
-   "author": "regalstreak",
-   "followers": 11150,
-   "url": "https://x.com/regalstreak/status/2115342798606225823",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1793177653
-  },
-  "2115324361754177772": {
-   "created": 1793167603,
-   "author": "MRehan_5",
-   "followers": 1116,
-   "url": "https://x.com/MRehan_5/status/2115324361754177772",
-   "disc_score": 0,
-   "checks": {
-    "1": null
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1793177653
+   "added": 1793202534
   }
  },
  "baseline": {
   "1": [
-   [
-    1788460970,
-    1
-   ],
-   [
-    1788460970,
-    1
-   ],
    [
     1788460970,
     1
@@ -1654,6 +1620,14 @@
    [
     1793177653,
     0
+   ],
+   [
+    1793202536,
+    8
+   ],
+   [
+    1793202536,
+    133
    ]
   ]
  },
@@ -1787,6 +1761,11 @@
    1793142912,
    "2115191828236640464",
    146
+  ],
+  [
+   1793202536,
+   "2115443515576528926",
+   133
   ]
  ],
  "seeded": true
