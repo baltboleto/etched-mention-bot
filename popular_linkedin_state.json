@@ -1,57 +1,5 @@
 {
  "watch": {
-  "7520663720121847808": {
-   "created": 1793065958,
-   "author": "Rajeev Rajan",
-   "url": "https://www.linkedin.com/posts/rajeevrajan2_ai-agenticai-physicalai-activity-7520663720121847808-huqO",
-   "text": "\u2728It was electric at the CASPA - Chinese American Semiconductor Professional Assoc. 2026 event!  Highlights included:\n\n\ud83d\udd37 CASPA at 35: Celebrated CASPA\u2019s 35th anniversary at the Santa Clara Convention Center, featuring its largest-ever global gathering of semiconductor CEOs.\n\ud83d\udd37 Next-decade focus: Under \u201cSilicon, Systems, and Intelligence: Designing the Next Decade,\u201d the agenda centered on the economics, power architectures, and scalability of AI infrastructure.\n\ud83d\udd37 Executive lineup: The dinner banquet featured an amazing on-stage fireside chat with Intel\u2019s Lip-Bu Tan and CASPA President Jimmy Cheng, plus insights from 35+ leaders across the industry, including SiMa.ai d-Matrix Cerebras Normal Com",
-   "disc_score": 3,
-   "checks": {
-    "24": 22
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1793067685
-  },
-  "7520640834547920897": {
-   "created": 1793060501,
-   "author": "JP Chen",
-   "url": "https://www.linkedin.com/posts/jpcal6ix_private-capital-frenzy-etched-three-years-activity-7520640834547920897-rs7C",
-   "text": "PRIVATE CAPITAL FRENZY | Etched\n\nThree years ago, VCs were turning down Gavin Uberti. Today, at 24, he's CEO of an AI chip startup whose valuation doubled from $10.3B at Series C to $21B within two months. Investors are now reportedly offering $40B\u2013$50B valuations for its next private financing.\n\nHere's how a company few investors wanted became one everyone wants access to.\n\nGavin met Chris Zhu in a Harvard math class. Robert W. was his roommate. The three dropped out to challenge Nvidia with specialized AI inference chips.\n\nIn 2023, they spent 100 hours preparing a 30-page technical memo: AI inference would become a massive market requiring specialized hardware.\n\nMajor VCs passed. Etched ha",
-   "disc_score": 2,
-   "checks": {
-    "24": 3
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1793081770
-  },
-  "7520650973430591488": {
-   "created": 1793062919,
-   "author": "Saasverse",
-   "url": "https://www.linkedin.com/posts/saasverse-global_aichips-semiconductors-artificialintelligence-activity-7520650973430591488-lTfj",
-   "text": "\u26a1 AI Chips \u2014 Valuation by Saasverse\nThe race to build the post-NVIDIA silicon stack now has a price list.\nOur landscape maps the 10 most valuable private AI chip companies. Three signals stand out:\n1\ufe0f\u20e3 Consolidation has already redrawn this map once. NVIDIA's ~$20B licensing deal for Groq's LPU technology, Marvell Technology's acquisition of Celestial AI, and Cerebras' IPO at a ~$95B market cap have all landed within the past year. Several names on this list will not stay private for long. \ud83e\udd1d\n2\ufe0f\u20e3 The top of the chart is still talk. Etched leads at $40B+ \u2014 an in-talks figure, nearly double its $21B last priced round. No other name on the list is close. \ud83d\udcc8\n3\ufe0f\u20e3 It is not a US-only race. South Kor",
-   "disc_score": 1,
-   "checks": {
-    "24": 1
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1793081770
-  },
-  "7520638000423206912": {
-   "created": 1793059825,
-   "author": "Bo Li",
-   "url": "https://www.linkedin.com/posts/boli99_etched-fireside-chat-hardware-software-codesign-activity-7520638000423206912-Vq08",
-   "text": "Fireside chat with Etched, please RSVP if you're interested! \n\n\"Etched just launched this summer. We've built and shipped our first rack after a successful A0 tapeout, $1B+ in customer contracts, and a $21B Series C. Learn more about what hardware-software codesign looks like at gigawatt scale. We'll have pizza & merch!\" \n\nhttps://luma.com/64389ifr",
-   "disc_score": 1,
-   "checks": {
-    "24": 3
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1793081770
-  },
   "7520736150089695233": {
    "created": 1793083226,
    "author": "Chih-Kuan Ho",
@@ -84,7 +32,9 @@
    "url": "https://www.linkedin.com/posts/madhavi-rajan_caspa-semiconductors-aihardware-activity-7520869770536218625-yGeo",
    "text": "Spent the weekend at the CASPA Annual Conference and CEO Summit engaging with the leaders charting the next phase of semiconductor innovation.\n\nThe hardware landscape is diversifying rapidly. Watching Gavin Uberti (CEO of Etched) and fellow panelists contrast emerging architectures underscored a clear market reality. The future of AI scaling belongs to domain specific, hyper efficient hardware options rather than general purpose compute alone.\n\nFor leadership, the fireside chat with Lip-Bu Tan on the Intel turnaround offered valuable insights into execution. His grounded approach to corporate governance was striking, specifically his philosophy on velocity over perfection. Aiming for 70% dec",
    "disc_score": 17,
-   "checks": {},
+   "checks": {
+    "24": 36
+   },
    "promoted": false,
    "miss": 0,
    "added": 1793126655
@@ -132,14 +82,43 @@
    "promoted": false,
    "miss": 0,
    "added": 1793177769
+  },
+  "7521201790776795136": {
+   "created": 1793194244,
+   "author": "Harshavardhan Malla",
+   "url": "https://www.linkedin.com/posts/harshavardhanmalla_linkedin-is-paying-120000-to-195000-for-activity-7521201790776795136-gQjt",
+   "text": "LinkedIn is paying $120,000 to $195,000 for a Software Engineer, Systems and Infrastructure.\n\nOne of 245 new US infrastructure and SRE roles in the last 24 hours. 49% are at employers with H-1B history.\n\n13 I checked open on the employer's own site today:\n\n1. LinkedIn \u2014 Software Engineer, Systems and Infrastructure\nBellevue, WA \u00b7 $120,000 to $195,000 \u00b7 H-1B history\n\n2. Ford Motor Company \u2014 AI Platform Engineer\nAllen Park, MI \u00b7 $99,600 to $166,600 \u00b7 H-1B history\n\n3. Superhuman Platform \u2014 Software Engineer, Back-End - Mail (US)\nUS \u00b7 $154,000 to $214,000 \u00b7 H-1B history\n\n4. Apple \u2014 Site Reliability Engineer, Retail and Marcom Engineering\nAustin, Texas \u00b7 H-1B history\n\n5. Sony Interactive Entertai",
+   "disc_score": 7,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1793202719
+  },
+  "7521156683230859264": {
+   "created": 1793183489,
+   "author": "The Content House",
+   "url": "https://www.linkedin.com/posts/the-content-house-in_thecontenthousedispatch-activity-7521156683230859264-rZzC",
+   "text": "Global AI infrastructure: Investment is rising, but the economics are under pressure.\n\nAI companies are spending heavily on computing infrastructure, even as questions grow over whether the revenue generated will justify the investment.\nTwo recent reports from Gartner and PitchBook show where the market is heading.\n\n1/ Gartner forecasts $6 trillion in AI infrastructure spending between 2027 and 2030.\n\nBut the research firm estimates that AI revenue attributable to data centres will reach only $3.6 trillion through 2030, against $8.5 trillion required to deliver a 12% return on cumulative investment.\n\nMore than $3.5 trillion of infrastructure spending could be exposed to impairment risk by 20",
+   "disc_score": 3,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1793202719
+  },
+  "7521216502599995392": {
+   "created": 1793197751,
+   "author": "Inspired Capital",
+   "url": "https://www.linkedin.com/posts/inspired-capital-partners_growing-companies-think-their-biggest-problem-activity-7521216502599995392-CXIv",
+   "text": "Onboarding is one of the biggest bottlenecks for fast-growing teams. Windmill just launched Agentic Onboarding to fix that. Windy, their AI agent, guides every new hire from day one with a personalized plan, company knowledge, and the right manager support, all in Slack. New hires onboarded with Windmill ramp 3x faster.\n\nWindmill already has a fast-growing roster of customers, like Etched, that are seeing incredible results. Congrats Brian Distelburger, Max Shaw, Mark Tanner and the Windmill team on the launch!",
+   "disc_score": 2,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1793202719
   }
  },
  "baseline": {
   "24": [
-   [
-    1789327636,
-    46
-   ],
    [
     1789403967,
     5
@@ -1735,6 +1714,10 @@
    [
     1793177769,
     3
+   ],
+   [
+    1793202719,
+    36
    ]
   ]
  },
