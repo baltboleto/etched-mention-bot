@@ -1,94 +1,60 @@
 {
  "watch": {
-  "2115266538475516022": {
-   "created": 1793153817,
-   "author": "0xrinx",
-   "followers": 3416,
-   "url": "https://x.com/0xrinx/status/2115266538475516022",
-   "disc_score": 1,
-   "checks": {},
-   "promoted": false,
-   "miss": 0,
-   "added": 1793154107
-  },
-  "2115257799659999580": {
-   "created": 1793151733,
-   "author": "JoshuaIPark",
-   "followers": 5345,
-   "url": "https://x.com/JoshuaIPark/status/2115257799659999580",
+  "2115348060779987029": {
+   "created": 1793173253,
+   "author": "nush_1320",
+   "followers": 6017,
+   "url": "https://x.com/nush_1320/status/2115348060779987029",
    "disc_score": 0,
-   "checks": {},
-   "promoted": false,
-   "miss": 0,
-   "added": 1793154107
-  },
-  "2115239944637796631": {
-   "created": 1793147476,
-   "author": "athrix_codes",
-   "followers": 3909,
-   "url": "https://x.com/athrix_codes/status/2115239944637796631",
-   "disc_score": 2,
    "checks": {
-    "1": 2
+    "1": 0
    },
    "promoted": false,
    "miss": 0,
-   "added": 1793154107
+   "added": 1793177653
   },
-  "2115238396918681792": {
-   "created": 1793147107,
-   "author": "suraj_sharma14",
-   "followers": 26193,
-   "url": "https://x.com/suraj_sharma14/status/2115238396918681792",
-   "disc_score": 2,
+  "2115344985038192988": {
+   "created": 1793172520,
+   "author": "punyakrit_22",
+   "followers": 1776,
+   "url": "https://x.com/punyakrit_22/status/2115344985038192988",
+   "disc_score": 0,
    "checks": {
-    "1": 2
+    "1": 0
    },
    "promoted": false,
    "miss": 0,
-   "added": 1793154107
+   "added": 1793177653
   },
-  "2115233466161996113": {
-   "created": 1793145932,
-   "author": "daleverett",
-   "followers": 4473,
-   "url": "https://x.com/daleverett/status/2115233466161996113",
-   "disc_score": 2,
+  "2115342798606225823": {
+   "created": 1793171999,
+   "author": "regalstreak",
+   "followers": 11150,
+   "url": "https://x.com/regalstreak/status/2115342798606225823",
+   "disc_score": 0,
    "checks": {
-    "1": 2
+    "1": 0
    },
    "promoted": false,
    "miss": 0,
-   "added": 1793154107
+   "added": 1793177653
   },
-  "2115226869419430241": {
-   "created": 1793144359,
-   "author": "jay_zh0",
-   "followers": 24,
-   "url": "https://x.com/jay_zh0/status/2115226869419430241",
-   "disc_score": 2,
+  "2115324361754177772": {
+   "created": 1793167603,
+   "author": "MRehan_5",
+   "followers": 1116,
+   "url": "https://x.com/MRehan_5/status/2115324361754177772",
+   "disc_score": 0,
    "checks": {
     "1": null
    },
    "promoted": false,
    "miss": 0,
-   "added": 1793154107
+   "added": 1793177653
   }
  },
  "baseline": {
   "1": [
-   [
-    1788460970,
-    1
-   ],
-   [
-    1788460970,
-    1
-   ],
-   [
-    1788460970,
-    1
-   ],
    [
     1788460970,
     1
@@ -1676,6 +1642,18 @@
    [
     1793154107,
     2
+   ],
+   [
+    1793177653,
+    0
+   ],
+   [
+    1793177653,
+    0
+   ],
+   [
+    1793177653,
+    0
    ]
   ]
  },
