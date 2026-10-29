@@ -19,7 +19,9 @@
    "url": "https://www.linkedin.com/posts/harshavardhanmalla_linkedin-is-paying-120000-to-195000-for-activity-7521201790776795136-gQjt",
    "text": "LinkedIn is paying $120,000 to $195,000 for a Software Engineer, Systems and Infrastructure.\n\nOne of 245 new US infrastructure and SRE roles in the last 24 hours. 49% are at employers with H-1B history.\n\n13 I checked open on the employer's own site today:\n\n1. LinkedIn \u2014 Software Engineer, Systems and Infrastructure\nBellevue, WA \u00b7 $120,000 to $195,000 \u00b7 H-1B history\n\n2. Ford Motor Company \u2014 AI Platform Engineer\nAllen Park, MI \u00b7 $99,600 to $166,600 \u00b7 H-1B history\n\n3. Superhuman Platform \u2014 Software Engineer, Back-End - Mail (US)\nUS \u00b7 $154,000 to $214,000 \u00b7 H-1B history\n\n4. Apple \u2014 Site Reliability Engineer, Retail and Marcom Engineering\nAustin, Texas \u00b7 H-1B history\n\n5. Sony Interactive Entertai",
    "disc_score": 7,
-   "checks": {},
+   "checks": {
+    "24": 13
+   },
    "promoted": false,
    "miss": 0,
    "added": 1793202719
@@ -30,7 +32,9 @@
    "url": "https://www.linkedin.com/posts/the-content-house-in_thecontenthousedispatch-activity-7521156683230859264-rZzC",
    "text": "Global AI infrastructure: Investment is rising, but the economics are under pressure.\n\nAI companies are spending heavily on computing infrastructure, even as questions grow over whether the revenue generated will justify the investment.\nTwo recent reports from Gartner and PitchBook show where the market is heading.\n\n1/ Gartner forecasts $6 trillion in AI infrastructure spending between 2027 and 2030.\n\nBut the research firm estimates that AI revenue attributable to data centres will reach only $3.6 trillion through 2030, against $8.5 trillion required to deliver a 12% return on cumulative investment.\n\nMore than $3.5 trillion of infrastructure spending could be exposed to impairment risk by 20",
    "disc_score": 3,
-   "checks": {},
+   "checks": {
+    "24": 4
+   },
    "promoted": false,
    "miss": 0,
    "added": 1793202719
@@ -100,18 +104,21 @@
    "promoted": false,
    "miss": 0,
    "added": 1793255548
+  },
+  "7521556725364318208": {
+   "created": 1793278867,
+   "author": "Hosun Chung",
+   "url": "https://www.linkedin.com/posts/hosun-chung_in-2011-peter-thiel-started-paying-young-activity-7521556725364318208-qAlR",
+   "text": "In 2011, Peter Thiel started paying young people $100,000 to skip college.\n17 of those fellows went on to found companies worth a combined $1.38T. 1 of them co-founded Anthropic.\nHere's the Thiel Fellowship mafia, ranked by value:\n\n1. Anthropic, $965B. Chris Olah. The AI lab behind Claude.\n2. Ethereum, $284B. Vitalik Buterin. Value of all ether.\n3. Cognition, $48B. Walden Yan. AI coding agents.\n4. Scale AI, $29B. Lucy Guo. Data for AI models.\n5. Etched, $21B. Gavin Uberti, Robert Wachen and Chris Zhu. AI inference chips.\n6. Figma, $13.1B. Dylan Field. Design software.\n7. Mercor, $10B. Brendan Foody, Adarsh Hiremath and Surya Midha. Experts for AI labs.\n8. OYO, $2.4B. Ritesh Agarwal. Budget h",
+   "disc_score": 2,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1793281135
   }
  },
  "baseline": {
   "24": [
-   [
-    1789457015,
-    15
-   ],
-   [
-    1789476928,
-    4
-   ],
    [
     1789476928,
     7
@@ -1703,6 +1710,14 @@
    [
     1793255548,
     32
+   ],
+   [
+    1793281148,
+    13
+   ],
+   [
+    1793281148,
+    4
    ]
   ]
  },
