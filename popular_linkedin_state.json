@@ -13,19 +13,6 @@
    "miss": 0,
    "added": 1793202719
   },
-  "7521156683230859264": {
-   "created": 1793183489,
-   "author": "The Content House",
-   "url": "https://www.linkedin.com/posts/the-content-house-in_thecontenthousedispatch-activity-7521156683230859264-rZzC",
-   "text": "Global AI infrastructure: Investment is rising, but the economics are under pressure.\n\nAI companies are spending heavily on computing infrastructure, even as questions grow over whether the revenue generated will justify the investment.\nTwo recent reports from Gartner and PitchBook show where the market is heading.\n\n1/ Gartner forecasts $6 trillion in AI infrastructure spending between 2027 and 2030.\n\nBut the research firm estimates that AI revenue attributable to data centres will reach only $3.6 trillion through 2030, against $8.5 trillion required to deliver a 12% return on cumulative investment.\n\nMore than $3.5 trillion of infrastructure spending could be exposed to impairment risk by 20",
-   "disc_score": 3,
-   "checks": {
-    "24": 4
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1793202719
-  },
   "7521216502599995392": {
    "created": 1793197751,
    "author": "Inspired Capital",
@@ -82,7 +69,9 @@
    "url": "https://www.linkedin.com/posts/faithzlee_two-years-in-when-i-joined-etched-we-activity-7521340767278239744--CFG",
    "text": "Two years in! \ud83c\udf89\nWhen I joined Etched, we were a team of 60. Today, we\u2019re at 500. Growing like that in just two years is no easy feat, and it\u2019s only possible because the people here are truly extraordinary.\n\nThis past year brought even more excitement, from enjoying box seats at a Barracuda game to taking my first business trip to Taiwan! These are experiences I never expected, and I got to share them with people I love working with, who push me to be my best.\n\nMy greatest surprise has been my run club. It\u2019s become one of my favorite parts of the week, and I\u2019ve loved every mile of it.\n\nIt has been so great, and I\u2019m grateful for every bit of it. Looking forward to more new experiences as I kee",
    "disc_score": 39,
-   "checks": {},
+   "checks": {
+    "24": 90
+   },
    "promoted": false,
    "miss": 0,
    "added": 1793234449
@@ -119,14 +108,21 @@
    "promoted": false,
    "miss": 0,
    "added": 1793290027
+  },
+  "7521701943853953024": {
+   "created": 1793313489,
+   "author": "Suri Sun",
+   "url": "https://www.linkedin.com/posts/suri-sun-32468816b_caspa-ceosummit2026-semiconductors-activity-7521701943853953024-ZLQ5",
+   "text": "\u2728 One Week Later, Still Inspired \u2014 CASPA 35th Anniversary CEO Summit 2026!\n\nHard to believe it\u2019s already been a week! Just last Thursday, we were still in rehearsals, preparing for one of the most remarkable milestones in CASPA\u2019s history.\n\nAfter months of planning, CASPA\u2019s largest-ever CEO Summit brought together 35+ global CEOs, founders, Nobel laureates, investors, and industry pioneers, with nearly 2,000 attendees celebrating 35 years of innovation and community! \ud83c\udf89\n\nA special thank-you to Intel CEO Lip-Bu Tan for an inspiring fireside chat with CASPA President Jimmy Cheng, sharing his perspectives on leadership, challenges, and the future of our industry.\n\nIt was also an incredible privil",
+   "disc_score": 3,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1793316124
   }
  },
  "baseline": {
   "24": [
-   [
-    1789493917,
-    129
-   ],
    [
     1789493917,
     0
@@ -1722,6 +1718,10 @@
    [
     1793301433,
     37
+   ],
+   [
+    1793316124,
+    90
    ]
   ]
  },
