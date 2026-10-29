@@ -45,7 +45,9 @@
    "url": "https://www.linkedin.com/posts/inspired-capital-partners_growing-companies-think-their-biggest-problem-activity-7521216502599995392-CXIv",
    "text": "Onboarding is one of the biggest bottlenecks for fast-growing teams. Windmill just launched Agentic Onboarding to fix that. Windy, their AI agent, guides every new hire from day one with a personalized plan, company knowledge, and the right manager support, all in Slack. New hires onboarded with Windmill ramp 3x faster.\n\nWindmill already has a fast-growing roster of customers, like Etched, that are seeing incredible results. Congrats Brian Distelburger, Max Shaw, Mark Tanner and the Windmill team on the launch!",
    "disc_score": 2,
-   "checks": {},
+   "checks": {
+    "24": 3
+   },
    "promoted": false,
    "miss": 0,
    "added": 1793202719
@@ -115,14 +117,21 @@
    "promoted": false,
    "miss": 0,
    "added": 1793281135
+  },
+  "7521577853579067393": {
+   "created": 1793283904,
+   "author": "Cornell Custom Silicon Systems",
+   "url": "https://www.linkedin.com/posts/cornell-custom-silicon-systems_this-semester-cornell-custom-silicon-systems-activity-7521577853579067393-qaGq",
+   "text": "This semester, Cornell Custom Silicon Systems (C2S2) had the privilege of hosting Etched for a demo.\n\nWe walked the Etched team through our 2026 tape-outs, spanning three very different corners of chip design: a digital chip, an analog chip, and an RFIC, as well as the software, verification, and testing that support them.\n\nIt was a rare chance for our members to see purpose-built AI hardware up close and hear directly from the team building it. The questions in the room showed just how much curiosity and talent we have on this team.\n\nThank you to Chris Zhu and the Etched team for taking the time to visit Ithaca and share your work with us, and to everyone at C2S2 who helped make the day hap",
+   "disc_score": 9,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1793290027
   }
  },
  "baseline": {
   "24": [
-   [
-    1789476928,
-    7
-   ],
    [
     1789479125,
     0
@@ -1718,6 +1727,10 @@
    [
     1793281148,
     4
+   ],
+   [
+    1793290027,
+    3
    ]
   ]
  },
