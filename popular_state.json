@@ -1,17 +1,28 @@
 {
  "watch": {
-  "2115567531478126837": {
-   "created": 1793225579,
-   "author": "snowballist",
-   "followers": 76,
-   "url": "https://x.com/snowballist/status/2115567531478126837",
-   "disc_score": 1,
+  "2115683012822126872": {
+   "created": 1793253112,
+   "author": "justabdulraouf",
+   "followers": 4440,
+   "url": "https://x.com/justabdulraouf/status/2115683012822126872",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1793255453
+  },
+  "2115647906598494614": {
+   "created": 1793244742,
+   "author": "00000sol0",
+   "followers": 464,
+   "url": "https://x.com/00000sol0/status/2115647906598494614",
+   "disc_score": 0,
    "checks": {
-    "1": 1
+    "1": null
    },
    "promoted": false,
    "miss": 0,
-   "added": 1793234390
+   "added": 1793255453
   }
  },
  "baseline": {
