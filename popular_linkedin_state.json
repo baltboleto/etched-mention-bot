@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7520869770536218625": {
-   "created": 1793115084,
-   "author": "\u2728Madhavi Rajan",
-   "url": "https://www.linkedin.com/posts/madhavi-rajan_caspa-semiconductors-aihardware-activity-7520869770536218625-yGeo",
-   "text": "Spent the weekend at the CASPA Annual Conference and CEO Summit engaging with the leaders charting the next phase of semiconductor innovation.\n\nThe hardware landscape is diversifying rapidly. Watching Gavin Uberti (CEO of Etched) and fellow panelists contrast emerging architectures underscored a clear market reality. The future of AI scaling belongs to domain specific, hyper efficient hardware options rather than general purpose compute alone.\n\nFor leadership, the fireside chat with Lip-Bu Tan on the Intel turnaround offered valuable insights into execution. His grounded approach to corporate governance was striking, specifically his philosophy on velocity over perfection. Aiming for 70% dec",
-   "disc_score": 17,
-   "checks": {
-    "24": 36
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1793126655
-  },
   "7520920086472228867": {
    "created": 1793127080,
    "author": "Robert Hurd, CPA",
@@ -26,39 +13,15 @@
    "miss": 0,
    "added": 1793130160
   },
-  "7520914823296229378": {
-   "created": 1793125825,
-   "author": "Yelena Fadeyeva, CPA",
-   "url": "https://www.linkedin.com/posts/activity-7520914823296229378-z4Tm",
-   "text": "Hi all! My team at Etched is growing, and we\u2019re hiring a General Ledger, Close role to join our world-class finance team.\nWe\u2019ve shipped our first production racks to Jane Street, and customer demand has been sky-high.\n\nApply here: https://lnkd.in/g7kgjwFV\n\nTo learn more, reach out to Jake on my team at jake@etched.com",
-   "disc_score": 29,
-   "checks": {
-    "24": 149
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1793141803
-  },
-  "7520913682168520704": {
-   "created": 1793125553,
-   "author": "Beautiful Branding",
-   "url": "https://www.linkedin.com/posts/beautiful-branding_branding-and-web-design-for-dvc-by-daniil-activity-7520913682168520704-1xDw",
-   "text": "Branding and web design for DVC by Daniil Sergeev\n\nDVC is a fund that brings together 190+ investors and has backed 120 AI startups, including Perplexity AI, Etched, and Thinking Machines Lab. \n\nThe brand identity centers on multilayered and color cluster visuals, symbolizing a community of engineers, founders, and angels, all managed by a family of founders.",
-   "disc_score": 10,
-   "checks": {
-    "24": 24
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1793141803
-  },
   "7521082092634677248": {
    "created": 1793165705,
    "author": "CASPA Office",
    "url": "https://www.linkedin.com/posts/caspa-office-595263a_caspa-caspa35-ceosummit-activity-7521082092634677248-Bf9J",
    "text": "CASPA 35th Annual Conference | The CEO Summit -  Day 2 Recap\n\nOn Saturday, October 24, Day 2 of the CASPA 35th Annual Conference: The CEO Summit brought together leaders from across the semiconductor and AI ecosystem for a full day of keynotes, panels, and executive conversations at the Santa Clara Convention Center.\n\nFrom chip design and advanced manufacturing to AI compute, data storage, optical interconnects, and cybersecurity, the discussions showed how interconnected the ecosystem has become.\n\n\u25b8 Morning Keynotes\nAjit Manocha, CEO of SEMI: \u201cTransforming Industry Collaboration: Navigating AI Era Inflections\u201d\nMary Ellen Randall, President & CEO of IEEE: \u201cAdvancing Humanity through Responsi",
    "disc_score": 14,
-   "checks": {},
+   "checks": {
+    "24": 32
+   },
    "promoted": false,
    "miss": 0,
    "added": 1793177769
@@ -139,14 +102,21 @@
    "promoted": false,
    "miss": 0,
    "added": 1793234449
+  },
+  "7521424163715067905": {
+   "created": 1793247261,
+   "author": "Quan Mike Sh",
+   "url": "https://www.linkedin.com/posts/quan-mike-sh-71385223_im-happy-to-share-that-im-starting-a-new-activity-7521424163715067905-6i8o",
+   "text": "I\u2019m happy to share that I\u2019m starting a new position as MTS,  at Etched!",
+   "disc_score": 1,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1793255548
   }
  },
  "baseline": {
   "24": [
-   [
-    1789457015,
-    8
-   ],
    [
     1789457015,
     15
@@ -1742,6 +1712,10 @@
    [
     1793220817,
     24
+   ],
+   [
+    1793255548,
+    32
    ]
   ]
  },
