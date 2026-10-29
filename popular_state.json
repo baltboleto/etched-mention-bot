@@ -1,30 +1,5 @@
 {
- "watch": {
-  "2115683012822126872": {
-   "created": 1793253112,
-   "author": "justabdulraouf",
-   "followers": 4440,
-   "url": "https://x.com/justabdulraouf/status/2115683012822126872",
-   "disc_score": 0,
-   "checks": {},
-   "promoted": false,
-   "miss": 0,
-   "added": 1793255453
-  },
-  "2115647906598494614": {
-   "created": 1793244742,
-   "author": "00000sol0",
-   "followers": 464,
-   "url": "https://x.com/00000sol0/status/2115647906598494614",
-   "disc_score": 0,
-   "checks": {
-    "1": null
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1793255453
-  }
- },
+ "watch": {},
  "baseline": {
   "1": [
    [
