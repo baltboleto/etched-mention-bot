@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7521082092634677248": {
-   "created": 1793165705,
-   "author": "CASPA Office",
-   "url": "https://www.linkedin.com/posts/caspa-office-595263a_caspa-caspa35-ceosummit-activity-7521082092634677248-Bf9J",
-   "text": "CASPA 35th Annual Conference | The CEO Summit -  Day 2 Recap\n\nOn Saturday, October 24, Day 2 of the CASPA 35th Annual Conference: The CEO Summit brought together leaders from across the semiconductor and AI ecosystem for a full day of keynotes, panels, and executive conversations at the Santa Clara Convention Center.\n\nFrom chip design and advanced manufacturing to AI compute, data storage, optical interconnects, and cybersecurity, the discussions showed how interconnected the ecosystem has become.\n\n\u25b8 Morning Keynotes\nAjit Manocha, CEO of SEMI: \u201cTransforming Industry Collaboration: Navigating AI Era Inflections\u201d\nMary Ellen Randall, President & CEO of IEEE: \u201cAdvancing Humanity through Responsi",
-   "disc_score": 14,
-   "checks": {
-    "24": 32
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1793177769
-  },
   "7521201790776795136": {
    "created": 1793194244,
    "author": "Harshavardhan Malla",
@@ -58,7 +45,9 @@
    "url": "https://www.linkedin.com/posts/index-ventures_congratulations-again-to-benjamin-s-and-activity-7521264448121233408-GJOf",
    "text": "Congratulations again to Benjamin S. and the whole team at Flapping Airplanes on their $1B Series A.\n\nFresh off the announcement, our partner Mark Xu sat down with Ben, Flappy\u2019s CEO and co-founder. They talked about everything from his running the student incubator Prod, where he saw startups like Cursor, Mercor, Etched, and dozens of others up close, to building a research lab with a mission to make AI orders of magnitude more efficient. They also get into what Ben believes separates founders from everyone else, and the values he\u2019s bringing to the team: staying focused on fundamentals in an ecosystem full of distractions, and holding their research to the strongest baselines they can come u",
    "disc_score": 46,
-   "checks": {},
+   "checks": {
+    "24": 70
+   },
    "promoted": false,
    "miss": 0,
    "added": 1793220817
@@ -69,7 +58,9 @@
    "url": "https://www.linkedin.com/posts/cohenjar_i-dont-know-anyone-who-thinks-their-company-activity-7521281448989999104-ZBh_",
    "text": "I don\u2019t know anyone who thinks their company does a particularly great job at onboarding new hires. It\u2019s one of the most overlooked parts of building a successful company and usually one of the highest-leverage things to improve upon.\n\nIt is honestly insane that people don't spend more time getting this right given onboarding sets the tone for someone\u2019s entire trajectory within the business. How fast a new hire gets productive, whether they become a top performer, and whether they feel supported while doing so can all be traced back to these early weeks. \n\nToday we\u2019re announcing the system that finally allows companies to launch new hires out of a cannon with repeatable and measurable succes",
    "disc_score": 31,
-   "checks": {},
+   "checks": {
+    "24": 37
+   },
    "promoted": false,
    "miss": 0,
    "added": 1793220817
@@ -132,14 +123,6 @@
  },
  "baseline": {
   "24": [
-   [
-    1789479125,
-    0
-   ],
-   [
-    1789493917,
-    489
-   ],
    [
     1789493917,
     129
@@ -1731,6 +1714,14 @@
    [
     1793290027,
     3
+   ],
+   [
+    1793301433,
+    70
+   ],
+   [
+    1793301433,
+    37
    ]
   ]
  },
