@@ -1,31 +1,5 @@
 {
  "watch": {
-  "7521201790776795136": {
-   "created": 1793194244,
-   "author": "Harshavardhan Malla",
-   "url": "https://www.linkedin.com/posts/harshavardhanmalla_linkedin-is-paying-120000-to-195000-for-activity-7521201790776795136-gQjt",
-   "text": "LinkedIn is paying $120,000 to $195,000 for a Software Engineer, Systems and Infrastructure.\n\nOne of 245 new US infrastructure and SRE roles in the last 24 hours. 49% are at employers with H-1B history.\n\n13 I checked open on the employer's own site today:\n\n1. LinkedIn \u2014 Software Engineer, Systems and Infrastructure\nBellevue, WA \u00b7 $120,000 to $195,000 \u00b7 H-1B history\n\n2. Ford Motor Company \u2014 AI Platform Engineer\nAllen Park, MI \u00b7 $99,600 to $166,600 \u00b7 H-1B history\n\n3. Superhuman Platform \u2014 Software Engineer, Back-End - Mail (US)\nUS \u00b7 $154,000 to $214,000 \u00b7 H-1B history\n\n4. Apple \u2014 Site Reliability Engineer, Retail and Marcom Engineering\nAustin, Texas \u00b7 H-1B history\n\n5. Sony Interactive Entertai",
-   "disc_score": 7,
-   "checks": {
-    "24": 13
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1793202719
-  },
-  "7521216502599995392": {
-   "created": 1793197751,
-   "author": "Inspired Capital",
-   "url": "https://www.linkedin.com/posts/inspired-capital-partners_growing-companies-think-their-biggest-problem-activity-7521216502599995392-CXIv",
-   "text": "Onboarding is one of the biggest bottlenecks for fast-growing teams. Windmill just launched Agentic Onboarding to fix that. Windy, their AI agent, guides every new hire from day one with a personalized plan, company knowledge, and the right manager support, all in Slack. New hires onboarded with Windmill ramp 3x faster.\n\nWindmill already has a fast-growing roster of customers, like Etched, that are seeing incredible results. Congrats Brian Distelburger, Max Shaw, Mark Tanner and the Windmill team on the launch!",
-   "disc_score": 2,
-   "checks": {
-    "24": 3
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1793202719
-  },
   "7521264448121233408": {
    "created": 1793209182,
    "author": "Index Ventures",
@@ -121,6 +95,28 @@
    "promoted": false,
    "miss": 0,
    "added": 1793316124
+  },
+  "7521759259655733249": {
+   "created": 1793327155,
+   "author": "Grace Gong",
+   "url": "https://www.linkedin.com/posts/gracegong_aicompute-aiinfrastructure-ai-activity-7521759259655733249-PuIB",
+   "text": "AI COMPUTE COMPANIES (HIRING LIST)\n\nHere are 35 AI compute companies that are actively hiring right now, ranked by percentage headcount growth in the past 90 days. This is Week 176 of On My Radar, my weekly list of the companies I can't stop watching:\n\nDelos Data - moves data faster for AI compute (Palo Alto)\nGimlet Labs - serverless inference for AI agents (San Francisco)\nVerda - GPU cloud (Helsinki)\nFluidstack - large-scale AI compute infrastructure (London)\nVolta - AI infrastructure across capital, power, and compute (Palo Alto)\nLumilens - photonic interconnects for AI data centers (San Jose)\nParasail - inference cloud for AI-native startups (San Mateo)\nVelaura AI - ultra-low-power AI com",
+   "disc_score": 50,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1793328524
+  },
+  "7521763329653133312": {
+   "created": 1793328125,
+   "author": "Grace Gong",
+   "url": "https://www.linkedin.com/posts/gracegong_internships-earlycareer-ai-activity-7521763329653133312-mBaW",
+   "text": "AI COMPANIES HIRING INTERNS (HIRING LIST)\n\nHere are 35 AI companies hiring interns right now, ranked by the number of new interns added since April. This is Week 177 of On My Radar, my weekly list of the companies I can't stop watching:\n\nOpenAI - frontier AI lab (San Francisco)\nUnifyApps - enterprise AI platform (New York)\nCrusoe - AI cloud (Denver)\nCohere - enterprise LLMs (Toronto)\nScale AI - data and evaluation for AI labs (San Francisco)\nSarvam AI - sovereign Indian LLMs (Bangalore)\nEightfold AI - AI talent platform (Santa Clara)\nNEURA Robotics - cognitive robots (Metzingen)\nTogether AI - open-model AI cloud (San Francisco)\nGenesys - AI-powered customer experience (Menlo Park)\nEtched - i",
+   "disc_score": 39,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1793328524
   }
  },
  "baseline": {
