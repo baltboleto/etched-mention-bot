@@ -58,7 +58,9 @@
    "url": "https://www.linkedin.com/posts/anshumansatpute_etched-artificialintelligence-aiinfrastructure-activity-7521351916384145408-4gn0",
    "text": "I recently had the opportunity to attend Etched\u2019s Fireside Chat: Hardware-Software Codesign for Gigawatt Scale!\n\nIt was a great opportunity to learn more about the infrastructure behind AI and how hardware and software work together to optimize inference performance.\n\nAs someone who finds this field interesting, Understanding the engineering challenges and tradeoffs involved in scaling AI was pretty fun!\n\nExcited to keep learning more about this space!\n\n#Etched #ArtificialIntelligence #AIInfrastructure",
    "disc_score": 1,
-   "checks": {},
+   "checks": {
+    "24": 6
+   },
    "promoted": false,
    "miss": 0,
    "added": 1793234449
@@ -123,10 +125,6 @@
  },
  "baseline": {
   "24": [
-   [
-    1789493917,
-    0
-   ],
    [
     1789493917,
     8
@@ -1722,6 +1720,10 @@
    [
     1793316124,
     90
+   ],
+   [
+    1793321882,
+    6
    ]
   ]
  },
