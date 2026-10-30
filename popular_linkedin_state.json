@@ -1,31 +1,5 @@
 {
  "watch": {
-  "7521351916384145408": {
-   "created": 1793230036,
-   "author": "Anshuman Satpute",
-   "url": "https://www.linkedin.com/posts/anshumansatpute_etched-artificialintelligence-aiinfrastructure-activity-7521351916384145408-4gn0",
-   "text": "I recently had the opportunity to attend Etched\u2019s Fireside Chat: Hardware-Software Codesign for Gigawatt Scale!\n\nIt was a great opportunity to learn more about the infrastructure behind AI and how hardware and software work together to optimize inference performance.\n\nAs someone who finds this field interesting, Understanding the engineering challenges and tradeoffs involved in scaling AI was pretty fun!\n\nExcited to keep learning more about this space!\n\n#Etched #ArtificialIntelligence #AIInfrastructure",
-   "disc_score": 1,
-   "checks": {
-    "24": 6
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1793234449
-  },
-  "7521340767278239744": {
-   "created": 1793227378,
-   "author": "Faith Lee",
-   "url": "https://www.linkedin.com/posts/faithzlee_two-years-in-when-i-joined-etched-we-activity-7521340767278239744--CFG",
-   "text": "Two years in! \ud83c\udf89\nWhen I joined Etched, we were a team of 60. Today, we\u2019re at 500. Growing like that in just two years is no easy feat, and it\u2019s only possible because the people here are truly extraordinary.\n\nThis past year brought even more excitement, from enjoying box seats at a Barracuda game to taking my first business trip to Taiwan! These are experiences I never expected, and I got to share them with people I love working with, who push me to be my best.\n\nMy greatest surprise has been my run club. It\u2019s become one of my favorite parts of the week, and I\u2019ve loved every mile of it.\n\nIt has been so great, and I\u2019m grateful for every bit of it. Looking forward to more new experiences as I kee",
-   "disc_score": 39,
-   "checks": {
-    "24": 90
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1793234449
-  },
   "7521424163715067905": {
    "created": 1793247261,
    "author": "Quan Mike Sh",
@@ -45,7 +19,9 @@
    "url": "https://www.linkedin.com/posts/hosun-chung_in-2011-peter-thiel-started-paying-young-activity-7521556725364318208-qAlR",
    "text": "In 2011, Peter Thiel started paying young people $100,000 to skip college.\n17 of those fellows went on to found companies worth a combined $1.38T. 1 of them co-founded Anthropic.\nHere's the Thiel Fellowship mafia, ranked by value:\n\n1. Anthropic, $965B. Chris Olah. The AI lab behind Claude.\n2. Ethereum, $284B. Vitalik Buterin. Value of all ether.\n3. Cognition, $48B. Walden Yan. AI coding agents.\n4. Scale AI, $29B. Lucy Guo. Data for AI models.\n5. Etched, $21B. Gavin Uberti, Robert Wachen and Chris Zhu. AI inference chips.\n6. Figma, $13.1B. Dylan Field. Design software.\n7. Mercor, $10B. Brendan Foody, Adarsh Hiremath and Surya Midha. Experts for AI labs.\n8. OYO, $2.4B. Ritesh Agarwal. Budget h",
    "disc_score": 2,
-   "checks": {},
+   "checks": {
+    "24": 83
+   },
    "promoted": false,
    "miss": 0,
    "added": 1793281135
@@ -104,14 +80,32 @@
    "promoted": false,
    "miss": 0,
    "added": 1793343955
+  },
+  "7521926979604860928": {
+   "created": 1793367142,
+   "author": "Niraj Shahi",
+   "url": "https://www.linkedin.com/posts/nirajshahi_semiconductors-aiinfrastructure-fabless-activity-7521926979604860928-3vNN",
+   "text": "\ud83d\ude80 THE CHIP COMPANIES POWERING THE NEXT AI REVOLUTION \u2014 BEYOND NVIDIA\n\nWho designs the chips powering AI, cloud computing, networking and data centres \u2014 but doesn\u2019t necessarily manufacture them?\n\nMeet the fabless semiconductor ecosystem: companies that focus on chip architecture and design, while outsourcing manufacturing to foundries such as TSMC, Samsung Foundry and others.\n\n\ud83c\udf0d 30+ CHIP DESIGN COMPANIES WORTH KNOWING\n\n\ud83c\uddfa\ud83c\uddf8 UNITED STATES \u2014 AI & COMPUTE\n\n\ud83d\udd39 Cerebras Systems \u2014 Wafer-scale AI processors; 2025 revenue: ~$510M.\n\ud83d\udd39 Groq \u2014 Low-latency AI inference chips; private revenue undisclosed.\n\ud83d\udd39 Tenstorrent \u2014 RISC-V CPUs and AI accelerators.\n\ud83d\udd39 SambaNova Systems \u2014 AI systems and reconfigurable data",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1793369291
+  },
+  "7521911093875789824": {
+   "created": 1793363355,
+   "author": "Etched Tech",
+   "url": "https://www.linkedin.com/posts/etched-tech_when-an-investor-says-yes-in-principle-the-activity-7521911093875789824-hwD9",
+   "text": "When an investor says yes in principle, the real scrutiny begins. A lot of what they ask to see is IP most businesses have never thought of as IP. \n\nDo you have the proof that sets your business apart?",
+   "disc_score": 1,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1793369291
   }
  },
  "baseline": {
   "24": [
-   [
-    1789493917,
-    171
-   ],
    [
     1789493917,
     20
@@ -1707,6 +1701,10 @@
    [
     1793343955,
     20
+   ],
+   [
+    1793369291,
+    83
    ]
   ]
  },
