@@ -19,7 +19,9 @@
    "url": "https://www.linkedin.com/posts/suri-sun-32468816b_caspa-ceosummit2026-semiconductors-activity-7521701943853953024-ZLQ5",
    "text": "\u2728 One Week Later, Still Inspired \u2014 CASPA 35th Anniversary CEO Summit 2026!\n\nHard to believe it\u2019s already been a week! Just last Thursday, we were still in rehearsals, preparing for one of the most remarkable milestones in CASPA\u2019s history.\n\nAfter months of planning, CASPA\u2019s largest-ever CEO Summit brought together 35+ global CEOs, founders, Nobel laureates, investors, and industry pioneers, with nearly 2,000 attendees celebrating 35 years of innovation and community! \ud83c\udf89\n\nA special thank-you to Intel CEO Lip-Bu Tan for an inspiring fireside chat with CASPA President Jimmy Cheng, sharing his perspectives on leadership, challenges, and the future of our industry.\n\nIt was also an incredible privil",
    "disc_score": 3,
-   "checks": {},
+   "checks": {
+    "24": 53
+   },
    "promoted": false,
    "miss": 0,
    "added": 1793316124
@@ -78,14 +80,32 @@
    "promoted": false,
    "miss": 0,
    "added": 1793369291
+  },
+  "7522075002028945408": {
+   "created": 1793402433,
+   "author": "Ankur Gupta",
+   "url": "https://www.linkedin.com/posts/ankursfgupta_redefining-the-future-of-compute-demands-activity-7522075002028945408-PwDg",
+   "text": "Redefining the future of compute demands leadership at the intersection of AI and silicon innovation. Over the weekend, I was honored to attend the CEO Summit at the CASPA 2026 Conference to advance that dialogue and participate on the panel, From AI Algorithms to AI Silicon: Redefining the Future of Compute.\n\u00a0\nWe discussed how AI is transforming our industry, from how we design and verify chips to how we build the systems that power the next generation of intelligent applications.\n\u00a0\nThe convergence of advanced algorithms, semiconductor innovation, and purpose-built AI silicon is opening new possibilities for performance, efficiency, and scale.\n\u00a0\nI\u2019m grateful to be part of this transformatio",
+   "disc_score": 8,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1793403894
+  },
+  "7522062827696594944": {
+   "created": 1793399531,
+   "author": "Cliff S.",
+   "url": "https://www.linkedin.com/posts/activity-7522062827696594944-5WX6",
+   "text": "Hi Network, \nI've always loved figuring out how things work, then making it better.\nAt Etched, that curiosity isn't a side project. It's the job.\nEvery day I get to work alongside people who move fast, think big, and genuinely love solving hard problems. It's the kind of team where your ideas actually ship.\n\nAnd we're hiring.\n\nIf you're a solver at heart and want your work to matter, I'd love for you to join us. \n\nKnow someone who'd be a great fit? Tag them below or share this post. \ud83d\ude80\n\n#Hiring #Etched #Engineering #Careers",
+   "disc_score": 3,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1793403894
   }
  },
  "baseline": {
   "24": [
-   [
-    1789493917,
-    20
-   ],
    [
     1789493917,
     11
@@ -1681,6 +1701,10 @@
    [
     1793369291,
     83
+   ],
+   [
+    1793403895,
+    53
    ]
   ]
  },
