@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7521424163715067905": {
-   "created": 1793247261,
-   "author": "Quan Mike Sh",
-   "url": "https://www.linkedin.com/posts/quan-mike-sh-71385223_im-happy-to-share-that-im-starting-a-new-activity-7521424163715067905-6i8o",
-   "text": "I\u2019m happy to share that I\u2019m starting a new position as MTS,  at Etched!",
-   "disc_score": 1,
-   "checks": {
-    "24": 20
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1793255548
-  },
   "7521556725364318208": {
    "created": 1793278867,
    "author": "Hosun Chung",
@@ -34,7 +21,7 @@
    "disc_score": 9,
    "checks": {},
    "promoted": false,
-   "miss": 0,
+   "miss": 1,
    "added": 1793290027
   },
   "7521701943853953024": {
