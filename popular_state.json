@@ -1,43 +1,5 @@
 {
- "watch": {
-  "2116270378767331805": {
-   "created": 1793393151,
-   "author": "atharcore",
-   "followers": 362,
-   "url": "https://x.com/atharcore/status/2116270378767331805",
-   "disc_score": 1,
-   "checks": {},
-   "promoted": false,
-   "miss": 0,
-   "added": 1793393982
-  },
-  "2116252146803089659": {
-   "created": 1793388804,
-   "author": "WilsonKyi",
-   "followers": 1970,
-   "url": "https://x.com/WilsonKyi/status/2116252146803089659",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1793393982
-  },
-  "2116257150972375131": {
-   "created": 1793389997,
-   "author": "AaronGDillon",
-   "followers": 1763,
-   "url": "https://x.com/AaronGDillon/status/2116257150972375131",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1793393982
-  }
- },
+ "watch": {},
  "baseline": {
   "1": [
    [
