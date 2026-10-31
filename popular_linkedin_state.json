@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7521556725364318208": {
-   "created": 1793278867,
-   "author": "Hosun Chung",
-   "url": "https://www.linkedin.com/posts/hosun-chung_in-2011-peter-thiel-started-paying-young-activity-7521556725364318208-qAlR",
-   "text": "In 2011, Peter Thiel started paying young people $100,000 to skip college.\n17 of those fellows went on to found companies worth a combined $1.38T. 1 of them co-founded Anthropic.\nHere's the Thiel Fellowship mafia, ranked by value:\n\n1. Anthropic, $965B. Chris Olah. The AI lab behind Claude.\n2. Ethereum, $284B. Vitalik Buterin. Value of all ether.\n3. Cognition, $48B. Walden Yan. AI coding agents.\n4. Scale AI, $29B. Lucy Guo. Data for AI models.\n5. Etched, $21B. Gavin Uberti, Robert Wachen and Chris Zhu. AI inference chips.\n6. Figma, $13.1B. Dylan Field. Design software.\n7. Mercor, $10B. Brendan Foody, Adarsh Hiremath and Surya Midha. Experts for AI labs.\n8. OYO, $2.4B. Ritesh Agarwal. Budget h",
-   "disc_score": 2,
-   "checks": {
-    "24": 83
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1793281135
-  },
   "7521701943853953024": {
    "created": 1793313489,
    "author": "Suri Sun",
@@ -32,8 +19,10 @@
    "url": "https://www.linkedin.com/posts/gracegong_aicompute-aiinfrastructure-ai-activity-7521759259655733249-PuIB",
    "text": "AI COMPUTE COMPANIES (HIRING LIST)\n\nHere are 35 AI compute companies that are actively hiring right now, ranked by percentage headcount growth in the past 90 days. This is Week 176 of On My Radar, my weekly list of the companies I can't stop watching:\n\nDelos Data - moves data faster for AI compute (Palo Alto)\nGimlet Labs - serverless inference for AI agents (San Francisco)\nVerda - GPU cloud (Helsinki)\nFluidstack - large-scale AI compute infrastructure (London)\nVolta - AI infrastructure across capital, power, and compute (Palo Alto)\nLumilens - photonic interconnects for AI data centers (San Jose)\nParasail - inference cloud for AI-native startups (San Mateo)\nVelaura AI - ultra-low-power AI com",
    "disc_score": 50,
-   "checks": {},
-   "promoted": false,
+   "checks": {
+    "24": 245
+   },
+   "promoted": true,
    "miss": 0,
    "added": 1793328524
   },
@@ -43,8 +32,10 @@
    "url": "https://www.linkedin.com/posts/gracegong_internships-earlycareer-ai-activity-7521763329653133312-mBaW",
    "text": "AI COMPANIES HIRING INTERNS (HIRING LIST)\n\nHere are 35 AI companies hiring interns right now, ranked by the number of new interns added since April. This is Week 177 of On My Radar, my weekly list of the companies I can't stop watching:\n\nOpenAI - frontier AI lab (San Francisco)\nUnifyApps - enterprise AI platform (New York)\nCrusoe - AI cloud (Denver)\nCohere - enterprise LLMs (Toronto)\nScale AI - data and evaluation for AI labs (San Francisco)\nSarvam AI - sovereign Indian LLMs (Bangalore)\nEightfold AI - AI talent platform (Santa Clara)\nNEURA Robotics - cognitive robots (Metzingen)\nTogether AI - open-model AI cloud (San Francisco)\nGenesys - AI-powered customer experience (Menlo Park)\nEtched - i",
    "disc_score": 39,
-   "checks": {},
-   "promoted": false,
+   "checks": {
+    "24": 253
+   },
+   "promoted": true,
    "miss": 0,
    "added": 1793328524
   },
@@ -54,7 +45,9 @@
    "url": "https://www.linkedin.com/posts/ai-for-vc_vlsi-hardwareengineering-eda-activity-7521771351322361856-qmLa",
    "text": "When you bet on a silicon thesis, the difference between a $500 M runway and a write\u2010off is often the architecture\u2019s path to scale, not the hype around its logo. - **Cerebras wafer\u2010scale vs. niche ASICs** \u2013 The 1.3\u2010meter wafer delivers several hundred TFLOPs in a single package, slashing inter\u2010die latency but exposing you to sub\u201030 % early\u2010run yields and a fab cost that only a handful of hyperscalers can amortize. Etched\u2019s transformer\u2010only ASIC and Groq\u2019s deterministic LPU chase the same \u201csingle\u2010purpose\u201d narrative; they shave a few percent on power per token but inherit the same tape\u2010out risk and limited software that has sunk dozens of chip startups. - **Graphcore IPU** \u2013 The Mk2 IPU packs ",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1793343955
@@ -102,22 +95,21 @@
    "promoted": false,
    "miss": 0,
    "added": 1793403894
+  },
+  "7522169641746472960": {
+   "created": 1793424997,
+   "author": "Grace Gong",
+   "url": "https://www.linkedin.com/posts/gracegong_aichips-photonics-semiconductors-activity-7522169641746472960-q4R6",
+   "text": "AI CHIP & PHOTONICS COMPANIES (HIRING LIST)\n\nHere are 35 AI chip and photonics companies that are actively hiring right now, ranked by percentage headcount growth in the past 90 days. This is Week 183 of On My Radar, my weekly list of the companies I can't stop watching:\n\nTYLsemi - chiplet silicon for AI infrastructure (San Jose)\nLumilens - photonic interconnects for AI data centers (San Jose)\nVelaura AI - ultra-low-power AI compute (Santa Clara)\nEUCLYD - AI compute systems for foundation models (Eindhoven)\nPositron AI - inference chips and servers (Reno)\nVolantis Semiconductor - photonic interconnects for AI accelerators (Portland)\nFractile - inference processors (London)\nOpenLight - photon",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1793425079
   }
  },
  "baseline": {
   "24": [
-   [
-    1789493917,
-    11
-   ],
-   [
-    1789495873,
-    54
-   ],
-   [
-    1789504030,
-    84
-   ],
    [
     1789513589,
     7
@@ -1705,6 +1697,18 @@
    [
     1793403895,
     53
+   ],
+   [
+    1793425079,
+    245
+   ],
+   [
+    1793425079,
+    253
+   ],
+   [
+    1793425079,
+    0
    ]
   ]
  },
@@ -1923,6 +1927,16 @@
    1793220817,
    "7520920086472228867",
    334
+  ],
+  [
+   1793425079,
+   "7521759259655733249",
+   245
+  ],
+  [
+   1793425079,
+   "7521763329653133312",
+   253
   ]
  ],
  "seeded": true
