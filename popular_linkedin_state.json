@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7521701943853953024": {
-   "created": 1793313489,
-   "author": "Suri Sun",
-   "url": "https://www.linkedin.com/posts/suri-sun-32468816b_caspa-ceosummit2026-semiconductors-activity-7521701943853953024-ZLQ5",
-   "text": "\u2728 One Week Later, Still Inspired \u2014 CASPA 35th Anniversary CEO Summit 2026!\n\nHard to believe it\u2019s already been a week! Just last Thursday, we were still in rehearsals, preparing for one of the most remarkable milestones in CASPA\u2019s history.\n\nAfter months of planning, CASPA\u2019s largest-ever CEO Summit brought together 35+ global CEOs, founders, Nobel laureates, investors, and industry pioneers, with nearly 2,000 attendees celebrating 35 years of innovation and community! \ud83c\udf89\n\nA special thank-you to Intel CEO Lip-Bu Tan for an inspiring fireside chat with CASPA President Jimmy Cheng, sharing his perspectives on leadership, challenges, and the future of our industry.\n\nIt was also an incredible privil",
-   "disc_score": 3,
-   "checks": {
-    "24": 53
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1793316124
-  },
   "7521759259655733249": {
    "created": 1793327155,
    "author": "Grace Gong",
@@ -106,6 +93,39 @@
    "promoted": false,
    "miss": 0,
    "added": 1793425079
+  },
+  "7522170498814738433": {
+   "created": 1793425202,
+   "author": "Evergreen Technologies LLC",
+   "url": "https://www.linkedin.com/posts/evergreen-tech-llc_httpszurlcosdn4b-etched-the-21-activity-7522170498814738433-qy8b",
+   "text": "https://zurl.co/SdN4b \n\ud83d\ude80Etched: The $21 Billion Bet on Transformer-Specific Silicon\nThe provided video details the rise of Etched, a semiconductor startup that has developed a specialized chip called Sohu designed exclusively ...\nRead more at https://zurl.co/1no0p",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1793449479
+  },
+  "7522170519987871744": {
+   "created": 1793425207,
+   "author": "Evergreen Technologies (USA)",
+   "url": "https://www.linkedin.com/posts/evergreen-technologies-usa-3a7422198_httpszurlcosdn4b-etched-the-21-activity-7522170519987871744-bmhC",
+   "text": "https://zurl.co/SdN4b \n\ud83d\ude80Etched: The $21 Billion Bet on Transformer-Specific Silicon\nThe provided video details the rise of Etched, a semiconductor startup that has developed a specialized chip called Sohu designed exclusively ...\nRead more at https://zurl.co/1no0p",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1793449479
+  },
+  "7522266457137754112": {
+   "created": 1793448080,
+   "author": "Marcus Vinicius M.",
+   "url": "https://www.linkedin.com/posts/activity-7522266457137754112-BipG",
+   "text": "No game engine. No game code. Every frame a probabilistic guess.\n\nTwo years ago, Decart and Etched released Oasis, which Decart calls the first playable open-world AI model. A Diffusion Transformer predicts each frame from keyboard and mouse input, trained on millions of hours of Minecraft footage.\n\nDecart open-sourced the code and weights of a smaller model, and by its CEO's account traffic nearly took the site down within a day.\n\nThe bet kept paying off. Decart raised $100M in August 2025 and $300M in May 2026, over $450M in total, and now describes its work as real-time world models. Google DeepMind's Genie, World Labs' Marble and Yann LeCun's AMI Labs are chasing the same idea.\n\nWould yo",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1793449479
   }
  },
  "baseline": {
