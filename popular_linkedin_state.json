@@ -32,8 +32,10 @@
    "url": "https://www.linkedin.com/posts/gracegong_aichips-photonics-semiconductors-activity-7522169641746472960-q4R6",
    "text": "AI CHIP & PHOTONICS COMPANIES (HIRING LIST)\n\nHere are 35 AI chip and photonics companies that are actively hiring right now, ranked by percentage headcount growth in the past 90 days. This is Week 183 of On My Radar, my weekly list of the companies I can't stop watching:\n\nTYLsemi - chiplet silicon for AI infrastructure (San Jose)\nLumilens - photonic interconnects for AI data centers (San Jose)\nVelaura AI - ultra-low-power AI compute (Santa Clara)\nEUCLYD - AI compute systems for foundation models (Eindhoven)\nPositron AI - inference chips and servers (Reno)\nVolantis Semiconductor - photonic interconnects for AI accelerators (Portland)\nFractile - inference processors (London)\nOpenLight - photon",
    "disc_score": 0,
-   "checks": {},
-   "promoted": false,
+   "checks": {
+    "24": 197
+   },
+   "promoted": true,
    "miss": 0,
    "added": 1793425079
   },
@@ -43,7 +45,9 @@
    "url": "https://www.linkedin.com/posts/evergreen-tech-llc_httpszurlcosdn4b-etched-the-21-activity-7522170498814738433-qy8b",
    "text": "https://zurl.co/SdN4b \n\ud83d\ude80Etched: The $21 Billion Bet on Transformer-Specific Silicon\nThe provided video details the rise of Etched, a semiconductor startup that has developed a specialized chip called Sohu designed exclusively ...\nRead more at https://zurl.co/1no0p",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1793449479
@@ -54,7 +58,9 @@
    "url": "https://www.linkedin.com/posts/evergreen-technologies-usa-3a7422198_httpszurlcosdn4b-etched-the-21-activity-7522170519987871744-bmhC",
    "text": "https://zurl.co/SdN4b \n\ud83d\ude80Etched: The $21 Billion Bet on Transformer-Specific Silicon\nThe provided video details the rise of Etched, a semiconductor startup that has developed a specialized chip called Sohu designed exclusively ...\nRead more at https://zurl.co/1no0p",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1793449479
@@ -80,22 +86,21 @@
    "promoted": false,
    "miss": 0,
    "added": 1793468199
+  },
+  "7522553015019696128": {
+   "created": 1793516401,
+   "author": "Kristopher Ryan Watson",
+   "url": "https://www.linkedin.com/posts/kristopherryanwatson_etched-fields-funding-offers-at-40b-valuation-activity-7522553015019696128-5y8R",
+   "text": "\ud83d\udcb0 Etched reportedly fields funding offers at a $40B+ valuation.\n\nhttps://lnkd.in/gWNsnd2P\n\n#ArtificialIntelligence #AIChips #Semiconductors #AIInfrastructure #Etched #TechInvesting #VentureCapital #DeepTech #GenerativeAI #TechNews",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1793518256
   }
  },
  "baseline": {
   "24": [
-   [
-    1789558337,
-    13
-   ],
-   [
-    1789577214,
-    0
-   ],
-   [
-    1789577214,
-    40
-   ],
    [
     1789577214,
     87
@@ -1683,6 +1688,18 @@
    [
     1793490489,
     27
+   ],
+   [
+    1793518256,
+    197
+   ],
+   [
+    1793518256,
+    0
+   ],
+   [
+    1793518256,
+    0
    ]
   ]
  },
@@ -1911,6 +1928,11 @@
    1793425079,
    "7521763329653133312",
    253
+  ],
+  [
+   1793518256,
+   "7522169641746472960",
+   197
   ]
  ],
  "seeded": true
