@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7521926979604860928": {
-   "created": 1793367142,
-   "author": "Niraj Shahi",
-   "url": "https://www.linkedin.com/posts/nirajshahi_semiconductors-aiinfrastructure-fabless-activity-7521926979604860928-3vNN",
-   "text": "\ud83d\ude80 THE CHIP COMPANIES POWERING THE NEXT AI REVOLUTION \u2014 BEYOND NVIDIA\n\nWho designs the chips powering AI, cloud computing, networking and data centres \u2014 but doesn\u2019t necessarily manufacture them?\n\nMeet the fabless semiconductor ecosystem: companies that focus on chip architecture and design, while outsourcing manufacturing to foundries such as TSMC, Samsung Foundry and others.\n\n\ud83c\udf0d 30+ CHIP DESIGN COMPANIES WORTH KNOWING\n\n\ud83c\uddfa\ud83c\uddf8 UNITED STATES \u2014 AI & COMPUTE\n\n\ud83d\udd39 Cerebras Systems \u2014 Wafer-scale AI processors; 2025 revenue: ~$510M.\n\ud83d\udd39 Groq \u2014 Low-latency AI inference chips; private revenue undisclosed.\n\ud83d\udd39 Tenstorrent \u2014 RISC-V CPUs and AI accelerators.\n\ud83d\udd39 SambaNova Systems \u2014 AI systems and reconfigurable data",
-   "disc_score": 0,
-   "checks": {
-    "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1793369291
-  },
   "7522075002028945408": {
    "created": 1793402433,
    "author": "Ankur Gupta",
