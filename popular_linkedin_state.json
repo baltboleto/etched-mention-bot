@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7522266457137754112": {
-   "created": 1793448080,
-   "author": "Marcus Vinicius M.",
-   "url": "https://www.linkedin.com/posts/activity-7522266457137754112-BipG",
-   "text": "No game engine. No game code. Every frame a probabilistic guess.\n\nTwo years ago, Decart and Etched released Oasis, which Decart calls the first playable open-world AI model. A Diffusion Transformer predicts each frame from keyboard and mouse input, trained on millions of hours of Minecraft footage.\n\nDecart open-sourced the code and weights of a smaller model, and by its CEO's account traffic nearly took the site down within a day.\n\nThe bet kept paying off. Decart raised $100M in August 2025 and $300M in May 2026, over $450M in total, and now describes its work as real-time world models. Google DeepMind's Genie, World Labs' Marble and Yann LeCun's AMI Labs are chasing the same idea.\n\nWould yo",
-   "disc_score": 0,
-   "checks": {
-    "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1793449479
-  },
   "7522311896973385728": {
    "created": 1793458914,
    "author": "Hyunsu Cho",
