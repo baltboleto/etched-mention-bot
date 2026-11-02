@@ -6,7 +6,9 @@
    "url": "https://www.linkedin.com/posts/kristopherryanwatson_etched-fields-funding-offers-at-40b-valuation-activity-7522553015019696128-5y8R",
    "text": "\ud83d\udcb0 Etched reportedly fields funding offers at a $40B+ valuation.\n\nhttps://lnkd.in/gWNsnd2P\n\n#ArtificialIntelligence #AIChips #Semiconductors #AIInfrastructure #Etched #TechInvesting #VentureCapital #DeepTech #GenerativeAI #TechNews",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1793518256
@@ -25,10 +27,6 @@
  },
  "baseline": {
   "24": [
-   [
-    1789589199,
-    44
-   ],
    [
     1789597504,
     89
@@ -1624,6 +1622,10 @@
    [
     1793545549,
     81
+   ],
+   [
+    1793604258,
+    0
    ]
   ]
  },
