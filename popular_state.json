@@ -1,56 +1,7 @@
 {
- "watch": {
-  "2117398330930335871": {
-   "created": 1793662076,
-   "author": "Ar_boian",
-   "followers": 3383,
-   "url": "https://x.com/Ar_boian/status/2117398330930335871",
-   "disc_score": 10,
-   "checks": {},
-   "promoted": false,
-   "miss": 0,
-   "added": 1793664075
-  },
-  "2117375883317334391": {
-   "created": 1793656724,
-   "author": "ruriko_m",
-   "followers": 108,
-   "url": "https://x.com/ruriko_m/status/2117375883317334391",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1793664075
-  }
- },
+ "watch": {},
  "baseline": {
   "1": [
-   [
-    1788484373,
-    1
-   ],
-   [
-    1788484373,
-    1
-   ],
-   [
-    1788484373,
-    2
-   ],
-   [
-    1788484373,
-    1
-   ],
-   [
-    1788484373,
-    0
-   ],
-   [
-    1788501534,
-    0
-   ],
    [
     1788519577,
     1
