@@ -1,29 +1,30 @@
 {
  "watch": {
-  "2117599820588216380": {
-   "created": 1793710114,
-   "author": "0xMetaLight",
-   "followers": 3419,
-   "url": "https://x.com/0xMetaLight/status/2117599820588216380",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
+  "2117709256510386582": {
+   "created": 1793736206,
+   "author": "sonyatweetybird",
+   "followers": 30675,
+   "url": "https://x.com/sonyatweetybird/status/2117709256510386582",
+   "disc_score": 29,
+   "checks": {},
    "promoted": false,
    "miss": 0,
-   "added": 1793716628
+   "added": 1793738516
+  },
+  "2117710143517508014": {
+   "created": 1793736418,
+   "author": "franz_saverio",
+   "followers": 55,
+   "url": "https://x.com/franz_saverio/status/2117710143517508014",
+   "disc_score": 1,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1793738516
   }
  },
  "baseline": {
   "1": [
-   [
-    1788533718,
-    0
-   ],
-   [
-    1788545508,
-    2
-   ],
    [
     1788554812,
     3
