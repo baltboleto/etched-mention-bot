@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7522884937868357632": {
-   "created": 1793595537,
-   "author": "Grace Gong",
-   "url": "https://www.linkedin.com/posts/gracegong_earlycareer-entrylevel-ai-activity-7522884937868357632-ZSNz",
-   "text": "AI COMPANIES HIRING EARLY-CAREER TALENT (HIRING LIST)\n\nHere are 30 AI companies hiring junior talent right now, ranked by the number of early-career hires they've made recently. This is Week 192 of On My Radar, my weekly list of the companies I can't stop watching:\n\nUnifyApps - enterprise AI platform (New York)\nAttentive.ai - AI takeoff and estimating for construction (Wilmington)\nHarness - AI software delivery platform (San Francisco)\nEmergent - AI coding agents that build apps (Bangalore)\nAfterQuery - expert reasoning data for AI training (San Francisco)\no9 Solutions, Inc. - AI planning platform for supply chains (Dallas)\nSnorkel AI - expert data for AI development (San Francisco)\nCohere -",
-   "disc_score": 45,
-   "checks": {
-    "24": 244
-   },
-   "promoted": true,
-   "miss": 0,
-   "added": 1793599168
-  },
   "7523032593945137153": {
    "created": 1793630741,
    "author": "Mohammad (Mo) Zia",
@@ -32,7 +19,9 @@
    "url": "https://www.linkedin.com/posts/bay-area-jobs_httpsjobsrminecomjobusinventory-warehouse-coordinator-activity-7523065382719508481-rfdH",
    "text": "#hiring Inventory Warehouse Coordinator\n\nApply here: https://lnkd.in/gevAZKHK\n\nJob Description Job Description About EtchedEtched is building hardware for frontier intelligence. We co-design chips, racks, software, and manufacturing to deliver best-in-class throughput and latency across both prefill and decode workloads. Our first products are heavily focused on inference. Backed by hundreds of millions from top-tier investors and staffed by leading engineers, Etched is redefining the infrastructure layer for the fastest growing industry in history.Job SummaryWe are hiring an Inventory Warehouse Coordinator to support inventory operations across Etched facilities and in-house engineering lab",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1793640091
@@ -43,7 +32,9 @@
    "url": "https://www.linkedin.com/posts/chandan-singh16_connections-candidates-resume-activity-7523079111561633792-LXK9",
    "text": "Hi #Connections\nHope you are doing well!!\n\nInterested #Candidates Please share your updated #Resume at Chris.thakur@vaaridatech.com\n\nRole- DFT\nLocation: San Jose, CA Onsite\nJob type- W2 Contract only\nDuration: 6-12 months\n\nSkills/JD:\nRequired skills: Strong DFT fundamentals and hands-on experience with Tessent Flow\nWork: Run DFT work in parallel with Etched\u2019s backend vendor to identify and debug issues early; the vendor owns final delivery and sign-off\nIdeal profile: Adaptable, independent engineer; startup experience is a plus. Specific IP experience is not required\n\n#urgenthiring #hiringalert #w2contract #contractrole #sanjoseca #californiajobs #opentowork #DFTEngineer #semiconductor #semi",
    "disc_score": 8,
-   "checks": {},
+   "checks": {
+    "24": 9
+   },
    "promoted": false,
    "miss": 0,
    "added": 1793662218
@@ -54,7 +45,9 @@
    "url": "https://www.linkedin.com/posts/bamisope-bami-adeyanju-esq-6035a58b_new-please-see-below-a-few-of-the-new-activity-7523089293880508416-oyYU",
    "text": "NEW!!!\n\nPlease see below a few of the new and active law firm opportunities I'm working on. Email bami@secured-searchfirm.com if interested and qualified. \n\nDon't see your practice area or preferred role? Let me know, and I'll put together a customized list for you.\n\n1. EMERGING COMPANIES & VENTURE CAPITAL ASSOCIATE | NY, SF, SV (2023-2020)\n\nAn Am Law firm is seeking attorneys with 3-6 years of experience to join its emerging companies/venture capital team in New York, Palo Alto, or San Francisco.\n\nIdeal candidates should have experience managing deal execution and supervising/training more junior associates. \n\nComp: $260,000-$290,000/year.\n\n2. TECHNOLOGY COMPANIES MANAGING OR SENIOR ASSOCIA",
    "disc_score": 3,
-   "checks": {},
+   "checks": {
+    "24": 4
+   },
    "promoted": false,
    "miss": 0,
    "added": 1793662218
@@ -69,22 +62,21 @@
    "promoted": false,
    "miss": 0,
    "added": 1793687578
+  },
+  "7523470886973136896": {
+   "created": 1793735238,
+   "author": "Bay Area Jobs",
+   "url": "https://www.linkedin.com/posts/bay-area-jobs_httpsjobsrminecomjobuschip-simulation-lead-activity-7523470886973136896-LaAz",
+   "text": "#hiring Chip Simulation Lead\n\nApply here: https://lnkd.in/gD6EhvS9\n\nJob Description Job Description About EtchedEtched is building hardware for frontier intelligence. We co-design chips, racks, software, and manufacturing to deliver best-in-class throughput and latency across both prefill and decode workloads. Our first products are heavily focused on inference. Backed by hundreds of millions from top-tier investors and staffed by leading engineers, Etched is redefining the infrastructure layer for the fastest growing industry in history.Job SummaryWe are looking for a Lead Chip Simulation Engineer to drive the technical direction and development of our custom AI accelerator simulation infra",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1793738621
   }
  },
  "baseline": {
   "24": [
-   [
-    1789624427,
-    3
-   ],
-   [
-    1789624427,
-    0
-   ],
-   [
-    1789630688,
-    2
-   ],
    [
     1789643578,
     82
@@ -1672,6 +1664,18 @@
    [
     1793718321,
     8
+   ],
+   [
+    1793738621,
+    0
+   ],
+   [
+    1793738621,
+    9
+   ],
+   [
+    1793738621,
+    4
    ]
   ]
  },
