@@ -19,7 +19,9 @@
    "url": "https://www.linkedin.com/posts/mohammad-mo-zia-11548033_these-7-companies-back-global-talent-and-activity-7523032593945137153-fRop",
    "text": "These 7 companies back global talent and now they're hiring for jobs that pay up to $600K.\n\nBetween them, they have 500+ open roles. At Extraordinary.com, we've supported every one of these teams on immigration.\n\n1. Etched builds AI inference chips. 100+ roles, $100K-$400K. Head of Talent: Corey Richard\n\n2. Lovable lets anyone build apps by describing them. ~80 roles, $117K-$390K. Head of Talent: Charles Guillemet\n\n3. Ramp builds finance software. ~170 roles, $100K-$330K. Senior Director, People & Talent: Jen Zitterman\n\n4. Listen Labs builds an AI interviewer for customer research. ~20 roles, $85K-$360K.\n\n5. Aaru builds AI that simulates human behavior. 32 roles, and engineering pays $200K-$",
    "disc_score": 4,
-   "checks": {},
+   "checks": {
+    "24": 8
+   },
    "promoted": false,
    "miss": 0,
    "added": 1793634519
@@ -71,10 +73,6 @@
  },
  "baseline": {
   "24": [
-   [
-    1789597504,
-    87
-   ],
    [
     1789624427,
     3
@@ -1670,6 +1668,10 @@
    [
     1793687578,
     244
+   ],
+   [
+    1793718321,
+    8
    ]
   ]
  },
