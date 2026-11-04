@@ -1,79 +1,60 @@
 {
  "watch": {
-  "2117775884711240071": {
-   "created": 1793752091,
-   "author": "MikeyChalls",
-   "followers": 82,
-   "url": "https://x.com/MikeyChalls/status/2117775884711240071",
-   "disc_score": 1,
-   "checks": {},
-   "promoted": false,
-   "miss": 0,
-   "added": 1793753785
-  },
-  "2117750263528448014": {
-   "created": 1793745983,
-   "author": "cosign",
-   "followers": 8599,
-   "url": "https://x.com/cosign/status/2117750263528448014",
-   "disc_score": 1,
-   "checks": {
-    "1": 1
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1793753785
-  },
-  "2117747940198420925": {
-   "created": 1793745429,
-   "author": "mariamusta33",
-   "followers": 49,
-   "url": "https://x.com/mariamusta33/status/2117747940198420925",
+  "2117852564742132159": {
+   "created": 1793770373,
+   "author": "bobziyangding",
+   "followers": 361,
+   "url": "https://x.com/bobziyangding/status/2117852564742132159",
    "disc_score": 0,
    "checks": {
     "1": 0
    },
    "promoted": false,
    "miss": 0,
-   "added": 1793753785
+   "added": 1793776848
   },
-  "2117743192514650458": {
-   "created": 1793744297,
-   "author": "CryptoGrit",
-   "followers": 10393,
-   "url": "https://x.com/CryptoGrit/status/2117743192514650458",
+  "2117849128218575064": {
+   "created": 1793769554,
+   "author": "buswe_com",
+   "followers": 1086,
+   "url": "https://x.com/buswe_com/status/2117849128218575064",
+   "disc_score": 0,
+   "checks": {
+    "1": 0
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1793776848
+  },
+  "2117844291158671510": {
+   "created": 1793768401,
+   "author": "techfren",
+   "followers": 5687,
+   "url": "https://x.com/techfren/status/2117844291158671510",
+   "disc_score": 48,
+   "checks": {
+    "1": 49
+   },
+   "promoted": true,
+   "miss": 0,
+   "added": 1793776848
+  },
+  "2117837068621480367": {
+   "created": 1793766679,
+   "author": "pavel_aksenov77",
+   "followers": 82,
+   "url": "https://x.com/pavel_aksenov77/status/2117837068621480367",
    "disc_score": 0,
    "checks": {
     "1": null
    },
    "promoted": false,
    "miss": 0,
-   "added": 1793753785
-  },
-  "2117756221105328393": {
-   "created": 1793747403,
-   "author": "DCryptDeezNutz",
-   "followers": 567,
-   "url": "https://x.com/DCryptDeezNutz/status/2117756221105328393",
-   "disc_score": 6,
-   "checks": {
-    "1": 6
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1793753785
+   "added": 1793776848
   }
  },
  "baseline": {
   "1": [
-   [
-    1788584389,
-    0
-   ],
-   [
-    1788584389,
-    0
-   ],
    [
     1788611311,
     2
@@ -1577,6 +1558,18 @@
    [
     1793753786,
     6
+   ],
+   [
+    1793776848,
+    0
+   ],
+   [
+    1793776848,
+    0
+   ],
+   [
+    1793776848,
+    49
    ]
   ]
  },
@@ -1715,6 +1708,11 @@
    1793202536,
    "2115443515576528926",
    133
+  ],
+  [
+   1793776848,
+   "2117844291158671510",
+   49
   ]
  ],
  "seeded": true
