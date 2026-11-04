@@ -6,7 +6,9 @@
    "url": "https://www.linkedin.com/posts/bay-area-jobs_httpsjobsrminecomjobuschip-simulation-lead-activity-7523470886973136896-LaAz",
    "text": "#hiring Chip Simulation Lead\n\nApply here: https://lnkd.in/gD6EhvS9\n\nJob Description Job Description About EtchedEtched is building hardware for frontier intelligence. We co-design chips, racks, software, and manufacturing to deliver best-in-class throughput and latency across both prefill and decode workloads. Our first products are heavily focused on inference. Backed by hundreds of millions from top-tier investors and staffed by leading engineers, Etched is redefining the infrastructure layer for the fastest growing industry in history.Job SummaryWe are looking for a Lead Chip Simulation Engineer to drive the technical direction and development of our custom AI accelerator simulation infra",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1793738621
@@ -76,14 +78,32 @@
    "promoted": false,
    "miss": 0,
    "added": 1793812494
+  },
+  "7523773320878706689": {
+   "created": 1793807344,
+   "author": "Deviation Capital",
+   "url": "https://www.linkedin.com/posts/deviation-capital_deviation-is-hiring-investment-associates-activity-7523773320878706689-EplE",
+   "text": "Deviation is hiring Investment Associates in NY/SF!\n\nThis is a rare chance to join a firm that operates with the agility that comes with being new, backed by a deep network in AI and stacked portfolio (Etched, WHOOP, Kalshi, Remote, Bedrock Robotics, Xaira Therapeutics, + more) built by the team at Two Sigma Ventures over nearly 15 years.\n\nLink to apply: https://lnkd.in/e8b4VPyv",
+   "disc_score": 33,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1793828031
+  },
+  "7523804771510599680": {
+   "created": 1793814843,
+   "author": "Musicyrics Media",
+   "url": "https://www.linkedin.com/posts/musicyricsmedia_etched-nvidia-aichips-activity-7523804771510599680-C0ei",
+   "text": "\ud83d\ude80 **Etched\u2019s Valuation Hits $21 Billion: A New Challenger To NVIDIA? \ud83e\udde0\ud83d\udcb0**\n\nThe AI chip race is getting bigger \u2014 and the numbers are getting unbelievable! \ud83e\udd2f\n\nAI semiconductor startup **Etched** is making headlines with massive funding rounds and ambitious plans to challenge established players like NVIDIA.\n\n\ud83d\udcb0 **The Funding Journey**\n- July 2026: Raised $300 million at a $10.3 billion valuation.\n- August 2026: Secured another $700 million in funding, reportedly led by Jane Street.\n- Estimated valuation after the latest round: **$21 billion**.\n\n\u26a1 **What Is Etched Building?**\n\nThe company is developing specialised AI chips designed to accelerate **AI inference** \u2014 the process through which train",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1793828031
   }
  },
  "baseline": {
   "24": [
-   [
-    1789659347,
-    12
-   ],
    [
     1789659347,
     46
@@ -1679,6 +1699,10 @@
    [
     1793753836,
     11
+   ],
+   [
+    1793828031,
+    0
    ]
   ]
  },
