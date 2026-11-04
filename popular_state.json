@@ -1,68 +1,7 @@
 {
- "watch": {
-  "2117852564742132159": {
-   "created": 1793770373,
-   "author": "bobziyangding",
-   "followers": 361,
-   "url": "https://x.com/bobziyangding/status/2117852564742132159",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1793776848
-  },
-  "2117849128218575064": {
-   "created": 1793769554,
-   "author": "buswe_com",
-   "followers": 1086,
-   "url": "https://x.com/buswe_com/status/2117849128218575064",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1793776848
-  },
-  "2117844291158671510": {
-   "created": 1793768401,
-   "author": "techfren",
-   "followers": 5687,
-   "url": "https://x.com/techfren/status/2117844291158671510",
-   "disc_score": 48,
-   "checks": {
-    "1": 49
-   },
-   "promoted": true,
-   "miss": 0,
-   "added": 1793776848
-  },
-  "2117837068621480367": {
-   "created": 1793766679,
-   "author": "pavel_aksenov77",
-   "followers": 82,
-   "url": "https://x.com/pavel_aksenov77/status/2117837068621480367",
-   "disc_score": 0,
-   "checks": {
-    "1": null
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1793776848
-  }
- },
+ "watch": {},
  "baseline": {
   "1": [
-   [
-    1788611311,
-    2
-   ],
-   [
-    1788611311,
-    5
-   ],
    [
     1788629547,
     2
