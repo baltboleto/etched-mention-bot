@@ -1,46 +1,71 @@
 {
  "watch": {
-  "2117709256510386582": {
-   "created": 1793736206,
-   "author": "sonyatweetybird",
-   "followers": 30675,
-   "url": "https://x.com/sonyatweetybird/status/2117709256510386582",
-   "disc_score": 29,
-   "checks": {},
-   "promoted": false,
-   "miss": 0,
-   "added": 1793738516
-  },
-  "2117710143517508014": {
-   "created": 1793736418,
-   "author": "franz_saverio",
-   "followers": 55,
-   "url": "https://x.com/franz_saverio/status/2117710143517508014",
+  "2117775884711240071": {
+   "created": 1793752091,
+   "author": "MikeyChalls",
+   "followers": 82,
+   "url": "https://x.com/MikeyChalls/status/2117775884711240071",
    "disc_score": 1,
    "checks": {},
    "promoted": false,
    "miss": 0,
-   "added": 1793738516
+   "added": 1793753785
+  },
+  "2117750263528448014": {
+   "created": 1793745983,
+   "author": "cosign",
+   "followers": 8599,
+   "url": "https://x.com/cosign/status/2117750263528448014",
+   "disc_score": 1,
+   "checks": {
+    "1": 1
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1793753785
+  },
+  "2117747940198420925": {
+   "created": 1793745429,
+   "author": "mariamusta33",
+   "followers": 49,
+   "url": "https://x.com/mariamusta33/status/2117747940198420925",
+   "disc_score": 0,
+   "checks": {
+    "1": 0
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1793753785
+  },
+  "2117743192514650458": {
+   "created": 1793744297,
+   "author": "CryptoGrit",
+   "followers": 10393,
+   "url": "https://x.com/CryptoGrit/status/2117743192514650458",
+   "disc_score": 0,
+   "checks": {
+    "1": null
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1793753785
+  },
+  "2117756221105328393": {
+   "created": 1793747403,
+   "author": "DCryptDeezNutz",
+   "followers": 567,
+   "url": "https://x.com/DCryptDeezNutz/status/2117756221105328393",
+   "disc_score": 6,
+   "checks": {
+    "1": 6
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1793753785
   }
  },
  "baseline": {
   "1": [
-   [
-    1788554812,
-    3
-   ],
-   [
-    1788554812,
-    2
-   ],
-   [
-    1788554812,
-    11
-   ],
-   [
-    1788554812,
-    1
-   ],
    [
     1788584389,
     0
@@ -1540,6 +1565,18 @@
    [
     1793716629,
     0
+   ],
+   [
+    1793753786,
+    1
+   ],
+   [
+    1793753786,
+    0
+   ],
+   [
+    1793753786,
+    6
    ]
   ]
  },
