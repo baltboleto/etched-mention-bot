@@ -32,8 +32,10 @@
    "url": "https://www.linkedin.com/posts/rktsui_super-excited-to-share-that-ive-joined-etched-activity-7523769031997317120-5hAU",
    "text": "Super excited to share that I've joined Etched full-time as a Member of Technical Staff.\n\nDemand for fast, efficient, and reliable compute is growing at a pace no industry has seen before. We're here to tackle this challenge. If you\u2019re interested in helping our silicon power AI inference at scale (full-time or intern), we have a role for you: https://lnkd.in/ghNrw-fs",
    "disc_score": 4,
-   "checks": {},
-   "promoted": false,
+   "checks": {
+    "24": 227
+   },
+   "promoted": true,
    "miss": 0,
    "added": 1793807126
   },
@@ -69,8 +71,10 @@
    "url": "https://www.linkedin.com/posts/jordanmazer_made-a-list-of-44-really-interesting-jobs-activity-7523783555236208640-T-Wb",
    "text": "made a list of 44 REALLY INTERESTING jobs that are hiring rn... cohere AI chief CoS, anthropic office of the CCO, Replit CoS, Anthropic AI Wargaming Lead...\n\n>> save this + send it to someone bored at work <<\n\n\ud83e\udd1d RIGHT HAND TO THE BOSS\n\n\u26a1 Cohere - AI Chief's CoS - https://bit.ly/4z1Jnrd\n\u26a1 Anduril - CEO Office - https://bit.ly/4eJGFPO\n\u26a1 Blue Origin - Moon Lander CoS - https://bit.ly/4znnKmd\n\u26a1 Snowflake - CEO's AI Associate - https://bit.ly/47TYE2j\n\u26a1 Anthropic - Office of the CCO - https://bit.ly/4z3mgfZ\n\u26a1 Flexport - CEO's BizOps - https://bit.ly/4AgZ2nL\n\u26a1 Decagon - Founders' Office - https://bit.ly/48A86bg\n\u26a1 Replit - President's CoS - https://bit.ly/4zvaxrE\n\n\ud83d\ude80 SCI-FI JOBS\n\n\u26a1 Neuralink - Telepa",
    "disc_score": 33,
-   "checks": {},
-   "promoted": false,
+   "checks": {
+    "24": 302
+   },
+   "promoted": true,
    "miss": 0,
    "added": 1793812494
   },
@@ -80,7 +84,9 @@
    "url": "https://www.linkedin.com/posts/deviation-capital_deviation-is-hiring-investment-associates-activity-7523773320878706689-EplE",
    "text": "Deviation is hiring Investment Associates in NY/SF!\n\nThis is a rare chance to join a firm that operates with the agility that comes with being new, backed by a deep network in AI and stacked portfolio (Etched, WHOOP, Kalshi, Remote, Bedrock Robotics, Xaira Therapeutics, + more) built by the team at Two Sigma Ventures over nearly 15 years.\n\nLink to apply: https://lnkd.in/e8b4VPyv",
    "disc_score": 33,
-   "checks": {},
+   "checks": {
+    "24": 38
+   },
    "promoted": false,
    "miss": 0,
    "added": 1793828031
@@ -172,22 +178,21 @@
    "promoted": false,
    "miss": 0,
    "added": 1793892518
+  },
+  "7524159036460580864": {
+   "created": 1793899306,
+   "author": "Immad Akhund",
+   "url": "https://www.linkedin.com/posts/iakhund_traditional-banks-are-blocking-ai-agents-activity-7524159036460580864-vEYv",
+   "text": "Traditional banks are blocking AI agents from customer accounts. It\u2019s an admission that the biggest players in banking don\u2019t understand the next five years. And, it's a bad security policy. \n\n\nMercury is building for founders that want to use agents securely. Our new Agent Controls page in the Mercury app shows every agent connected to your account, what it\u2019s allowed to do, a record of activity, and lets you cut it off at any time in seconds.\n\n\nBlocking agents is the opposite of a good security policy. Founders are already using agents, so trying to block them only pushes people to share a login with their agent or let it drive their browser with few guardrails and no record of what it did. ",
+   "disc_score": 13,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1793899737
   }
  },
  "baseline": {
   "24": [
-   [
-    1789680418,
-    6
-   ],
-   [
-    1789690599,
-    66
-   ],
-   [
-    1789708627,
-    13
-   ],
    [
     1789740764,
     106
@@ -1775,6 +1780,18 @@
    [
     1793892518,
     3
+   ],
+   [
+    1793899737,
+    227
+   ],
+   [
+    1793899737,
+    302
+   ],
+   [
+    1793899737,
+    38
    ]
   ]
  },
@@ -2013,6 +2030,16 @@
    1793687578,
    "7522884937868357632",
    244
+  ],
+  [
+   1793899737,
+   "7523769031997317120",
+   227
+  ],
+  [
+   1793899737,
+   "7523783555236208640",
+   302
   ]
  ],
  "seeded": true
