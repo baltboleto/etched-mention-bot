@@ -1,33 +1,30 @@
 {
  "watch": {
-  "2118251417744105820": {
-   "created": 1793865467,
-   "author": "thefusioncube",
-   "followers": 1652,
-   "url": "https://x.com/thefusioncube/status/2118251417744105820",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
+  "2118392991484379429": {
+   "created": 1793899221,
+   "author": "immad",
+   "followers": 925496,
+   "url": "https://x.com/immad/status/2118392991484379429",
+   "disc_score": 1,
+   "checks": {},
    "promoted": false,
    "miss": 0,
-   "added": 1793869568
+   "added": 1793899656
+  },
+  "2118387685186515083": {
+   "created": 1793897956,
+   "author": "maxzang305",
+   "followers": 559,
+   "url": "https://x.com/maxzang305/status/2118387685186515083",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1793899656
   }
  },
  "baseline": {
   "1": [
-   [
-    1788692363,
-    0
-   ],
-   [
-    1788703592,
-    0
-   ],
-   [
-    1788703592,
-    0
-   ],
    [
     1788735595,
     0
