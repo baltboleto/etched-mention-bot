@@ -1,38 +1,7 @@
 {
- "watch": {
-  "2118089907986116866": {
-   "created": 1793826960,
-   "author": "itsandrewgao",
-   "followers": 43778,
-   "url": "https://x.com/itsandrewgao/status/2118089907986116866",
-   "disc_score": 10,
-   "checks": {},
-   "promoted": false,
-   "miss": 0,
-   "added": 1793827946
-  },
-  "2118083170973495360": {
-   "created": 1793825354,
-   "author": "scaleosis",
-   "followers": 1290,
-   "url": "https://x.com/scaleosis/status/2118083170973495360",
-   "disc_score": 0,
-   "checks": {},
-   "promoted": false,
-   "miss": 0,
-   "added": 1793827946
-  }
- },
+ "watch": {},
  "baseline": {
   "1": [
-   [
-    1788644658,
-    1
-   ],
-   [
-    1788650582,
-    9
-   ],
    [
     1788692363,
     0
