@@ -97,7 +97,9 @@
    "url": "https://www.linkedin.com/posts/musicyricsmedia_etched-nvidia-aichips-activity-7523804771510599680-C0ei",
    "text": "\ud83d\ude80 **Etched\u2019s Valuation Hits $21 Billion: A New Challenger To NVIDIA? \ud83e\udde0\ud83d\udcb0**\n\nThe AI chip race is getting bigger \u2014 and the numbers are getting unbelievable! \ud83e\udd2f\n\nAI semiconductor startup **Etched** is making headlines with massive funding rounds and ambitious plans to challenge established players like NVIDIA.\n\n\ud83d\udcb0 **The Funding Journey**\n- July 2026: Raised $300 million at a $10.3 billion valuation.\n- August 2026: Secured another $700 million in funding, reportedly led by Jane Street.\n- Estimated valuation after the latest round: **$21 billion**.\n\n\u26a1 **What Is Etched Building?**\n\nThe company is developing specialised AI chips designed to accelerate **AI inference** \u2014 the process through which train",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 3
+   },
    "promoted": false,
    "miss": 0,
    "added": 1793828031
@@ -189,14 +191,109 @@
    "promoted": false,
    "miss": 0,
    "added": 1793899737
+  },
+  "7524164969798574080": {
+   "created": 1793900721,
+   "author": "Peter Wong",
+   "url": "https://www.linkedin.com/posts/peter-wong-flywheel_since-2011-peter-thiel-has-paid-young-people-activity-7524164969798574080-zBTK",
+   "text": "Since 2011, Peter Thiel has paid young people to drop out of college and build.\n\nLast month Ghost, co-founded by 19-year-old Z Fellow Zain Javaid, raised an $11M a16z seed. Thiel started backing founders that age 15 years ago.\n\nThe best-known fellows are Vitalik Buterin (Ethereum), Dylan Field (Figma), Chris Olah (Anthropic), and Ritesh Agarwal (OYO).\n\nHere are 30 Thiel Fellows and what they built:\n\n1/ Cognition - Walden Yan\nAI software engineering lab behind Devin and Windsurf. Valued at $48B in September, with over $1B in run-rate revenue.\n\n2/ Etched - Gavin Uberti, Robert Wachen & Chris Zhu\nChips built only for transformer models. Valued at $21B in August, with Jane Street as its first cu",
+   "disc_score": 9,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1793915970
+  },
+  "7524227196069064705": {
+   "created": 1793915556,
+   "author": "Eric Newcomer",
+   "url": "https://www.linkedin.com/posts/ericpnewcomer_introducing-emergent-the-founder-generated-activity-7524227196069064705-eOsH",
+   "text": "Introducing Emergent: The Founder-Generated Startup List\n\nThese 29 early-stage startups were identified by Newcomer summit speakers as potentially generational companies. We\u2019re pleased to be working with Felicis on the list.\n\nIdentifying the most interesting early-stage startups is as much art as science, requiring a feel for the technology, the people, and the market opportunity when there aren\u2019t a lot of numbers.\n\nNo one is better positioned to assess all of that than top AI founders themselves, many of whom have been in the room at our Newcomer summits.\n\nWe\u2019ve done well at spotting them early at our Cerebral Valley AI Summits.\n\nFor just a few examples, we hosted Etched founder Robert Wach",
+   "disc_score": 2,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1793915970
+  },
+  "7524169203361427456": {
+   "created": 1793901730,
+   "author": "Keren Hod",
+   "url": "https://www.linkedin.com/posts/kerenhod_30-ai-computing-companies-now-hiring-1-activity-7524169203361427456-Mri_",
+   "text": "30 AI COMPUTING COMPANIES | NOW HIRING\n\n1.\u00a0Rafay\u00a0- GPU-platform management tools (Sunnyvale)\n\n2.\u00a0Nscale\u00a0- Full-stack AI cloud infrastructure (Norway)\n\n3.\u00a0MangoBoost\u00a0- AI-system acceleration (Bellevue)\n\n4.\u00a0Lambda\u00a0- GPU cloud and AI facilities (San Francisco)\n\n5.\u00a0Hydra Host\u00a0- Bare-metal GPU infrastructure (Miami)\n\n6.\u00a0Runpod\u00a0- Cloud services for AI developers (San Francisco)\n\n7.\u00a0Tensordyne\u00a0- Efficient model-serving systems (Sunnyvale)\n\n8.\u00a0Lightning AI\u00a0- AI-development platform (New York)\n\n9.\u00a0Parasail\u00a0- Infrastructure for model serving (San Mateo)\n\n10.\u00a0Volantis Semiconductor\u00a0- Photonic connections for AI systems (Portland)\n\n11.\u00a0Boost Run\u00a0- AI-compute provisioning (Northbrook)\n\n12.\u00a0QumulusAI\u00a0- Di",
+   "disc_score": 3,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1793915970
+  },
+  "7524184421823102976": {
+   "created": 1793905358,
+   "author": "Kavya Dhaniyakula",
+   "url": "https://www.linkedin.com/feed/update/urn:li:groupPost:99563-7524184421177044992",
+   "text": "\ud83d\udea8#Urgent: :: \ud83d\udea8#Hiring:: #Positions\u00a0\u2709\ufe0fJoe@annaglobaltech.net\n\nImplementation is LTTS\nJob Title: DFT Engineer :: San Jose, CA\nClient: Etched |\u00a0Implementation is LTTS\n\nRequired Skills & Qualifications\n\u00b7\u00a0\u00a0\u00a0\u00a04+ years of hands-on experience in DFT and ATPG for SoC or ASIC designs\n\u00b7\u00a0\u00a0\u00a0\u00a0Strong understanding of DFT fundamentals including controllability, observability, and scan-based testing\n\u00b7\u00a0\u00a0\u00a0\u00a0Proven expertise in ATPG pattern generation, analysis, and debug\n\u00b7\u00a0\u00a0\u00a0\u00a0Experience with MBIST, including memory test architectures and diagnostics\n\u00b7\u00a0\u00a0\u00a0\u00a0Knowledge of IO Test methodologies for interface and pin level validation\n\u00b7\u00a0\u00a0\u00a0\u00a0Solid understanding of clock DFT and clock verification concepts\n\u00b7\u00a0\u00a0\u00a0\u00a0Strong gra",
+   "disc_score": 1,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1793915970
+  },
+  "7524191523249299456": {
+   "created": 1793907051,
+   "author": "TrackMyOPT",
+   "url": "https://www.linkedin.com/posts/trackmyopt_opt-stemopt-f1visa-activity-7524191523249299456-fQO3",
+   "text": "\ud83c\udf93 Today's jobs for OPT & STEM OPT job seekers \u2014 Thursday, Nov 5\n\nFresh US openings from verified company career pages, picked for international students and grads. Tap a link for the details and the apply link.\n\n\ud83d\udcbb Software Engineering\n\u2022 Full-stack Engineer 4 at Capital One \u2192 https://lnkd.in/eA_jP9yh\n\u2022 Full-stack Engineer 4 (Bank Tech) at Capital One \u2192 https://lnkd.in/e8CipsUt\n\u2022 Engineer II, Field Software at ASM \u2192 https://lnkd.in/eD3-wc3t\n\u2022 Developer Marketer at Blacksmith \u2192 https://lnkd.in/e4RimVZS\n\u2022 Software Engineer II (Hybrid - 2x/week) at Avery Dennison \u2192 https://lnkd.in/eTJDBbCX\n\u2022 Software Engineer II - Reporting Platform at Qualtrics \u2192 https://lnkd.in/eT_indVK\n\n\ud83d\udcca Data & AI\n\u2022 AI Soluti",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1793915970
+  },
+  "7524186325541871616": {
+   "created": 1793905812,
+   "author": "Karishma Shaik",
+   "url": "https://www.linkedin.com/feed/update/urn:li:groupPost:10529815-7524186324782985216",
+   "text": "\ud83d\udea8#Urgent: :: \ud83d\udea8#Hiring:: #Positions\u00a0\u2709\ufe0fJoe@annaglobaltech.net\n\nImplementation is LTTS\nJob Title: DFT Engineer :: San Jose, CA\nClient: Etched |\u00a0Implementation is LTTS\n\nRequired Skills & Qualifications\n\u00b7\u00a0\u00a0\u00a0\u00a04+ years of hands-on experience in DFT and ATPG for SoC or ASIC designs\n\u00b7\u00a0\u00a0\u00a0\u00a0Strong understanding of DFT fundamentals including controllability, observability, and scan-based testing\n\u00b7\u00a0\u00a0\u00a0\u00a0Proven expertise in ATPG pattern generation, analysis, and debug\n\u00b7\u00a0\u00a0\u00a0\u00a0Experience with MBIST, including memory test architectures and diagnostics\n\u00b7\u00a0\u00a0\u00a0\u00a0Knowledge of IO Test methodologies for interface and pin level validation\n\u00b7\u00a0\u00a0\u00a0\u00a0Solid understanding of clock DFT and clock verification concepts\n\u00b7\u00a0\u00a0\u00a0\u00a0Strong gra",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1793915970
+  },
+  "7524175309458550784": {
+   "created": 1793903186,
+   "author": "Shiva Naidu",
+   "url": "https://www.linkedin.com/posts/shiva-naidu-46909b25b_hiring-immediate-c2c-activity-7524175309458550784-sTbs",
+   "text": "Physical Design (Place & Route) Engineer - Contract\nClient: Etched\nLocation: 100% Remote in U.S.\nDuration: 6-12 Months\nMUST be US CITIZEN Only\nPhysical Design (Place & Route) Engineer, ASIC - 100% Remote\nAbout the Role\nOur ASIC team is hiring a seasoned Place and Route (P&R) Engineer to own the physical implementation of complex, high-performance chips. You will take designs from a synthesized netlist all the way to final GDSII, pushing hard on power, performance and area (PPA) while protecting design integrity, manufacturability and the schedule.\nWhat You\u2019ll Do\nRun full-chip physical implementation from netlist to GDSII, covering floorplanning, power planning, placement, clock tree synthesi",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1793915970
+  },
+  "7524180684727603200": {
+   "created": 1793904467,
+   "author": "Bhargav G",
+   "url": "https://www.linkedin.com/posts/bhargav-g-b4b970344_hiring-urgenthiring-dftengineer-activity-7524180684727603200-D_8m",
+   "text": "\ud83d\udea8 Urgent Hiring: DFT Engineer\n\ud83d\udccd Location: San Jose, CA  \n\ud83c\udfe2 Implementation Partner: LTTS  \n\ud83c\udfe2 End Client: Etched  \n\ud83d\udcb0 Compensation: $170K  \n\ud83d\udcbc Experience: 4+ Years\nRole Overview:\nWe are looking for experienced DFT Engineers with strong hands-on experience in DFT, ATPG, and ASIC/SoC designs. Candidates with exposure to advanced semiconductor technologies and GPU architectures will be preferred.\nMust-Have Skills:\n- 4+ years of hands-on DFT and ATPG experience.\n- Strong knowledge of Scan-based testing, Controllability, and Observability.\n- ATPG pattern generation, analysis, and debugging.\n- MBIST and memory testing architectures.\n- IO Testing and pin-level validation.\n- Clock DFT and clock verifica",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1793915970
+  },
+  "7524169120238718976": {
+   "created": 1793901710,
+   "author": "Vishal Raj N",
+   "url": "https://www.linkedin.com/posts/ripal-vishal-raj_physical-design-place-route-engineer-activity-7524169120238718976-3hNC",
+   "text": "Physical Design (Place & Route) Engineer - Contract\n\nClient: Etched\nLocation: 100% Remote in U.S.\nDuration: 6-12 Months\n\nMUST be US CITIZEN Only\n\nPhysical Design (Place & Route) Engineer, ASIC - 100% Remote\n\nAbout the Role\nOur ASIC team is hiring a seasoned Place and Route (P&R) Engineer to own the physical implementation of complex, high-performance chips. You will take designs from a synthesized netlist all the way to final GDSII, pushing hard on power, performance and area (PPA) while protecting design integrity, manufacturability and the schedule.\n\nWhat You\u2019ll Do\n\nRun full-chip physical implementation from netlist to GDSII, covering floorplanning, power planning, placement, clock tree sy",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1793915970
   }
  },
  "baseline": {
   "24": [
-   [
-    1789740764,
-    106
-   ],
    [
     1789740764,
     32
@@ -1792,6 +1889,10 @@
    [
     1793899737,
     38
+   ],
+   [
+    1793915970,
+    3
    ]
   ]
  },
