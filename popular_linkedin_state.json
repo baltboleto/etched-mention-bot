@@ -100,6 +100,39 @@
    "promoted": false,
    "miss": 0,
    "added": 1793828031
+  },
+  "7523900953985482754": {
+   "created": 1793837774,
+   "author": "Abhishek J.",
+   "url": "https://www.linkedin.com/feed/update/urn:li:groupPost:38114-7523900952295395328",
+   "text": "Custom AI chips will outship GPUs by 2027.\n\nThat is J.P. Morgan's forecast: 12.5 million custom chips against 10.9 million GPUs. Yet the startups raising record sums may capture the smallest share\nof it.\n\nTo see why, start with how AI chips are bought.\n\nHOW THE MARKET WORKS\n\nA GPU is a general-purpose chip. Nvidia designs it to run almost any AI workload and sells it to everyone. That flexibility made Nvidia the default\nsupplier, at a premium price.\n\nA custom chip, or ASIC, is built for one buyer's workloads. Google's TPU is the best-known example.\n\nThe hyperscaler sets the design, and a partner such as Broadcom turns it into a manufacturable chip and brings it through production at TSMC.\n\nT",
+   "disc_score": 1,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1793843494
+  },
+  "7523910768644214784": {
+   "created": 1793840114,
+   "author": "Bay Area Jobs",
+   "url": "https://www.linkedin.com/posts/bay-area-jobs_httpsjobsrminecomjobussubstrate-ic-package-layout-design-engineer-activity-7523910768644214784-LrnO",
+   "text": "#hiring Substrate IC Package Layout Design Engineer\n\nApply here: https://lnkd.in/gDaBDyu2\n\nJob Description Job Description About EtchedEtched is building hardware for frontier intelligence. We co-design chips, racks, software, and manufacturing to deliver best-in-class throughput and latency across both prefill and decode workloads. Our first products are heavily focused on inference. Backed by hundreds of millions from top-tier investors and staffed by leading engineers, Etched is redefining the infrastructure layer for the fastest growing industry in history.Job SummaryAs a Substrate IC Package Layout Design Engineer you will be responsible for the end-to-end design of complex IC substrate",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1793843494
+  },
+  "7523900540578078721": {
+   "created": 1793837676,
+   "author": "Abhishek J.",
+   "url": "https://www.linkedin.com/posts/theinvestorsalmanac-abhishekj_custom-ai-chips-will-outship-gpus-by-2027-activity-7523900540578078721-p8hB",
+   "text": "Custom AI chips will outship GPUs by 2027.\n\nThat is J.P. Morgan's forecast: 12.5 million custom chips against 10.9 million GPUs. Yet the startups raising record sums may capture the smallest share\nof it.\n\nTo see why, start with how AI chips are bought.\n\nHOW THE MARKET WORKS\n\nA GPU is a general-purpose chip. Nvidia designs it to run almost any AI workload and sells it to everyone. That flexibility made Nvidia the default\nsupplier, at a premium price.\n\nA custom chip, or ASIC, is built for one buyer's workloads. Google's TPU is the best-known example.\n\nThe hyperscaler sets the design, and a partner such as Broadcom turns it into a manufacturable chip and brings it through production at TSMC.\n\nT",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1793843494
   }
  },
  "baseline": {
