@@ -1,36 +1,21 @@
 {
  "watch": {
-  "2118468613418172585": {
-   "created": 1793917251,
-   "author": "KenWattana",
-   "followers": 8802,
-   "url": "https://x.com/KenWattana/status/2118468613418172585",
-   "disc_score": 0,
-   "checks": {},
-   "promoted": false,
-   "miss": 0,
-   "added": 1793918897
-  },
-  "2118432786390319111": {
-   "created": 1793908709,
-   "author": "CuldesacDaddy",
-   "followers": 106,
-   "url": "https://x.com/CuldesacDaddy/status/2118432786390319111",
+  "2118513361805832366": {
+   "created": 1793927920,
+   "author": "SusuYa935",
+   "followers": 0,
+   "url": "https://x.com/SusuYa935/status/2118513361805832366",
    "disc_score": 0,
    "checks": {
-    "1": null
+    "1": 0
    },
    "promoted": false,
    "miss": 0,
-   "added": 1793918897
+   "added": 1793934989
   }
  },
  "baseline": {
   "1": [
-   [
-    1788735595,
-    0
-   ],
    [
     1788760060,
     0
@@ -1513,6 +1498,10 @@
    ],
    [
     1793869568,
+    0
+   ],
+   [
+    1793934991,
     0
    ]
   ]
