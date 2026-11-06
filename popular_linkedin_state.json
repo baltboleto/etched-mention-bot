@@ -1,68 +1,5 @@
 {
  "watch": {
-  "7523900953985482754": {
-   "created": 1793837774,
-   "author": "Abhishek J.",
-   "url": "https://www.linkedin.com/feed/update/urn:li:groupPost:38114-7523900952295395328",
-   "text": "Custom AI chips will outship GPUs by 2027.\n\nThat is J.P. Morgan's forecast: 12.5 million custom chips against 10.9 million GPUs. Yet the startups raising record sums may capture the smallest share\nof it.\n\nTo see why, start with how AI chips are bought.\n\nHOW THE MARKET WORKS\n\nA GPU is a general-purpose chip. Nvidia designs it to run almost any AI workload and sells it to everyone. That flexibility made Nvidia the default\nsupplier, at a premium price.\n\nA custom chip, or ASIC, is built for one buyer's workloads. Google's TPU is the best-known example.\n\nThe hyperscaler sets the design, and a partner such as Broadcom turns it into a manufacturable chip and brings it through production at TSMC.\n\nT",
-   "disc_score": 1,
-   "checks": {},
-   "promoted": false,
-   "miss": 2,
-   "added": 1793843494
-  },
-  "7523910768644214784": {
-   "created": 1793840114,
-   "author": "Bay Area Jobs",
-   "url": "https://www.linkedin.com/posts/bay-area-jobs_httpsjobsrminecomjobussubstrate-ic-package-layout-design-engineer-activity-7523910768644214784-LrnO",
-   "text": "#hiring Substrate IC Package Layout Design Engineer\n\nApply here: https://lnkd.in/gDaBDyu2\n\nJob Description Job Description About EtchedEtched is building hardware for frontier intelligence. We co-design chips, racks, software, and manufacturing to deliver best-in-class throughput and latency across both prefill and decode workloads. Our first products are heavily focused on inference. Backed by hundreds of millions from top-tier investors and staffed by leading engineers, Etched is redefining the infrastructure layer for the fastest growing industry in history.Job SummaryAs a Substrate IC Package Layout Design Engineer you will be responsible for the end-to-end design of complex IC substrate",
-   "disc_score": 0,
-   "checks": {
-    "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1793843494
-  },
-  "7523900540578078721": {
-   "created": 1793837676,
-   "author": "Abhishek J.",
-   "url": "https://www.linkedin.com/posts/theinvestorsalmanac-abhishekj_custom-ai-chips-will-outship-gpus-by-2027-activity-7523900540578078721-p8hB",
-   "text": "Custom AI chips will outship GPUs by 2027.\n\nThat is J.P. Morgan's forecast: 12.5 million custom chips against 10.9 million GPUs. Yet the startups raising record sums may capture the smallest share\nof it.\n\nTo see why, start with how AI chips are bought.\n\nHOW THE MARKET WORKS\n\nA GPU is a general-purpose chip. Nvidia designs it to run almost any AI workload and sells it to everyone. That flexibility made Nvidia the default\nsupplier, at a premium price.\n\nA custom chip, or ASIC, is built for one buyer's workloads. Google's TPU is the best-known example.\n\nThe hyperscaler sets the design, and a partner such as Broadcom turns it into a manufacturable chip and brings it through production at TSMC.\n\nT",
-   "disc_score": 0,
-   "checks": {
-    "24": 160
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1793843494
-  },
-  "7523954860912783360": {
-   "created": 1793850627,
-   "author": "John Wong",
-   "url": "https://www.linkedin.com/posts/john-wong-3080441_ai-%E6%8E%A8%E7%90%86%E6%88%90%E6%9C%AC%E7%9A%84%E7%B5%82%E6%A5%B5%E5%B0%8D%E6%B1%BAnvidiagroq-%E8%88%87-etched-%E7%9A%84%E6%9E%B6%E6%A7%8B%E8%83%BD%E6%95%88%E8%88%87%E5%95%86%E6%A5%AD%E7%AE%97%E7%9B%A4-activity-7523954860912783360-PuH7",
-   "text": "\u300aAI \u63a8\u7406\u6210\u672c\u7684\u7d42\u6975\u5c0d\u6c7a\uff1aNVIDIA\u3001Groq \u8207 Etched \u7684\u67b6\u69cb\u3001\u80fd\u6548\u8207\u5546\u696d\u7b97\u76e4\u300bThe Ultimate Inference War: Decoding Power, Token Cost, and Architecture Between NVIDIA, Groq, and Etched. https://lnkd.in/gwJRrkwF\n\nAI \u7522\u696d\u5f9e\u300c\u8ecd\u5099\u7af6\u8cfd\u5f0f\u7684\u6a21\u578b\u8a13\u7df4\u300d\u5168\u9762\u8f49\u5411\u300c\u842c\u5104\u7d1a\u6d41\u91cf\u7684\u5546\u696d\u5316\u63a8\u7406\u300d\uff0c\u7b97\u529b\u5e02\u5834\u7684\u904a\u6232\u898f\u5247\u6b63\u88ab\u91cd\u65b0\u5b9a\u7fa9\u3002NVIDIA \u6191\u85c9 Blackwell \u67b6\u69cb\u8207 CUDA \u751f\u614b\u7cfb\uff0c\u4f9d\u8cf4\u9f90\u5927\u7684 HBM \u983b\u5bec\uff0c\u4f9d\u820a\u7262\u7262\u58df\u65b7\u8457 AI \u8a13\u7df4\u8207\u901a\u7528\u591a\u6a21\u614b\u7684\u9ec3\u91d1\u6a19\u6e96\uff1b\u7136\u800c\uff0c\u9ad8\u6602\u7684\u6676\u7247\u529f\u8017\u8207\u786c\u9ad4\u6298\u820a\uff0c\u6b63\u8b93\u4f01\u696d\u9762\u81e8\u6c89\u91cd\u7684 Token \u6210\u672c\u58d3\u529b\u3002The AI \u200b\u200bindustry is shifting from \"arms race-style model training\" to \"trillion-level commercial inference,\" redefining the rules of the game in the computing power market. NVIDIA, with its Blackwell architecture and CUDA ecosystem, relies on massive HBM bandwidth to maintain its monopoly on the gold standard for AI training and general multimodal computing",
-   "disc_score": 1,
-   "checks": {
-    "24": 7
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1793861054
-  },
-  "7523921920677957634": {
-   "created": 1793842773,
-   "author": "Bay Area Jobs",
-   "url": "https://www.linkedin.com/posts/bay-area-jobs_httpsjobsrminecomjobusnetwork-security-engineer-activity-7523921920677957634-7RQN",
-   "text": "#hiring Network Security Engineer\n\nApply here: https://lnkd.in/gfkpu7kj\n\nJob Description Job Description About EtchedEtched is building hardware for frontier intelligence. We co-design chips, racks, software, and manufacturing to deliver best-in-class throughput and latency across both prefill and decode workloads. Our first products are heavily focused on inference. Backed by hundreds of millions from top-tier investors and staffed by leading engineers, Etched is redefining the infrastructure layer for the fastest growing industry in history.Job SummaryEtcheds infrastructure spans some of the most sensitive compute environments in the industry: bare-metal HPC clusters running proprietary AS",
-   "disc_score": 0,
-   "checks": {
-    "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1793861054
-  },
   "7524124130741469184": {
    "created": 1793890984,
    "author": "Alexander Averhoff",
@@ -71,7 +8,7 @@
    "disc_score": 1,
    "checks": {},
    "promoted": false,
-   "miss": 0,
+   "miss": 1,
    "added": 1793892518
   },
   "7524124266758352898": {
@@ -82,7 +19,7 @@
    "disc_score": 1,
    "checks": {},
    "promoted": false,
-   "miss": 0,
+   "miss": 1,
    "added": 1793892518
   },
   "7524159036460580864": {
@@ -91,8 +28,10 @@
    "url": "https://www.linkedin.com/posts/iakhund_traditional-banks-are-blocking-ai-agents-activity-7524159036460580864-vEYv",
    "text": "Traditional banks are blocking AI agents from customer accounts. It\u2019s an admission that the biggest players in banking don\u2019t understand the next five years. And, it's a bad security policy. \n\n\nMercury is building for founders that want to use agents securely. Our new Agent Controls page in the Mercury app shows every agent connected to your account, what it\u2019s allowed to do, a record of activity, and lets you cut it off at any time in seconds.\n\n\nBlocking agents is the opposite of a good security policy. Founders are already using agents, so trying to block them only pushes people to share a login with their agent or let it drive their browser with few guardrails and no record of what it did. ",
    "disc_score": 13,
-   "checks": {},
-   "promoted": false,
+   "checks": {
+    "24": 350
+   },
+   "promoted": true,
    "miss": 0,
    "added": 1793899737
   },
@@ -104,7 +43,7 @@
    "disc_score": 9,
    "checks": {},
    "promoted": false,
-   "miss": 0,
+   "miss": 1,
    "added": 1793915970
   },
   "7524227196069064705": {
@@ -216,14 +155,32 @@
    "promoted": false,
    "miss": 0,
    "added": 1793962286
+  },
+  "7524478265814618112": {
+   "created": 1793975416,
+   "author": "Paul Heydon",
+   "url": "https://www.linkedin.com/posts/pheydon_its-been-a-long-time-since-i-shared-an-update-activity-7524478265814618112-pR7B",
+   "text": "It\u2019s been a long time since I shared an update on me, so consider this a catch-up.\n\nSince 2021 I have been running my own family office, investing across venture (direct and as an LP in funds and SPVs), hedge funds (LP), private equity (LP) and public equities (direct).\nOutreach is minimal. Most things arrive inbound from friends and my network, which suits me.\n\nA bit of history for context.\n\nI started my career in 1990 in Toronto as a founder straight out of undergrad and failed in the food sector. I then worked in the food sector, co-founded a startup in the sports sector, raised money and failed again.\n\nI got my MBA in 1999, moved to London and joined an investment bank working with media",
+   "disc_score": 39,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1793987849
+  },
+  "7524501980040552448": {
+   "created": 1793981070,
+   "author": "Start-Hub",
+   "url": "https://www.linkedin.com/posts/starthub-halic_yapay-zeka-donan%C4%B1m%C4%B1ndaki-b%C3%BCy%C3%BCk-potansiyel-activity-7524501980040552448-2rnh",
+   "text": "\ud83d\ude80 Yapay Zeka Donan\u0131m\u0131ndaki B\u00fcy\u00fck Potansiyel: Etched'in 21 Milyar Dolar De\u011ferlemesi ve T\u00fcrk Giri\u015fim Ekosistemine Yans\u0131malar\u0131\n\nYapay zeka \u00e7ip \u00fcreticisi Etched, 21 milyar dolar de\u011ferleme \u00fczerinden 700 milyon dolarl\u0131k yeni bir yat\u0131r\u0131m alarak, Temmuz ay\u0131ndaki 10.3 milyar dolar de\u011ferlemesinden bu yana de\u011ferini ikiye katlad\u0131. Bu geli\u015fme, yapay zeka donan\u0131m\u0131ndaki yo\u011fun yat\u0131r\u0131m ak\u0131\u015f\u0131n\u0131 ve derin teknoloji alan\u0131ndaki stratejik \u00f6nemi g\u00f6zler \u00f6n\u00fcne seriyor.\n\n#giri\u015fim #startup #teknoloji #t\u00fcrkiye #starthub",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1793987849
   }
  },
  "baseline": {
   "24": [
-   [
-    1789761556,
-    92
-   ],
    [
     1789810472,
     0
@@ -1819,6 +1776,10 @@
    [
     1793962286,
     7
+   ],
+   [
+    1793987849,
+    350
    ]
   ]
  },
@@ -2067,6 +2028,11 @@
    1793899737,
    "7523783555236208640",
    302
+  ],
+  [
+   1793987849,
+   "7524159036460580864",
+   350
   ]
  ],
  "seeded": true
