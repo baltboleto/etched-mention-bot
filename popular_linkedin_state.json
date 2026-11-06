@@ -1,31 +1,5 @@
 {
  "watch": {
-  "7523738253452025856": {
-   "created": 1793798983,
-   "author": "Mikael Cavalcanti",
-   "url": "https://www.linkedin.com/posts/mikaelcalebcavalcanti_softwareengineering-artificialintelligence-activity-7523738253452025856-o_r8",
-   "text": "You don\u2019t need to be actively looking for a new job to discover a better opportunity.\n\nThis is one of the aspects I appreciate most about what we are building at Refer.\n\nAs a Growth Partner at Refer, I connect experienced tech professionals with hiring teams based on genuine compatibility, taking into account experience, skills, seniority level, and tech stack, rather than just sending out random job openings.\n\nRefer is a curated talent network designed to create more meaningful connections between top-tier professionals and great companies.\n\nCurrently, I am connecting professionals in areas such as:\n\u2022 Software Engineering\n\u2022 AI / Machine Learning Engineering\n\u2022 Data Engineering and Data Scien",
-   "disc_score": 5,
-   "checks": {
-    "24": 9
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1793807126
-  },
-  "7523710164781178881": {
-   "created": 1793792287,
-   "author": "The Fab Analyst",
-   "url": "https://www.linkedin.com/posts/the-fab-analyst_neuromorphiccomputing-neuromorphicchips-semiconductors-activity-7523710164781178881-OUiD",
-   "text": "\ud835\udc0d\ud835\udc1e\ud835\udc2e\ud835\udc2b\ud835\udc28\ud835\udc26\ud835\udc28\ud835\udc2b\ud835\udc29\ud835\udc21\ud835\udc22\ud835\udc1c \ud835\udc00\ud835\udc08 \ud835\udc12\ud835\udc1e\ud835\udc26\ud835\udc22\ud835\udc1c\ud835\udc28\ud835\udc27\ud835\udc1d\ud835\udc2e\ud835\udc1c\ud835\udc2d\ud835\udc28\ud835\udc2b \ud835\udc0c\ud835\udc1a\ud835\udc2b\ud835\udc24\ud835\udc1e\ud835\udc2d 2025\u20132033: \ud835\udc06\ud835\udc25\ud835\udc28\ud835\udc1b\ud835\udc1a\ud835\udc25 \ud835\udc11\ud835\udc1e\ud835\udc2c\ud835\udc1e\ud835\udc1a\ud835\udc2b\ud835\udc1c\ud835\udc21 \ud835\udc11\ud835\udc1e\ud835\udc29\ud835\udc28\ud835\udc2b\ud835\udc2d. \ud835\udc11\ud835\udc1e\ud835\udc2a\ud835\udc2e\ud835\udc1e\ud835\udc2c\ud835\udc2d \ud835\udc1f\ud835\udc28\ud835\udc2b \ud835\udc12\ud835\udc1a\ud835\udc26\ud835\udc29\ud835\udc25\ud835\udc1e \ud835\udc02\ud835\udc28\ud835\udc29\ud835\udc32:\nhttps://lnkd.in/dde63BGg (\ud835\udc14\ud835\udc2c\ud835\udc1e \ud835\udc0e\ud835\udc27\ud835\udc25\ud835\udc32 \ud835\udc02\ud835\udc28\ud835\udc2b\ud835\udc29\ud835\udc28\ud835\udc2b\ud835\udc1a\ud835\udc2d\ud835\udc1e \ud835\udc0c\ud835\udc1a\ud835\udc22\ud835\udc25 \ud835\udc08\ud835\udc03 \ud835\udc05\ud835\udc28\ud835\udc2b \ud835\udc05\ud835\udc2b\ud835\udc1e\ud835\udc1e \ud835\udc00\ud835\udc1c\ud835\udc1c\ud835\udc1e\ud835\udc2c\ud835\udc2c)\n\n\ud83d\udcca The global neuromorphic computing market was valued at approximately USD 5.1 billion in 2023 and is projected to reach USD 35.7 billion by 2033, registering a CAGR of 22.1% during 2024\u20132033.\nNeuromorphic AI semiconductors are emerging as an important technology for brain-inspired computing, enabling parallel processing, event-driven intelligence and energy-efficient AI inference.\n\n\ud83d\udcbc \ud835\udde0\ud835\uddee\ud835\uddff\ud835\uddf8\ud835\uddf2\ud835\ude01 \ud835\uddda\ud835\uddff\ud835\uddfc\ud835\ude04\ud835\ude01\ud835\uddf5 \ud835\uddd7\ud835\uddff\ud835\uddf6\ud835\ude03\ud835\uddf2\ud835\uddff\ud835\ude00\n\ud83e\udde0 Increasing adoption of brain-inspired computing architectures.\n\u26a1 Demand for ultra-low-power AI processing.\n \ud83e\udd16 Expansion ",
-   "disc_score": 6,
-   "checks": {
-    "24": 12
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1793807126
-  },
   "7523769031997317120": {
    "created": 1793806322,
    "author": "Raymond Tsui",
@@ -36,19 +10,6 @@
     "24": 227
    },
    "promoted": true,
-   "miss": 0,
-   "added": 1793807126
-  },
-  "7523728381666996224": {
-   "created": 1793796630,
-   "author": "Nikhil Mall",
-   "url": "https://www.linkedin.com/posts/nikhil-mall_familyoffice-ai-wealthmanagement-activity-7523728381666996224-GYmM",
-   "text": "Etched raised $700M in August at a $21B valuation. Jane Street used the hardware, then led the round. There are now talks of a new one at $40B to $50B.\n\nIt designs its own chip and sells it inside complete server racks. \n\nI went in to understand the company. I came out more interested in why it exists at all.\n\nNvidia has roughly 80% of the AI chip market and a 75% gross margin, up from 70% in mid-2023. Margins are supposed to fall as hardware scales. Nvidia\u2019s went up while quarterly revenue grew 7x.\n\nLast quarter it made $72B of gross profit. That is roughly the entire combined annual revenue of OpenAI and Anthropic, earned in three months.\n\nHere is why that number pulls everyone in.\n\nFor ev",
-   "disc_score": 4,
-   "checks": {
-    "24": 5
-   },
-   "promoted": false,
    "miss": 0,
    "added": 1793807126
   },
@@ -112,7 +73,7 @@
    "disc_score": 1,
    "checks": {},
    "promoted": false,
-   "miss": 0,
+   "miss": 1,
    "added": 1793843494
   },
   "7523910768644214784": {
@@ -121,7 +82,9 @@
    "url": "https://www.linkedin.com/posts/bay-area-jobs_httpsjobsrminecomjobussubstrate-ic-package-layout-design-engineer-activity-7523910768644214784-LrnO",
    "text": "#hiring Substrate IC Package Layout Design Engineer\n\nApply here: https://lnkd.in/gDaBDyu2\n\nJob Description Job Description About EtchedEtched is building hardware for frontier intelligence. We co-design chips, racks, software, and manufacturing to deliver best-in-class throughput and latency across both prefill and decode workloads. Our first products are heavily focused on inference. Backed by hundreds of millions from top-tier investors and staffed by leading engineers, Etched is redefining the infrastructure layer for the fastest growing industry in history.Job SummaryAs a Substrate IC Package Layout Design Engineer you will be responsible for the end-to-end design of complex IC substrate",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1793843494
@@ -132,7 +95,9 @@
    "url": "https://www.linkedin.com/posts/theinvestorsalmanac-abhishekj_custom-ai-chips-will-outship-gpus-by-2027-activity-7523900540578078721-p8hB",
    "text": "Custom AI chips will outship GPUs by 2027.\n\nThat is J.P. Morgan's forecast: 12.5 million custom chips against 10.9 million GPUs. Yet the startups raising record sums may capture the smallest share\nof it.\n\nTo see why, start with how AI chips are bought.\n\nHOW THE MARKET WORKS\n\nA GPU is a general-purpose chip. Nvidia designs it to run almost any AI workload and sells it to everyone. That flexibility made Nvidia the default\nsupplier, at a premium price.\n\nA custom chip, or ASIC, is built for one buyer's workloads. Google's TPU is the best-known example.\n\nThe hyperscaler sets the design, and a partner such as Broadcom turns it into a manufacturable chip and brings it through production at TSMC.\n\nT",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 160
+   },
    "promoted": false,
    "miss": 0,
    "added": 1793843494
@@ -154,7 +119,9 @@
    "url": "https://www.linkedin.com/posts/bay-area-jobs_httpsjobsrminecomjobusnetwork-security-engineer-activity-7523921920677957634-7RQN",
    "text": "#hiring Network Security Engineer\n\nApply here: https://lnkd.in/gfkpu7kj\n\nJob Description Job Description About EtchedEtched is building hardware for frontier intelligence. We co-design chips, racks, software, and manufacturing to deliver best-in-class throughput and latency across both prefill and decode workloads. Our first products are heavily focused on inference. Backed by hundreds of millions from top-tier investors and staffed by leading engineers, Etched is redefining the infrastructure layer for the fastest growing industry in history.Job SummaryEtcheds infrastructure spans some of the most sensitive compute environments in the industry: bare-metal HPC clusters running proprietary AS",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1793861054
@@ -290,22 +257,21 @@
    "promoted": false,
    "miss": 0,
    "added": 1793915970
+  },
+  "7524237821495267328": {
+   "created": 1793918090,
+   "author": "Larry MaGee",
+   "url": "https://www.linkedin.com/posts/mageelarry_all-about-ai-the-companies-worth-watching-activity-7524237821495267328-_fAS",
+   "text": "All about AI\n\nThe Companies Worth Watching\nSeveral established technology leaders and emerging startups are shaping the next phase of AI infrastructure.\n\nNVIDIA: Continues to be a central force in AI computing, GPU architecture, networking and software ecosystems. Its CUDA platform and accelerated computing strategy have created demand for software, compiler, systems and hardware engineering talent.\nAMD: Competing across data-center GPUs, CPUs and adaptive computing. Its AI accelerator ecosystem creates opportunities in hardware architecture, software optimization, firmware and systems engineering.\nBroadcom: A major player in custom silicon, networking and semiconductor infrastructure. Custo",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1793931882
   }
  },
  "baseline": {
   "24": [
-   [
-    1789740764,
-    32
-   ],
-   [
-    1789740764,
-    7
-   ],
-   [
-    1789756055,
-    8
-   ],
    [
     1789756055,
     25
@@ -1893,6 +1859,18 @@
    [
     1793915970,
     3
+   ],
+   [
+    1793931882,
+    0
+   ],
+   [
+    1793931882,
+    160
+   ],
+   [
+    1793931882,
+    0
    ]
   ]
  },
