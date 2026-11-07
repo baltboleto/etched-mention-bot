@@ -1,46 +1,7 @@
 {
- "watch": {
-  "2119137011512566257": {
-   "created": 1794076609,
-   "author": "QwenAIFans",
-   "followers": 7194,
-   "url": "https://x.com/QwenAIFans/status/2119137011512566257",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1794083201
-  },
-  "2119139279586591045": {
-   "created": 1794077150,
-   "author": "brexton",
-   "followers": 16173,
-   "url": "https://x.com/brexton/status/2119139279586591045",
-   "disc_score": 9,
-   "checks": {
-    "1": 9
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1794083201
-  }
- },
+ "watch": {},
  "baseline": {
   "1": [
-   [
-    1788902842,
-    11
-   ],
-   [
-    1788910482,
-    0
-   ],
-   [
-    1788910482,
-    1
-   ],
    [
     1788955046,
     0
