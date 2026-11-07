@@ -1,27 +1,5 @@
 {
  "watch": {
-  "7524124130741469184": {
-   "created": 1793890984,
-   "author": "Alexander Averhoff",
-   "url": "https://www.linkedin.com/feed/update/urn:li:groupPost:10472901-7524124129835376641",
-   "text": "Physical Design (Place & Route) Engineer - Contract\n\nClient:  Etched\nLocation:  100% Remote in U.S.\nDuration: 6-12 Months\nRate:  150/hr\nMUST be US CITIZEN Only\n\nPhysical Design (Place & Route) Engineer, ASIC - 100% Remote\n\nAbout the Role\nOur ASIC team is hiring a seasoned Place and Route (P&R) Engineer to own the physical implementation of complex, high-performance chips. You will take designs from a synthesized netlist all the way to final GDSII, pushing hard on power, performance and area (PPA) while protecting design integrity, manufacturability and the schedule.\n\nWhat You\u2019ll Do\n\nRun full-chip physical implementation from netlist to GDSII, covering floorplanning, power planning, placement",
-   "disc_score": 1,
-   "checks": {},
-   "promoted": false,
-   "miss": 2,
-   "added": 1793892518
-  },
-  "7524124266758352898": {
-   "created": 1793891016,
-   "author": "Alexander Averhoff",
-   "url": "https://www.linkedin.com/feed/update/urn:li:groupPost:10529815-7524124265869123586",
-   "text": "Physical Design (Place & Route) Engineer - Contract\n\nClient: Etched\nLocation: 100% Remote in U.S.\nDuration: 6-12 Months\nRate: 150/hr\nMUST be US CITIZEN Only\n\nPhysical Design (Place & Route) Engineer, ASIC - 100% Remote\n\nAbout the Role\nOur ASIC team is hiring a seasoned Place and Route (P&R) Engineer to own the physical implementation of complex, high-performance chips. You will take designs from a synthesized netlist all the way to final GDSII, pushing hard on power, performance and area (PPA) while protecting design integrity, manufacturability and the schedule.\n\nWhat You\u2019ll Do\n\nRun full-chip physical implementation from netlist to GDSII, covering floorplanning, power planning, placement, c",
-   "disc_score": 1,
-   "checks": {},
-   "promoted": false,
-   "miss": 2,
-   "added": 1793892518
-  },
   "7524159036460580864": {
    "created": 1793899306,
    "author": "Immad Akhund",
@@ -35,17 +13,6 @@
    "miss": 0,
    "added": 1793899737
   },
-  "7524164969798574080": {
-   "created": 1793900721,
-   "author": "Peter Wong",
-   "url": "https://www.linkedin.com/posts/peter-wong-flywheel_since-2011-peter-thiel-has-paid-young-people-activity-7524164969798574080-zBTK",
-   "text": "Since 2011, Peter Thiel has paid young people to drop out of college and build.\n\nLast month Ghost, co-founded by 19-year-old Z Fellow Zain Javaid, raised an $11M a16z seed. Thiel started backing founders that age 15 years ago.\n\nThe best-known fellows are Vitalik Buterin (Ethereum), Dylan Field (Figma), Chris Olah (Anthropic), and Ritesh Agarwal (OYO).\n\nHere are 30 Thiel Fellows and what they built:\n\n1/ Cognition - Walden Yan\nAI software engineering lab behind Devin and Windsurf. Valued at $48B in September, with over $1B in run-rate revenue.\n\n2/ Etched - Gavin Uberti, Robert Wachen & Chris Zhu\nChips built only for transformer models. Valued at $21B in August, with Jane Street as its first cu",
-   "disc_score": 9,
-   "checks": {},
-   "promoted": false,
-   "miss": 2,
-   "added": 1793915970
-  },
   "7524227196069064705": {
    "created": 1793915556,
    "author": "Eric Newcomer",
@@ -54,7 +21,7 @@
    "disc_score": 2,
    "checks": {},
    "promoted": false,
-   "miss": 1,
+   "miss": 2,
    "added": 1793915970
   },
   "7524169203361427456": {
@@ -65,7 +32,7 @@
    "disc_score": 3,
    "checks": {},
    "promoted": false,
-   "miss": 1,
+   "miss": 2,
    "added": 1793915970
   },
   "7524184421823102976": {
@@ -76,7 +43,7 @@
    "disc_score": 1,
    "checks": {},
    "promoted": false,
-   "miss": 1,
+   "miss": 2,
    "added": 1793915970
   },
   "7524191523249299456": {
@@ -87,7 +54,7 @@
    "disc_score": 0,
    "checks": {},
    "promoted": false,
-   "miss": 1,
+   "miss": 2,
    "added": 1793915970
   },
   "7524186325541871616": {
@@ -98,7 +65,7 @@
    "disc_score": 0,
    "checks": {},
    "promoted": false,
-   "miss": 1,
+   "miss": 2,
    "added": 1793915970
   },
   "7524175309458550784": {
@@ -109,7 +76,7 @@
    "disc_score": 0,
    "checks": {},
    "promoted": false,
-   "miss": 1,
+   "miss": 2,
    "added": 1793915970
   },
   "7524180684727603200": {
@@ -120,7 +87,7 @@
    "disc_score": 0,
    "checks": {},
    "promoted": false,
-   "miss": 1,
+   "miss": 2,
    "added": 1793915970
   },
   "7524169120238718976": {
@@ -131,7 +98,7 @@
    "disc_score": 0,
    "checks": {},
    "promoted": false,
-   "miss": 1,
+   "miss": 2,
    "added": 1793915970
   },
   "7524237821495267328": {
@@ -142,7 +109,7 @@
    "disc_score": 0,
    "checks": {},
    "promoted": false,
-   "miss": 1,
+   "miss": 2,
    "added": 1793931882
   },
   "7524386511077724160": {
