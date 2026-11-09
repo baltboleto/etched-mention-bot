@@ -1,41 +1,43 @@
 {
  "watch": {
-  "2119656720058536394": {
-   "created": 1794200518,
-   "author": "0xarpjw",
-   "followers": 46,
-   "url": "https://x.com/0xarpjw/status/2119656720058536394",
+  "2119850203511423055": {
+   "created": 1794246648,
+   "author": "MitcheIl",
+   "followers": 57994,
+   "url": "https://x.com/MitcheIl/status/2119850203511423055",
    "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1794249777
+  },
+  "2119847947412320565": {
+   "created": 1794246110,
+   "author": "ShubhamTotu",
+   "followers": 4608,
+   "url": "https://x.com/ShubhamTotu/status/2119847947412320565",
+   "disc_score": 1,
    "checks": {
-    "1": null
+    "1": 1
    },
    "promoted": false,
    "miss": 0,
-   "added": 1794211206
+   "added": 1794249777
+  },
+  "2119852754256454008": {
+   "created": 1794247256,
+   "author": "mattepstein",
+   "followers": 39465,
+   "url": "https://x.com/mattepstein/status/2119852754256454008",
+   "disc_score": 27,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1794249777
   }
  },
  "baseline": {
   "1": [
-   [
-    1789059796,
-    1
-   ],
-   [
-    1789059796,
-    0
-   ],
-   [
-    1789059796,
-    0
-   ],
-   [
-    1789059796,
-    0
-   ],
-   [
-    1789059796,
-    7
-   ],
    [
     1789068917,
     3
@@ -1455,6 +1457,10 @@
    [
     1794083202,
     9
+   ],
+   [
+    1794249779,
+    1
    ]
   ]
  },
