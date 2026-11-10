@@ -1,68 +1,7 @@
 {
- "watch": {
-  "2119961724074004672": {
-   "created": 1794273236,
-   "author": "abhishekm1636",
-   "followers": 2925,
-   "url": "https://x.com/abhishekm1636/status/2119961724074004672",
-   "disc_score": 3,
-   "checks": {},
-   "promoted": false,
-   "miss": 0,
-   "added": 1794275285
-  },
-  "2119958138686415189": {
-   "created": 1794272381,
-   "author": "Rags0910",
-   "followers": 469,
-   "url": "https://x.com/Rags0910/status/2119958138686415189",
-   "disc_score": 7,
-   "checks": {},
-   "promoted": false,
-   "miss": 0,
-   "added": 1794275285
-  },
-  "2119953395016458450": {
-   "created": 1794271250,
-   "author": "abhishekm1636",
-   "followers": 2925,
-   "url": "https://x.com/abhishekm1636/status/2119953395016458450",
-   "disc_score": 46,
-   "checks": {
-    "1": 47
-   },
-   "promoted": true,
-   "miss": 0,
-   "added": 1794275285
-  },
-  "2119929654836625456": {
-   "created": 1794265590,
-   "author": "Rags0910",
-   "followers": 469,
-   "url": "https://x.com/Rags0910/status/2119929654836625456",
-   "disc_score": 0,
-   "checks": {
-    "1": null
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1794275285
-  }
- },
+ "watch": {},
  "baseline": {
   "1": [
-   [
-    1789097432,
-    1
-   ],
-   [
-    1789097432,
-    0
-   ],
-   [
-    1789114711,
-    0
-   ],
    [
     1789146014,
     0
