@@ -1,63 +1,56 @@
 {
  "watch": {
-  "2119850203511423055": {
-   "created": 1794246648,
-   "author": "MitcheIl",
-   "followers": 57994,
-   "url": "https://x.com/MitcheIl/status/2119850203511423055",
-   "disc_score": 0,
+  "2119961724074004672": {
+   "created": 1794273236,
+   "author": "abhishekm1636",
+   "followers": 2925,
+   "url": "https://x.com/abhishekm1636/status/2119961724074004672",
+   "disc_score": 3,
    "checks": {},
    "promoted": false,
    "miss": 0,
-   "added": 1794249777
+   "added": 1794275285
   },
-  "2119847947412320565": {
-   "created": 1794246110,
-   "author": "ShubhamTotu",
-   "followers": 4608,
-   "url": "https://x.com/ShubhamTotu/status/2119847947412320565",
-   "disc_score": 1,
+  "2119958138686415189": {
+   "created": 1794272381,
+   "author": "Rags0910",
+   "followers": 469,
+   "url": "https://x.com/Rags0910/status/2119958138686415189",
+   "disc_score": 7,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1794275285
+  },
+  "2119953395016458450": {
+   "created": 1794271250,
+   "author": "abhishekm1636",
+   "followers": 2925,
+   "url": "https://x.com/abhishekm1636/status/2119953395016458450",
+   "disc_score": 46,
    "checks": {
-    "1": 1
+    "1": 47
+   },
+   "promoted": true,
+   "miss": 0,
+   "added": 1794275285
+  },
+  "2119929654836625456": {
+   "created": 1794265590,
+   "author": "Rags0910",
+   "followers": 469,
+   "url": "https://x.com/Rags0910/status/2119929654836625456",
+   "disc_score": 0,
+   "checks": {
+    "1": null
    },
    "promoted": false,
    "miss": 0,
-   "added": 1794249777
-  },
-  "2119852754256454008": {
-   "created": 1794247256,
-   "author": "mattepstein",
-   "followers": 39465,
-   "url": "https://x.com/mattepstein/status/2119852754256454008",
-   "disc_score": 27,
-   "checks": {},
-   "promoted": false,
-   "miss": 0,
-   "added": 1794249777
+   "added": 1794275285
   }
  },
  "baseline": {
   "1": [
-   [
-    1789068917,
-    3
-   ],
-   [
-    1789077384,
-    1
-   ],
-   [
-    1789077384,
-    0
-   ],
-   [
-    1789077384,
-    0
-   ],
-   [
-    1789077384,
-    0
-   ],
    [
     1789097432,
     1
@@ -1461,6 +1454,10 @@
    [
     1794249779,
     1
+   ],
+   [
+    1794275286,
+    47
    ]
   ]
  },
@@ -1604,6 +1601,11 @@
    1793776848,
    "2117844291158671510",
    49
+  ],
+  [
+   1794275286,
+   "2119953395016458450",
+   47
   ]
  ],
  "seeded": true
