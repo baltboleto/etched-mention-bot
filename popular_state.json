@@ -1,72 +1,102 @@
 {
  "watch": {
-  "2120201605005840676": {
-   "created": 1794330428,
-   "author": "thexpiredpear",
-   "followers": 57,
-   "url": "https://x.com/thexpiredpear/status/2120201605005840676",
+  "2120274490139816005": {
+   "created": 1794347805,
+   "author": "zoialations",
+   "followers": 72,
+   "url": "https://x.com/zoialations/status/2120274490139816005",
+   "disc_score": 1,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1794349535
+  },
+  "2120270335040016885": {
+   "created": 1794346815,
+   "author": "0xfablo",
+   "followers": 30077,
+   "url": "https://x.com/0xfablo/status/2120270335040016885",
    "disc_score": 0,
    "checks": {},
    "promoted": false,
    "miss": 0,
-   "added": 1794330913
+   "added": 1794349535
   },
-  "2120197803531993288": {
-   "created": 1794329522,
-   "author": "deviationcap",
-   "followers": 234,
-   "url": "https://x.com/deviationcap/status/2120197803531993288",
-   "disc_score": 2,
-   "checks": {},
-   "promoted": false,
-   "miss": 0,
-   "added": 1794330913
-  },
-  "2120192451814236288": {
-   "created": 1794328246,
-   "author": "0xNofeaar",
-   "followers": 6198,
-   "url": "https://x.com/0xNofeaar/status/2120192451814236288",
-   "disc_score": 0,
-   "checks": {},
-   "promoted": false,
-   "miss": 0,
-   "added": 1794330913
-  },
-  "2120189746198749340": {
-   "created": 1794327601,
-   "author": "jpgg",
-   "followers": 4730,
-   "url": "https://x.com/jpgg/status/2120189746198749340",
-   "disc_score": 13,
-   "checks": {},
-   "promoted": false,
-   "miss": 0,
-   "added": 1794330913
-  },
-  "2120187056450322646": {
-   "created": 1794326960,
-   "author": "BankXRP",
-   "followers": 281308,
-   "url": "https://x.com/BankXRP/status/2120187056450322646",
-   "disc_score": 90,
-   "checks": {
-    "1": 91
-   },
-   "promoted": true,
-   "miss": 0,
-   "added": 1794330913
-  },
-  "2120189915942232547": {
-   "created": 1794327641,
-   "author": "amarchenkova",
-   "followers": 16244,
-   "url": "https://x.com/amarchenkova/status/2120189915942232547",
+  "2120270083830493656": {
+   "created": 1794346755,
+   "author": "sequoia",
+   "followers": 820791,
+   "url": "https://x.com/sequoia/status/2120270083830493656",
    "disc_score": 19,
    "checks": {},
    "promoted": false,
    "miss": 0,
-   "added": 1794330913
+   "added": 1794349535
+  },
+  "2120250983510864199": {
+   "created": 1794342201,
+   "author": "ryanfudge_",
+   "followers": 26,
+   "url": "https://x.com/ryanfudge_/status/2120250983510864199",
+   "disc_score": 1,
+   "checks": {
+    "1": 1
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1794349535
+  },
+  "2120242908616159593": {
+   "created": 1794340276,
+   "author": "forwarddeploy",
+   "followers": 15154,
+   "url": "https://x.com/forwarddeploy/status/2120242908616159593",
+   "disc_score": 1,
+   "checks": {
+    "1": null
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1794349535
+  },
+  "2120242121999360142": {
+   "created": 1794340088,
+   "author": "abhishekm1636",
+   "followers": 2975,
+   "url": "https://x.com/abhishekm1636/status/2120242121999360142",
+   "disc_score": 3,
+   "checks": {
+    "1": null
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1794349535
+  },
+  "2120237007616249950": {
+   "created": 1794338869,
+   "author": "nitesher",
+   "followers": 425,
+   "url": "https://x.com/nitesher/status/2120237007616249950",
+   "disc_score": 1,
+   "checks": {
+    "1": null
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1794349535
+  },
+  "2120259199443804483": {
+   "created": 1794344160,
+   "author": "stretchcloud",
+   "followers": 3872,
+   "url": "https://x.com/stretchcloud/status/2120259199443804483",
+   "disc_score": 1,
+   "checks": {
+    "1": 1
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1794349535
   }
  },
  "baseline": {
@@ -1466,6 +1496,14 @@
    [
     1794330913,
     91
+   ],
+   [
+    1794349536,
+    1
+   ],
+   [
+    1794349536,
+    1
    ]
   ]
  },
