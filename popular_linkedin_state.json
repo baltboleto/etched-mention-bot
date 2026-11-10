@@ -34,7 +34,7 @@
    "disc_score": 1,
    "checks": {},
    "promoted": false,
-   "miss": 1,
+   "miss": 2,
    "added": 1794274300
   },
   "7525604972466728960": {
@@ -56,7 +56,9 @@
    "url": "https://www.linkedin.com/posts/the-investors-almanac_custom-ai-chips-will-outship-gpus-by-2027-activity-7525697095383650304-yfxA",
    "text": "Custom AI chips will outship GPUs by 2027.\n\nThat is J.P. Morgan's forecast: 12.5 million custom chips against 10.9 million GPUs. Yet the startups raising record sums may capture the smallest share\nof it.\n\nTo see why, start with how AI chips are bought.\n\nHOW THE MARKET WORKS\n\nA GPU is a general-purpose chip. Nvidia designs it to run almost any AI workload and sells it to everyone. That flexibility made Nvidia the default\nsupplier, at a premium price.\n\nA custom chip, or ASIC, is built for one buyer's workloads. Google's TPU is the best-known example.\n\nThe hyperscaler sets the design, and a partner such as Broadcom turns it into a manufacturable chip and brings it through production at TSMC.\n\nT",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "24": 0
+   },
    "promoted": false,
    "miss": 0,
    "added": 1794274300
@@ -67,7 +69,9 @@
    "url": "https://www.linkedin.com/posts/shriniketankulkarni_im-happy-to-share-that-im-starting-a-new-activity-7525697738076839936-Gxbk",
    "text": "I\u2019m happy to share that I\u2019m starting a new position as Member of Technical Staff at Etched!",
    "disc_score": 11,
-   "checks": {},
+   "checks": {
+    "24": 71
+   },
    "promoted": false,
    "miss": 0,
    "added": 1794274300
@@ -174,14 +178,6 @@
  },
  "baseline": {
   "24": [
-   [
-    1789836189,
-    43
-   ],
-   [
-    1789836189,
-    0
-   ],
    [
     1789844305,
     53
@@ -1773,6 +1769,14 @@
    [
     1794349612,
     131
+   ],
+   [
+    1794352658,
+    0
+   ],
+   [
+    1794352658,
+    71
    ]
   ]
  },
