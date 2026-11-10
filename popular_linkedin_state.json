@@ -1,5 +1,72 @@
 {
- "watch": {},
+ "watch": {
+  "7525667116604145664": {
+   "created": 1794258860,
+   "author": "OpenAI for Startups",
+   "url": "https://www.linkedin.com/posts/openai-for-startups_this-sunday-were-taking-the-competition-activity-7525667116604145664-XhJh",
+   "text": "This Sunday, we\u2019re taking the competition to the poker table.\n\nExcited to sponsor and compete in the No Limit Charity Cup in SF on Nov. 15, with Noam Brown representing us.\n\nHe\u2019ll face founders and top players from Etched, Factory, Applied Compute, DoorDash, fal,\u00a0 Profound, Serval, Sail Research, Conway and more. Proceeds go to Khan Academy.\n\nThanks to Sequoia Capital and Citadel Securities for partnering.\n\nThink you belong at the table? There are a few spots left - see the first comment for info.",
+   "disc_score": 67,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1794274300
+  },
+  "7525599405685596160": {
+   "created": 1794242717,
+   "author": "Shayema Rahim",
+   "url": "https://www.linkedin.com/posts/activity-7525599405685596160-jsaz",
+   "text": "#Etched is hiring a Network Security Engineer\n Location: San Jose, CA\n Salary: $150K\u2013$350K, depending on experience\nAn exciting opportunity to join a high-growth AI infrastructure company and help build and secure next-generation computing infrastructure.\nWhat We're Looking For \u2013 Ideal Candidate Profile:\n5+ years of hands-on network engineering and security experience.\nStrong expertise in Fortinet (FortiGate, FortiSASE) and Arista networking.\nExperience designing and implementing Zero Trust security architectures.\nSolid understanding of firewalls, IDS/IPS, NDR and threat detection.\nProficiency in Linux networking, BGP and network automation.\nExperience with data centers, cloud infrastructure",
+   "disc_score": 4,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1794274300
+  },
+  "7525637748909711360": {
+   "created": 1794251858,
+   "author": "Alexander Averhoff",
+   "url": "https://www.linkedin.com/feed/update/urn:li:groupPost:10472901-7525637747957571584",
+   "text": "Physical Design (Place & Route) Engineer - Contract\n\nStill Open\n\nClient: Etched\nLocation: 100% Remote in U.S.\nDuration: 6-12 Months\nRate: 150/hr\nMUST be US CITIZEN Only\n\nPhysical Design (Place & Route) Engineer, ASIC - 100% Remote\n\nAbout the Role\nOur ASIC team is hiring a seasoned Place and Route (P&R) Engineer to own the physical implementation of complex, high-performance chips. You will take designs from a synthesized netlist all the way to final GDSII, pushing hard on power, performance and area (PPA) while protecting design integrity, manufacturability and the schedule.\n\nWhat You\u2019ll Do\n\nRun full-chip physical implementation from netlist to GDSII, covering floorplanning, power planning, ",
+   "disc_score": 1,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1794274300
+  },
+  "7525604972466728960": {
+   "created": 1794244044,
+   "author": "Niraj Shahi",
+   "url": "https://www.linkedin.com/posts/nirajshahi_the-global-technology-infrastructure-activity-7525604972466728960-dn_N",
+   "text": "\ud83c\udf10 THE GLOBAL TECHNOLOGY & INFRASTRUCTURE ECOSYSTEM | 400+ COMPANIES\n\nPart (1/3)\n\n1. SEMICONDUCTOR DESIGN & FABLESS COMPANIES\n\nUS NVIDIA\nUS AMD\nUS Qualcomm\nUS Broadcom\nUS Marvell Technology\nTW MediaTek\nTW Realtek\nTW Novatek\nUS Cirrus Logic\nUS Lattice Semiconductor\nUS Monolithic Power Systems\nUS Qorvo\nUS Skyworks Solutions\nUS Ambarella\nUS Synaptics\nUS Silicon Laboratories\nUS MaxLinear\nUS Semtech\nUS Rambus\nUS Astera Labs\nUS Credo Technology\nUK Alphawave Semi\nUS SiFive\nCA Tenstorrent\nUS Cerebras Systems\nUS Groq\nUS SambaNova Systems\nUK Graphcore\nIL Hailo\nKR Rebellions\nKR FuriosaAI\nCN Biren Technology\nCN Moore Threads\nCN Cambricon\nCN VeriSilicon\nTW Alchip Technologies\nTW GUC\nJP Socionext\nUS Achron",
+   "disc_score": 4,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1794274300
+  },
+  "7525697095383650304": {
+   "created": 1794266008,
+   "author": "The Investor's Almanac",
+   "url": "https://www.linkedin.com/posts/the-investors-almanac_custom-ai-chips-will-outship-gpus-by-2027-activity-7525697095383650304-yfxA",
+   "text": "Custom AI chips will outship GPUs by 2027.\n\nThat is J.P. Morgan's forecast: 12.5 million custom chips against 10.9 million GPUs. Yet the startups raising record sums may capture the smallest share\nof it.\n\nTo see why, start with how AI chips are bought.\n\nHOW THE MARKET WORKS\n\nA GPU is a general-purpose chip. Nvidia designs it to run almost any AI workload and sells it to everyone. That flexibility made Nvidia the default\nsupplier, at a premium price.\n\nA custom chip, or ASIC, is built for one buyer's workloads. Google's TPU is the best-known example.\n\nThe hyperscaler sets the design, and a partner such as Broadcom turns it into a manufacturable chip and brings it through production at TSMC.\n\nT",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1794274300
+  },
+  "7525697738076839936": {
+   "created": 1794266161,
+   "author": "Shriniketan Kulkarni",
+   "url": "https://www.linkedin.com/posts/shriniketankulkarni_im-happy-to-share-that-im-starting-a-new-activity-7525697738076839936-Gxbk",
+   "text": "I\u2019m happy to share that I\u2019m starting a new position as Member of Technical Staff at Etched!",
+   "disc_score": 11,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1794274300
+  }
+ },
  "baseline": {
   "24": [
    [
