@@ -1,93 +1,65 @@
 {
  "watch": {
-  "2120439496835805321": {
-   "created": 1794387146,
-   "author": "zjasper",
-   "followers": 15684,
-   "url": "https://x.com/zjasper/status/2120439496835805321",
+  "2120559751314784474": {
+   "created": 1794415817,
+   "author": "nikxbt",
+   "followers": 5598,
+   "url": "https://x.com/nikxbt/status/2120559751314784474",
    "disc_score": 0,
    "checks": {},
    "promoted": false,
    "miss": 0,
-   "added": 1794389295
+   "added": 1794417949
   },
-  "2120428345192325614": {
-   "created": 1794384487,
-   "author": "jaraxiong",
-   "followers": 287,
-   "url": "https://x.com/jaraxiong/status/2120428345192325614",
-   "disc_score": 2,
-   "checks": {
-    "1": 2
-   },
+  "2120557327074140366": {
+   "created": 1794415239,
+   "author": "AburoosAK",
+   "followers": 638,
+   "url": "https://x.com/AburoosAK/status/2120557327074140366",
+   "disc_score": 0,
+   "checks": {},
    "promoted": false,
    "miss": 0,
-   "added": 1794389295
+   "added": 1794417949
   },
-  "2120427417877852244": {
-   "created": 1794384266,
-   "author": "zoialations",
-   "followers": 92,
-   "url": "https://x.com/zoialations/status/2120427417877852244",
+  "2120551639916429610": {
+   "created": 1794413883,
+   "author": "ankitpunj02",
+   "followers": 12,
+   "url": "https://x.com/ankitpunj02/status/2120551639916429610",
    "disc_score": 0,
    "checks": {
     "1": 0
    },
    "promoted": false,
    "miss": 0,
-   "added": 1794389295
+   "added": 1794417949
   },
-  "2120419839147758053": {
-   "created": 1794382459,
-   "author": "gotssou",
-   "followers": 175,
-   "url": "https://x.com/gotssou/status/2120419839147758053",
+  "2120532329806406135": {
+   "created": 1794409279,
+   "author": "railsdomains",
+   "followers": 1399,
+   "url": "https://x.com/railsdomains/status/2120532329806406135",
    "disc_score": 0,
    "checks": {
     "1": 0
    },
    "promoted": false,
    "miss": 0,
-   "added": 1794389295
+   "added": 1794417949
   },
-  "2120410902512156832": {
-   "created": 1794380329,
-   "author": "zoialations",
-   "followers": 92,
-   "url": "https://x.com/zoialations/status/2120410902512156832",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1794389295
-  },
-  "2120405018650325358": {
-   "created": 1794378926,
-   "author": "yoosefseed",
-   "followers": 25,
-   "url": "https://x.com/yoosefseed/status/2120405018650325358",
-   "disc_score": 2,
+  "2120524778821869661": {
+   "created": 1794407479,
+   "author": "deedydas",
+   "followers": 262304,
+   "url": "https://x.com/deedydas/status/2120524778821869661",
+   "disc_score": 297,
    "checks": {
     "1": null
    },
    "promoted": false,
    "miss": 0,
-   "added": 1794389295
-  },
-  "2120404651199856706": {
-   "created": 1794378838,
-   "author": "zjasper",
-   "followers": 15684,
-   "url": "https://x.com/zjasper/status/2120404651199856706",
-   "disc_score": 0,
-   "checks": {
-    "1": null
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1794389295
+   "added": 1794417949
   }
  },
  "baseline": {
@@ -1498,6 +1470,14 @@
    ],
    [
     1794389295,
+    0
+   ],
+   [
+    1794417949,
+    0
+   ],
+   [
+    1794417949,
     0
    ]
   ]
