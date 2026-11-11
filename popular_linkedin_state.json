@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7525863424732545024": {
-   "created": 1794305664,
-   "author": "Ben Davies",
-   "url": "https://www.linkedin.com/posts/theorangerecruiter_nvidia-built-the-foundation-the-entire-ai-activity-7525863424732545024-OE1Q",
-   "text": "NVIDIA built the foundation the entire AI boom is standing on. Full stop.\n\nSo when I see more conversation about alternative chips, I don't read it as a knock on NVIDIA. I read it as a sign of how big this market has become.\n\nThe big names worth watching:\n\u2022 AMD Instinct\n\u2022 Google TPUs\n\u2022 AWS Trainium and Inferentia\n\u2022 Microsoft Maia\n\u2022 Meta MTIA\n\u2022 Intel Gaudi\n\u2022 Cerebras \n\nAnd the smaller players pushing specialised approaches:\n\u2022 Tenstorrent \n\u2022 SambaNova \n\u2022 Etched \n\u2022 d-Matrix \n\u2022 Positron AI \n\u2022 Fractile \n\u2022 Axelera AI  \n\nWhen demand outgrows any single supplier, buyers diversify. That's not disloyalty, it's good infrastructure planning.\n\nNVIDIA set the standard. Now everyone else is racing to meet ",
-   "disc_score": 29,
-   "checks": {
-    "24": 73
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1794331106
-  },
   "7525930729566937088": {
    "created": 1794321710,
    "author": "Sidney Costabile",
@@ -60,7 +47,7 @@
    "disc_score": 3,
    "checks": {},
    "promoted": false,
-   "miss": 1,
+   "miss": 2,
    "added": 1794349612
   },
   "7526033399359307776": {
@@ -71,7 +58,7 @@
    "disc_score": 34,
    "checks": {},
    "promoted": false,
-   "miss": 1,
+   "miss": 2,
    "added": 1794349612
   },
   "7525990709393428481": {
@@ -82,7 +69,7 @@
    "disc_score": 0,
    "checks": {},
    "promoted": false,
-   "miss": 1,
+   "miss": 2,
    "added": 1794349612
   },
   "7526002094504538113": {
@@ -93,7 +80,7 @@
    "disc_score": 6,
    "checks": {},
    "promoted": false,
-   "miss": 1,
+   "miss": 2,
    "added": 1794349612
   },
   "7526212576867913728": {
