@@ -1,11 +1,97 @@
 {
- "watch": {},
+ "watch": {
+  "2120439496835805321": {
+   "created": 1794387146,
+   "author": "zjasper",
+   "followers": 15684,
+   "url": "https://x.com/zjasper/status/2120439496835805321",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1794389295
+  },
+  "2120428345192325614": {
+   "created": 1794384487,
+   "author": "jaraxiong",
+   "followers": 287,
+   "url": "https://x.com/jaraxiong/status/2120428345192325614",
+   "disc_score": 2,
+   "checks": {
+    "1": 2
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1794389295
+  },
+  "2120427417877852244": {
+   "created": 1794384266,
+   "author": "zoialations",
+   "followers": 92,
+   "url": "https://x.com/zoialations/status/2120427417877852244",
+   "disc_score": 0,
+   "checks": {
+    "1": 0
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1794389295
+  },
+  "2120419839147758053": {
+   "created": 1794382459,
+   "author": "gotssou",
+   "followers": 175,
+   "url": "https://x.com/gotssou/status/2120419839147758053",
+   "disc_score": 0,
+   "checks": {
+    "1": 0
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1794389295
+  },
+  "2120410902512156832": {
+   "created": 1794380329,
+   "author": "zoialations",
+   "followers": 92,
+   "url": "https://x.com/zoialations/status/2120410902512156832",
+   "disc_score": 0,
+   "checks": {
+    "1": 0
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1794389295
+  },
+  "2120405018650325358": {
+   "created": 1794378926,
+   "author": "yoosefseed",
+   "followers": 25,
+   "url": "https://x.com/yoosefseed/status/2120405018650325358",
+   "disc_score": 2,
+   "checks": {
+    "1": null
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1794389295
+  },
+  "2120404651199856706": {
+   "created": 1794378838,
+   "author": "zjasper",
+   "followers": 15684,
+   "url": "https://x.com/zjasper/status/2120404651199856706",
+   "disc_score": 0,
+   "checks": {
+    "1": null
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1794389295
+  }
+ },
  "baseline": {
   "1": [
-   [
-    1789203135,
-    0
-   ],
    [
     1789252456,
     0
@@ -1397,6 +1483,22 @@
    [
     1794349536,
     1
+   ],
+   [
+    1794389295,
+    2
+   ],
+   [
+    1794389295,
+    0
+   ],
+   [
+    1794389295,
+    0
+   ],
+   [
+    1794389295,
+    0
    ]
   ]
  },
