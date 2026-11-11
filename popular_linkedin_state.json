@@ -13,32 +13,6 @@
    "miss": 0,
    "added": 1794274300
   },
-  "7525599405685596160": {
-   "created": 1794242717,
-   "author": "Shayema Rahim",
-   "url": "https://www.linkedin.com/posts/activity-7525599405685596160-jsaz",
-   "text": "#Etched is hiring a Network Security Engineer\n Location: San Jose, CA\n Salary: $150K\u2013$350K, depending on experience\nAn exciting opportunity to join a high-growth AI infrastructure company and help build and secure next-generation computing infrastructure.\nWhat We're Looking For \u2013 Ideal Candidate Profile:\n5+ years of hands-on network engineering and security experience.\nStrong expertise in Fortinet (FortiGate, FortiSASE) and Arista networking.\nExperience designing and implementing Zero Trust security architectures.\nSolid understanding of firewalls, IDS/IPS, NDR and threat detection.\nProficiency in Linux networking, BGP and network automation.\nExperience with data centers, cloud infrastructure",
-   "disc_score": 4,
-   "checks": {
-    "24": 4
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1794274300
-  },
-  "7525604972466728960": {
-   "created": 1794244044,
-   "author": "Niraj Shahi",
-   "url": "https://www.linkedin.com/posts/nirajshahi_the-global-technology-infrastructure-activity-7525604972466728960-dn_N",
-   "text": "\ud83c\udf10 THE GLOBAL TECHNOLOGY & INFRASTRUCTURE ECOSYSTEM | 400+ COMPANIES\n\nPart (1/3)\n\n1. SEMICONDUCTOR DESIGN & FABLESS COMPANIES\n\nUS NVIDIA\nUS AMD\nUS Qualcomm\nUS Broadcom\nUS Marvell Technology\nTW MediaTek\nTW Realtek\nTW Novatek\nUS Cirrus Logic\nUS Lattice Semiconductor\nUS Monolithic Power Systems\nUS Qorvo\nUS Skyworks Solutions\nUS Ambarella\nUS Synaptics\nUS Silicon Laboratories\nUS MaxLinear\nUS Semtech\nUS Rambus\nUS Astera Labs\nUS Credo Technology\nUK Alphawave Semi\nUS SiFive\nCA Tenstorrent\nUS Cerebras Systems\nUS Groq\nUS SambaNova Systems\nUK Graphcore\nIL Hailo\nKR Rebellions\nKR FuriosaAI\nCN Biren Technology\nCN Moore Threads\nCN Cambricon\nCN VeriSilicon\nTW Alchip Technologies\nTW GUC\nJP Socionext\nUS Achron",
-   "disc_score": 4,
-   "checks": {
-    "24": 4
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1794274300
-  },
   "7525697095383650304": {
    "created": 1794266008,
    "author": "The Investor's Almanac",
@@ -71,7 +45,9 @@
    "url": "https://www.linkedin.com/posts/danielma209_im-happy-to-share-that-im-starting-a-new-activity-7525790575590330368-GKF3",
    "text": "I\u2019m happy to share that I\u2019m starting a new position as Inventory Warehouse Coordinator at Etched! Thank you Anton Mahomedov for introducing me to this amazing company. Excited to put in that work!",
    "disc_score": 1,
-   "checks": {},
+   "checks": {
+    "24": 15
+   },
    "promoted": false,
    "miss": 0,
    "added": 1794302778
@@ -167,10 +143,6 @@
  },
  "baseline": {
   "24": [
-   [
-    1789844305,
-    53
-   ],
    [
     1789850294,
     5
@@ -1766,6 +1738,10 @@
    [
     1794352658,
     71
+   ],
+   [
+    1794377706,
+    15
    ]
   ]
  },
