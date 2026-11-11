@@ -1,31 +1,5 @@
 {
  "watch": {
-  "7525697095383650304": {
-   "created": 1794266008,
-   "author": "The Investor's Almanac",
-   "url": "https://www.linkedin.com/posts/the-investors-almanac_custom-ai-chips-will-outship-gpus-by-2027-activity-7525697095383650304-yfxA",
-   "text": "Custom AI chips will outship GPUs by 2027.\n\nThat is J.P. Morgan's forecast: 12.5 million custom chips against 10.9 million GPUs. Yet the startups raising record sums may capture the smallest share\nof it.\n\nTo see why, start with how AI chips are bought.\n\nHOW THE MARKET WORKS\n\nA GPU is a general-purpose chip. Nvidia designs it to run almost any AI workload and sells it to everyone. That flexibility made Nvidia the default\nsupplier, at a premium price.\n\nA custom chip, or ASIC, is built for one buyer's workloads. Google's TPU is the best-known example.\n\nThe hyperscaler sets the design, and a partner such as Broadcom turns it into a manufacturable chip and brings it through production at TSMC.\n\nT",
-   "disc_score": 0,
-   "checks": {
-    "24": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1794274300
-  },
-  "7525697738076839936": {
-   "created": 1794266161,
-   "author": "Shriniketan Kulkarni",
-   "url": "https://www.linkedin.com/posts/shriniketankulkarni_im-happy-to-share-that-im-starting-a-new-activity-7525697738076839936-Gxbk",
-   "text": "I\u2019m happy to share that I\u2019m starting a new position as Member of Technical Staff at Etched!",
-   "disc_score": 11,
-   "checks": {
-    "24": 71
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1794274300
-  },
   "7525790575590330368": {
    "created": 1794288295,
    "author": "Daniel Ma",
@@ -45,7 +19,9 @@
    "url": "https://www.linkedin.com/posts/theorangerecruiter_nvidia-built-the-foundation-the-entire-ai-activity-7525863424732545024-OE1Q",
    "text": "NVIDIA built the foundation the entire AI boom is standing on. Full stop.\n\nSo when I see more conversation about alternative chips, I don't read it as a knock on NVIDIA. I read it as a sign of how big this market has become.\n\nThe big names worth watching:\n\u2022 AMD Instinct\n\u2022 Google TPUs\n\u2022 AWS Trainium and Inferentia\n\u2022 Microsoft Maia\n\u2022 Meta MTIA\n\u2022 Intel Gaudi\n\u2022 Cerebras \n\nAnd the smaller players pushing specialised approaches:\n\u2022 Tenstorrent \n\u2022 SambaNova \n\u2022 Etched \n\u2022 d-Matrix \n\u2022 Positron AI \n\u2022 Fractile \n\u2022 Axelera AI  \n\nWhen demand outgrows any single supplier, buyers diversify. That's not disloyalty, it's good infrastructure planning.\n\nNVIDIA set the standard. Now everyone else is racing to meet ",
    "disc_score": 29,
-   "checks": {},
+   "checks": {
+    "24": 73
+   },
    "promoted": false,
    "miss": 0,
    "added": 1794331106
@@ -56,7 +32,9 @@
    "url": "https://www.linkedin.com/posts/sidneycostabile_thank-you-to-our-partners-for-joining-us-activity-7525930729566937088-H8vi",
    "text": "Thank you to our partners for joining us at the inaugural Deviation AGM. Celebrating the launch of Deviation alongside the institutions that have supported us was a special moment for the whole team. Colin Beirne Jonathan Golden Dusan Perovic\n\nWe are in AI\u2019s installation period, and the companies built now will lay the foundation for the next few decades of innovation. There has never been a more exciting time to invest in new technologies and work with founders at the very start of their journeys.\n\nAlways an honor to recognize the phenomenal progress across our portfolio Etched Kalshi Bedrock Robotics Terray Therapeutics Remote Osmo Xaira Therapeutics and many more  \ud83d\udc4f \n\nOur team left gratef",
    "disc_score": 39,
-   "checks": {},
+   "checks": {
+    "24": 77
+   },
    "promoted": false,
    "miss": 0,
    "added": 1794331106
@@ -148,18 +126,43 @@
    "promoted": false,
    "miss": 0,
    "added": 1794389451
+  },
+  "7526258469776060416": {
+   "created": 1794399850,
+   "author": "Luis Batalha",
+   "url": "https://www.linkedin.com/posts/luis-batalha-53583743b_who-built-the-biggest-company-at-your-age-activity-7526258469776060416-ynQX",
+   "text": "Who built the biggest company at your age?\n\nA few interesting insights from this analysis:\n- AI dominates the under-30s: Mercor, Etched, micro1, Cognition, Lovable. The few exceptions are prediction markets (Polymarket), defense (Mach Industries) and creator commerce (Whop).\n- China only shows up from 33 on. 28 of the 37 are US-based. China has five spots, all at 33 or older.\n- Only 2 of 37 are women\n- Sam Altman alone is worth almost twice everyone aged 19 to 40 combined!",
+   "disc_score": 10,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1794409936
+  },
+  "7526283612778835968": {
+   "created": 1794405844,
+   "author": "Robert Lee-Green",
+   "url": "https://www.linkedin.com/posts/robert-lee-green-3013a349_soon-a-screenshot-an-email-or-a-file-with-activity-7526283612778835968-mfDY",
+   "text": "Soon, a screenshot, an email or a file with your name on it won't be enough to prove anything. \n\nAI can now produce a convincing version of almost anything. People are noticing, and they're starting to doubt what they see.\n\nFor businesses, that doubt shows up in very practical places. A client asking whether the work was done by your team or by a tool. An acquirer asking who actually created the IP they're paying for. A court asking you to show the evidence.\n\n\"We know what happened\" doesn't hold up when anything can be fabricated after the fact. Evidence that someone else can independently verify does. That means knowing who proposed the idea, which versions were rejected, who contributed, w",
+   "disc_score": 4,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1794409936
+  },
+  "7526295171668426753": {
+   "created": 1794408600,
+   "author": "JustBacked",
+   "url": "https://www.linkedin.com/posts/justbacked_new-grads-funded-startups-are-hiring-you-activity-7526295171668426753-D0ks",
+   "text": "New grads: funded startups are hiring you too.\n\nRight now 156 venture-backed companies on JustBacked have 523 open new grad, junior and intern roles. 424 of them are internships.\n\nThe biggest early-career hirers: Alice & Bob, Commonwealth Fusion Systems, Fab2, Mach Industries and Axiom Solutions International (18 each), then Etched (15).\n\nSearch them at https://lnkd.in/gSERGG6b",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1794409936
   }
  },
  "baseline": {
   "24": [
-   [
-    1789850294,
-    5
-   ],
-   [
-    1789850294,
-    1
-   ],
    [
     1789858984,
     119
@@ -1751,6 +1754,14 @@
    [
     1794377706,
     15
+   ],
+   [
+    1794409936,
+    73
+   ],
+   [
+    1794409936,
+    77
    ]
   ]
  },
