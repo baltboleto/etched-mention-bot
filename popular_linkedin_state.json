@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7525667116604145664": {
-   "created": 1794258860,
-   "author": "OpenAI for Startups",
-   "url": "https://www.linkedin.com/posts/openai-for-startups_this-sunday-were-taking-the-competition-activity-7525667116604145664-XhJh",
-   "text": "This Sunday, we\u2019re taking the competition to the poker table.\n\nExcited to sponsor and compete in the No Limit Charity Cup in SF on Nov. 15, with Noam Brown representing us.\n\nHe\u2019ll face founders and top players from Etched, Factory, Applied Compute, DoorDash, fal,\u00a0 Profound, Serval, Sail Research, Conway and more. Proceeds go to Khan Academy.\n\nThanks to Sequoia Capital and Citadel Securities for partnering.\n\nThink you belong at the table? There are a few spots left - see the first comment for info.",
-   "disc_score": 67,
-   "checks": {
-    "24": 131
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1794274300
-  },
   "7525697095383650304": {
    "created": 1794266008,
    "author": "The Investor's Almanac",
@@ -139,6 +126,28 @@
    "promoted": false,
    "miss": 0,
    "added": 1794349612
+  },
+  "7526212576867913728": {
+   "created": 1794388908,
+   "author": "Avinash A.",
+   "url": "https://www.linkedin.com/posts/anantharamuavinash_which-semiconductor-roles-are-ai-hardware-activity-7526212576867913728-lkKI",
+   "text": "\ud83c\udfaf Which semiconductor roles are AI hardware companies actually hiring for?\nI looked at 281 openings posted from Sep to mid-Nov 2026 at Marvell Technology, GlobalFoundries, Graphcore, Tenstorrent, Groq, Etched, Cerebras, d-Matrix, KLAand Applied Materials. These are the positions that came up again and again \ud83d\udc47\n\ud83e\uddea ATE test development engineers: 8 openings, from Senior Staff to Principal. Marvell has 7 of them.\n\ud83d\udda5\ufe0f System test and diagnostics engineers: Graphcore is hiring Senior, Staff, Principal and Tech Lead levels. Tenstorrent also wants an SLT test engineer.\n\ud83d\udd2c Post-silicon validation: Tenstorrent has a Staff Engineer and a Lab Manager opening, and Graphcore wants a Director. Marvell is hiri",
+   "disc_score": 1,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1794389451
+  },
+  "7526212803997859840": {
+   "created": 1794388962,
+   "author": "Abinaya Thennarasu",
+   "url": "https://www.linkedin.com/posts/abinayathennarasu_internships-earlycareer-ai-activity-7526212803997859840-RS6c",
+   "text": "AI COMPANIES HIRING INTERNS (HIRING LIST)\n\nHere are 40 AI companies to watch for internship opportunities in Artificial Intelligence, Machine Learning and Data Science.\n\nAccrete - AI for enterprise and government decisions (New York)\n\nOpenAI - frontier AI lab (San Francisco)\n\nSarvam AI - sovereign Indian LLMs (Bangalore)\n\nCohere - enterprise LLMs (Toronto)\n\nEmergent  - AI coding agents that build apps (Bangalore)\n\nScale AI - data and AI evaluation (San Francisco)\n\nPhysicsX - AI engineering simulation (London)\n\nGlean - AI work assistant (Palo Alto)\n\nMercor  - expert talent for AI labs (San Francisco)\n\nTogether AI - open-model AI cloud (San Francisco)\n\nEightfold AI - AI talent platform (Santa ",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1794389451
   }
  },
  "baseline": {
