@@ -1,18 +1,5 @@
 {
  "watch": {
-  "7525790575590330368": {
-   "created": 1794288295,
-   "author": "Daniel Ma",
-   "url": "https://www.linkedin.com/posts/danielma209_im-happy-to-share-that-im-starting-a-new-activity-7525790575590330368-GKF3",
-   "text": "I\u2019m happy to share that I\u2019m starting a new position as Inventory Warehouse Coordinator at Etched! Thank you Anton Mahomedov for introducing me to this amazing company. Excited to put in that work!",
-   "disc_score": 1,
-   "checks": {
-    "24": 15
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1794302778
-  },
   "7525863424732545024": {
    "created": 1794305664,
    "author": "Ben Davies",
@@ -45,7 +32,9 @@
    "url": "https://www.linkedin.com/posts/jgolden_first-deviation-capital-agm-last-week-could-activity-7525956010428022784-bCFP",
    "text": "First Deviation Capital AGM last week! Could not be more excited about our thesis of investing across the AI stack. Great time to showcase portfolio companies including Etched, Remote, Bedrock Robotics, Kalshi and many more to be announced...",
    "disc_score": 16,
-   "checks": {},
+   "checks": {
+    "24": 63
+   },
    "promoted": false,
    "miss": 0,
    "added": 1794331106
@@ -56,7 +45,9 @@
    "url": "https://www.linkedin.com/posts/deviation-capital_thank-you-to-the-founders-and-investors-who-activity-7525965873094832128-2kpK",
    "text": "Thank you to the founders and investors who joined Deviation\u2019s inaugural AGM in our home neighborhood of SoHo! It was amazing to bring together such a diverse group of companies, each tackling a different challenge with AI. A few highlights:\n\n- Fireside chat with Marc Tessier-Lavigne (Xaira Therapeutics) on the future of drug discovery\n- Presentations from founders building across robotics (Walden Robotics), neolabs, and techbio\n- Alex Wiltschko's (Osmo) interactive scent salon \n- Celebrating wins across the portfolio from Etched, Remote, Bedrock Robotics, Kalshi and many more",
    "disc_score": 4,
-   "checks": {},
+   "checks": {
+    "24": 33
+   },
    "promoted": false,
    "miss": 0,
    "added": 1794331106
@@ -159,18 +150,32 @@
    "promoted": false,
    "miss": 0,
    "added": 1794409936
+  },
+  "7526325811101196289": {
+   "created": 1794415905,
+   "author": "Etched Tech",
+   "url": "https://www.linkedin.com/posts/etched-tech_the-etched-team-are-heading-to-slush-2026-activity-7526325811101196289-a0eD",
+   "text": "The Etched team are heading to Slush 2026 in Helsinki next week! \ud83c\uddeb\ud83c\uddee\n\nWe can\u2019t think of a better place to be than among founders and venture capitalists, discussing the importance of evidence capture and protecting your intellectual property as you build and grow a business.\n\nOur CEO, Ben Scott, CCO Robert Lee-Green and Chair, Robin Cave, will be joining our friends at CMS equIP for Start-ups throughout the event.\n\nIf you\u2019d like to hear more about what we\u2019re doing at Etched, we\u2019d love to hear from you. Get in touch at hello@etched.xyz\n\nSee you in Helsinki! \ud83d\ude80",
+   "disc_score": 3,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1794418045
+  },
+  "7526301456321331200": {
+   "created": 1794410099,
+   "author": "Matt Dennis",
+   "url": "https://www.linkedin.com/posts/matt-dennis-748ab3103_20-ai-inference-chip-companies-you-should-activity-7526301456321331200-UEtp",
+   "text": "20 AI INFERENCE CHIP COMPANIES YOU SHOULD KNOW \ud83d\udc40\n\nEveryone knows NVIDIA. I'm more interested in the semiconductor companies taking different approaches to running AI models.\n\nFrom memory-centric silicon and optical computing to tiny, always-on processors, there are some fascinating startups across Europe and the US.\n\nHere are 20 I\u2019m keeping an eye on \ud83d\udc47\n\n\ud83c\uddec\ud83c\udde7 Fractile - Developing memory-centric silicon to accelerate inference for large AI models.\n\n\ud83c\uddf3\ud83c\uddf1 Axelera AI - Building digital in-memory computing accelerators for edge and enterprise AI.\n\n\ud83c\uddec\ud83c\udde7 OLIX - Developing specialised chips and systems for large-scale AI inference.\n\n\ud83c\uddfa\ud83c\uddf8 d-Matrix - Building low-latency inference accelerators using digital i",
+   "disc_score": 3,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1794418045
   }
  },
  "baseline": {
   "24": [
-   [
-    1789858984,
-    119
-   ],
-   [
-    1789884879,
-    7
-   ],
    [
     1789884879,
     0
@@ -1762,6 +1767,14 @@
    [
     1794409936,
     77
+   ],
+   [
+    1794418045,
+    63
+   ],
+   [
+    1794418045,
+    33
    ]
   ]
  },
