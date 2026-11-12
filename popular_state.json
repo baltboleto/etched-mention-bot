@@ -1,26 +1,67 @@
 {
  "watch": {
-  "2120853422224421057": {
-   "created": 1794485834,
-   "author": "pagetsanz",
-   "followers": 1035,
-   "url": "https://x.com/pagetsanz/status/2120853422224421057",
-   "disc_score": 0,
+  "2120975197922582645": {
+   "created": 1794514867,
+   "author": "brycent",
+   "followers": 220228,
+   "url": "https://x.com/brycent/status/2120975197922582645",
+   "disc_score": 15,
    "checks": {},
    "promoted": false,
    "miss": 0,
-   "added": 1794488883
+   "added": 1794516773
   },
-  "2120857994548347069": {
-   "created": 1794486924,
-   "author": "saisandario",
-   "followers": 40,
-   "url": "https://x.com/saisandario/status/2120857994548347069",
-   "disc_score": 0,
-   "checks": {},
+  "2120953020787921167": {
+   "created": 1794509580,
+   "author": "DevanshuXi",
+   "followers": 5544,
+   "url": "https://x.com/DevanshuXi/status/2120953020787921167",
+   "disc_score": 4,
+   "checks": {
+    "1": 4
+   },
    "promoted": false,
    "miss": 0,
-   "added": 1794488883
+   "added": 1794516773
+  },
+  "2120944296681775612": {
+   "created": 1794507500,
+   "author": "vivekramaswami",
+   "followers": 4054,
+   "url": "https://x.com/vivekramaswami/status/2120944296681775612",
+   "disc_score": 5,
+   "checks": {
+    "1": null
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1794516773
+  },
+  "2120960815818031591": {
+   "created": 1794511438,
+   "author": "ctdonath",
+   "followers": 1202,
+   "url": "https://x.com/ctdonath/status/2120960815818031591",
+   "disc_score": 5,
+   "checks": {
+    "1": 5
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1794516773
+  },
+  "2120946345506676810": {
+   "created": 1794507988,
+   "author": "yrshrzn",
+   "followers": 264,
+   "url": "https://x.com/yrshrzn/status/2120946345506676810",
+   "disc_score": 1,
+   "checks": {
+    "1": 1
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1794516773
   }
  },
  "baseline": {
@@ -1428,6 +1469,18 @@
    [
     1794457155,
     0
+   ],
+   [
+    1794516773,
+    4
+   ],
+   [
+    1794516773,
+    5
+   ],
+   [
+    1794516773,
+    1
    ]
   ]
  },
