@@ -1,27 +1,5 @@
 {
  "watch": {
-  "7526212576867913728": {
-   "created": 1794388908,
-   "author": "Avinash A.",
-   "url": "https://www.linkedin.com/posts/anantharamuavinash_which-semiconductor-roles-are-ai-hardware-activity-7526212576867913728-lkKI",
-   "text": "\ud83c\udfaf Which semiconductor roles are AI hardware companies actually hiring for?\nI looked at 281 openings posted from Sep to mid-Nov 2026 at Marvell Technology, GlobalFoundries, Graphcore, Tenstorrent, Groq, Etched, Cerebras, d-Matrix, KLAand Applied Materials. These are the positions that came up again and again \ud83d\udc47\n\ud83e\uddea ATE test development engineers: 8 openings, from Senior Staff to Principal. Marvell has 7 of them.\n\ud83d\udda5\ufe0f System test and diagnostics engineers: Graphcore is hiring Senior, Staff, Principal and Tech Lead levels. Tenstorrent also wants an SLT test engineer.\n\ud83d\udd2c Post-silicon validation: Tenstorrent has a Staff Engineer and a Lab Manager opening, and Graphcore wants a Director. Marvell is hiri",
-   "disc_score": 1,
-   "checks": {},
-   "promoted": false,
-   "miss": 2,
-   "added": 1794389451
-  },
-  "7526212803997859840": {
-   "created": 1794388962,
-   "author": "Abinaya Thennarasu",
-   "url": "https://www.linkedin.com/posts/abinayathennarasu_internships-earlycareer-ai-activity-7526212803997859840-RS6c",
-   "text": "AI COMPANIES HIRING INTERNS (HIRING LIST)\n\nHere are 40 AI companies to watch for internship opportunities in Artificial Intelligence, Machine Learning and Data Science.\n\nAccrete - AI for enterprise and government decisions (New York)\n\nOpenAI - frontier AI lab (San Francisco)\n\nSarvam AI - sovereign Indian LLMs (Bangalore)\n\nCohere - enterprise LLMs (Toronto)\n\nEmergent  - AI coding agents that build apps (Bangalore)\n\nScale AI - data and AI evaluation (San Francisco)\n\nPhysicsX - AI engineering simulation (London)\n\nGlean - AI work assistant (Palo Alto)\n\nMercor  - expert talent for AI labs (San Francisco)\n\nTogether AI - open-model AI cloud (San Francisco)\n\nEightfold AI - AI talent platform (Santa ",
-   "disc_score": 0,
-   "checks": {},
-   "promoted": false,
-   "miss": 2,
-   "added": 1794389451
-  },
   "7526258469776060416": {
    "created": 1794399850,
    "author": "Luis Batalha",
@@ -30,7 +8,7 @@
    "disc_score": 10,
    "checks": {},
    "promoted": false,
-   "miss": 1,
+   "miss": 2,
    "added": 1794409936
   },
   "7526283612778835968": {
@@ -41,7 +19,7 @@
    "disc_score": 4,
    "checks": {},
    "promoted": false,
-   "miss": 0,
+   "miss": 1,
    "added": 1794409936
   },
   "7526295171668426753": {
@@ -52,7 +30,7 @@
    "disc_score": 0,
    "checks": {},
    "promoted": false,
-   "miss": 0,
+   "miss": 1,
    "added": 1794409936
   },
   "7526325811101196289": {
@@ -63,7 +41,7 @@
    "disc_score": 3,
    "checks": {},
    "promoted": false,
-   "miss": 0,
+   "miss": 1,
    "added": 1794418045
   },
   "7526301456321331200": {
@@ -74,7 +52,7 @@
    "disc_score": 3,
    "checks": {},
    "promoted": false,
-   "miss": 0,
+   "miss": 1,
    "added": 1794418045
   }
  },
