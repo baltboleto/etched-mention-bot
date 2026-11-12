@@ -1,15 +1,50 @@
 {
  "watch": {
-  "2120654065743102383": {
-   "created": 1794438303,
-   "author": "flowermecha",
-   "followers": 347,
-   "url": "https://x.com/flowermecha/status/2120654065743102383",
+  "2120702015248691214": {
+   "created": 1794449735,
+   "author": "Tesla_Optimus_K",
+   "followers": 6223,
+   "url": "https://x.com/Tesla_Optimus_K/status/2120702015248691214",
+   "disc_score": 0,
+   "checks": {
+    "1": 0
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1794457153
+  },
+  "2120728662878068873": {
+   "created": 1794456089,
+   "author": "SamSugarman3",
+   "followers": 439,
+   "url": "https://x.com/SamSugarman3/status/2120728662878068873",
    "disc_score": 0,
    "checks": {},
    "promoted": false,
    "miss": 0,
-   "added": 1794440390
+   "added": 1794457153
+  },
+  "2120729475503792258": {
+   "created": 1794456282,
+   "author": "uqniatum",
+   "followers": 94,
+   "url": "https://x.com/uqniatum/status/2120729475503792258",
+   "disc_score": 1,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1794457153
+  },
+  "2120731849467261399": {
+   "created": 1794456848,
+   "author": "cantalphame",
+   "followers": 259,
+   "url": "https://x.com/cantalphame/status/2120731849467261399",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1794457153
   }
  },
  "baseline": {
@@ -1424,6 +1459,10 @@
    ],
    [
     1794417949,
+    0
+   ],
+   [
+    1794457155,
     0
    ]
   ]
