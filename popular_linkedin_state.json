@@ -1,16 +1,5 @@
 {
  "watch": {
-  "7526258469776060416": {
-   "created": 1794399850,
-   "author": "Luis Batalha",
-   "url": "https://www.linkedin.com/posts/luis-batalha-53583743b_who-built-the-biggest-company-at-your-age-activity-7526258469776060416-ynQX",
-   "text": "Who built the biggest company at your age?\n\nA few interesting insights from this analysis:\n- AI dominates the under-30s: Mercor, Etched, micro1, Cognition, Lovable. The few exceptions are prediction markets (Polymarket), defense (Mach Industries) and creator commerce (Whop).\n- China only shows up from 33 on. 28 of the 37 are US-based. China has five spots, all at 33 or older.\n- Only 2 of 37 are women\n- Sam Altman alone is worth almost twice everyone aged 19 to 40 combined!",
-   "disc_score": 10,
-   "checks": {},
-   "promoted": false,
-   "miss": 2,
-   "added": 1794409936
-  },
   "7526283612778835968": {
    "created": 1794405844,
    "author": "Robert Lee-Green",
@@ -19,7 +8,7 @@
    "disc_score": 4,
    "checks": {},
    "promoted": false,
-   "miss": 1,
+   "miss": 2,
    "added": 1794409936
   },
   "7526295171668426753": {
@@ -30,7 +19,7 @@
    "disc_score": 0,
    "checks": {},
    "promoted": false,
-   "miss": 1,
+   "miss": 2,
    "added": 1794409936
   },
   "7526325811101196289": {
@@ -41,7 +30,7 @@
    "disc_score": 3,
    "checks": {},
    "promoted": false,
-   "miss": 1,
+   "miss": 2,
    "added": 1794418045
   },
   "7526301456321331200": {
@@ -52,7 +41,7 @@
    "disc_score": 3,
    "checks": {},
    "promoted": false,
-   "miss": 1,
+   "miss": 2,
    "added": 1794418045
   }
  },
