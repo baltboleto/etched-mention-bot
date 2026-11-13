@@ -1,17 +1,52 @@
 {
  "watch": {
-  "2121244691677294807": {
-   "created": 1794579119,
-   "author": "krishgupta72",
-   "followers": 1123,
-   "url": "https://x.com/krishgupta72/status/2121244691677294807",
-   "disc_score": 0,
+  "2121331390545604783": {
+   "created": 1794599790,
+   "author": "sequoia",
+   "followers": 820765,
+   "url": "https://x.com/sequoia/status/2121331390545604783",
+   "disc_score": 30,
    "checks": {
     "1": null
    },
    "promoted": false,
    "miss": 0,
-   "added": 1794589234
+   "added": 1794609013
+  },
+  "2121361510199123986": {
+   "created": 1794606971,
+   "author": "LurkingApe",
+   "followers": 13,
+   "url": "https://x.com/LurkingApe/status/2121361510199123986",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1794609013
+  },
+  "2121359171207741547": {
+   "created": 1794606414,
+   "author": "AaronGDillon",
+   "followers": 1764,
+   "url": "https://x.com/AaronGDillon/status/2121359171207741547",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1794609013
+  },
+  "2121342041011650587": {
+   "created": 1794602329,
+   "author": "MichaelCrudele",
+   "followers": 474,
+   "url": "https://x.com/MichaelCrudele/status/2121342041011650587",
+   "disc_score": 2,
+   "checks": {
+    "1": 2
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1794609013
   }
  },
  "baseline": {
@@ -1459,6 +1494,10 @@
    [
     1794559764,
     17
+   ],
+   [
+    1794609014,
+    2
    ]
   ]
  },
