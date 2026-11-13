@@ -1,50 +1,5 @@
 {
- "watch": {
-  "7526283612778835968": {
-   "created": 1794405844,
-   "author": "Robert Lee-Green",
-   "url": "https://www.linkedin.com/posts/robert-lee-green-3013a349_soon-a-screenshot-an-email-or-a-file-with-activity-7526283612778835968-mfDY",
-   "text": "Soon, a screenshot, an email or a file with your name on it won't be enough to prove anything. \n\nAI can now produce a convincing version of almost anything. People are noticing, and they're starting to doubt what they see.\n\nFor businesses, that doubt shows up in very practical places. A client asking whether the work was done by your team or by a tool. An acquirer asking who actually created the IP they're paying for. A court asking you to show the evidence.\n\n\"We know what happened\" doesn't hold up when anything can be fabricated after the fact. Evidence that someone else can independently verify does. That means knowing who proposed the idea, which versions were rejected, who contributed, w",
-   "disc_score": 4,
-   "checks": {},
-   "promoted": false,
-   "miss": 2,
-   "added": 1794409936
-  },
-  "7526295171668426753": {
-   "created": 1794408600,
-   "author": "JustBacked",
-   "url": "https://www.linkedin.com/posts/justbacked_new-grads-funded-startups-are-hiring-you-activity-7526295171668426753-D0ks",
-   "text": "New grads: funded startups are hiring you too.\n\nRight now 156 venture-backed companies on JustBacked have 523 open new grad, junior and intern roles. 424 of them are internships.\n\nThe biggest early-career hirers: Alice & Bob, Commonwealth Fusion Systems, Fab2, Mach Industries and Axiom Solutions International (18 each), then Etched (15).\n\nSearch them at https://lnkd.in/gSERGG6b",
-   "disc_score": 0,
-   "checks": {},
-   "promoted": false,
-   "miss": 2,
-   "added": 1794409936
-  },
-  "7526325811101196289": {
-   "created": 1794415905,
-   "author": "Etched Tech",
-   "url": "https://www.linkedin.com/posts/etched-tech_the-etched-team-are-heading-to-slush-2026-activity-7526325811101196289-a0eD",
-   "text": "The Etched team are heading to Slush 2026 in Helsinki next week! \ud83c\uddeb\ud83c\uddee\n\nWe can\u2019t think of a better place to be than among founders and venture capitalists, discussing the importance of evidence capture and protecting your intellectual property as you build and grow a business.\n\nOur CEO, Ben Scott, CCO Robert Lee-Green and Chair, Robin Cave, will be joining our friends at CMS equIP for Start-ups throughout the event.\n\nIf you\u2019d like to hear more about what we\u2019re doing at Etched, we\u2019d love to hear from you. Get in touch at hello@etched.xyz\n\nSee you in Helsinki! \ud83d\ude80",
-   "disc_score": 3,
-   "checks": {},
-   "promoted": false,
-   "miss": 2,
-   "added": 1794418045
-  },
-  "7526301456321331200": {
-   "created": 1794410099,
-   "author": "Matt Dennis",
-   "url": "https://www.linkedin.com/posts/matt-dennis-748ab3103_20-ai-inference-chip-companies-you-should-activity-7526301456321331200-UEtp",
-   "text": "20 AI INFERENCE CHIP COMPANIES YOU SHOULD KNOW \ud83d\udc40\n\nEveryone knows NVIDIA. I'm more interested in the semiconductor companies taking different approaches to running AI models.\n\nFrom memory-centric silicon and optical computing to tiny, always-on processors, there are some fascinating startups across Europe and the US.\n\nHere are 20 I\u2019m keeping an eye on \ud83d\udc47\n\n\ud83c\uddec\ud83c\udde7 Fractile - Developing memory-centric silicon to accelerate inference for large AI models.\n\n\ud83c\uddf3\ud83c\uddf1 Axelera AI - Building digital in-memory computing accelerators for edge and enterprise AI.\n\n\ud83c\uddec\ud83c\udde7 OLIX - Developing specialised chips and systems for large-scale AI inference.\n\n\ud83c\uddfa\ud83c\uddf8 d-Matrix - Building low-latency inference accelerators using digital i",
-   "disc_score": 3,
-   "checks": {},
-   "promoted": false,
-   "miss": 2,
-   "added": 1794418045
-  }
- },
+ "watch": {},
  "baseline": {
   "24": [
    [
