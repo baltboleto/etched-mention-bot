@@ -1,29 +1,21 @@
 {
  "watch": {
-  "2121132241787240507": {
-   "created": 1794552309,
-   "author": "kleinerperkins",
-   "followers": 305309,
-   "url": "https://x.com/kleinerperkins/status/2121132241787240507",
-   "disc_score": 17,
+  "2121244691677294807": {
+   "created": 1794579119,
+   "author": "krishgupta72",
+   "followers": 1123,
+   "url": "https://x.com/krishgupta72/status/2121244691677294807",
+   "disc_score": 0,
    "checks": {
-    "1": 17
+    "1": null
    },
    "promoted": false,
    "miss": 0,
-   "added": 1794559763
+   "added": 1794589234
   }
  },
  "baseline": {
   "1": [
-   [
-    1789382531,
-    0
-   ],
-   [
-    1789382531,
-    0
-   ],
    [
     1789476797,
     39
