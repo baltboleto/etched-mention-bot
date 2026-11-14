@@ -1,52 +1,54 @@
 {
  "watch": {
-  "2121331390545604783": {
-   "created": 1794599790,
-   "author": "sequoia",
-   "followers": 820765,
-   "url": "https://x.com/sequoia/status/2121331390545604783",
-   "disc_score": 30,
-   "checks": {
-    "1": null
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1794609013
-  },
-  "2121361510199123986": {
-   "created": 1794606971,
-   "author": "LurkingApe",
-   "followers": 13,
-   "url": "https://x.com/LurkingApe/status/2121361510199123986",
-   "disc_score": 0,
+  "2121421764584767575": {
+   "created": 1794621337,
+   "author": "spartaneus",
+   "followers": 8664,
+   "url": "https://x.com/spartaneus/status/2121421764584767575",
+   "disc_score": 6,
    "checks": {},
    "promoted": false,
    "miss": 0,
-   "added": 1794609013
+   "added": 1794623986
   },
-  "2121359171207741547": {
-   "created": 1794606414,
-   "author": "AaronGDillon",
-   "followers": 1764,
-   "url": "https://x.com/AaronGDillon/status/2121359171207741547",
+  "2121410644419232099": {
+   "created": 1794618686,
+   "author": "0xNofeaar",
+   "followers": 6279,
+   "url": "https://x.com/0xNofeaar/status/2121410644419232099",
    "disc_score": 0,
-   "checks": {},
-   "promoted": false,
-   "miss": 0,
-   "added": 1794609013
-  },
-  "2121342041011650587": {
-   "created": 1794602329,
-   "author": "MichaelCrudele",
-   "followers": 474,
-   "url": "https://x.com/MichaelCrudele/status/2121342041011650587",
-   "disc_score": 2,
    "checks": {
-    "1": 2
+    "1": 0
    },
    "promoted": false,
    "miss": 0,
-   "added": 1794609013
+   "added": 1794623986
+  },
+  "2121409012919140853": {
+   "created": 1794618297,
+   "author": "oracle_xyz",
+   "followers": 3915,
+   "url": "https://x.com/oracle_xyz/status/2121409012919140853",
+   "disc_score": 14,
+   "checks": {
+    "1": 14
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1794623986
+  },
+  "2121411148994289785": {
+   "created": 1794618806,
+   "author": "mathmakesmoney1",
+   "followers": 12,
+   "url": "https://x.com/mathmakesmoney1/status/2121411148994289785",
+   "disc_score": 0,
+   "checks": {
+    "1": 0
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1794623986
   }
  },
  "baseline": {
@@ -1498,6 +1500,18 @@
    [
     1794609014,
     2
+   ],
+   [
+    1794623986,
+    0
+   ],
+   [
+    1794623986,
+    14
+   ],
+   [
+    1794623986,
+    0
    ]
   ]
  },
