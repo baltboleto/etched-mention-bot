@@ -1,54 +1,43 @@
 {
  "watch": {
-  "2121421764584767575": {
-   "created": 1794621337,
-   "author": "spartaneus",
-   "followers": 8664,
-   "url": "https://x.com/spartaneus/status/2121421764584767575",
-   "disc_score": 6,
-   "checks": {},
+  "2121497755751203140": {
+   "created": 1794639455,
+   "author": "sonyaalexisss",
+   "followers": 144,
+   "url": "https://x.com/sonyaalexisss/status/2121497755751203140",
+   "disc_score": 1,
+   "checks": {
+    "1": null
+   },
    "promoted": false,
    "miss": 0,
-   "added": 1794623986
+   "added": 1794648465
   },
-  "2121410644419232099": {
-   "created": 1794618686,
-   "author": "0xNofeaar",
-   "followers": 6279,
-   "url": "https://x.com/0xNofeaar/status/2121410644419232099",
+  "2121493333721874529": {
+   "created": 1794638400,
+   "author": "tech_evergreen",
+   "followers": 124,
+   "url": "https://x.com/tech_evergreen/status/2121493333721874529",
    "disc_score": 0,
    "checks": {
-    "1": 0
+    "1": null
    },
    "promoted": false,
    "miss": 0,
-   "added": 1794623986
+   "added": 1794648465
   },
-  "2121409012919140853": {
-   "created": 1794618297,
-   "author": "oracle_xyz",
-   "followers": 3915,
-   "url": "https://x.com/oracle_xyz/status/2121409012919140853",
-   "disc_score": 14,
+  "2121490562381484122": {
+   "created": 1794637740,
+   "author": "dnapway",
+   "followers": 12646,
+   "url": "https://x.com/dnapway/status/2121490562381484122",
+   "disc_score": 17,
    "checks": {
-    "1": 14
+    "1": null
    },
    "promoted": false,
    "miss": 0,
-   "added": 1794623986
-  },
-  "2121411148994289785": {
-   "created": 1794618806,
-   "author": "mathmakesmoney1",
-   "followers": 12,
-   "url": "https://x.com/mathmakesmoney1/status/2121411148994289785",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1794623986
+   "added": 1794648465
   }
  },
  "baseline": {
