@@ -1,51 +1,7 @@
 {
- "watch": {
-  "2121497755751203140": {
-   "created": 1794639455,
-   "author": "sonyaalexisss",
-   "followers": 144,
-   "url": "https://x.com/sonyaalexisss/status/2121497755751203140",
-   "disc_score": 1,
-   "checks": {
-    "1": null
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1794648465
-  },
-  "2121493333721874529": {
-   "created": 1794638400,
-   "author": "tech_evergreen",
-   "followers": 124,
-   "url": "https://x.com/tech_evergreen/status/2121493333721874529",
-   "disc_score": 0,
-   "checks": {
-    "1": null
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1794648465
-  },
-  "2121490562381484122": {
-   "created": 1794637740,
-   "author": "dnapway",
-   "followers": 12646,
-   "url": "https://x.com/dnapway/status/2121490562381484122",
-   "disc_score": 17,
-   "checks": {
-    "1": null
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1794648465
-  }
- },
+ "watch": {},
  "baseline": {
   "1": [
-   [
-    1789476797,
-    39
-   ],
    [
     1789493833,
     0
