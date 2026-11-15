@@ -1,36 +1,7 @@
 {
- "watch": {
-  "2122036772242931801": {
-   "created": 1794767966,
-   "author": "mhaas_eth",
-   "followers": 1884,
-   "url": "https://x.com/mhaas_eth/status/2122036772242931801",
-   "disc_score": 1,
-   "checks": {
-    "1": 1
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1794772728
-  },
-  "2122052583217127521": {
-   "created": 1794771736,
-   "author": "KennyZufall",
-   "followers": 1714,
-   "url": "https://x.com/KennyZufall/status/2122052583217127521",
-   "disc_score": 1,
-   "checks": {},
-   "promoted": false,
-   "miss": 0,
-   "added": 1794772728
-  }
- },
+ "watch": {},
  "baseline": {
   "1": [
-   [
-    1789597465,
-    695
-   ],
    [
     1789606071,
     0
