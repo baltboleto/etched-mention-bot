@@ -1,27 +1,7 @@
 {
- "watch": {
-  "2122195941054894225": {
-   "created": 1794805915,
-   "author": "VedantRobot",
-   "followers": 30,
-   "url": "https://x.com/VedantRobot/status/2122195941054894225",
-   "disc_score": 0,
-   "checks": {},
-   "promoted": false,
-   "miss": 0,
-   "added": 1794806152
-  }
- },
+ "watch": {},
  "baseline": {
   "1": [
-   [
-    1789624351,
-    1
-   ],
-   [
-    1789624351,
-    0
-   ],
    [
     1789659272,
     0
