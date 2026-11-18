@@ -1,36 +1,19 @@
 {
  "watch": {
-  "2122898945814954343": {
-   "created": 1794973524,
-   "author": "lunarisvei",
-   "followers": 2882,
-   "url": "https://x.com/lunarisvei/status/2122898945814954343",
+  "2123033736279457894": {
+   "created": 1795005661,
+   "author": "cauliflwr_human",
+   "followers": 1958,
+   "url": "https://x.com/cauliflwr_human/status/2123033736279457894",
    "disc_score": 0,
    "checks": {},
    "promoted": false,
    "miss": 0,
-   "added": 1794974058
-  },
-  "2122857565294113064": {
-   "created": 1794963659,
-   "author": "WBN_live",
-   "followers": 312,
-   "url": "https://x.com/WBN_live/status/2122857565294113064",
-   "disc_score": 8,
-   "checks": {
-    "1": null
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1794974058
+   "added": 1795005904
   }
  },
  "baseline": {
   "1": [
-   [
-    1789810401,
-    0
-   ],
    [
     1789886782,
     1
