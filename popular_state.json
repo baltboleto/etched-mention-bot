@@ -1,15 +1,30 @@
 {
  "watch": {
-  "2123033736279457894": {
-   "created": 1795005661,
-   "author": "cauliflwr_human",
-   "followers": 1958,
-   "url": "https://x.com/cauliflwr_human/status/2123033736279457894",
+  "2123117434244829545": {
+   "created": 1795025616,
+   "author": "eth4peace",
+   "followers": 180,
+   "url": "https://x.com/eth4peace/status/2123117434244829545",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "1": null
+   },
    "promoted": false,
    "miss": 0,
-   "added": 1795005904
+   "added": 1795035437
+  },
+  "2123117046980546598": {
+   "created": 1795025524,
+   "author": "eth4peace",
+   "followers": 180,
+   "url": "https://x.com/eth4peace/status/2123117046980546598",
+   "disc_score": 0,
+   "checks": {
+    "1": null
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1795035437
   }
  },
  "baseline": {
