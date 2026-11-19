@@ -1,30 +1,15 @@
 {
  "watch": {
-  "2123117434244829545": {
-   "created": 1795025616,
-   "author": "eth4peace",
-   "followers": 180,
-   "url": "https://x.com/eth4peace/status/2123117434244829545",
+  "2123226143600017513": {
+   "created": 1795051534,
+   "author": "0x_Atom_Intern",
+   "followers": 135,
+   "url": "https://x.com/0x_Atom_Intern/status/2123226143600017513",
    "disc_score": 0,
-   "checks": {
-    "1": null
-   },
+   "checks": {},
    "promoted": false,
    "miss": 0,
-   "added": 1795035437
-  },
-  "2123117046980546598": {
-   "created": 1795025524,
-   "author": "eth4peace",
-   "followers": 180,
-   "url": "https://x.com/eth4peace/status/2123117046980546598",
-   "disc_score": 0,
-   "checks": {
-    "1": null
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1795035437
+   "added": 1795054845
   }
  },
  "baseline": {
