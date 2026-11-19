@@ -1,23 +1,19 @@
 {
  "watch": {
-  "2123226143600017513": {
-   "created": 1795051534,
-   "author": "0x_Atom_Intern",
-   "followers": 135,
-   "url": "https://x.com/0x_Atom_Intern/status/2123226143600017513",
-   "disc_score": 0,
+  "2123354128378425364": {
+   "created": 1795082048,
+   "author": "DailyAIBriefCom",
+   "followers": 144,
+   "url": "https://x.com/DailyAIBriefCom/status/2123354128378425364",
+   "disc_score": 1,
    "checks": {},
    "promoted": false,
    "miss": 0,
-   "added": 1795054845
+   "added": 1795084779
   }
  },
  "baseline": {
   "1": [
-   [
-    1789886782,
-    1
-   ],
    [
     1789928346,
     0
