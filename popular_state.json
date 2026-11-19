@@ -1,23 +1,21 @@
 {
  "watch": {
-  "2123354128378425364": {
-   "created": 1795082048,
-   "author": "DailyAIBriefCom",
-   "followers": 144,
-   "url": "https://x.com/DailyAIBriefCom/status/2123354128378425364",
+  "2123463820958130436": {
+   "created": 1795108201,
+   "author": "StartupContext",
+   "followers": 16,
+   "url": "https://x.com/StartupContext/status/2123463820958130436",
    "disc_score": 1,
-   "checks": {},
+   "checks": {
+    "1": 1
+   },
    "promoted": false,
    "miss": 0,
-   "added": 1795084779
+   "added": 1795115534
   }
  },
  "baseline": {
   "1": [
-   [
-    1789928346,
-    0
-   ],
    [
     1789945812,
     2
@@ -1364,6 +1362,10 @@
    ],
    [
     1794954947,
+    1
+   ],
+   [
+    1795115534,
     1
    ]
   ]
