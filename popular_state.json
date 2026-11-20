@@ -1,25 +1,45 @@
 {
  "watch": {
-  "2123463820958130436": {
-   "created": 1795108201,
-   "author": "StartupContext",
-   "followers": 16,
-   "url": "https://x.com/StartupContext/status/2123463820958130436",
-   "disc_score": 1,
+  "2123572397899141350": {
+   "created": 1795134088,
+   "author": "RoryCrave",
+   "followers": 3878,
+   "url": "https://x.com/RoryCrave/status/2123572397899141350",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1795137436
+  },
+  "2123566939566190816": {
+   "created": 1795132787,
+   "author": "unnanouncedvc",
+   "followers": 131,
+   "url": "https://x.com/unnanouncedvc/status/2123566939566190816",
+   "disc_score": 0,
    "checks": {
-    "1": 1
+    "1": 0
    },
    "promoted": false,
    "miss": 0,
-   "added": 1795115534
+   "added": 1795137436
+  },
+  "2123564360840905082": {
+   "created": 1795132172,
+   "author": "sarahdingwang",
+   "followers": 20285,
+   "url": "https://x.com/sarahdingwang/status/2123564360840905082",
+   "disc_score": 56,
+   "checks": {
+    "1": 56
+   },
+   "promoted": true,
+   "miss": 0,
+   "added": 1795137436
   }
  },
  "baseline": {
   "1": [
-   [
-    1789945812,
-    2
-   ],
    [
     1790016330,
     0
@@ -1367,6 +1387,14 @@
    [
     1795115534,
     1
+   ],
+   [
+    1795137437,
+    0
+   ],
+   [
+    1795137437,
+    56
    ]
   ]
  },
@@ -1520,6 +1548,11 @@
    1794330913,
    "2120187056450322646",
    91
+  ],
+  [
+   1795137437,
+   "2123564360840905082",
+   56
   ]
  ],
  "seeded": true
