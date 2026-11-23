@@ -1,5 +1,19 @@
 {
- "watch": {},
+ "watch": {
+  "2124778226484687081": {
+   "created": 1795421580,
+   "author": "Foomingli",
+   "followers": 1052,
+   "url": "https://x.com/Foomingli/status/2124778226484687081",
+   "disc_score": 6,
+   "checks": {
+    "1": 6
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1795427836
+  }
+ },
  "baseline": {
   "1": [
    [
@@ -1341,6 +1355,10 @@
    [
     1795165000,
     2
+   ],
+   [
+    1795427836,
+    6
    ]
   ]
  },
