@@ -1,17 +1,37 @@
 {
  "watch": {
-  "2124778226484687081": {
-   "created": 1795421580,
-   "author": "Foomingli",
-   "followers": 1052,
-   "url": "https://x.com/Foomingli/status/2124778226484687081",
-   "disc_score": 6,
-   "checks": {
-    "1": 6
-   },
+  "2124975281781846348": {
+   "created": 1795468561,
+   "author": "iedaily_",
+   "followers": 28,
+   "url": "https://x.com/iedaily_/status/2124975281781846348",
+   "disc_score": 0,
+   "checks": {},
    "promoted": false,
    "miss": 0,
-   "added": 1795427836
+   "added": 1795471122
+  },
+  "2124975280527745303": {
+   "created": 1795468561,
+   "author": "iedaily_",
+   "followers": 28,
+   "url": "https://x.com/iedaily_/status/2124975280527745303",
+   "disc_score": 1,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1795471122
+  },
+  "2124978805773320569": {
+   "created": 1795469402,
+   "author": "katabou2",
+   "followers": 150,
+   "url": "https://x.com/katabou2/status/2124978805773320569",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1795471122
   }
  },
  "baseline": {
