@@ -1,45 +1,126 @@
 {
  "watch": {
-  "2124975281781846348": {
-   "created": 1795468561,
-   "author": "iedaily_",
-   "followers": 28,
-   "url": "https://x.com/iedaily_/status/2124975281781846348",
+  "2125094557549228445": {
+   "created": 1795496999,
+   "author": "BroadwakeAI",
+   "followers": 55,
+   "url": "https://x.com/BroadwakeAI/status/2125094557549228445",
    "disc_score": 0,
    "checks": {},
    "promoted": false,
    "miss": 0,
-   "added": 1795471122
+   "added": 1795499576
   },
-  "2124975280527745303": {
-   "created": 1795468561,
-   "author": "iedaily_",
-   "followers": 28,
-   "url": "https://x.com/iedaily_/status/2124975280527745303",
+  "2125094421226205262": {
+   "created": 1795496967,
+   "author": "BroadwakeAI",
+   "followers": 55,
+   "url": "https://x.com/BroadwakeAI/status/2125094421226205262",
    "disc_score": 1,
    "checks": {},
    "promoted": false,
    "miss": 0,
-   "added": 1795471122
+   "added": 1795499576
   },
-  "2124978805773320569": {
-   "created": 1795469402,
-   "author": "katabou2",
-   "followers": 150,
-   "url": "https://x.com/katabou2/status/2124978805773320569",
-   "disc_score": 0,
+  "2125094136554651815": {
+   "created": 1795496899,
+   "author": "BroadwakeAI",
+   "followers": 55,
+   "url": "https://x.com/BroadwakeAI/status/2125094136554651815",
+   "disc_score": 1,
    "checks": {},
    "promoted": false,
    "miss": 0,
-   "added": 1795471122
+   "added": 1795499576
+  },
+  "2125094030656815219": {
+   "created": 1795496873,
+   "author": "BroadwakeAI",
+   "followers": 55,
+   "url": "https://x.com/BroadwakeAI/status/2125094030656815219",
+   "disc_score": 1,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1795499576
+  },
+  "2125093853279789491": {
+   "created": 1795496831,
+   "author": "BroadwakeAI",
+   "followers": 55,
+   "url": "https://x.com/BroadwakeAI/status/2125093853279789491",
+   "disc_score": 1,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1795499576
+  },
+  "2125076957373383134": {
+   "created": 1795492803,
+   "author": "JarsyMandarin",
+   "followers": 1637,
+   "url": "https://x.com/JarsyMandarin/status/2125076957373383134",
+   "disc_score": 0,
+   "checks": {
+    "1": 0
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1795499576
+  },
+  "2125095773364723936": {
+   "created": 1795497289,
+   "author": "AIInspoWorld",
+   "followers": 159,
+   "url": "https://x.com/AIInspoWorld/status/2125095773364723936",
+   "disc_score": 2,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1795499576
+  },
+  "2125065455081808343": {
+   "created": 1795490060,
+   "author": "MHUncleRay",
+   "followers": 33,
+   "url": "https://x.com/MHUncleRay/status/2125065455081808343",
+   "disc_score": 2,
+   "checks": {
+    "1": null
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1795499576
+  },
+  "2125061996806914336": {
+   "created": 1795489236,
+   "author": "MHUncleRay",
+   "followers": 33,
+   "url": "https://x.com/MHUncleRay/status/2125061996806914336",
+   "disc_score": 0,
+   "checks": {
+    "1": null
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1795499576
+  },
+  "2125076967498338527": {
+   "created": 1795492805,
+   "author": "RealAlphaApp",
+   "followers": 25,
+   "url": "https://x.com/RealAlphaApp/status/2125076967498338527",
+   "disc_score": 1,
+   "checks": {
+    "1": 1
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1795499576
   }
  },
  "baseline": {
   "1": [
-   [
-    1790300054,
-    0
-   ],
    [
     1790357315,
     56
@@ -1379,6 +1460,14 @@
    [
     1795427836,
     6
+   ],
+   [
+    1795499576,
+    0
+   ],
+   [
+    1795499576,
+    1
    ]
   ]
  },
