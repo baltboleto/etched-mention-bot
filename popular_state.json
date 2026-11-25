@@ -1,35 +1,305 @@
 {
- "watch": {},
+ "watch": {
+  "2125391358844420486": {
+   "created": 1795567762,
+   "author": "linyiq",
+   "followers": 1928,
+   "url": "https://x.com/linyiq/status/2125391358844420486",
+   "disc_score": 1,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1795570134
+  },
+  "2125400239578509529": {
+   "created": 1795569879,
+   "author": "BubuFrenchie",
+   "followers": 52,
+   "url": "https://x.com/BubuFrenchie/status/2125400239578509529",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1795570134
+  },
+  "2125394468186853484": {
+   "created": 1795568503,
+   "author": "defyneric",
+   "followers": 13290,
+   "url": "https://x.com/defyneric/status/2125394468186853484",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1795570134
+  },
+  "2125393455543431506": {
+   "created": 1795568262,
+   "author": "RoryOReilly",
+   "followers": 2423,
+   "url": "https://x.com/RoryOReilly/status/2125393455543431506",
+   "disc_score": 2,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1795570134
+  },
+  "2125391783530209664": {
+   "created": 1795567863,
+   "author": "miqchris",
+   "followers": 1158,
+   "url": "https://x.com/miqchris/status/2125391783530209664",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1795570134
+  },
+  "2125390352391479786": {
+   "created": 1795567522,
+   "author": "defyneric",
+   "followers": 13290,
+   "url": "https://x.com/defyneric/status/2125390352391479786",
+   "disc_score": 2,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1795570134
+  },
+  "2125389187440587233": {
+   "created": 1795567244,
+   "author": "RoryOReilly",
+   "followers": 2423,
+   "url": "https://x.com/RoryOReilly/status/2125389187440587233",
+   "disc_score": 5,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1795570134
+  },
+  "2125387003848282381": {
+   "created": 1795566724,
+   "author": "realrohitshenoy",
+   "followers": 116,
+   "url": "https://x.com/realrohitshenoy/status/2125387003848282381",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1795570134
+  },
+  "2125386896788369554": {
+   "created": 1795566698,
+   "author": "regardthefrost",
+   "followers": 23188,
+   "url": "https://x.com/regardthefrost/status/2125386896788369554",
+   "disc_score": 6,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1795570134
+  },
+  "2125385942378901601": {
+   "created": 1795566471,
+   "author": "defyneric",
+   "followers": 13290,
+   "url": "https://x.com/defyneric/status/2125385942378901601",
+   "disc_score": 1,
+   "checks": {
+    "1": 1
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1795570134
+  },
+  "2125385601637564636": {
+   "created": 1795566389,
+   "author": "alpaysh",
+   "followers": 22670,
+   "url": "https://x.com/alpaysh/status/2125385601637564636",
+   "disc_score": 4,
+   "checks": {
+    "1": 4
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1795570134
+  },
+  "2125378788565647433": {
+   "created": 1795564765,
+   "author": "0xWren",
+   "followers": 207,
+   "url": "https://x.com/0xWren/status/2125378788565647433",
+   "disc_score": 0,
+   "checks": {
+    "1": 0
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1795570134
+  },
+  "2125378571741045188": {
+   "created": 1795564713,
+   "author": "lomcflurry_",
+   "followers": 609,
+   "url": "https://x.com/lomcflurry_/status/2125378571741045188",
+   "disc_score": 1,
+   "checks": {
+    "1": 1
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1795570134
+  },
+  "2125365814690017337": {
+   "created": 1795561672,
+   "author": "defyneric",
+   "followers": 13290,
+   "url": "https://x.com/defyneric/status/2125365814690017337",
+   "disc_score": 3,
+   "checks": {
+    "1": 4
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1795570134
+  },
+  "2125365421058474145": {
+   "created": 1795561578,
+   "author": "GregVanHorn",
+   "followers": 5493,
+   "url": "https://x.com/GregVanHorn/status/2125365421058474145",
+   "disc_score": 7,
+   "checks": {
+    "1": 8
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1795570134
+  },
+  "2125362352011059283": {
+   "created": 1795560846,
+   "author": "SalehOfTomorrow",
+   "followers": 1981,
+   "url": "https://x.com/SalehOfTomorrow/status/2125362352011059283",
+   "disc_score": 1,
+   "checks": {
+    "1": null
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1795570134
+  },
+  "2125359449187684465": {
+   "created": 1795560154,
+   "author": "mst4truth",
+   "followers": 862,
+   "url": "https://x.com/mst4truth/status/2125359449187684465",
+   "disc_score": 0,
+   "checks": {
+    "1": null
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1795570134
+  },
+  "2125389379820818886": {
+   "created": 1795567290,
+   "author": "theDanielKarim",
+   "followers": 171,
+   "url": "https://x.com/theDanielKarim/status/2125389379820818886",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1795570134
+  },
+  "2125386785585062368": {
+   "created": 1795566672,
+   "author": "Jd8928",
+   "followers": 28,
+   "url": "https://x.com/Jd8928/status/2125386785585062368",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1795570134
+  },
+  "2125376602397720807": {
+   "created": 1795564244,
+   "author": "automater_ai",
+   "followers": 22584,
+   "url": "https://x.com/automater_ai/status/2125376602397720807",
+   "disc_score": 0,
+   "checks": {
+    "1": 0
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1795570134
+  },
+  "2125395300269629614": {
+   "created": 1795568702,
+   "author": "sizeofai",
+   "followers": 659,
+   "url": "https://x.com/sizeofai/status/2125395300269629614",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1795570134
+  },
+  "2125378719028261080": {
+   "created": 1795564748,
+   "author": "davidd_ai",
+   "followers": 326,
+   "url": "https://x.com/davidd_ai/status/2125378719028261080",
+   "disc_score": 1,
+   "checks": {
+    "1": 1
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1795570134
+  },
+  "2125386392494567643": {
+   "created": 1795566578,
+   "author": "agonzalp",
+   "followers": 84,
+   "url": "https://x.com/agonzalp/status/2125386392494567643",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1795570134
+  },
+  "2125386773853602214": {
+   "created": 1795566669,
+   "author": "henry26564134",
+   "followers": 5,
+   "url": "https://x.com/henry26564134/status/2125386773853602214",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1795570134
+  },
+  "2125372977713938449": {
+   "created": 1795563380,
+   "author": "HannesCTO",
+   "followers": 29,
+   "url": "https://x.com/HannesCTO/status/2125372977713938449",
+   "disc_score": 1,
+   "checks": {
+    "1": 1
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1795570134
+  }
+ },
  "baseline": {
   "1": [
-   [
-    1790357315,
-    56
-   ],
-   [
-    1790368928,
-    6
-   ],
-   [
-    1790368928,
-    2
-   ],
-   [
-    1790368928,
-    2
-   ],
-   [
-    1790368928,
-    48
-   ],
-   [
-    1790368928,
-    3
-   ],
-   [
-    1790379354,
-    2
-   ],
    [
     1790408631,
     0
@@ -1348,6 +1618,42 @@
    ],
    [
     1795499576,
+    1
+   ],
+   [
+    1795570134,
+    1
+   ],
+   [
+    1795570134,
+    4
+   ],
+   [
+    1795570134,
+    0
+   ],
+   [
+    1795570134,
+    1
+   ],
+   [
+    1795570134,
+    4
+   ],
+   [
+    1795570134,
+    8
+   ],
+   [
+    1795570134,
+    0
+   ],
+   [
+    1795570134,
+    1
+   ],
+   [
+    1795570134,
     1
    ]
   ]
