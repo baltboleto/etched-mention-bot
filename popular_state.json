@@ -1,91 +1,50 @@
 {
  "watch": {
-  "2125738605238997117": {
-   "created": 1795650552,
-   "author": "unnanouncedvc",
-   "followers": 137,
-   "url": "https://x.com/unnanouncedvc/status/2125738605238997117",
-   "disc_score": 2,
-   "checks": {
-    "1": null
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1795661115
-  },
-  "2125770685222175007": {
-   "created": 1795658200,
-   "author": "EpiViro",
-   "followers": 151,
-   "url": "https://x.com/EpiViro/status/2125770685222175007",
-   "disc_score": 0,
-   "checks": {},
-   "promoted": false,
-   "miss": 0,
-   "added": 1795661115
-  },
-  "2125769468001575061": {
-   "created": 1795657910,
-   "author": "Saul_Loveman",
-   "followers": 10407,
-   "url": "https://x.com/Saul_Loveman/status/2125769468001575061",
-   "disc_score": 0,
-   "checks": {},
-   "promoted": false,
-   "miss": 0,
-   "added": 1795661115
-  },
-  "2125745634753827045": {
-   "created": 1795652228,
-   "author": "Antisimplistic",
-   "followers": 481,
-   "url": "https://x.com/Antisimplistic/status/2125745634753827045",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1795661115
-  },
-  "2125741209260007721": {
-   "created": 1795651173,
-   "author": "DonitaTarr3905",
-   "followers": 1,
-   "url": "https://x.com/DonitaTarr3905/status/2125741209260007721",
-   "disc_score": 0,
-   "checks": {
-    "1": null
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1795661115
-  },
-  "2125760234547183716": {
-   "created": 1795655709,
-   "author": "tevvio",
-   "followers": 23273,
-   "url": "https://x.com/tevvio/status/2125760234547183716",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1795661115
-  },
-  "2125750109787005405": {
-   "created": 1795653295,
-   "author": "LouisLibre",
-   "followers": 1697,
-   "url": "https://x.com/LouisLibre/status/2125750109787005405",
+  "2125911428188242022": {
+   "created": 1795691756,
+   "author": "niveditjain",
+   "followers": 2238,
+   "url": "https://x.com/niveditjain/status/2125911428188242022",
    "disc_score": 1,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1795692846
+  },
+  "2125911392922595494": {
+   "created": 1795691748,
+   "author": "niveditjain",
+   "followers": 2238,
+   "url": "https://x.com/niveditjain/status/2125911392922595494",
+   "disc_score": 1,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1795692846
+  },
+  "2125910653600964890": {
+   "created": 1795691571,
+   "author": "tetheredtoed1",
+   "followers": 5998,
+   "url": "https://x.com/tetheredtoed1/status/2125910653600964890",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1795692846
+  },
+  "2125872794248343662": {
+   "created": 1795682545,
+   "author": "rubendominguez",
+   "followers": 14206,
+   "url": "https://x.com/rubendominguez/status/2125872794248343662",
+   "disc_score": 6,
    "checks": {
-    "1": 1
+    "1": null
    },
    "promoted": false,
    "miss": 0,
-   "added": 1795661115
+   "added": 1795692846
   }
  },
  "baseline": {
