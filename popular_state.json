@@ -1,58 +1,73 @@
 {
  "watch": {
-  "2125911428188242022": {
-   "created": 1795691756,
-   "author": "niveditjain",
-   "followers": 2238,
-   "url": "https://x.com/niveditjain/status/2125911428188242022",
+  "2126031185365414276": {
+   "created": 1795720308,
+   "author": "K3shavGupta",
+   "followers": 844,
+   "url": "https://x.com/K3shavGupta/status/2126031185365414276",
    "disc_score": 1,
-   "checks": {},
+   "checks": {
+    "1": 1
+   },
    "promoted": false,
    "miss": 0,
-   "added": 1795692846
+   "added": 1795725317
   },
-  "2125911392922595494": {
-   "created": 1795691748,
-   "author": "niveditjain",
-   "followers": 2238,
-   "url": "https://x.com/niveditjain/status/2125911392922595494",
-   "disc_score": 1,
-   "checks": {},
-   "promoted": false,
-   "miss": 0,
-   "added": 1795692846
-  },
-  "2125910653600964890": {
-   "created": 1795691571,
-   "author": "tetheredtoed1",
-   "followers": 5998,
-   "url": "https://x.com/tetheredtoed1/status/2125910653600964890",
+  "2126022033071063227": {
+   "created": 1795718126,
+   "author": "the_mdfazal",
+   "followers": 1894,
+   "url": "https://x.com/the_mdfazal/status/2126022033071063227",
    "disc_score": 0,
-   "checks": {},
+   "checks": {
+    "1": 0
+   },
    "promoted": false,
    "miss": 0,
-   "added": 1795692846
+   "added": 1795725317
   },
-  "2125872794248343662": {
-   "created": 1795682545,
-   "author": "rubendominguez",
-   "followers": 14206,
-   "url": "https://x.com/rubendominguez/status/2125872794248343662",
-   "disc_score": 6,
+  "2126012677889909227": {
+   "created": 1795715896,
+   "author": "vts_33",
+   "followers": 34,
+   "url": "https://x.com/vts_33/status/2126012677889909227",
+   "disc_score": 0,
    "checks": {
     "1": null
    },
    "promoted": false,
    "miss": 0,
-   "added": 1795692846
+   "added": 1795725317
+  },
+  "2126014564105850892": {
+   "created": 1795716346,
+   "author": "HandsomeTruth88",
+   "followers": 9,
+   "url": "https://x.com/HandsomeTruth88/status/2126014564105850892",
+   "disc_score": 0,
+   "checks": {
+    "1": 0
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1795725317
+  },
+  "2126014507159867481": {
+   "created": 1795716332,
+   "author": "HandsomeTruth88",
+   "followers": 9,
+   "url": "https://x.com/HandsomeTruth88/status/2126014507159867481",
+   "disc_score": 0,
+   "checks": {
+    "1": 0
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1795725317
   }
  },
  "baseline": {
   "1": [
-   [
-    1790524156,
-    1
-   ],
    [
     1790608756,
     3
@@ -1560,6 +1575,22 @@
    [
     1795661116,
     1
+   ],
+   [
+    1795725318,
+    1
+   ],
+   [
+    1795725318,
+    0
+   ],
+   [
+    1795725318,
+    0
+   ],
+   [
+    1795725318,
+    0
    ]
   ]
  },
