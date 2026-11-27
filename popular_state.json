@@ -1,69 +1,17 @@
 {
  "watch": {
-  "2126031185365414276": {
-   "created": 1795720308,
-   "author": "K3shavGupta",
-   "followers": 844,
-   "url": "https://x.com/K3shavGupta/status/2126031185365414276",
+  "2126138100959396206": {
+   "created": 1795745799,
+   "author": "BNTBriefing",
+   "followers": 2090,
+   "url": "https://x.com/BNTBriefing/status/2126138100959396206",
    "disc_score": 1,
    "checks": {
     "1": 1
    },
    "promoted": false,
    "miss": 0,
-   "added": 1795725317
-  },
-  "2126022033071063227": {
-   "created": 1795718126,
-   "author": "the_mdfazal",
-   "followers": 1894,
-   "url": "https://x.com/the_mdfazal/status/2126022033071063227",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1795725317
-  },
-  "2126012677889909227": {
-   "created": 1795715896,
-   "author": "vts_33",
-   "followers": 34,
-   "url": "https://x.com/vts_33/status/2126012677889909227",
-   "disc_score": 0,
-   "checks": {
-    "1": null
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1795725317
-  },
-  "2126014564105850892": {
-   "created": 1795716346,
-   "author": "HandsomeTruth88",
-   "followers": 9,
-   "url": "https://x.com/HandsomeTruth88/status/2126014564105850892",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1795725317
-  },
-  "2126014507159867481": {
-   "created": 1795716332,
-   "author": "HandsomeTruth88",
-   "followers": 9,
-   "url": "https://x.com/HandsomeTruth88/status/2126014507159867481",
-   "disc_score": 0,
-   "checks": {
-    "1": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1795725317
+   "added": 1795749520
   }
  },
  "baseline": {
@@ -1591,6 +1539,10 @@
    [
     1795725318,
     0
+   ],
+   [
+    1795749521,
+    1
    ]
   ]
  },
