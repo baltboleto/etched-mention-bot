@@ -1,11 +1,126 @@
 {
- "watch": {},
+ "watch": {
+  "2126391607419412631": {
+   "created": 1795806240,
+   "author": "MitcheIl",
+   "followers": 63024,
+   "url": "https://x.com/MitcheIl/status/2126391607419412631",
+   "disc_score": 59,
+   "checks": {
+    "1": null
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1795816577
+  },
+  "2126432677603496426": {
+   "created": 1795816032,
+   "author": "HowlingChabadnk",
+   "followers": 548,
+   "url": "https://x.com/HowlingChabadnk/status/2126432677603496426",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1795816577
+  },
+  "2126432402583232545": {
+   "created": 1795815966,
+   "author": "Allips",
+   "followers": 1831,
+   "url": "https://x.com/Allips/status/2126432402583232545",
+   "disc_score": 1,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1795816577
+  },
+  "2126431559167447362": {
+   "created": 1795815765,
+   "author": "johngfriedman",
+   "followers": 1504,
+   "url": "https://x.com/johngfriedman/status/2126431559167447362",
+   "disc_score": 0,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1795816577
+  },
+  "2126425138430456061": {
+   "created": 1795814234,
+   "author": "cremieuxrecueil",
+   "followers": 346044,
+   "url": "https://x.com/cremieuxrecueil/status/2126425138430456061",
+   "disc_score": 8,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1795816577
+  },
+  "2126420099863113948": {
+   "created": 1795813033,
+   "author": "jawadjalal",
+   "followers": 1526,
+   "url": "https://x.com/jawadjalal/status/2126420099863113948",
+   "disc_score": 1,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1795816577
+  },
+  "2126408955543085096": {
+   "created": 1795810376,
+   "author": "MitcheIl",
+   "followers": 63024,
+   "url": "https://x.com/MitcheIl/status/2126408955543085096",
+   "disc_score": 0,
+   "checks": {
+    "1": 0
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1795816577
+  },
+  "2126403452955926669": {
+   "created": 1795809064,
+   "author": "Jayyanginspires",
+   "followers": 102987,
+   "url": "https://x.com/Jayyanginspires/status/2126403452955926669",
+   "disc_score": 2,
+   "checks": {
+    "1": 2
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1795816577
+  },
+  "2126393005779439911": {
+   "created": 1795806573,
+   "author": "grebby",
+   "followers": 117604,
+   "url": "https://x.com/grebby/status/2126393005779439911",
+   "disc_score": 1,
+   "checks": {
+    "1": null
+   },
+   "promoted": false,
+   "miss": 0,
+   "added": 1795816577
+  },
+  "2126427625270739046": {
+   "created": 1795814827,
+   "author": "DWeisburd",
+   "followers": 23007,
+   "url": "https://x.com/DWeisburd/status/2126427625270739046",
+   "disc_score": 1,
+   "checks": {},
+   "promoted": false,
+   "miss": 0,
+   "added": 1795816577
+  }
+ },
  "baseline": {
   "1": [
-   [
-    1790608756,
-    3
-   ],
    [
     1790709089,
     0
@@ -1529,6 +1644,14 @@
    [
     1795749521,
     1
+   ],
+   [
+    1795816578,
+    0
+   ],
+   [
+    1795816578,
+    2
    ]
   ]
  },
