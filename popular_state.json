@@ -1,56 +1,17 @@
 {
  "watch": {
-  "2126479859362992315": {
-   "created": 1795827281,
-   "author": "hellenomania",
-   "followers": 977,
-   "url": "https://x.com/hellenomania/status/2126479859362992315",
-   "disc_score": 1,
-   "checks": {
-    "1": null
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1795837606
-  },
-  "2126506576060260449": {
-   "created": 1795833650,
-   "author": "888ox888",
-   "followers": 294,
-   "url": "https://x.com/888ox888/status/2126506576060260449",
-   "disc_score": 1,
-   "checks": {
-    "1": 1
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1795837606
-  },
-  "2126501393863512358": {
-   "created": 1795832415,
-   "author": "proofofbrian",
-   "followers": 266,
-   "url": "https://x.com/proofofbrian/status/2126501393863512358",
+  "2126611990298710495": {
+   "created": 1795858783,
+   "author": "TomasMann1878",
+   "followers": 3264,
+   "url": "https://x.com/TomasMann1878/status/2126611990298710495",
    "disc_score": 0,
    "checks": {
-    "1": 0
-   },
-   "promoted": false,
-   "miss": 0,
-   "added": 1795837606
-  },
-  "2126484784578974055": {
-   "created": 1795828455,
-   "author": "jfbrly",
-   "followers": 3897,
-   "url": "https://x.com/jfbrly/status/2126484784578974055",
-   "disc_score": 17,
-   "checks": {
     "1": null
    },
    "promoted": false,
    "miss": 0,
-   "added": 1795837606
+   "added": 1795868946
   }
  },
  "baseline": {
